@@ -23,7 +23,7 @@
 - [elsbrock/twitblock](https://github.com/elsbrock/twitblock) - A set of scripts to turn your Twitter advertiser list into a list of blocked users.
 - [elsbrock/pca301serial](https://github.com/elsbrock/pca301serial) - Arduino sketch to talk with ELV PCA301 power sockets
 - [elsbrock/logstash-docker](https://github.com/elsbrock/logstash-docker) - logstash Docker container with syslog input
-- [elsbrock/docker-container](https://github.com/elsbrock/docker-container) - 
+- [elsbrock/docker-weechat](https://github.com/elsbrock/docker-weechat) - 
 
 #### 🔭 Latest releases I've contributed to
 
