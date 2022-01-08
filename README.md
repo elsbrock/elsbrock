@@ -21,9 +21,9 @@
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository
 - [elsbrock/goertzcard-notify](https://github.com/elsbrock/goertzcard-notify) - Get a push notification when your bakery customer card goes low.
 - [elsbrock/twitblock](https://github.com/elsbrock/twitblock) - A set of scripts to turn your Twitter advertiser list into a list of blocked users.
-- [elsbrock/pca301serial](https://github.com/elsbrock/pca301serial) - 
-- [elsbrock/sonosdebug](https://github.com/elsbrock/sonosdebug) - mirror of https://sites.google.com/site/sonosdebug/
-- [elsbrock/oryx-editor](https://github.com/elsbrock/oryx-editor) - Automatically exported from code.google.com/p/oryx-editor
+- [elsbrock/pca301serial](https://github.com/elsbrock/pca301serial) - Arduino sketch to talk with ELV PCA301 power sockets
+- [elsbrock/logstash-docker](https://github.com/elsbrock/logstash-docker) - logstash Docker container with syslog input
+- [elsbrock/docker-container](https://github.com/elsbrock/docker-container) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,6 +47,9 @@
 
 #### ⭐ Recent Stars
 
+- [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime (today)
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (today)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [magodo/hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2) (today)
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary) (today)
@@ -54,9 +57,6 @@
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) - A simple HTTP proxy that fogs over naughty URLs     (today)
 - [Shogan/kube-chaos](https://github.com/Shogan/kube-chaos) - A chaos engineering style game where you seek out and destroy Kubernetes pods, twinstick shmup style. (today)
 - [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership. (1 day ago)
-- [budde25/keysync](https://github.com/budde25/keysync) - A CLI to download and update local authorized_keys file with GitHub, GitLab, or Launchpad. (1 day ago)
-- [caio/foca](https://github.com/caio/foca) - Gossip-based cluster membership discovery (SWIM) (1 day ago)
-- [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go! (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
