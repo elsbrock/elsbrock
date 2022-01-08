@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/github-stats](https://github.com/elsbrock/github-stats) -  (today)
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (2 days ago)
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - Github Action that builds a Guix package as Docker image (2 days ago)
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) - Terraform module for Velero (6 days ago)
@@ -16,15 +15,15 @@
 #### 🌱 My latest projects
 
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - Github Action that builds a Guix package as Docker image
-- [elsbrock/github-stats](https://github.com/elsbrock/github-stats) - 
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
 - [elsbrock/tor-node](https://github.com/elsbrock/tor-node) - :rocket: small, customizable, up-to-date Tor node :whale: Docker image based on the Arch Linux `tor` package
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - 
-- [elsbrock/kapp-deploy-repro](https://github.com/elsbrock/kapp-deploy-repro) - 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository
 - [elsbrock/goertzcard-notify](https://github.com/elsbrock/goertzcard-notify) - Get a push notification when your bakery customer card goes low.
 - [elsbrock/twitblock](https://github.com/elsbrock/twitblock) - A set of scripts to turn your Twitter advertiser list into a list of blocked users.
+- [elsbrock/pca301serial](https://github.com/elsbrock/pca301serial) - 
+- [elsbrock/sonosdebug](https://github.com/elsbrock/sonosdebug) - mirror of https://sites.google.com/site/sonosdebug/
+- [elsbrock/oryx-editor](https://github.com/elsbrock/oryx-editor) - Automatically exported from code.google.com/p/oryx-editor
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,14 +44,6 @@
 - [feat: validate tor image before pushing](https://github.com/elsbrock/tor-node/pull/6) on [elsbrock/tor-node](https://github.com/elsbrock/tor-node) (1 month ago)
 - [docs: use /readiness endpoint in examples, README](https://github.com/GoogleCloudPlatform/cloudsql-proxy/pull/929) on [GoogleCloudPlatform/cloudsql-proxy](https://github.com/GoogleCloudPlatform/cloudsql-proxy) (3 months ago)
 - [[kube-prometheus-stack] docs: upgrade CRD to v0.44 for chart@v12](https://github.com/prometheus-community/helm-charts/pull/926) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (8 months ago)
-
-#### 📓 Gists I wrote
-
-- [Keybase Proof](https://gist.github.com/278a7fb9a1039e1ee7fd231394da4cfb) (2 years ago)
-- [](https://gist.github.com/262979ebf25a348ca249583ea58e1bef) (4 years ago)
-- [Insanely complete Ansible playbook, showing off all the options](https://gist.github.com/6c2c60aa5f5431f4ef54) (6 years ago)
-- [](https://gist.github.com/43c9487f8c07f9145eea) (6 years ago)
-- [](https://gist.github.com/a4ae4ab9f9085aeabb0d) (6 years ago)
 
 #### ⭐ Recent Stars
 
