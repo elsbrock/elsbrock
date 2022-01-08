@@ -47,6 +47,8 @@
 
 #### ⭐ Recent Stars
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (today)
+- [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast (today)
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. (today)
 - [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime (today)
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (today)
@@ -55,8 +57,6 @@
 - [magodo/hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2) (today)
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary) (today)
 - [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, &amp; correct data-validation using Python 3 typing. (today)
-- [stripe/smokescreen](https://github.com/stripe/smokescreen) - A simple HTTP proxy that fogs over naughty URLs     (today)
-- [Shogan/kube-chaos](https://github.com/Shogan/kube-chaos) - A chaos engineering style game where you seek out and destroy Kubernetes pods, twinstick shmup style. (today)
 
 #### 👯 Check out some of my recent followers
 
