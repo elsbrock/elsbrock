@@ -23,7 +23,7 @@
 - [elsbrock/twitblock](https://github.com/elsbrock/twitblock) - A set of scripts to turn your Twitter advertiser list into a list of blocked users.
 - [elsbrock/pca301serial](https://github.com/elsbrock/pca301serial) - Arduino sketch to talk with ELV PCA301 power sockets
 - [elsbrock/logstash-docker](https://github.com/elsbrock/logstash-docker) - logstash Docker container with syslog input
-- [elsbrock/docker-weechat](https://github.com/elsbrock/docker-weechat) - 
+- [elsbrock/mosquitto](https://github.com/elsbrock/mosquitto) - Custom Debian source package of the trunk upstream branch (version 1.4 with WebSocket support)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. (today)
 - [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime (today)
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (today)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
@@ -56,12 +57,11 @@
 - [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, &amp; correct data-validation using Python 3 typing. (today)
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) - A simple HTTP proxy that fogs over naughty URLs     (today)
 - [Shogan/kube-chaos](https://github.com/Shogan/kube-chaos) - A chaos engineering style game where you seek out and destroy Kubernetes pods, twinstick shmup style. (today)
-- [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership. (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
-- [CandelaR77](https://github.com/CandelaR77)
 - [jgrajewsky](https://github.com/jgrajewsky)
 - [aliaszz](https://github.com/aliaszz)
 - [sunshoutian](https://github.com/sunshoutian)
 - [maxamin](https://github.com/maxamin)
+- [nonunicorn](https://github.com/nonunicorn)
