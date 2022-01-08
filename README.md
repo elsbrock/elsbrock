@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-29.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-29.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), today) - Prometheus community Helm charts
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 3 days ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 3 days ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.1.1](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.1.1), 2 years ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
