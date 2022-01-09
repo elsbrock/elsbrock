@@ -47,16 +47,16 @@
 
 #### ⭐ Recent Stars
 
+- [gitsight/go-vcsurl](https://github.com/gitsight/go-vcsurl) - VCS repository URL parsing library for Go (today)
+- [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history. (today)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
+- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support (today)
+- [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi &#43; High Quality Camera = High-quality USB Webcam! (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (today)
+- [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth. (today)
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (1 day ago)
 - [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast (1 day ago)
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. (1 day ago)
-- [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime (1 day ago)
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (1 day ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
-- [magodo/hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2) (1 day ago)
-- [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary) (1 day ago)
-- [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, &amp; correct data-validation using Python 3 typing. (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
