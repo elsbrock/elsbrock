@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (2 days ago)
-- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - Github Action that builds a Guix package as Docker image (2 days ago)
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) - Terraform module for Velero (6 days ago)
+- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (3 days ago)
+- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - Github Action that builds a Guix package as Docker image (3 days ago)
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) - Terraform module for Velero (1 week ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 week ago)
 - [elsbrock/tor-node](https://github.com/elsbrock/tor-node) - :rocket: small, customizable, up-to-date Tor node :whale: Docker image based on the Arch Linux `tor` package (3 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), today) - Prometheus community Helm charts
-- [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 3 days ago) - VS Code in the browser
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 3 days ago) - Terraform module for Velero
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), 1 day ago) - Prometheus community Helm charts
+- [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 4 days ago) - VS Code in the browser
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 4 days ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.1.1](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.1.1), 2 years ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
-- [fix: use KMS key ID instead of name](https://github.com/elsbrock/terraform-google-velero/pull/1) on [elsbrock/terraform-google-velero](https://github.com/elsbrock/terraform-google-velero) (6 days ago)
-- [Use KMS key ID instead of name](https://github.com/nlamirault/terraform-google-velero/pull/27) on [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) (6 days ago)
+- [fix: use KMS key ID instead of name](https://github.com/elsbrock/terraform-google-velero/pull/1) on [elsbrock/terraform-google-velero](https://github.com/elsbrock/terraform-google-velero) (1 week ago)
+- [Use KMS key ID instead of name](https://github.com/nlamirault/terraform-google-velero/pull/27) on [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) (1 week ago)
 - [docs(ipad): fix link to ios-ipad related issues](https://github.com/coder/code-server/pull/4651) on [coder/code-server](https://github.com/coder/code-server) (3 weeks ago)
 - [Update Dockerfile](https://github.com/elsbrock/guix-base/pull/8) on [elsbrock/guix-base](https://github.com/elsbrock/guix-base) (4 weeks ago)
 - [WIP](https://github.com/elsbrock/guix-base/pull/1) on [elsbrock/guix-base](https://github.com/elsbrock/guix-base) (1 month ago)
@@ -47,16 +47,16 @@
 
 #### ⭐ Recent Stars
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (today)
-- [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast (today)
-- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. (today)
-- [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime (today)
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
-- [magodo/hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2) (today)
-- [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary) (today)
-- [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, &amp; correct data-validation using Python 3 typing. (today)
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (1 day ago)
+- [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast (1 day ago)
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. (1 day ago)
+- [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime (1 day ago)
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
+- [magodo/hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2) (1 day ago)
+- [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary) (1 day ago)
+- [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, &amp; correct data-validation using Python 3 typing. (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
