@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.1), today) - Prometheus community Helm charts
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 5 days ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 5 days ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.1.1](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.1.1), 2 years ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 (today)
+- [saintmalik/awesome-oss-docs](https://github.com/saintmalik/awesome-oss-docs) - 📚 A curated list of awesome open source documentations for people whole love contributing to docs. (today)
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021 (today)
 - [bugst/go-serial](https://github.com/bugst/go-serial) - A cross-platform serial library for go-lang. (today)
 - [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir) - A Simple and Definitive Open-Source Icons Library (today)
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create &amp; extract archives, and compress &amp; decompress files of various formats (today)
-- [hugo-mods/icons](https://github.com/hugo-mods/icons) - A Hugo icon system module that scales. (1 day ago)
