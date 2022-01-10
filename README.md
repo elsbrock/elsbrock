@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [jschauma/jswhois](https://github.com/jschauma/jswhois) - whois lookup results in json format (today)
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 (today)
 - [saintmalik/awesome-oss-docs](https://github.com/saintmalik/awesome-oss-docs) - 📚 A curated list of awesome open source documentations for people whole love contributing to docs. (today)
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021 (today)
 - [bugst/go-serial](https://github.com/bugst/go-serial) - A cross-platform serial library for go-lang. (today)
-- [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir) - A Simple and Definitive Open-Source Icons Library (today)
