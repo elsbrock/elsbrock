@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [bugst/go-serial](https://github.com/bugst/go-serial) - A cross-platform serial library for go-lang. (today)
 - [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir) - A Simple and Definitive Open-Source Icons Library (today)
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create &amp; extract archives, and compress &amp; decompress files of various formats (today)
 - [hugo-mods/icons](https://github.com/hugo-mods/icons) - A Hugo icon system module that scales. (1 day ago)
 - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go (1 day ago)
-- [JvPeek/esp8266_beaconSpam_aluhut_edition](https://github.com/JvPeek/esp8266_beaconSpam_aluhut_edition) - Creates up to a thousand WiFi access points with custom SSIDs. (1 day ago)
