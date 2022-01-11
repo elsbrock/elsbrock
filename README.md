@@ -4,13 +4,13 @@
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (5 days ago)
-- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - Github Action that builds a Guix package as Docker image (5 days ago)
+- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image (5 days ago)
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) - Terraform module for Velero (1 week ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 weeks ago)
 
 #### 🌱 My latest projects
 
-- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - Github Action that builds a Guix package as Docker image
+- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
 - [elsbrock/tor-node](https://github.com/elsbrock/tor-node) - :rocket: small, customizable, up-to-date Tor node :whale: Docker image based on the Arch Linux `tor` package
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (today)
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (today)
 - [fogleman/hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility. (today)
 - [ruanyl/vim-gh-line](https://github.com/ruanyl/vim-gh-line) - vim plugin that open the link of current line on github (today)
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers (1 day ago)
-- [jschauma/jswhois](https://github.com/jschauma/jswhois) - whois lookup results in json format (1 day ago)
