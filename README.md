@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator (today)
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (today)
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (today)
 - [fogleman/hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility. (today)
 - [ruanyl/vim-gh-line](https://github.com/ruanyl/vim-gh-line) - vim plugin that open the link of current line on github (today)
-- [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers (1 day ago)
