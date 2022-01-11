@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (today)
+- [fogleman/hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility. (today)
+- [ruanyl/vim-gh-line](https://github.com/ruanyl/vim-gh-line) - vim plugin that open the link of current line on github (today)
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers (1 day ago)
 - [jschauma/jswhois](https://github.com/jschauma/jswhois) - whois lookup results in json format (1 day ago)
-- [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 (1 day ago)
-- [saintmalik/awesome-oss-docs](https://github.com/saintmalik/awesome-oss-docs) - 📚 A curated list of awesome open source documentations for people whole love contributing to docs. (1 day ago)
-- [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021 (1 day ago)
