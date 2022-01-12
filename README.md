@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-2.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.9.0), today) - Prometheus community Helm charts
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.2.1](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.2.1), 1 day ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.9.5](https://github.com/twpayne/chezmoi/releases/tag/v2.9.5), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 1 week ago) - VS Code in the browser
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (today)
+- [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (today)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
 - [msrkp/exploits](https://github.com/msrkp/exploits) - &#39;&gt;&#34;&gt;&lt;img src=x onerror=alert(1) /&gt;&lt;b&gt;asd&lt;/b&gt; (today)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
-- [ggicci/caddy-jwt](https://github.com/ggicci/caddy-jwt) - :electric_plug: Caddy Module JWT Authentication (today)
-- [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec. (today)
