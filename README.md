@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [linux-nfc/neard](https://github.com/linux-nfc/neard) - NFC Daemon for Linux (today)
+- [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (today)
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator (1 day ago)
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (1 day ago)
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (1 day ago)
-- [fogleman/hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility. (1 day ago)
-- [ruanyl/vim-gh-line](https://github.com/ruanyl/vim-gh-line) - vim plugin that open the link of current line on github (1 day ago)
