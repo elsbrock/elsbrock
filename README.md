@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [linux-nfc/neard](https://github.com/linux-nfc/neard) - NFC Daemon for Linux (today)
-- [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (today)
-- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator (1 day ago)
-- [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (1 day ago)
-- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (1 day ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
+- [msrkp/exploits](https://github.com/msrkp/exploits) - &#39;&gt;&#34;&gt;&lt;img src=x onerror=alert(1) /&gt;&lt;b&gt;asd&lt;/b&gt; (today)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
+- [ggicci/caddy-jwt](https://github.com/ggicci/caddy-jwt) - :electric_plug: Caddy Module JWT Authentication (today)
+- [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec. (today)
