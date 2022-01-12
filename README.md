@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 day ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (today)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (1 day ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (6 days ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), today) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-2.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.9.0), today) - Prometheus community Helm charts
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.2.1](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.2.1), 1 day ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.9.5](https://github.com/twpayne/chezmoi/releases/tag/v2.9.5), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 1 week ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 1 week ago) - Terraform module for Velero
