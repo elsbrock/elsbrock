@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [siliconcompiler/siliconcompiler](https://github.com/siliconcompiler/siliconcompiler) - SiliconCompiler is an open source compiler framework that automates translation from source code to silicon. (today)
+- [system-transparency/system-transparency](https://github.com/system-transparency/system-transparency) - Tooling, configuration files and, demos to form a build-, test- and development environment for System Transparency. (today)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (1 day ago)
 - [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (1 day ago)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
-- [msrkp/exploits](https://github.com/msrkp/exploits) - &#39;&gt;&#34;&gt;&lt;img src=x onerror=alert(1) /&gt;&lt;b&gt;asd&lt;/b&gt; (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
