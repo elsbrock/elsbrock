@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [leahneukirchen/te](https://github.com/leahneukirchen/te) - tiny emacs (today)
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: (today)
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (today)
+- [fhemberger/raspberry-pxe-setup](https://github.com/fhemberger/raspberry-pxe-setup) - Netboot (PXE) setup for Raspberry Pi (today)
 - [siliconcompiler/siliconcompiler](https://github.com/siliconcompiler/siliconcompiler) - SiliconCompiler is an open source compiler framework that automates translation from source code to silicon. (today)
-- [system-transparency/system-transparency](https://github.com/system-transparency/system-transparency) - Tooling, configuration files and, demos to form a build-, test- and development environment for System Transparency. (today)
-- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (1 day ago)
-- [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (1 day ago)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
