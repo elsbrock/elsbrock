@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-2.5.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.18.0), today) - Prometheus community Helm charts
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 2 days ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.9.5](https://github.com/twpayne/chezmoi/releases/tag/v2.9.5), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 1 week ago) - VS Code in the browser
