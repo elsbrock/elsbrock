@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.18.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.1), today) - Prometheus community Helm charts
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 2 days ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.9.5](https://github.com/twpayne/chezmoi/releases/tag/v2.9.5), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 1 week ago) - VS Code in the browser
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [natesales/pathvector](https://github.com/natesales/pathvector) - Pathvector is a declarative edge routing platform that automates route optimization and control plane configuration with secure and repeatable routing policy. (today)
+- [floooh/pacman.c](https://github.com/floooh/pacman.c) - Simple Pacman clone written in C99. (today)
+- [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids) (today)
 - [ecocurious2/MultiGeiger](https://github.com/ecocurious2/MultiGeiger) - Geigerzähler mit ESP32 und empfindlichem Si22g-Zählrohr (Gamma)  (1 day ago)
 - [leahneukirchen/te](https://github.com/leahneukirchen/te) - tiny emacs (1 day ago)
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: (1 day ago)
-- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (1 day ago)
-- [fhemberger/raspberry-pxe-setup](https://github.com/fhemberger/raspberry-pxe-setup) - Netboot (PXE) setup for Raspberry Pi (1 day ago)
