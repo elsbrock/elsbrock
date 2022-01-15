@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [theothernt/AerialViews](https://github.com/theothernt/AerialViews) - A screensaver for Android TV devices (including Nvidia Shield, Fire TV, Google TV, etc) inspired by the Apple TV&#39;s video screensaver. (today)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (today)
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (today)
+- [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends. (today)
 - [natesales/pathvector](https://github.com/natesales/pathvector) - Pathvector is a declarative edge routing platform that automates route optimization and control plane configuration with secure and repeatable routing policy. (1 day ago)
-- [floooh/pacman.c](https://github.com/floooh/pacman.c) - Simple Pacman clone written in C99. (1 day ago)
-- [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids) (1 day ago)
-- [ecocurious2/MultiGeiger](https://github.com/ecocurious2/MultiGeiger) - Geigerzähler mit ESP32 und empfindlichem Si22g-Zählrohr (Gamma)  (2 days ago)
-- [leahneukirchen/te](https://github.com/leahneukirchen/te) - tiny emacs (2 days ago)
