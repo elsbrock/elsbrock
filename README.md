@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bokuweb/gopher-boy](https://github.com/bokuweb/gopher-boy) - :video_game: A Game Boy emulator written in Go (today)
+- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground (today)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 day ago)
 - [mdedonato/OPNsense-Dashboard](https://github.com/mdedonato/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (1 day ago)
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection (2 days ago)
-- [nomis/ndisc6](https://github.com/nomis/ndisc6) - IPv6 diagnostic tools (2 days ago)
-- [theothernt/AerialViews](https://github.com/theothernt/AerialViews) - A screensaver for Android TV devices (including Nvidia Shield, Fire TV, Google TV, etc) inspired by the Apple TV&#39;s video screensaver. (2 days ago)
