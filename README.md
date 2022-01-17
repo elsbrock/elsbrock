@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast. (today)
+- [SonarSonic/DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - Drawing Bot is a free, open source software for converting images to line drawings (today)
 - [requests/requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuthlib support for Python-Requests! (today)
 - [bokuweb/gopher-boy](https://github.com/bokuweb/gopher-boy) - :video_game: A Game Boy emulator written in Go (today)
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground (today)
-- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 day ago)
-- [mdedonato/OPNsense-Dashboard](https://github.com/mdedonato/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (1 day ago)
