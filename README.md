@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (today)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (today)
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend (today)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast. (today)
 - [SonarSonic/DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - Drawing Bot is a free, open source software for converting images to line drawings (today)
-- [requests/requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuthlib support for Python-Requests! (today)
-- [bokuweb/gopher-boy](https://github.com/bokuweb/gopher-boy) - :video_game: A Game Boy emulator written in Go (today)
