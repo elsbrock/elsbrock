@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (today)
+- [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (today)
+- [eugeneia/rush](https://github.com/eugeneia/rush) - Rush: Snabb written in Rust (today)
+- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (today)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 day ago)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (1 day ago)
-- [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend (1 day ago)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast. (1 day ago)
-- [SonarSonic/DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - Drawing Bot is a free, open source software for converting images to line drawings (1 day ago)
