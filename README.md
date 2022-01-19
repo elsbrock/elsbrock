@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 days ago)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (today)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (1 week ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 week ago)
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (1 week ago)
-- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.5.0), today) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.0](https://github.com/twpayne/chezmoi/releases/tag/v2.10.0), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 6 days ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
-- [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 1 week ago) - VS Code in the browser
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 1 week ago) - Terraform module for Velero
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.5.0), 1 day ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.0](https://github.com/twpayne/chezmoi/releases/tag/v2.10.0), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 week ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
+- [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 2 weeks ago) - VS Code in the browser
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.0.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.0.0), 2 weeks ago) - Terraform module for Velero
 
 #### 🔨 My recent Pull Requests
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (today)
-- [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (today)
-- [eugeneia/rush](https://github.com/eugeneia/rush) - Rush: Snabb written in Rust (today)
-- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (today)
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 day ago)
+- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (1 day ago)
+- [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (1 day ago)
+- [eugeneia/rush](https://github.com/eugeneia/rush) - Rush: Snabb written in Rust (1 day ago)
+- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (1 day ago)
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 days ago)
