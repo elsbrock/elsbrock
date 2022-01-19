@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (today)
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact. (today)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (today)
 - [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (1 day ago)
 - [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (1 day ago)
-- [eugeneia/rush](https://github.com/eugeneia/rush) - Rush: Snabb written in Rust (1 day ago)
