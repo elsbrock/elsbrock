@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact. (today)
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (today)
 - [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (1 day ago)
 - [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (1 day ago)
 - [eugeneia/rush](https://github.com/eugeneia/rush) - Rush: Snabb written in Rust (1 day ago)
-- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (1 day ago)
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 days ago)
