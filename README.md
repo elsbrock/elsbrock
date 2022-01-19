@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.3), today) - Prometheus community Helm charts
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.1.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.1.0), today) - Terraform module for Velero
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.0](https://github.com/twpayne/chezmoi/releases/tag/v2.10.0), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 week ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
