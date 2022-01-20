@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment (today)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (today)
 - [antsstyle/nftcryptoblocker](https://github.com/antsstyle/nftcryptoblocker) - Enables auto-blocking of NFT artists and cryptobros on Twitter. (today)
 - [sbp/hedgehog](https://github.com/sbp/hedgehog) - Concise implementation of a lisp-like language for low-end and embedded devices (today)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (today)
-- [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs (today)
