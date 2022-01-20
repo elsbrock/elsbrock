@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [DennisSc/PPS-ntp-server](https://github.com/DennisSc/PPS-ntp-server) - ESP32 NTP Server using GPS reference clock (today)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 day ago)
-- [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact. (1 day ago)
-- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (1 day ago)
-- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (2 days ago)
+- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (today)
+- [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs (today)
+- [osrg/rustybgp](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language (today)
+- [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language (today)
+- [kubeops/config-syncer](https://github.com/kubeops/config-syncer) - 🛡️ Kubernetes Config Syncer (previously kubed) (today)
