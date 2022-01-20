@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (today)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 day ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (1 week ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 week ago)
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (1 week ago)
+- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.1.0), today) - Prometheus community Helm charts
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.1.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.1.0), today) - Terraform module for Velero
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.0](https://github.com/twpayne/chezmoi/releases/tag/v2.10.0), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.1.0), 1 day ago) - Prometheus community Helm charts
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.1.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.1.0), 1 day ago) - Terraform module for Velero
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.0](https://github.com/twpayne/chezmoi/releases/tag/v2.10.0), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 week ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.1](https://github.com/coder/code-server/releases/tag/v4.0.1), 2 weeks ago) - VS Code in the browser
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (today)
-- [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact. (today)
-- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (today)
-- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (1 day ago)
-- [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (1 day ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 day ago)
+- [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact. (1 day ago)
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (1 day ago)
+- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (2 days ago)
+- [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README (2 days ago)
