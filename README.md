@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet (today)
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (1 day ago)
 - [maxbbraun/accent](https://github.com/maxbbraun/accent) - Accent Smart Picture Frame (1 day ago)
 - [maxbbraun/mirror](https://github.com/maxbbraun/mirror) - Smart Mirror (1 day ago)
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment (1 day ago)
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1 day ago)
