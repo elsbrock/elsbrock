@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [hetznercloud/hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼 (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
