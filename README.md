@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mergestat/timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences 🕰️ (today)
-- [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system (today)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. (1 day ago)
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (1 day ago)
-- [kernc/xsuspender](https://github.com/kernc/xsuspender) -  :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications. (1 day ago)
+- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling (today)
+- [alexei-led/spotinfo](https://github.com/alexei-led/spotinfo) - CLI for exploring AWS EC2 Spot inventory. Inspect AWS Spot instance types, saving, price, and interruption frequency. (today)
+- [azonenberg/pcb-checklist](https://github.com/azonenberg/pcb-checklist) - Sign-off review checklist for PCB designs (today)
+- [resyncgg/ripgen](https://github.com/resyncgg/ripgen) - Rust-based high performance domain permutation generator. (today)
+- [daxelrod/jowl](https://github.com/daxelrod/jowl) - CLI for JSON operations with Lodash (today)
