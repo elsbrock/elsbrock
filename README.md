@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (today)
 - [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (today)
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling (today)
 - [alexei-led/spotinfo](https://github.com/alexei-led/spotinfo) - CLI for exploring AWS EC2 Spot inventory. Inspect AWS Spot instance types, saving, price, and interruption frequency. (today)
 - [azonenberg/pcb-checklist](https://github.com/azonenberg/pcb-checklist) - Sign-off review checklist for PCB designs (today)
-- [resyncgg/ripgen](https://github.com/resyncgg/ripgen) - Rust-based high performance domain permutation generator. (today)
