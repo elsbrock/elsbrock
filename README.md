@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [mergestat/timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences 🕰️ (today)
+- [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system (today)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. (1 day ago)
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (1 day ago)
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) -  :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications. (1 day ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 day ago)
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (1 day ago)
