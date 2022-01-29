@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.15.0), today) - Prometheus community Helm charts
-- [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), today) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.1](https://github.com/twpayne/chezmoi/releases/tag/v2.10.1), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.15.0), 1 day ago) - Prometheus community Helm charts
+- [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 1 day ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.1](https://github.com/twpayne/chezmoi/releases/tag/v2.10.1), 6 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.1.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.1.0), 1 week ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 2 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [fzramos/nyan-ff-addon](https://github.com/fzramos/nyan-ff-addon) - Nyan Cat Youtube Enhancment for FireFox Browser (today)
-- [caarlos0/timea.go](https://github.com/caarlos0/timea.go) - timea.go (did you see what I did there?) is a simple library to print given times in &#34;time ago&#34; manner. (today)
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (today)
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home (today)
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server (1 day ago)
+- [fzramos/nyan-ff-addon](https://github.com/fzramos/nyan-ff-addon) - Nyan Cat Youtube Enhancment for FireFox Browser (1 day ago)
+- [caarlos0/timea.go](https://github.com/caarlos0/timea.go) - timea.go (did you see what I did there?) is a simple library to print given times in &#34;time ago&#34; manner. (1 day ago)
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (1 day ago)
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home (1 day ago)
+- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server (2 days ago)
