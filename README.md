@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [alice-lg/birdwatcher](https://github.com/alice-lg/birdwatcher) - A JSON API for BIRD (today)
 - [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (today)
 - [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools (today)
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go (today)
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators (today)
-- [fzramos/nyan-ff-addon](https://github.com/fzramos/nyan-ff-addon) - Nyan Cat Youtube Enhancment for FireFox Browser (1 day ago)
