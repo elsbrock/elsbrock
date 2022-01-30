@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go (today)
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11 (today)
 - [OctoPrint/octoprint-docker](https://github.com/OctoPrint/octoprint-docker) - The dockerized snappy web interface for your 3D printer!  (1 day ago)
 - [alice-lg/birdwatcher](https://github.com/alice-lg/birdwatcher) - A JSON API for BIRD (1 day ago)
 - [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (1 day ago)
-- [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools (1 day ago)
-- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go (1 day ago)
