@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kurtbuilds/proc-find](https://github.com/kurtbuilds/proc-find) - A CLI tool to search for processes (e.g. by open port) and manage them (today)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (today)
+- [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool (today)
 - [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go (today)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11 (today)
-- [OctoPrint/octoprint-docker](https://github.com/OctoPrint/octoprint-docker) - The dockerized snappy web interface for your 3D printer!  (1 day ago)
-- [alice-lg/birdwatcher](https://github.com/alice-lg/birdwatcher) - A JSON API for BIRD (1 day ago)
-- [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (1 day ago)
