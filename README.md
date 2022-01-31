@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (today)
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (today)
 - [kurtbuilds/proc-find](https://github.com/kurtbuilds/proc-find) - A CLI tool to search for processes (e.g. by open port) and manage them (1 day ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1 day ago)
 - [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool (1 day ago)
-- [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go (1 day ago)
-- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11 (1 day ago)
