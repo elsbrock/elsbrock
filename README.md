@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (today)
+- [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi) - NewTek NDI integration for OBS Studio (today)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (today)
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (today)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (today)
-- [kurtbuilds/proc-find](https://github.com/kurtbuilds/proc-find) - A CLI tool to search for processes (e.g. by open port) and manage them (1 day ago)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1 day ago)
