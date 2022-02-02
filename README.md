@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.0](https://github.com/twpayne/chezmoi/releases/tag/v2.11.0), today) - Manage your dotfiles across multiple diverse machines, securely.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-31.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-31.0.0), today) - Prometheus community Helm charts
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 5 days ago) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.10.1](https://github.com/twpayne/chezmoi/releases/tag/v2.10.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.1.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.1.0), 2 weeks ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 3 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
