@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers. (today)
 - [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3. (1 day ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (1 day ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (2 days ago)
 - [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi) - NewTek NDI integration for OBS Studio (2 days ago)
-- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (2 days ago)
