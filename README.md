@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (today)
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (today)
+- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (today)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI (today)
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (today)
-- [custom-components/pyscript](https://github.com/custom-components/pyscript) - Pyscript adds rich Python scripting to HASS (today)
-- [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime) (1 day ago)
-- [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers. (1 day ago)
