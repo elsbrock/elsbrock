@@ -6,7 +6,7 @@
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 weeks ago)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (3 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (3 weeks ago)
+- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), today) - Terraform module for Velero
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.3), today) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.0](https://github.com/twpayne/chezmoi/releases/tag/v2.11.0), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 5 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.1](https://github.com/twpayne/chezmoi/releases/tag/v2.11.1), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 1 day ago) - Terraform module for Velero
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.3), 1 day ago) - Prometheus community Helm charts
+- [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 6 days ago) - VS Code in the browser
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 3 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime) (today)
-- [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers. (today)
-- [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3. (1 day ago)
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (1 day ago)
-- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (2 days ago)
+- [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime) (1 day ago)
+- [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers. (1 day ago)
+- [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3. (2 days ago)
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (2 days ago)
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (3 days ago)
