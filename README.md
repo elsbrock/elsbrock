@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [custom-components/pyscript](https://github.com/custom-components/pyscript) - Pyscript adds rich Python scripting to HASS (today)
 - [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime) (1 day ago)
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers. (1 day ago)
 - [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3. (2 days ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (2 days ago)
-- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (3 days ago)
