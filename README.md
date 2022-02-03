@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (today)
 - [custom-components/pyscript](https://github.com/custom-components/pyscript) - Pyscript adds rich Python scripting to HASS (today)
 - [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime) (1 day ago)
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers. (1 day ago)
 - [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3. (2 days ago)
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (2 days ago)
