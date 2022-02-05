@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mccxiv/tc](https://github.com/mccxiv/tc) - A desktop chat client for Twitch (1 day ago)
-- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (1 day ago)
-- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (2 days ago)
-- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (2 days ago)
+- [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs (today)
+- [mrWheel/YAPP_Box](https://github.com/mrWheel/YAPP_Box) - Yet Another Parametric Projectbox Box (today)
+- [isotopp/tarstats](https://github.com/isotopp/tarstats) - Generate some statistics about a tarfile. (today)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
+- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (today)
