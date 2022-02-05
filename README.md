@@ -6,7 +6,7 @@
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 weeks ago)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (3 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (4 weeks ago)
+- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.3), today) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.2](https://github.com/twpayne/chezmoi/releases/tag/v2.11.2), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 2 days ago) - Terraform module for Velero
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.3), 1 day ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.2](https://github.com/twpayne/chezmoi/releases/tag/v2.11.2), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 3 days ago) - Terraform module for Velero
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 1 week ago) - VS Code in the browser
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 3 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mccxiv/tc](https://github.com/mccxiv/tc) - A desktop chat client for Twitch (today)
-- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (today)
-- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (1 day ago)
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (1 day ago)
-- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (1 day ago)
+- [mccxiv/tc](https://github.com/mccxiv/tc) - A desktop chat client for Twitch (1 day ago)
+- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (1 day ago)
+- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (2 days ago)
+- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (2 days ago)
