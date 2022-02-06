@@ -18,24 +18,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.3), 1 day ago) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.2](https://github.com/twpayne/chezmoi/releases/tag/v2.11.2), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 3 days ago) - Terraform module for Velero
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.3), 2 days ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.2](https://github.com/twpayne/chezmoi/releases/tag/v2.11.2), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 4 days ago) - Terraform module for Velero
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 1 week ago) - VS Code in the browser
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 3 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
 - [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (3 weeks ago)
-- [fix: get install.sh working on UbuntuWSL](https://github.com/ellie/atuin/pull/260) on [ellie/atuin](https://github.com/ellie/atuin) (3 weeks ago)
+- [fix: get install.sh working on UbuntuWSL](https://github.com/ellie/atuin/pull/260) on [ellie/atuin](https://github.com/ellie/atuin) (4 weeks ago)
 - [fix: use KMS key ID instead of name](https://github.com/elsbrock/terraform-google-velero/pull/1) on [elsbrock/terraform-google-velero](https://github.com/elsbrock/terraform-google-velero) (1 month ago)
 - [Use KMS key ID instead of name](https://github.com/nlamirault/terraform-google-velero/pull/27) on [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) (1 month ago)
 - [docs(ipad): fix link to ios-ipad related issues](https://github.com/coder/code-server/pull/4651) on [coder/code-server](https://github.com/coder/code-server) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs (today)
-- [mrWheel/YAPP_Box](https://github.com/mrWheel/YAPP_Box) - Yet Another Parametric Projectbox Box (today)
-- [isotopp/tarstats](https://github.com/isotopp/tarstats) - Generate some statistics about a tarfile. (today)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
-- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (today)
+- [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs (1 day ago)
+- [mrWheel/YAPP_Box](https://github.com/mrWheel/YAPP_Box) - Yet Another Parametric Projectbox Box (1 day ago)
+- [isotopp/tarstats](https://github.com/isotopp/tarstats) - Generate some statistics about a tarfile. (1 day ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
+- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (1 day ago)
