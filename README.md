@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (today)
+- [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language (today)
+- [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (today)
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs (1 day ago)
 - [mrWheel/YAPP_Box](https://github.com/mrWheel/YAPP_Box) - Yet Another Parametric Projectbox Box (1 day ago)
-- [isotopp/tarstats](https://github.com/isotopp/tarstats) - Generate some statistics about a tarfile. (1 day ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
-- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (1 day ago)
