@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained (today)
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers and Power Supplies (today)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (today)
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT (today)
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (1 day ago)
-- [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language (1 day ago)
