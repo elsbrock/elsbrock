@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT (today)
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (1 day ago)
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language (1 day ago)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (1 day ago)
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs (2 days ago)
-- [mrWheel/YAPP_Box](https://github.com/mrWheel/YAPP_Box) - Yet Another Parametric Projectbox Box (2 days ago)
