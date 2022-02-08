@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕 (today)
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron. (today)
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms (1 day ago)
 - [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained (1 day ago)
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers and Power Supplies (1 day ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 day ago)
