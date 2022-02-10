@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [famichu/MagLev_Switch_MX](https://github.com/famichu/MagLev_Switch_MX) -  (today)
 - [django/django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame (2 days ago)
 - [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕 (2 days ago)
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron. (2 days ago)
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms (3 days ago)
-- [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained (3 days ago)
