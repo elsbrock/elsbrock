@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-32.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-32.2.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.0), today) - Prometheus community Helm charts
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.11.2](https://github.com/twpayne/chezmoi/releases/tag/v2.11.2), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 1 week ago) - Terraform module for Velero
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 1 week ago) - VS Code in the browser
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [alphasoc/flightsim](https://github.com/alphasoc/flightsim) - A utility to safely generate malicious network traffic patterns and evaluate controls. (today)
+- [koyeb/kreconciler](https://github.com/koyeb/kreconciler) - A control-loop library for things that are not in k8s (today)
 - [famichu/MagLev_Switch_MX](https://github.com/famichu/MagLev_Switch_MX) -  (today)
 - [django/django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame (2 days ago)
 - [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕 (2 days ago)
-- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron. (2 days ago)
-- [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms (3 days ago)
