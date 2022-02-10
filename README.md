@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [inetaf/netstack](https://github.com/inetaf/netstack) - automated &#34;fork&#34; of gVisor that only contains the netstack bits so the go.mod is smaller. maintained by scripts, not humans. (today)
+- [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts! (today)
 - [alphasoc/flightsim](https://github.com/alphasoc/flightsim) - A utility to safely generate malicious network traffic patterns and evaluate controls. (today)
 - [koyeb/kreconciler](https://github.com/koyeb/kreconciler) - A control-loop library for things that are not in k8s (today)
 - [famichu/MagLev_Switch_MX](https://github.com/famichu/MagLev_Switch_MX) -  (today)
-- [django/django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame (2 days ago)
-- [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕 (2 days ago)
