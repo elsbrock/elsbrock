@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (today)
+- [TheScienceElf/TI-84-CE-Raytracing](https://github.com/TheScienceElf/TI-84-CE-Raytracing) - A ray tracing engine for the Ti84 CE written in C&#43;&#43; and ez80 assembly. (today)
+- [chunky/sqlraytracer](https://github.com/chunky/sqlraytracer) - Everyone writes a Raytracer eventually. This is mine. (today)
 - [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics (1 day ago)
 - [inetaf/netstack](https://github.com/inetaf/netstack) - automated &#34;fork&#34; of gVisor that only contains the netstack bits so the go.mod is smaller. maintained by scripts, not humans. (1 day ago)
-- [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts! (1 day ago)
-- [alphasoc/flightsim](https://github.com/alphasoc/flightsim) - A utility to safely generate malicious network traffic patterns and evaluate controls. (1 day ago)
-- [koyeb/kreconciler](https://github.com/koyeb/kreconciler) - A control-loop library for things that are not in k8s (1 day ago)
