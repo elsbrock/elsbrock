@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [myyang/django-pb-model](https://github.com/myyang/django-pb-model) - Protobuf mixin for django model (today)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (1 day ago)
 - [TheScienceElf/TI-84-CE-Raytracing](https://github.com/TheScienceElf/TI-84-CE-Raytracing) - A ray tracing engine for the Ti84 CE written in C&#43;&#43; and ez80 assembly. (1 day ago)
 - [chunky/sqlraytracer](https://github.com/chunky/sqlraytracer) - Everyone writes a Raytracer eventually. This is mine. (1 day ago)
 - [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics (2 days ago)
-- [inetaf/netstack](https://github.com/inetaf/netstack) - automated &#34;fork&#34; of gVisor that only contains the netstack bits so the go.mod is smaller. maintained by scripts, not humans. (2 days ago)
