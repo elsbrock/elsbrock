@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [elsbrock/ipv6rdns](https://github.com/elsbrock/ipv6rdns) -  (today)
 - [myyang/django-pb-model](https://github.com/myyang/django-pb-model) - Protobuf mixin for django model (1 day ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (2 days ago)
 - [TheScienceElf/TI-84-CE-Raytracing](https://github.com/TheScienceElf/TI-84-CE-Raytracing) - A ray tracing engine for the Ti84 CE written in C&#43;&#43; and ez80 assembly. (2 days ago)
 - [chunky/sqlraytracer](https://github.com/chunky/sqlraytracer) - Everyone writes a Raytracer eventually. This is mine. (2 days ago)
-- [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics (3 days ago)
