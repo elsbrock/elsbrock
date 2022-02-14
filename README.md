@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access (today)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (today)
 - [elsbrock/ipv6rdns](https://github.com/elsbrock/ipv6rdns) -  (1 day ago)
 - [myyang/django-pb-model](https://github.com/myyang/django-pb-model) - Protobuf mixin for django model (2 days ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (3 days ago)
-- [TheScienceElf/TI-84-CE-Raytracing](https://github.com/TheScienceElf/TI-84-CE-Raytracing) - A ray tracing engine for the Ti84 CE written in C&#43;&#43; and ez80 assembly. (3 days ago)
-- [chunky/sqlraytracer](https://github.com/chunky/sqlraytracer) - Everyone writes a Raytracer eventually. This is mine. (3 days ago)
