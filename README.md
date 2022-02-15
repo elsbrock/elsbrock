@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ArchiveTeam/seesaw-kit](https://github.com/ArchiveTeam/seesaw-kit) - Making a reusable toolkit for writing seesaw scripts (today)
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (today)
 - [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete. (today)
 - [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files (today)
 - [carlosflorencio/hetzner_deployer](https://github.com/carlosflorencio/hetzner_deployer) - Rolling Deployments using Loadbalancers (1 day ago)
-- [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (1 day ago)
