@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (today)
+- [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete. (today)
+- [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files (today)
 - [carlosflorencio/hetzner_deployer](https://github.com/carlosflorencio/hetzner_deployer) - Rolling Deployments using Loadbalancers (1 day ago)
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (1 day ago)
-- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH. (1 day ago)
-- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access (1 day ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 day ago)
