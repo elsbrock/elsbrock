@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.1.0), today) - Prometheus community Helm charts
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.12.0](https://github.com/twpayne/chezmoi/releases/tag/v2.12.0), today) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 1 week ago) - Terraform module for Velero
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 2 weeks ago) - VS Code in the browser
@@ -35,7 +35,7 @@
 #### ⭐ Recent Stars
 
 - [carlosflorencio/hetzner_deployer](https://github.com/carlosflorencio/hetzner_deployer) - Rolling Deployments using Loadbalancers (1 day ago)
-- [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld (1 day ago)
+- [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (1 day ago)
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH. (1 day ago)
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access (1 day ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 day ago)
