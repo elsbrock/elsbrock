@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (today)
 - [canonical/go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite (1 day ago)
 - [ArchiveTeam/seesaw-kit](https://github.com/ArchiveTeam/seesaw-kit) - Making a reusable toolkit for writing seesaw scripts (1 day ago)
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (1 day ago)
 - [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete. (1 day ago)
-- [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files (1 day ago)
