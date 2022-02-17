@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (today)
+- [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator (today)
 - [jwilk/perl-friday](https://github.com/jwilk/perl-friday) - Perl code that is syntactically correct only on Fridays (1 day ago)
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (1 day ago)
 - [canonical/go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite (2 days ago)
-- [ArchiveTeam/seesaw-kit](https://github.com/ArchiveTeam/seesaw-kit) - Making a reusable toolkit for writing seesaw scripts (2 days ago)
-- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (2 days ago)
