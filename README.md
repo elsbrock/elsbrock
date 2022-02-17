@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (today)
+- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment (today)
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000] (today)
 - [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (today)
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator (today)
-- [jwilk/perl-friday](https://github.com/jwilk/perl-friday) - Perl code that is syntactically correct only on Fridays (1 day ago)
-- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (1 day ago)
-- [canonical/go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite (2 days ago)
