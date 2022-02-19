@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (today)
 - [earentir/etbot](https://github.com/earentir/etbot) - Ear&#39;s Twitch Bot (today)
 - [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (1 day ago)
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (2 days ago)
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment (2 days ago)
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000] (2 days ago)
