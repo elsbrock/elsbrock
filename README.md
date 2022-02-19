@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.1.0), 3 days ago) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.12.0](https://github.com/twpayne/chezmoi/releases/tag/v2.12.0), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.1.0), 4 days ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.12.0](https://github.com/twpayne/chezmoi/releases/tag/v2.12.0), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 2 weeks ago) - Terraform module for Velero
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 3 weeks ago) - VS Code in the browser
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (today)
-- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (1 day ago)
-- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment (1 day ago)
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000] (1 day ago)
-- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (1 day ago)
+- [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (1 day ago)
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (2 days ago)
+- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment (2 days ago)
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000] (2 days ago)
+- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (2 days ago)
