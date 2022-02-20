@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (today)
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (1 day ago)
 - [earentir/etbot](https://github.com/earentir/etbot) - Ear&#39;s Twitch Bot (1 day ago)
 - [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (2 days ago)
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (3 days ago)
-- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment (3 days ago)
