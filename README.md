@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.12.1](https://github.com/twpayne/chezmoi/releases/tag/v2.12.1), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.1.0), 5 days ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.12.1](https://github.com/twpayne/chezmoi/releases/tag/v2.12.1), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.1.0), 6 days ago) - Prometheus community Helm charts
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.2.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.2.0), 2 weeks ago) - Terraform module for Velero
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 3 weeks ago) - VS Code in the browser
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (today)
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (1 day ago)
-- [earentir/etbot](https://github.com/earentir/etbot) - Ear&#39;s Twitch Bot (1 day ago)
-- [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (2 days ago)
-- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (3 days ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 day ago)
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (2 days ago)
+- [earentir/etbot](https://github.com/earentir/etbot) - Ear&#39;s Twitch Bot (2 days ago)
+- [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (3 days ago)
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (4 days ago)
