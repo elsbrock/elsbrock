@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (today)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (today)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (5 days ago)
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (6 days ago)
 - [earentir/etbot](https://github.com/earentir/etbot) - Ear&#39;s Twitch Bot (6 days ago)
-- [ipfs/go-dnslink](https://github.com/ipfs/go-dnslink) - dnslink resolution in go-ipfs (1 week ago)
