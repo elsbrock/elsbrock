@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-33.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-33.0.0), today) - Prometheus community Helm charts
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 4 days ago) - Terraform module for Velero
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.12.1](https://github.com/twpayne/chezmoi/releases/tag/v2.12.1), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.0.2](https://github.com/coder/code-server/releases/tag/v4.0.2), 4 weeks ago) - VS Code in the browser
