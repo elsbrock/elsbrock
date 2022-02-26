@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. (today)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 day ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (1 day ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (6 days ago)
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (1 week ago)
-- [earentir/etbot](https://github.com/earentir/etbot) - Ear&#39;s Twitch Bot (1 week ago)
