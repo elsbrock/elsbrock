@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [superfly/dropspy](https://github.com/superfly/dropspy) - Go implementation of the venerable dropwatch utility (today)
 - [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters. (1 day ago)
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. (5 days ago)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (6 days ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (6 days ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 week ago)
