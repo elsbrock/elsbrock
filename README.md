@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.3), today) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.13.1](https://github.com/twpayne/chezmoi/releases/tag/v2.13.1), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 1 day ago) - VS Code in the browser
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.3), 1 day ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.13.1](https://github.com/twpayne/chezmoi/releases/tag/v2.13.1), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 2 days ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 1 week ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger (1 day ago)
-- [superfly/dropspy](https://github.com/superfly/dropspy) - Go implementation of the venerable dropwatch utility (1 day ago)
-- [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters. (2 days ago)
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. (6 days ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger (2 days ago)
+- [superfly/dropspy](https://github.com/superfly/dropspy) - Go implementation of the venerable dropwatch utility (2 days ago)
+- [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters. (3 days ago)
+- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. (1 week ago)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 week ago)
