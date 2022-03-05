@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor (today)
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (today)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (today)
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (today)
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger (2 days ago)
-- [superfly/dropspy](https://github.com/superfly/dropspy) - Go implementation of the venerable dropwatch utility (2 days ago)
-- [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters. (3 days ago)
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. (1 week ago)
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 week ago)
