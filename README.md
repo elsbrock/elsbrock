@@ -6,7 +6,7 @@
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (1 month ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 month ago)
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (1 month ago)
+- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-33.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-33.2.0), 1 day ago) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.13.1](https://github.com/twpayne/chezmoi/releases/tag/v2.13.1), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 3 days ago) - VS Code in the browser
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 1 week ago) - Terraform module for Velero
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-33.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-33.2.0), 2 days ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.13.1](https://github.com/twpayne/chezmoi/releases/tag/v2.13.1), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 4 days ago) - VS Code in the browser
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 2 weeks ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [nh2/nixos-vm-examples](https://github.com/nh2/nixos-vm-examples) - Examples of how to build and run NixOS VMs with nix (today)
-- [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.  (today)
-- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor (1 day ago)
-- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (1 day ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 day ago)
+- [nh2/nixos-vm-examples](https://github.com/nh2/nixos-vm-examples) - Examples of how to build and run NixOS VMs with nix (1 day ago)
+- [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.  (1 day ago)
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor (2 days ago)
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (2 days ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (2 days ago)
