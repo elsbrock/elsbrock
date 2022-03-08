@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [agencyenterprise/clickwheel-js](https://github.com/agencyenterprise/clickwheel-js) -  (today)
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website (1 day ago)
 - [nh2/nixos-vm-examples](https://github.com/nh2/nixos-vm-examples) - Examples of how to build and run NixOS VMs with nix (2 days ago)
 - [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.  (2 days ago)
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor (3 days ago)
-- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (3 days ago)
