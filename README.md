@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters (today)
 - [clibs/clib](https://github.com/clibs/clib) - C package manager-ish (1 day ago)
 - [agencyenterprise/clickwheel-js](https://github.com/agencyenterprise/clickwheel-js) -  (1 day ago)
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website (2 days ago)
 - [nh2/nixos-vm-examples](https://github.com/nh2/nixos-vm-examples) - Examples of how to build and run NixOS VMs with nix (3 days ago)
-- [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.  (3 days ago)
