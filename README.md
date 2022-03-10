@@ -18,24 +18,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.2.0), today) - Prometheus community Helm charts
-- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 6 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
+- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 1 week ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 2 weeks ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
 - [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (1 month ago)
-- [fix: get install.sh working on UbuntuWSL](https://github.com/ellie/atuin/pull/260) on [ellie/atuin](https://github.com/ellie/atuin) (1 month ago)
+- [fix: get install.sh working on UbuntuWSL](https://github.com/ellie/atuin/pull/260) on [ellie/atuin](https://github.com/ellie/atuin) (2 months ago)
 - [fix: use KMS key ID instead of name](https://github.com/elsbrock/terraform-google-velero/pull/1) on [elsbrock/terraform-google-velero](https://github.com/elsbrock/terraform-google-velero) (2 months ago)
 - [Use KMS key ID instead of name](https://github.com/nlamirault/terraform-google-velero/pull/27) on [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) (2 months ago)
 - [docs(ipad): fix link to ios-ipad related issues](https://github.com/coder/code-server/pull/4651) on [coder/code-server](https://github.com/coder/code-server) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (today)
-- [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters (today)
-- [clibs/clib](https://github.com/clibs/clib) - C package manager-ish (1 day ago)
-- [agencyenterprise/clickwheel-js](https://github.com/agencyenterprise/clickwheel-js) -  (1 day ago)
-- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website (2 days ago)
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (1 day ago)
+- [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters (1 day ago)
+- [clibs/clib](https://github.com/clibs/clib) - C package manager-ish (2 days ago)
+- [agencyenterprise/clickwheel-js](https://github.com/agencyenterprise/clickwheel-js) -  (2 days ago)
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website (3 days ago)
