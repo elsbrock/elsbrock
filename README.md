@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) -  (today)
 - [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (today)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (1 day ago)
 - [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters (1 day ago)
 - [clibs/clib](https://github.com/clibs/clib) - C package manager-ish (2 days ago)
-- [agencyenterprise/clickwheel-js](https://github.com/agencyenterprise/clickwheel-js) -  (2 days ago)
