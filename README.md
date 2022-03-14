@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go (3 days ago)
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames (3 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) -  (4 days ago)
-- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (4 days ago)
+- [cody0704/dotbomb](https://github.com/cody0704/dotbomb) -  (today)
+- [rhyst/idasen-controller](https://github.com/rhyst/idasen-controller) - A Python script to control the Ikea IDÅSEN, a rebranded Linak standing desk. (today)
+- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash (today)
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites (today)
+- [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. (today)
