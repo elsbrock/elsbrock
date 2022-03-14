@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-33.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-33.2.1), today) - Prometheus community Helm charts
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-33.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-33.2.1), 1 day ago) - Prometheus community Helm charts
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 1 week ago) - VS Code in the browser
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 2 weeks ago) - Terraform module for Velero
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 3 weeks ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 2 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go (2 days ago)
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames (2 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 days ago)
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) -  (3 days ago)
-- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (3 days ago)
+- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go (3 days ago)
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames (3 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) -  (4 days ago)
+- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (4 days ago)
