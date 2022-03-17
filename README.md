@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [tj/node-blocked](https://github.com/tj/node-blocked) - Check if the event loop is blocked (today)
+- [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs (today)
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project (1 day ago)
 - [cody0704/dotbomb](https://github.com/cody0704/dotbomb) -  (3 days ago)
 - [rhyst/idasen-controller](https://github.com/rhyst/idasen-controller) - A Python script to control the Ikea IDÅSEN, a rebranded Linak standing desk. (3 days ago)
-- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash (3 days ago)
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites (3 days ago)
