@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.0.0), 1 day ago) - Prometheus community Helm charts
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 1 week ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0), 2 weeks ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.3.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.3.0), 3 weeks ago) - Terraform module for Velero
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 2 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project (today)
-- [cody0704/dotbomb](https://github.com/cody0704/dotbomb) -  (2 days ago)
-- [rhyst/idasen-controller](https://github.com/rhyst/idasen-controller) - A Python script to control the Ikea IDÅSEN, a rebranded Linak standing desk. (2 days ago)
-- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash (2 days ago)
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites (2 days ago)
+- [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project (1 day ago)
+- [cody0704/dotbomb](https://github.com/cody0704/dotbomb) -  (3 days ago)
+- [rhyst/idasen-controller](https://github.com/rhyst/idasen-controller) - A Python script to control the Ikea IDÅSEN, a rebranded Linak standing desk. (3 days ago)
+- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash (3 days ago)
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites (3 days ago)
