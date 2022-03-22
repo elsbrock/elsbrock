@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [wtarreau/nolibc](https://github.com/wtarreau/nolibc) - nolibc - libc-less wrapper to make tiny static executables for simple programs (today)
 - [electricitymap/electricitymap-contrib](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption (today)
 - [tj/node-blocked](https://github.com/tj/node-blocked) - Check if the event loop is blocked (5 days ago)
 - [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs (5 days ago)
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project (6 days ago)
-- [cody0704/dotbomb](https://github.com/cody0704/dotbomb) -  (1 week ago)
