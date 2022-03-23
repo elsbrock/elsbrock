@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (today)
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store (today)
 - [wtarreau/nolibc](https://github.com/wtarreau/nolibc) - nolibc - libc-less wrapper to make tiny static executables for simple programs (1 day ago)
 - [electricitymap/electricitymap-contrib](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption (1 day ago)
 - [tj/node-blocked](https://github.com/tj/node-blocked) - Check if the event loop is blocked (6 days ago)
-- [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs (6 days ago)
-- [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project (1 week ago)
