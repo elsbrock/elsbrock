@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.5.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.5.4), today) - Prometheus community Helm charts
 - [coder/code-server](https://github.com/coder/code-server) ([v4.2.0](https://github.com/coder/code-server/releases/tag/v4.2.0), 1 day ago) - VS Code in the browser
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.7.0), 1 day ago) - Prometheus community Helm charts
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 5 days ago) - Terraform module for Velero
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 2 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
