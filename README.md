@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations. (today)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (today)
 - [naugtur/blocked-at](https://github.com/naugtur/blocked-at) - Detects node eventloop block and reports where it started (1 day ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (2 days ago)
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store (2 days ago)
-- [wtarreau/nolibc](https://github.com/wtarreau/nolibc) - nolibc - libc-less wrapper to make tiny static executables for simple programs (3 days ago)
-- [electricitymap/electricitymap-contrib](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption (3 days ago)
