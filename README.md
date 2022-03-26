@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [izirku/gitrel](https://github.com/izirku/gitrel) - GitHub binary manager - install and update single binary releases via GitHub API (today)
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (today)
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers (today)
+- [Backseating-Committee-2k/BackseatSafeSystem2k](https://github.com/Backseating-Committee-2k/BackseatSafeSystem2k) -  (today)
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Reliably run any Linux distribution on any hardware with an in-RAM host OS for containerized environments. (today)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (today)
-- [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A dynamic tracing profiler for Linux (today)
-- [kris-nova/kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive (today)
-- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: A SAML SSO service designed as an OAuth 2.0 flow. Integrate SAML with just a few lines of code. (today)
