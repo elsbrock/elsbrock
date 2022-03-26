@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (today)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (today)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Fast and Secure Webhooks Service. (1 day ago)
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations. (1 day ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 day ago)
-- [naugtur/blocked-at](https://github.com/naugtur/blocked-at) - Detects node eventloop block and reports where it started (2 days ago)
