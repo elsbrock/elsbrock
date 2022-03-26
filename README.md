@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.2), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.6.0), today) - Prometheus community Helm charts
 - [coder/code-server](https://github.com/coder/code-server) ([v4.2.0](https://github.com/coder/code-server/releases/tag/v4.2.0), 4 days ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 1 week ago) - Terraform module for Velero
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.14.0](https://github.com/twpayne/chezmoi/releases/tag/v2.14.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: A SAML SSO service designed as an OAuth 2.0 flow. Integrate SAML with just a few lines of code. (today)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (today)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (today)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Fast and Secure Webhooks Service. (1 day ago)
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations. (1 day ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 day ago)
