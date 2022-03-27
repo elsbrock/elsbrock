@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [octeep/wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (today)
 - [izirku/gitrel](https://github.com/izirku/gitrel) - GitHub binary manager - install and update single binary releases via GitHub API (1 day ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 day ago)
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers (1 day ago)
 - [Backseating-Committee-2k/BackseatSafeSystem2k](https://github.com/Backseating-Committee-2k/BackseatSafeSystem2k) -  (1 day ago)
-- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Reliably run any Linux distribution on any hardware with an in-RAM host OS for containerized environments. (1 day ago)
