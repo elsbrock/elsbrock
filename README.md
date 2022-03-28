@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (today)
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely (today)
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (1 day ago)
 - [izirku/gitrel](https://github.com/izirku/gitrel) - GitHub binary manager - install and update single binary releases via GitHub API (2 days ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (2 days ago)
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers (2 days ago)
-- [Backseating-Committee-2k/BackseatSafeSystem2k](https://github.com/Backseating-Committee-2k/BackseatSafeSystem2k) -  (2 days ago)
