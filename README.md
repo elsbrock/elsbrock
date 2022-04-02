@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (today)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩 (4 days ago)
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (5 days ago)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely (5 days ago)
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (6 days ago)
-- [izirku/gitrel](https://github.com/izirku/gitrel) - GitHub binary manager - install and update single binary releases via GitHub API (1 week ago)
