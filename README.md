@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ellie/atuin](https://github.com/ellie/atuin) ([v0.8.1](https://github.com/ellie/atuin/releases/tag/v0.8.1), today) - 🐢 Magical shell history
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.10.0), today) - Prometheus community Helm charts
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.1](https://github.com/twpayne/chezmoi/releases/tag/v2.15.1), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.2.0](https://github.com/coder/code-server/releases/tag/v4.2.0), 3 weeks ago) - VS Code in the browser
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 3 weeks ago) - Terraform module for Velero
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.0](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.0), 3 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
