@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), today) - VS Code in the browser
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.10.0), 1 day ago) - Prometheus community Helm charts
-- [ellie/atuin](https://github.com/ellie/atuin) ([v0.8.1](https://github.com/ellie/atuin/releases/tag/v0.8.1), 2 days ago) - 🐢 Magical shell history
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.1](https://github.com/twpayne/chezmoi/releases/tag/v2.15.1), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 3 weeks ago) - Terraform module for Velero
+- [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), 1 day ago) - VS Code in the browser
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.10.0), 2 days ago) - Prometheus community Helm charts
+- [ellie/atuin](https://github.com/ellie/atuin) ([v0.8.1](https://github.com/ellie/atuin/releases/tag/v0.8.1), 3 days ago) - 🐢 Magical shell history
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.1](https://github.com/twpayne/chezmoi/releases/tag/v2.15.1), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 4 weeks ago) - Terraform module for Velero
 
 #### 🔨 My recent Pull Requests
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud. (4 days ago)
-- [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels (4 days ago)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (4 days ago)
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (4 days ago)
-- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH (4 days ago)
+- [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud. (5 days ago)
+- [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels (5 days ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (5 days ago)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (5 days ago)
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH (5 days ago)
