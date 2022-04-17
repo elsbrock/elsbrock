@@ -6,7 +6,7 @@
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (2 months ago)
 - [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository (3 months ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 months ago)
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image (3 months ago)
+- [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image (3 months ago)
 
 #### 🌱 My latest projects
 
