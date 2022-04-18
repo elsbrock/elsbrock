@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add multi-arch Docker image build](https://github.com/cfunkhouser/tailscalesd/pull/8) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (today)
 - [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (3 months ago)
 - [fix: get install.sh working on UbuntuWSL](https://github.com/ellie/atuin/pull/260) on [ellie/atuin](https://github.com/ellie/atuin) (3 months ago)
 - [fix: use KMS key ID instead of name](https://github.com/elsbrock/terraform-google-velero/pull/1) on [elsbrock/terraform-google-velero](https://github.com/elsbrock/terraform-google-velero) (3 months ago)
 - [Use KMS key ID instead of name](https://github.com/nlamirault/terraform-google-velero/pull/27) on [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) (3 months ago)
-- [docs(ipad): fix link to ios-ipad related issues](https://github.com/coder/code-server/pull/4651) on [coder/code-server](https://github.com/coder/code-server) (4 months ago)
 
 #### ⭐ Recent Stars
 
