@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.7.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.5), today) - Prometheus community Helm charts
 - [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), 6 days ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.8.1](https://github.com/ellie/atuin/releases/tag/v0.8.1), 1 week ago) - 🐢 Magical shell history
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.1](https://github.com/twpayne/chezmoi/releases/tag/v2.15.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
