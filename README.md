@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (today)
+- [ncsa/ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network (today)
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (today)
+- [todaywasawesome/atomic-cluster](https://github.com/todaywasawesome/atomic-cluster) - Running a k3s Kubernetes cluster on the adorable and affordable Atomic Pi.  (today)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (5 days ago)
-- [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache (5 days ago)
-- [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud. (1 week ago)
-- [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels (1 week ago)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 week ago)
