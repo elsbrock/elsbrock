@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (today)
 - [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (today)
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (2 days ago)
 - [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash) - keyboard (2 days ago)
 - [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - This repository allows you to anonymize sensitive information in images/videos. The solution is fully compatible with the DL-based training/inference solutions that we already published/will publish for Object Detection and Semantic Segmentation. (2 days ago)
-- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (3 days ago)
