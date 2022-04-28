@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (today)
 - [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (1 day ago)
 - [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (1 day ago)
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (3 days ago)
 - [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash) - keyboard (3 days ago)
-- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - This repository allows you to anonymize sensitive information in images/videos. The solution is fully compatible with the DL-based training/inference solutions that we already published/will publish for Object Detection and Semantic Segmentation. (3 days ago)
