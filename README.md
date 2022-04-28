@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), today) - Prometheus community Helm charts
-- [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 4 days ago) - 🐢 Magical shell history
-- [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), 1 week ago) - VS Code in the browser
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), 1 day ago) - Prometheus community Helm charts
+- [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 5 days ago) - 🐢 Magical shell history
+- [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), 2 weeks ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.1](https://github.com/twpayne/chezmoi/releases/tag/v2.15.1), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 1 month ago) - Terraform module for Velero
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (today)
-- [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (today)
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (2 days ago)
-- [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash) - keyboard (2 days ago)
-- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - This repository allows you to anonymize sensitive information in images/videos. The solution is fully compatible with the DL-based training/inference solutions that we already published/will publish for Object Detection and Semantic Segmentation. (2 days ago)
+- [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (1 day ago)
+- [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (1 day ago)
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (3 days ago)
+- [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash) - keyboard (3 days ago)
+- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - This repository allows you to anonymize sensitive information in images/videos. The solution is fully compatible with the DL-based training/inference solutions that we already published/will publish for Object Detection and Semantic Segmentation. (3 days ago)
