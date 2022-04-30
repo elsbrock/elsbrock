@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), 2 days ago) - Prometheus community Helm charts
-- [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 6 days ago) - 🐢 Magical shell history
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), 3 days ago) - Prometheus community Helm charts
+- [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 1 week ago) - 🐢 Magical shell history
 - [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), 2 weeks ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.1](https://github.com/twpayne/chezmoi/releases/tag/v2.15.1), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 1 month ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (1 day ago)
-- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (1 day ago)
-- [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (2 days ago)
-- [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (2 days ago)
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (4 days ago)
+- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (2 days ago)
+- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (2 days ago)
+- [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (3 days ago)
+- [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (3 days ago)
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (5 days ago)
