@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files (today)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (2 days ago)
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (2 days ago)
 - [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (3 days ago)
 - [LP0101/pfSense-VPN-manager](https://github.com/LP0101/pfSense-VPN-manager) - Webpage using pfsense-api (3 days ago)
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (5 days ago)
