@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (today)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
 - [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager (today)
 - [leonklingele/dnsbench](https://github.com/leonklingele/dnsbench) - DNS benchmarking utility (1 day ago)
 - [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files (1 day ago)
-- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (3 days ago)
