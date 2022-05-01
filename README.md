@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager (today)
 - [leonklingele/dnsbench](https://github.com/leonklingele/dnsbench) - DNS benchmarking utility (1 day ago)
 - [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files (1 day ago)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (3 days ago)
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (3 days ago)
-- [hherman1/gq](https://github.com/hherman1/gq) - jq but using go instead (4 days ago)
