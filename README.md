@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) - A fancy-schmancy tcpdump-esque TUI, programmed in Go. (today)
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) - This tool shows the result of crt.sh (1 day ago)
 - [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (1 day ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 day ago)
 - [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager (1 day ago)
-- [leonklingele/dnsbench](https://github.com/leonklingele/dnsbench) - DNS benchmarking utility (2 days ago)
