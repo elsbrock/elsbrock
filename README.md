@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
 
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - 
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
 - [elsbrock/tor-node](https://github.com/elsbrock/tor-node) - :rocket: small, customizable, up-to-date Tor node :whale: Docker image based on the Arch Linux `tor` package
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
-- [elsbrock/edgerouter-backup](https://github.com/elsbrock/edgerouter-backup) - :outbox_tray: Backing up the configuration of Ubiquiti&#39;s Edgerouter to a Github repository
 
 #### 🔭 Latest releases I've contributed to
 
