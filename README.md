@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.17.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.17.1), today) - Prometheus community Helm charts
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.15.2](https://github.com/twpayne/chezmoi/releases/tag/v2.15.2), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 1 week ago) - 🐢 Magical shell history
 - [coder/code-server](https://github.com/coder/code-server) ([v4.3.0](https://github.com/coder/code-server/releases/tag/v4.3.0), 2 weeks ago) - VS Code in the browser
