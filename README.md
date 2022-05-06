@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (today)
 - [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) - A fancy-schmancy tcpdump-esque TUI, programmed in Go. (4 days ago)
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) - This tool shows the result of crt.sh (5 days ago)
 - [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (5 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (5 days ago)
-- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager (5 days ago)
