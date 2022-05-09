@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core (today)
 - [infinisil/nixus](https://github.com/infinisil/nixus) -  (today)
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5 (today)
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel. (today)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (2 days ago)
-- [cleverca22/nix-tests](https://github.com/cleverca22/nix-tests) - A scratchpad for small experimental things I am doing with Nix. (2 days ago)
