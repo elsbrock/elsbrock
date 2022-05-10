@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [arizonahanson/starlight-os](https://github.com/arizonahanson/starlight-os) - nixos based linux operating system for software development (today)
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core (1 day ago)
 - [infinisil/nixus](https://github.com/infinisil/nixus) -  (1 day ago)
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5 (1 day ago)
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel. (1 day ago)
-- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (3 days ago)
