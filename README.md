@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (today)
 - [arizonahanson/starlight-os](https://github.com/arizonahanson/starlight-os) - nixos based linux operating system for software development (1 day ago)
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core (2 days ago)
 - [infinisil/nixus](https://github.com/infinisil/nixus) -  (2 days ago)
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5 (2 days ago)
-- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel. (2 days ago)
