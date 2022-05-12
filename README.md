@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (today)
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website (today)
+- [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions (today)
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (1 day ago)
 - [arizonahanson/starlight-os](https://github.com/arizonahanson/starlight-os) - nixos based linux operating system for software development (2 days ago)
-- [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core (3 days ago)
-- [infinisil/nixus](https://github.com/infinisil/nixus) -  (3 days ago)
-- [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5 (3 days ago)
