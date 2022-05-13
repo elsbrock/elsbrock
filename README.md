@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [everythingishacked/Pants](https://github.com/everythingishacked/Pants) - A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants (today)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 day ago)
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website (1 day ago)
 - [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions (1 day ago)
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (2 days ago)
-- [arizonahanson/starlight-os](https://github.com/arizonahanson/starlight-os) - nixos based linux operating system for software development (3 days ago)
