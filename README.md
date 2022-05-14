@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines (today)
+- [RaitoBezarius/nixops-proxmox](https://github.com/RaitoBezarius/nixops-proxmox) - NixOps plugin for Proxmox (today)
 - [everythingishacked/Pants](https://github.com/everythingishacked/Pants) - A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants (1 day ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (2 days ago)
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website (2 days ago)
-- [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions (2 days ago)
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (3 days ago)
