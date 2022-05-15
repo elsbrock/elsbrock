@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (today)
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (today)
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks. (today)
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less (today)
 - [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines (1 day ago)
-- [RaitoBezarius/nixops-proxmox](https://github.com/RaitoBezarius/nixops-proxmox) - NixOps plugin for Proxmox (1 day ago)
