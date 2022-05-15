@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (today)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (today)
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (today)
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks. (today)
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less (today)
-- [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines (1 day ago)
