@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (today)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (2 weeks ago)
 - [Add multi-arch Docker image build](https://github.com/cfunkhouser/tailscalesd/pull/8) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (4 weeks ago)
 - [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (4 months ago)
 - [fix: get install.sh working on UbuntuWSL](https://github.com/ellie/atuin/pull/260) on [ellie/atuin](https://github.com/ellie/atuin) (4 months ago)
-- [fix: use KMS key ID instead of name](https://github.com/elsbrock/terraform-google-velero/pull/1) on [elsbrock/terraform-google-velero](https://github.com/elsbrock/terraform-google-velero) (4 months ago)
 
 #### ⭐ Recent Stars
 
