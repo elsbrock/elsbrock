@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [tsoding/bm](https://github.com/tsoding/bm) - Simple compiler ecosystem (today)
 - [PacktPublishing/Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) - Linux for Networking Professionals, published by Packt (1 day ago)
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck (1 day ago)
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (2 days ago)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (2 days ago)
-- [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (2 days ago)
