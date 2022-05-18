@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Kurokesu/3d_models](https://github.com/Kurokesu/3d_models) - Kurokesu 3D CAD models (today)
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (today)
 - [tsoding/bm](https://github.com/tsoding/bm) - Simple compiler ecosystem (1 day ago)
 - [PacktPublishing/Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) - Linux for Networking Professionals, published by Packt (2 days ago)
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck (2 days ago)
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (3 days ago)
-- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (3 days ago)
