@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.16.0](https://github.com/twpayne/chezmoi/releases/tag/v2.16.0), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.4.0](https://github.com/coder/code-server/releases/tag/v4.4.0), 1 week ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.16.0](https://github.com/twpayne/chezmoi/releases/tag/v2.16.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.4.0](https://github.com/coder/code-server/releases/tag/v4.4.0), 2 weeks ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 3 weeks ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 1 month ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 2 months ago) - Terraform module for Velero
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (2 days ago)
+- [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (3 days ago)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (2 weeks ago)
 - [Add multi-arch Docker image build](https://github.com/cfunkhouser/tailscalesd/pull/8) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (1 month ago)
 - [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (4 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Kurokesu/3d_models](https://github.com/Kurokesu/3d_models) - Kurokesu 3D CAD models (1 day ago)
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (1 day ago)
-- [tsoding/bm](https://github.com/tsoding/bm) - Simple compiler ecosystem (2 days ago)
-- [PacktPublishing/Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) - Linux for Networking Professionals, published by Packt (3 days ago)
-- [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck (3 days ago)
+- [Kurokesu/3d_models](https://github.com/Kurokesu/3d_models) - Kurokesu 3D CAD models (2 days ago)
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 days ago)
+- [tsoding/bm](https://github.com/tsoding/bm) - Simple compiler ecosystem (3 days ago)
+- [PacktPublishing/Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) - Linux for Networking Professionals, published by Packt (4 days ago)
+- [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck (4 days ago)
