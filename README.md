@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness (today)
 - [Kurokesu/3d_models](https://github.com/Kurokesu/3d_models) - Kurokesu 3D CAD models (2 days ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 days ago)
 - [tsoding/bm](https://github.com/tsoding/bm) - Simple compiler ecosystem (3 days ago)
 - [PacktPublishing/Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) - Linux for Networking Professionals, published by Packt (4 days ago)
-- [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck (4 days ago)
