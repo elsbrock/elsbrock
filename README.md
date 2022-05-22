@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard (today)
 - [Pmatsol58/VyperCE6.1](https://github.com/Pmatsol58/VyperCE6.1) - This Marlin fork has the goal of adapting the Creality Community Edition to the Anycubic Vyper (1 day ago)
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨ (1 day ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. (1 day ago)
 - [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness (2 days ago)
-- [Kurokesu/3d_models](https://github.com/Kurokesu/3d_models) - Kurokesu 3D CAD models (4 days ago)
