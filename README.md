@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kadu/streamdeck-catalog](https://github.com/kadu/streamdeck-catalog) - Catalog of DIY Stream Deck (today)
 - [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard (1 day ago)
 - [Pmatsol58/VyperCE6.1](https://github.com/Pmatsol58/VyperCE6.1) - This Marlin fork has the goal of adapting the Creality Community Edition to the Anycubic Vyper (2 days ago)
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨ (2 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. (2 days ago)
-- [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness (3 days ago)
