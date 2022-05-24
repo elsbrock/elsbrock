@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [dolmen-go/kittyimg](https://github.com/dolmen-go/kittyimg) - Go library that allows to display images in terminal emulators implementing kitty&#39;s terminal graphics protocol (today)
 - [kadu/streamdeck-catalog](https://github.com/kadu/streamdeck-catalog) - Catalog of DIY Stream Deck (1 day ago)
 - [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard (2 days ago)
 - [Pmatsol58/VyperCE6.1](https://github.com/Pmatsol58/VyperCE6.1) - This Marlin fork has the goal of adapting the Creality Community Edition to the Anycubic Vyper (3 days ago)
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨ (3 days ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. (3 days ago)
