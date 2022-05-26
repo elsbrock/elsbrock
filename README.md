@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.16.0](https://github.com/twpayne/chezmoi/releases/tag/v2.16.0), 6 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.16.0](https://github.com/twpayne/chezmoi/releases/tag/v2.16.0), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.4.0](https://github.com/coder/code-server/releases/tag/v4.4.0), 2 weeks ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 1 month ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (today)
-- [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space (today)
-- [dolmen-go/kittyimg](https://github.com/dolmen-go/kittyimg) - Go library that allows to display images in terminal emulators implementing kitty&#39;s terminal graphics protocol (1 day ago)
-- [kadu/streamdeck-catalog](https://github.com/kadu/streamdeck-catalog) - Catalog of DIY Stream Deck (2 days ago)
-- [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard (3 days ago)
+- [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (1 day ago)
+- [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space (1 day ago)
+- [dolmen-go/kittyimg](https://github.com/dolmen-go/kittyimg) - Go library that allows to display images in terminal emulators implementing kitty&#39;s terminal graphics protocol (2 days ago)
+- [kadu/streamdeck-catalog](https://github.com/kadu/streamdeck-catalog) - Catalog of DIY Stream Deck (3 days ago)
+- [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard (4 days ago)
