@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (today)
 - [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (today)
 - [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (3 days ago)
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space (3 days ago)
 - [dolmen-go/kittyimg](https://github.com/dolmen-go/kittyimg) - Go library that allows to display images in terminal emulators implementing kitty&#39;s terminal graphics protocol (4 days ago)
-- [kadu/streamdeck-catalog](https://github.com/kadu/streamdeck-catalog) - Catalog of DIY Stream Deck (5 days ago)
