@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), today) - 🐢 Magical shell history
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.17.1](https://github.com/twpayne/chezmoi/releases/tag/v2.17.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.4.0](https://github.com/coder/code-server/releases/tag/v4.4.0), 1 month ago) - VS Code in the browser
-- [ellie/atuin](https://github.com/ellie/atuin) ([v0.9.1](https://github.com/ellie/atuin/releases/tag/v0.9.1), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 2 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 2 months ago) - Terraform module for Velero
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [b-m-f/WirtBot](https://github.com/b-m-f/WirtBot) - Easily and securely extend your network into the cloud with a WirtBot (today)
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (today)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (1 day ago)
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (1 day ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 week ago)
-- [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (1 week ago)
-- [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (1 week ago)
