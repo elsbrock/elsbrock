@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [gotthardp/lorawan-server](https://github.com/gotthardp/lorawan-server) - Compact server for private LoRaWAN networks (today)
 - [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (today)
 - [rulex-rs/rulex](https://github.com/rulex-rs/rulex) - A new, portable, regular expression language (today)
 - [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation &#43; address allocation. (today)
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (2 days ago)
-- [ywangd/stash](https://github.com/ywangd/stash) - StaSh - Shell for Pythonista (3 days ago)
