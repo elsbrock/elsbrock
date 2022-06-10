@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation &#43; address allocation. (today)
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (2 days ago)
 - [ywangd/stash](https://github.com/ywangd/stash) - StaSh - Shell for Pythonista (3 days ago)
 - [b-m-f/WirtBot](https://github.com/b-m-f/WirtBot) - Easily and securely extend your network into the cloud with a WirtBot (4 days ago)
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (4 days ago)
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (5 days ago)
