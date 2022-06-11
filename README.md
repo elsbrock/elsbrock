@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (today)
+- [kizniche/ttgo-tbeam-ttn-tracker](https://github.com/kizniche/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies  (today)
+- [gregdavill/flower-mon](https://github.com/gregdavill/flower-mon) - Zigbee CC2530 based soil moisture monitor (today)
 - [gotthardp/lorawan-server](https://github.com/gotthardp/lorawan-server) - Compact server for private LoRaWAN networks (1 day ago)
 - [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 day ago)
-- [rulex-rs/rulex](https://github.com/rulex-rs/rulex) - A new, portable, regular expression language (1 day ago)
-- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation &#43; address allocation. (1 day ago)
-- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (3 days ago)
