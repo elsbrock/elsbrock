@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. (today)
 - [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (1 day ago)
 - [kizniche/ttgo-tbeam-ttn-tracker](https://github.com/kizniche/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies  (1 day ago)
 - [gregdavill/flower-mon](https://github.com/gregdavill/flower-mon) - Zigbee CC2530 based soil moisture monitor (1 day ago)
 - [gotthardp/lorawan-server](https://github.com/gotthardp/lorawan-server) - Compact server for private LoRaWAN networks (2 days ago)
-- [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (2 days ago)
