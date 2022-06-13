@@ -37,5 +37,5 @@
 - [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (1 day ago)
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (1 day ago)
 - [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (1 day ago)
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. (1 day ago)
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (1 day ago)
 - [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (2 days ago)
