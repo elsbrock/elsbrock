@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (today)
-- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (3 weeks ago)
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (1 day ago)
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (4 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 month ago)
@@ -26,16 +26,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (6 days ago)
-- [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (3 weeks ago)
+- [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (1 week ago)
+- [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (4 weeks ago)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (1 month ago)
 - [Add multi-arch Docker image build](https://github.com/cfunkhouser/tailscalesd/pull/8) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (1 month ago)
 - [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (1 day ago)
-- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (1 day ago)
-- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (1 day ago)
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (1 day ago)
-- [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (2 days ago)
+- [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (2 days ago)
+- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (2 days ago)
+- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (2 days ago)
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (2 days ago)
+- [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (3 days ago)
