@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (1 day ago)
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (2 days ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (4 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (2 days ago)
-- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (2 days ago)
-- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (2 days ago)
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (2 days ago)
-- [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (3 days ago)
+- [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (3 days ago)
+- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (3 days ago)
+- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (3 days ago)
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (3 days ago)
+- [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map (4 days ago)
