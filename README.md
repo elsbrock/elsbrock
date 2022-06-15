@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (today)
 - [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault. (today)
 - [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (3 days ago)
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (3 days ago)
 - [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (3 days ago)
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (3 days ago)
