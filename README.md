@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations. (today)
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go (today)
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (1 day ago)
 - [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault. (1 day ago)
 - [Docoyo/node-red-contrib-prometheus-exporter](https://github.com/Docoyo/node-red-contrib-prometheus-exporter) - A NodeRED node which allows exporting Prometheus metrics from within flows. (4 days ago)
-- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (4 days ago)
