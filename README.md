@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud (today)
+- [lukebfox/nixops-hetznercloud](https://github.com/lukebfox/nixops-hetznercloud) - A NixOps plugin supporting Hetzner Cloud deployments. (today)
 - [ariel-bentu/tam-drawio](https://github.com/ariel-bentu/tam-drawio) - A drawio plugin which offers TAM notation (1 day ago)
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations. (1 day ago)
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go (1 day ago)
-- [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (2 days ago)
-- [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault. (2 days ago)
