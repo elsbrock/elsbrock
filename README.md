@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (today)
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud (today)
 - [lukebfox/nixops-hetznercloud](https://github.com/lukebfox/nixops-hetznercloud) - A NixOps plugin supporting Hetzner Cloud deployments. (today)
 - [ariel-bentu/tam-drawio](https://github.com/ariel-bentu/tam-drawio) - A drawio plugin which offers TAM notation (1 day ago)
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations. (1 day ago)
-- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go (1 day ago)
