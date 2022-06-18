@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust (today)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (1 day ago)
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud (1 day ago)
 - [lukebfox/nixops-hetznercloud](https://github.com/lukebfox/nixops-hetznercloud) - A NixOps plugin supporting Hetzner Cloud deployments. (1 day ago)
 - [ariel-bentu/tam-drawio](https://github.com/ariel-bentu/tam-drawio) - A drawio plugin which offers TAM notation (2 days ago)
-- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations. (2 days ago)
