@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (today)
 - [wting/hackernews](https://github.com/wting/hackernews) - Hacker News web site source code mirror. (4 days ago)
 - [syncsynchalt/animated-curves](https://github.com/syncsynchalt/animated-curves) - An animated visualization of elliptic curve cryptography (6 days ago)
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver (6 days ago)
 - [letsencrypt/unbound_exporter](https://github.com/letsencrypt/unbound_exporter) - A Prometheus exporter for Unbound. (6 days ago)
-- [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (1 week ago)
