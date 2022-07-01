@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [coder/code-server](https://github.com/coder/code-server) ([v4.5.0](https://github.com/coder/code-server/releases/tag/v4.5.0), today) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.18.1](https://github.com/twpayne/chezmoi/releases/tag/v2.18.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 3 weeks ago) - 🐢 Magical shell history
-- [coder/code-server](https://github.com/coder/code-server) ([v4.4.0](https://github.com/coder/code-server/releases/tag/v4.4.0), 1 month ago) - VS Code in the browser
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 2 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 3 months ago) - Terraform module for Velero
 
