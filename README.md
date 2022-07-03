@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.5.0](https://github.com/coder/code-server/releases/tag/v4.5.0), 1 day ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.5.0](https://github.com/coder/code-server/releases/tag/v4.5.0), 2 days ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.18.1](https://github.com/twpayne/chezmoi/releases/tag/v2.18.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 3 weeks ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 2 months ago) - Prometheus Service Discovery for Tailscale
@@ -36,6 +36,6 @@
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (1 week ago)
 - [wting/hackernews](https://github.com/wting/hackernews) - Hacker News web site source code mirror. (1 week ago)
-- [syncsynchalt/animated-curves](https://github.com/syncsynchalt/animated-curves) - An animated visualization of elliptic curve cryptography (1 week ago)
-- [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver (1 week ago)
-- [letsencrypt/unbound_exporter](https://github.com/letsencrypt/unbound_exporter) - A Prometheus exporter for Unbound. (1 week ago)
+- [syncsynchalt/animated-curves](https://github.com/syncsynchalt/animated-curves) - An animated visualization of elliptic curve cryptography (2 weeks ago)
+- [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver (2 weeks ago)
+- [letsencrypt/unbound_exporter](https://github.com/letsencrypt/unbound_exporter) - A Prometheus exporter for Unbound. (2 weeks ago)
