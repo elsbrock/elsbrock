@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (today)
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (1 week ago)
 - [wting/hackernews](https://github.com/wting/hackernews) - Hacker News web site source code mirror. (1 week ago)
 - [syncsynchalt/animated-curves](https://github.com/syncsynchalt/animated-curves) - An animated visualization of elliptic curve cryptography (2 weeks ago)
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver (2 weeks ago)
-- [letsencrypt/unbound_exporter](https://github.com/letsencrypt/unbound_exporter) - A Prometheus exporter for Unbound. (2 weeks ago)
