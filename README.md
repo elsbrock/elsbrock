@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.5.0](https://github.com/coder/code-server/releases/tag/v4.5.0), 6 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.5.0](https://github.com/coder/code-server/releases/tag/v4.5.0), 1 week ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.18.1](https://github.com/twpayne/chezmoi/releases/tag/v2.18.1), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 3 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (2 days ago)
-- [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool (4 days ago)
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (4 days ago)
-- [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed (4 days ago)
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (4 days ago)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (3 days ago)
+- [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool (5 days ago)
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (5 days ago)
+- [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed (5 days ago)
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (5 days ago)
