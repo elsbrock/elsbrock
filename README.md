@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (6 days ago)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 week ago)
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool (1 week ago)
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (1 week ago)
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed (1 week ago)
