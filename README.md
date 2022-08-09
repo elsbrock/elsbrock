@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [clrxbl/tailscale-svc-lb](https://github.com/clrxbl/tailscale-svc-lb) - klipper-lb but Tailscale. A Kubernetes load balancer controller to provide LoadBalancers a Tailscale endpoint. (today)
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 month ago)
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool (1 month ago)
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (1 month ago)
