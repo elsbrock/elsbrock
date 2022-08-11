@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (today)
-- [clrxbl/tailscale-svc-lb](https://github.com/clrxbl/tailscale-svc-lb) - klipper-lb but Tailscale. A Kubernetes load balancer controller to provide LoadBalancers a Tailscale endpoint. (1 day ago)
+- [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (1 day ago)
+- [clrxbl/tailscale-svc-lb](https://github.com/clrxbl/tailscale-svc-lb) - klipper-lb but Tailscale. A Kubernetes load balancer controller to provide LoadBalancers a Tailscale endpoint. (2 days ago)
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 month ago)
