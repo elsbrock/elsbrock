@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. (today)
+- [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go (today)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (1 day ago)
 - [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (2 days ago)
 - [clrxbl/tailscale-svc-lb](https://github.com/clrxbl/tailscale-svc-lb) - klipper-lb but Tailscale. A Kubernetes load balancer controller to provide LoadBalancers a Tailscale endpoint. (3 days ago)
-- [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (1 week ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
