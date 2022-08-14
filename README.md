@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kamilchm/go2nix](https://github.com/kamilchm/go2nix) - Reproducible builds and development environment for Go (today)
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. (2 days ago)
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go (2 days ago)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (3 days ago)
 - [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (4 days ago)
-- [clrxbl/tailscale-svc-lb](https://github.com/clrxbl/tailscale-svc-lb) - klipper-lb but Tailscale. A Kubernetes load balancer controller to provide LoadBalancers a Tailscale endpoint. (5 days ago)
