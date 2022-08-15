@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.5.2-rc.1](https://github.com/coder/code-server/releases/tag/v4.5.2-rc.1), 4 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.5.2](https://github.com/coder/code-server/releases/tag/v4.5.2), today) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.20.0](https://github.com/twpayne/chezmoi/releases/tag/v2.20.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
