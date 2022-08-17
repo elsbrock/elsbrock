@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (today)
 - [fondberg/easee_hass](https://github.com/fondberg/easee_hass) - Custom component for Easee EV charger (1 day ago)
 - [kamilchm/go2nix](https://github.com/kamilchm/go2nix) - Reproducible builds and development environment for Go (3 days ago)
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. (5 days ago)
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go (5 days ago)
-- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (6 days ago)
