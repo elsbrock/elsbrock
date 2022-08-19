@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.6.0-rc.1](https://github.com/coder/code-server/releases/tag/v4.6.0-rc.1), 1 day ago) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.20.0](https://github.com/twpayne/chezmoi/releases/tag/v2.20.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.6.0-rc.1](https://github.com/coder/code-server/releases/tag/v4.6.0-rc.1), 2 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.20.0](https://github.com/twpayne/chezmoi/releases/tag/v2.20.0), 3 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 5 months ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (today)
-- [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for managing ssh authorized_key files on servers (1 day ago)
-- [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (1 day ago)
-- [fondberg/easee_hass](https://github.com/fondberg/easee_hass) - Custom component for Easee EV charger (2 days ago)
-- [kamilchm/go2nix](https://github.com/kamilchm/go2nix) - Reproducible builds and development environment for Go (4 days ago)
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (1 day ago)
+- [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for managing ssh authorized_key files on servers (2 days ago)
+- [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (2 days ago)
+- [fondberg/easee_hass](https://github.com/fondberg/easee_hass) - Custom component for Easee EV charger (3 days ago)
+- [kamilchm/go2nix](https://github.com/kamilchm/go2nix) - Reproducible builds and development environment for Go (5 days ago)
