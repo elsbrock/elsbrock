@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time! (today)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (today)
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (3 days ago)
 - [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for managing ssh authorized_key files on servers (4 days ago)
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (4 days ago)
-- [fondberg/easee_hass](https://github.com/fondberg/easee_hass) - Custom component for Easee EV charger (5 days ago)
-- [kamilchm/go2nix](https://github.com/kamilchm/go2nix) - Reproducible builds and development environment for Go (1 week ago)
