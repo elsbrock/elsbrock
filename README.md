@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (today)
+- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas plus index to my other repositories. (today)
+- [jazzycamel/micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google&#39;s Protocol Buffers (protobuf) for micropython (today)
+- [abey79/vsketch](https://github.com/abey79/vsketch) - Generative plotter art environment for Python (today)
 - [mapzy/mapzy](https://github.com/mapzy/mapzy) - Simple, open-source and self-hostable store finder. (today)
-- [makerbase-mks/MKS-SKIPR](https://github.com/makerbase-mks/MKS-SKIPR) - MKS SKIPR is an all-in-one board launched by Makerbase for running Klipper. It integrates the RK3328 SOC running the Klipper host and the STM32F407VET6 MCU responsible for executing specific machine actions. It meets the use of most 3D printers.  (2 days ago)
-- [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time! (2 days ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (2 days ago)
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (5 days ago)
