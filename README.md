@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 3 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 4 days ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.20.0](https://github.com/twpayne/chezmoi/releases/tag/v2.20.0), 3 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [makerbase-mks/MKS-SKIPR](https://github.com/makerbase-mks/MKS-SKIPR) - MKS SKIPR is an all-in-one board launched by Makerbase for running Klipper. It integrates the RK3328 SOC running the Klipper host and the STM32F407VET6 MCU responsible for executing specific machine actions. It meets the use of most 3D printers.  (1 day ago)
-- [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time! (1 day ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (1 day ago)
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (4 days ago)
-- [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for managing ssh authorized_key files on servers (5 days ago)
+- [makerbase-mks/MKS-SKIPR](https://github.com/makerbase-mks/MKS-SKIPR) - MKS SKIPR is an all-in-one board launched by Makerbase for running Klipper. It integrates the RK3328 SOC running the Klipper host and the STM32F407VET6 MCU responsible for executing specific machine actions. It meets the use of most 3D printers.  (2 days ago)
+- [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time! (2 days ago)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (2 days ago)
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (5 days ago)
+- [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for managing ssh authorized_key files on servers (6 days ago)
