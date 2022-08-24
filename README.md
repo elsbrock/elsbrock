@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 4 days ago) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.20.0](https://github.com/twpayne/chezmoi/releases/tag/v2.20.0), 3 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.0](https://github.com/twpayne/chezmoi/releases/tag/v2.21.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 5 days ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 5 months ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (today)
-- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas plus index to my other repositories. (today)
-- [jazzycamel/micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google&#39;s Protocol Buffers (protobuf) for micropython (today)
-- [abey79/vsketch](https://github.com/abey79/vsketch) - Generative plotter art environment for Python (today)
-- [mapzy/mapzy](https://github.com/mapzy/mapzy) - Simple, open-source and self-hostable store finder. (today)
+- [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (1 day ago)
+- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas plus index to my other repositories. (1 day ago)
+- [jazzycamel/micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google&#39;s Protocol Buffers (protobuf) for micropython (1 day ago)
+- [abey79/vsketch](https://github.com/abey79/vsketch) - Generative plotter art environment for Python (1 day ago)
+- [mapzy/mapzy](https://github.com/mapzy/mapzy) - Simple, open-source and self-hostable store finder. (1 day ago)
