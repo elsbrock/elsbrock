@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — (today)
 - [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (1 day ago)
 - [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas plus index to my other repositories. (1 day ago)
 - [jazzycamel/micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google&#39;s Protocol Buffers (protobuf) for micropython (1 day ago)
 - [abey79/vsketch](https://github.com/abey79/vsketch) - Generative plotter art environment for Python (1 day ago)
-- [mapzy/mapzy](https://github.com/mapzy/mapzy) - Simple, open-source and self-hostable store finder. (1 day ago)
