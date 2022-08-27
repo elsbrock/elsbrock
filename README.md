@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.0](https://github.com/twpayne/chezmoi/releases/tag/v2.21.0), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.0](https://github.com/twpayne/chezmoi/releases/tag/v2.21.0), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 1 week ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance (1 day ago)
-- [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — (2 days ago)
-- [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (3 days ago)
-- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas plus index to my other repositories. (3 days ago)
-- [jazzycamel/micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google&#39;s Protocol Buffers (protobuf) for micropython (3 days ago)
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance (2 days ago)
+- [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — (3 days ago)
+- [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (4 days ago)
+- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas plus index to my other repositories. (4 days ago)
+- [jazzycamel/micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google&#39;s Protocol Buffers (protobuf) for micropython (4 days ago)
