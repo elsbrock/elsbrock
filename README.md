@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (today)
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (today)
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (1 day ago)
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance (3 days ago)
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — (4 days ago)
-- [e-radionicacom/Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - Micropython driver for Inkplate boards (5 days ago)
