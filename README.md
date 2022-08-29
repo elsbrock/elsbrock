@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.0](https://github.com/twpayne/chezmoi/releases/tag/v2.21.0), 6 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.1](https://github.com/twpayne/chezmoi/releases/tag/v2.21.1), today) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 1 week ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (today)
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (today)
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (1 day ago)
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 day ago)
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (2 days ago)
-- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance (4 days ago)
