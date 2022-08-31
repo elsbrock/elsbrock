@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.1](https://github.com/twpayne/chezmoi/releases/tag/v2.21.1), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.21.1](https://github.com/twpayne/chezmoi/releases/tag/v2.21.1), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.6.0](https://github.com/coder/code-server/releases/tag/v4.6.0), 1 week ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (today)
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (1 day ago)
-- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (1 day ago)
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (2 days ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (2 days ago)
+- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (1 day ago)
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (2 days ago)
+- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (2 days ago)
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (3 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (3 days ago)
