@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.22.0](https://github.com/twpayne/chezmoi/releases/tag/v2.22.0), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.6.1](https://github.com/coder/code-server/releases/tag/v4.6.1), 1 day ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.22.0](https://github.com/twpayne/chezmoi/releases/tag/v2.22.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.6.1](https://github.com/coder/code-server/releases/tag/v4.6.1), 2 days ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 2 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 4 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 5 months ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (1 day ago)
-- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (1 day ago)
-- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (2 days ago)
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (3 days ago)
-- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (3 days ago)
+- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (2 days ago)
+- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (2 days ago)
+- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (3 days ago)
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (4 days ago)
+- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (4 days ago)
