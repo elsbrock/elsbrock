@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.22.1](https://github.com/twpayne/chezmoi/releases/tag/v2.22.1), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.6.1](https://github.com/coder/code-server/releases/tag/v4.6.1), 5 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.22.1](https://github.com/twpayne/chezmoi/releases/tag/v2.22.1), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.6.1](https://github.com/coder/code-server/releases/tag/v4.6.1), 6 days ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 3 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 5 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 5 months ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (5 days ago)
-- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (5 days ago)
-- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (6 days ago)
+- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (6 days ago)
+- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (6 days ago)
+- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (1 week ago)
 - [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (1 week ago)
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (1 week ago)
