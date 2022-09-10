@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀 (today)
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (1 week ago)
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (1 week ago)
 - [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (1 week ago)
 - [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (1 week ago)
-- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust (1 week ago)
