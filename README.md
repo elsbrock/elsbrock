@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.7.0](https://github.com/coder/code-server/releases/tag/v4.7.0), 3 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.7.0](https://github.com/coder/code-server/releases/tag/v4.7.0), 4 days ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.22.1](https://github.com/twpayne/chezmoi/releases/tag/v2.22.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v0.10.0](https://github.com/ellie/atuin/releases/tag/v0.10.0), 3 months ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 5 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀 (2 days ago)
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀 (3 days ago)
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (1 week ago)
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (1 week ago)
-- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (1 week ago)
+- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (2 weeks ago)
 - [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme. (2 weeks ago)
