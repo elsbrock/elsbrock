@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (today)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (today)
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (2 days ago)
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀 (1 week ago)
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (2 weeks ago)
-- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile (2 weeks ago)
-- [mullvad/system-transparency](https://github.com/mullvad/system-transparency) -  (2 weeks ago)
