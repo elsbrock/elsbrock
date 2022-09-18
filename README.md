@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (today)
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (1 day ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 day ago)
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (3 days ago)
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀 (1 week ago)
-- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code (2 weeks ago)
