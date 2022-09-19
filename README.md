@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 5 days ago) - 🐢 Magical shell history
+- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 6 days ago) - 🐢 Magical shell history
 - [coder/code-server](https://github.com/coder/code-server) ([v4.7.0](https://github.com/coder/code-server/releases/tag/v4.7.0), 1 week ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.22.1](https://github.com/twpayne/chezmoi/releases/tag/v2.22.1), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 5 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web (today)
-- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (today)
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (1 day ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 day ago)
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (3 days ago)
+- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web (1 day ago)
+- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (1 day ago)
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (2 days ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 days ago)
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (4 days ago)
