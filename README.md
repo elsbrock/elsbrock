@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.23.0](https://github.com/twpayne/chezmoi/releases/tag/v2.23.0), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 6 days ago) - 🐢 Magical shell history
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.23.0](https://github.com/twpayne/chezmoi/releases/tag/v2.23.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 week ago) - 🐢 Magical shell history
 - [coder/code-server](https://github.com/coder/code-server) ([v4.7.0](https://github.com/coder/code-server/releases/tag/v4.7.0), 1 week ago) - VS Code in the browser
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 5 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 6 months ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web (1 day ago)
-- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (1 day ago)
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (2 days ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 days ago)
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (4 days ago)
+- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web (2 days ago)
+- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (2 days ago)
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (3 days ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 days ago)
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (5 days ago)
