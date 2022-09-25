@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant. (today)
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (today)
 - [webrcade/webrcade](https://github.com/webrcade/webrcade) - Feed-driven gaming (today)
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores (2 days ago)
 - [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (WIP) (2 days ago)
-- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web (1 week ago)
