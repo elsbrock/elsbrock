@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [webrcade/webrcade](https://github.com/webrcade/webrcade) - Feed-driven gaming (today)
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores (2 days ago)
 - [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (WIP) (2 days ago)
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web (1 week ago)
 - [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (1 week ago)
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh (1 week ago)
