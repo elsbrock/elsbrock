@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [openai/whisper](https://github.com/openai/whisper) -  (today)
 - [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) - golang plugin for asdf version manager https://github.com/asdf-vm/asdf (today)
 - [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster (today)
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant. (2 days ago)
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (2 days ago)
-- [webrcade/webrcade](https://github.com/webrcade/webrcade) - Feed-driven gaming (2 days ago)
