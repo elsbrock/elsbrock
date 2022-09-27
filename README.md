@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.24.0](https://github.com/twpayne/chezmoi/releases/tag/v2.24.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 week ago) - 🐢 Magical shell history
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.24.0](https://github.com/twpayne/chezmoi/releases/tag/v2.24.0), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 2 weeks ago) - 🐢 Magical shell history
 - [coder/code-server](https://github.com/coder/code-server) ([v4.7.0](https://github.com/coder/code-server/releases/tag/v4.7.0), 2 weeks ago) - VS Code in the browser
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 5 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 6 months ago) - Terraform module for Velero
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant. (1 day ago)
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (1 day ago)
-- [webrcade/webrcade](https://github.com/webrcade/webrcade) - Feed-driven gaming (1 day ago)
-- [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores (3 days ago)
-- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (WIP) (3 days ago)
+- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant. (2 days ago)
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (2 days ago)
+- [webrcade/webrcade](https://github.com/webrcade/webrcade) - Feed-driven gaming (2 days ago)
+- [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores (4 days ago)
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (WIP) (4 days ago)
