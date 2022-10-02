@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [tailscale/policies](https://github.com/tailscale/policies) - Security policies for Tailscale (today)
 - [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter (today)
 - [cbreak-black/ZetaWatch](https://github.com/cbreak-black/ZetaWatch) - ZFS OSX Menu Bar widget (3 days ago)
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers (3 days ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (5 days ago)
-- [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) - golang plugin for asdf version manager https://github.com/asdf-vm/asdf (5 days ago)
