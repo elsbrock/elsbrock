@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [mathieu-lemay/python-poetry](https://github.com/mathieu-lemay/python-poetry) - A Python Docker image with the `poetry` package manager preinstalled. (today)
 - [Cryptogenic/PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW (today)
 - [tailscale/policies](https://github.com/tailscale/policies) - Security policies for Tailscale (1 day ago)
 - [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter (1 day ago)
 - [cbreak-black/ZetaWatch](https://github.com/cbreak-black/ZetaWatch) - ZFS OSX Menu Bar widget (4 days ago)
-- [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers (4 days ago)
