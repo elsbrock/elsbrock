@@ -36,6 +36,6 @@
 
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs (today)
 - [mathieu-lemay/python-poetry](https://github.com/mathieu-lemay/python-poetry) - A Python Docker image with the `poetry` package manager preinstalled. (1 day ago)
-- [Cryptogenic/PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW (1 day ago)
+- [Cryptogenic/PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW (1 day ago)
 - [tailscale/policies](https://github.com/tailscale/policies) - Security policies for Tailscale (2 days ago)
 - [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter (2 days ago)
