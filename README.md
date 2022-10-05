@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.7.1](https://github.com/coder/code-server/releases/tag/v4.7.1), 4 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.7.1](https://github.com/coder/code-server/releases/tag/v4.7.1), 5 days ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.24.0](https://github.com/twpayne/chezmoi/releases/tag/v2.24.0), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 3 weeks ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 6 months ago) - Prometheus Service Discovery for Tailscale
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (3 months ago)
+- [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (4 months ago)
 - [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (4 months ago)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (5 months ago)
 - [Add multi-arch Docker image build](https://github.com/cfunkhouser/tailscalesd/pull/8) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (5 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs (today)
-- [mathieu-lemay/python-poetry](https://github.com/mathieu-lemay/python-poetry) - A Python Docker image with the `poetry` package manager preinstalled. (1 day ago)
-- [Cryptogenic/PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW (1 day ago)
-- [tailscale/policies](https://github.com/tailscale/policies) - Security policies for Tailscale (2 days ago)
-- [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter (2 days ago)
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs (1 day ago)
+- [mathieu-lemay/python-poetry](https://github.com/mathieu-lemay/python-poetry) - A Python Docker image with the `poetry` package manager preinstalled. (2 days ago)
+- [Cryptogenic/PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW (2 days ago)
+- [tailscale/policies](https://github.com/tailscale/policies) - Security policies for Tailscale (3 days ago)
+- [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter (3 days ago)
