@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments (today)
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.  (today)
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née &#39;nixos-config&#39;) (today)
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python (1 day ago)
-- [psy0rz/zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. Easy to use and very reliable. (1 day ago)
-- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs (2 days ago)
