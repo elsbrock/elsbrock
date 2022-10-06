@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.  (today)
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née &#39;nixos-config&#39;) (today)
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python (1 day ago)
 - [psy0rz/zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. Easy to use and very reliable. (1 day ago)
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs (2 days ago)
-- [mathieu-lemay/python-poetry](https://github.com/mathieu-lemay/python-poetry) - A Python Docker image with the `poetry` package manager preinstalled. (3 days ago)
-- [Cryptogenic/PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW (3 days ago)
