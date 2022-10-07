@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (today)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 week ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (3 months ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (4 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (today)
+- [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play (today)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments (1 day ago)
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.  (1 day ago)
-- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née &#39;nixos-config&#39;) (1 day ago)
-- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python (2 days ago)
