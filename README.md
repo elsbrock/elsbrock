@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware (today)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (today)
 - [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play (today)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments (1 day ago)
-- [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.  (1 day ago)
