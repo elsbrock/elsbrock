@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [cristianrz/piconyx](https://github.com/cristianrz/piconyx) - Command-line monitor for Tor Snowflake (today)
 - [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware (1 day ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 day ago)
 - [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play (1 day ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
-- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments (2 days ago)
