@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (today)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 day ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 week ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (3 months ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (4 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware (today)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (today)
-- [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play (today)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
-- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments (1 day ago)
+- [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware (1 day ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 day ago)
+- [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play (1 day ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments (2 days ago)
