@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (today)
 - [cristianrz/piconyx](https://github.com/cristianrz/piconyx) - Command-line monitor for Tor Snowflake (today)
 - [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware (1 day ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 day ago)
 - [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play (1 day ago)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
