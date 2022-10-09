@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. (today)
+- [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. (today)
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (today)
 - [ComfyFactory/ComfyFactorio](https://github.com/ComfyFactory/ComfyFactorio) - A compilation of factorio scenarios, featuring many different maps. (today)
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (1 day ago)
-- [cristianrz/piconyx](https://github.com/cristianrz/piconyx) - Command-line monitor for Tor Snowflake (1 day ago)
-- [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware (2 days ago)
