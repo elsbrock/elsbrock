@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly (today)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (today)
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. (1 day ago)
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. (1 day ago)
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (1 day ago)
-- [ComfyFactory/ComfyFactorio](https://github.com/ComfyFactory/ComfyFactorio) - A compilation of factorio scenarios, featuring many different maps. (1 day ago)
