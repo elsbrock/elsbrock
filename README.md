@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (5 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 days ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 weeks ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (4 months ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (4 months ago)
@@ -20,7 +20,7 @@
 
 - [coder/code-server](https://github.com/coder/code-server) ([v4.7.1](https://github.com/coder/code-server/releases/tag/v4.7.1), 1 week ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.24.0](https://github.com/twpayne/chezmoi/releases/tag/v2.24.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 4 weeks ago) - 🐢 Magical shell history
+- [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 6 months ago) - Prometheus Service Discovery for Tailscale
 - [nlamirault/terraform-google-velero](https://github.com/nlamirault/terraform-google-velero) ([v1.4.0](https://github.com/nlamirault/terraform-google-velero/releases/tag/v1.4.0), 6 months ago) - Terraform module for Velero
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi (1 day ago)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly (2 days ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 days ago)
-- [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi (2 days ago)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly (3 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 days ago)
+- [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. (4 days ago)
