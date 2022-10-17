@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (today)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons (1 day ago)
 - [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling (1 day ago)
 - [AgileProggers/archiv-backend](https://github.com/AgileProggers/archiv-backend) - Twitch archive backend using Go and FFmpeg (1 day ago)
 - [dscho/leave-me-alone-github-app](https://github.com/dscho/leave-me-alone-github-app) - A GitHub App that deletes any installation of itself (1 day ago)
-- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer (1 day ago)
