@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - Stock OS overhaul for Miyoo Mini  (today)
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (today)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (today)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (today)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons (1 day ago)
-- [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling (1 day ago)
-- [AgileProggers/archiv-backend](https://github.com/AgileProggers/archiv-backend) - Twitch archive backend using Go and FFmpeg (1 day ago)
