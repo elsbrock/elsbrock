@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow! (today)
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - Stock OS overhaul for Miyoo Mini  (1 day ago)
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (1 day ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (1 day ago)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 day ago)
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons (2 days ago)
