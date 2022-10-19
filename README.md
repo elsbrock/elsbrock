@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) - Automatically or manually send pages from your browser to your ArchiveBox for archival. (today)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (1 day ago)
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow! (1 day ago)
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - Stock OS overhaul for Miyoo Mini  (2 days ago)
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (2 days ago)
-- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (2 days ago)
