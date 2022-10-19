@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (today)
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web (today)
+- [hardbyte/python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers (today)
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) - Automatically or manually send pages from your browser to your ArchiveBox for archival. (today)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (1 day ago)
-- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow! (1 day ago)
-- [OnionUI/Onion](https://github.com/OnionUI/Onion) - Stock OS overhaul for Miyoo Mini  (2 days ago)
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (2 days ago)
