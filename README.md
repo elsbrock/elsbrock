@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (today)
 - [smithk86/asyncio-multisubscriber-queue](https://github.com/smithk86/asyncio-multisubscriber-queue) -  (today)
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing &amp; Payments Platform (today)
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (1 day ago)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web (1 day ago)
-- [hardbyte/python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers (1 day ago)
