@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [urob/zmk-nodefree-config](https://github.com/urob/zmk-nodefree-config) - Convenience macros simplifying ZMK&#39;s keymap configuration (today)
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python (today)
 - [joekottke/python-grpc-ssl](https://github.com/joekottke/python-grpc-ssl) - A simple Python gRPC service with mutual TLS authentication  (1 day ago)
 - [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (2 days ago)
 - [smithk86/asyncio-multisubscriber-queue](https://github.com/smithk86/asyncio-multisubscriber-queue) -  (2 days ago)
-- [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing &amp; Payments Platform (2 days ago)
