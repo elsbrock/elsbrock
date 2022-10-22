@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 day ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 days ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 weeks ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (4 months ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (5 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 5 days ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 6 days ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.25.0](https://github.com/twpayne/chezmoi/releases/tag/v2.25.0), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.7.1](https://github.com/coder/code-server/releases/tag/v4.7.1), 3 weeks ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [joekottke/python-grpc-ssl](https://github.com/joekottke/python-grpc-ssl) - A simple Python gRPC service with mutual TLS authentication  (today)
-- [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (1 day ago)
-- [smithk86/asyncio-multisubscriber-queue](https://github.com/smithk86/asyncio-multisubscriber-queue) -  (1 day ago)
-- [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing &amp; Payments Platform (1 day ago)
-- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (2 days ago)
+- [joekottke/python-grpc-ssl](https://github.com/joekottke/python-grpc-ssl) - A simple Python gRPC service with mutual TLS authentication  (1 day ago)
+- [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (2 days ago)
+- [smithk86/asyncio-multisubscriber-queue](https://github.com/smithk86/asyncio-multisubscriber-queue) -  (2 days ago)
+- [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing &amp; Payments Platform (2 days ago)
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (3 days ago)
