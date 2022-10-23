@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (today)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (4 months ago)
 - [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (5 months ago)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (5 months ago)
 - [Add multi-arch Docker image build](https://github.com/cfunkhouser/tailscalesd/pull/8) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (6 months ago)
-- [docs: personal access token not needed with `--ssh`](https://github.com/twpayne/chezmoi/pull/1818) on [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (9 months ago)
 
 #### ⭐ Recent Stars
 
