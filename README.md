@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 days ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 weeks ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (4 months ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (5 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 6 days ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 week ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.25.0](https://github.com/twpayne/chezmoi/releases/tag/v2.25.0), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.7.1](https://github.com/coder/code-server/releases/tag/v4.7.1), 3 weeks ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [urob/zmk-nodefree-config](https://github.com/urob/zmk-nodefree-config) - Convenience macros simplifying ZMK&#39;s keymap configuration (today)
-- [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python (today)
-- [joekottke/python-grpc-ssl](https://github.com/joekottke/python-grpc-ssl) - A simple Python gRPC service with mutual TLS authentication  (1 day ago)
-- [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (2 days ago)
-- [smithk86/asyncio-multisubscriber-queue](https://github.com/smithk86/asyncio-multisubscriber-queue) -  (2 days ago)
+- [urob/zmk-nodefree-config](https://github.com/urob/zmk-nodefree-config) - Convenience macros simplifying ZMK&#39;s keymap configuration (1 day ago)
+- [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python (1 day ago)
+- [joekottke/python-grpc-ssl](https://github.com/joekottke/python-grpc-ssl) - A simple Python gRPC service with mutual TLS authentication  (2 days ago)
+- [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (3 days ago)
+- [smithk86/asyncio-multisubscriber-queue](https://github.com/smithk86/asyncio-multisubscriber-queue) -  (3 days ago)
