@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor thumbnail server in Go and ffmpeg C bindings (today)
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS (1 day ago)
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite. (1 day ago)
 - [Grokitach/Stalker_GAMMA](https://github.com/Grokitach/Stalker_GAMMA) - S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files. (1 day ago)
 - [urob/zmk-nodefree-config](https://github.com/urob/zmk-nodefree-config) - Convenience macros simplifying ZMK&#39;s keymap configuration (2 days ago)
-- [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python (2 days ago)
