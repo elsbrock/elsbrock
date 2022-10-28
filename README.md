@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (today)
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings (4 days ago)
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS (5 days ago)
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite. (5 days ago)
 - [Grokitach/Stalker_GAMMA](https://github.com/Grokitach/Stalker_GAMMA) - S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files. (5 days ago)
-- [urob/zmk-nodefree-config](https://github.com/urob/zmk-nodefree-config) - Convenience macros simplifying ZMK&#39;s keymap configuration (6 days ago)
