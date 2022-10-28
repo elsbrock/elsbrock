@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.8.1-rc.1](https://github.com/coder/code-server/releases/tag/v4.8.1-rc.1), 2 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.8.1](https://github.com/coder/code-server/releases/tag/v4.8.1), today) - VS Code in the browser
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 week ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.25.0](https://github.com/twpayne/chezmoi/releases/tag/v2.25.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
