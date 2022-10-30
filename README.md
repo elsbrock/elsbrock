@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.8.1](https://github.com/coder/code-server/releases/tag/v4.8.1), 1 day ago) - VS Code in the browser
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 week ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [coder/code-server](https://github.com/coder/code-server) ([v4.8.1](https://github.com/coder/code-server/releases/tag/v4.8.1), 2 days ago) - VS Code in the browser
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.25.0](https://github.com/twpayne/chezmoi/releases/tag/v2.25.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 6 months ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
 
-- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (6 days ago)
+- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (1 week ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (4 months ago)
 - [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (5 months ago)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (6 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more. (today)
-- [grpc-ecosystem/go-grpc-prometheus](https://github.com/grpc-ecosystem/go-grpc-prometheus) - Prometheus monitoring for your gRPC Go servers. (today)
-- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (1 day ago)
-- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings (5 days ago)
-- [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS (6 days ago)
+- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more. (1 day ago)
+- [grpc-ecosystem/go-grpc-prometheus](https://github.com/grpc-ecosystem/go-grpc-prometheus) - Prometheus monitoring for your gRPC Go servers. (1 day ago)
+- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (2 days ago)
+- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings (6 days ago)
+- [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS (1 week ago)
