@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.26.0](https://github.com/twpayne/chezmoi/releases/tag/v2.26.0), today) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.8.1](https://github.com/coder/code-server/releases/tag/v4.8.1), 3 days ago) - VS Code in the browser
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.25.0](https://github.com/twpayne/chezmoi/releases/tag/v2.25.0), 2 weeks ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 6 months ago) - Prometheus Service Discovery for Tailscale
 
