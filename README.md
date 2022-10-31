@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [BlueKrypto/k3os](https://github.com/BlueKrypto/k3os) -  (today)
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site. (today)
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman (1 day ago)
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more. (2 days ago)
 - [grpc-ecosystem/go-grpc-prometheus](https://github.com/grpc-ecosystem/go-grpc-prometheus) - Prometheus monitoring for your gRPC Go servers. (2 days ago)
-- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (3 days ago)
