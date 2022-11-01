@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [4n4nd/prometheus-api-client-python](https://github.com/4n4nd/prometheus-api-client-python) - A python wrapper for the prometheus http api (today)
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns. (today)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar (1 day ago)
 - [BlueKrypto/k3os](https://github.com/BlueKrypto/k3os) -  (1 day ago)
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site. (1 day ago)
-- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman (2 days ago)
