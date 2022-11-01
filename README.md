@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s (today)
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available  (today)
 - [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator (today)
 - [4n4nd/prometheus-api-client-python](https://github.com/4n4nd/prometheus-api-client-python) - A python wrapper for the prometheus http api (today)
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns. (today)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar (1 day ago)
-- [BlueKrypto/k3os](https://github.com/BlueKrypto/k3os) -  (1 day ago)
