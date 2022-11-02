@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk (today)
+- [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers &amp; workstations) up to date. (today)
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s (1 day ago)
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available  (1 day ago)
 - [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator (1 day ago)
-- [4n4nd/prometheus-api-client-python](https://github.com/4n4nd/prometheus-api-client-python) - A python wrapper for the prometheus http api (1 day ago)
-- [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns. (1 day ago)
