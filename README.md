@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters. (today)
+- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF (today)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (today)
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (today)
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk (1 day ago)
-- [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers &amp; workstations) up to date. (1 day ago)
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s (2 days ago)
