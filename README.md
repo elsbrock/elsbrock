@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (today)
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk (1 day ago)
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers &amp; workstations) up to date. (1 day ago)
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s (2 days ago)
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available  (2 days ago)
-- [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator (2 days ago)
