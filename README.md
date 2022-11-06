@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (today)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 day ago)
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring (2 days ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (2 days ago)
 - [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters. (3 days ago)
-- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF (3 days ago)
