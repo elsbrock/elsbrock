@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (6 days ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 week ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 weeks ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (4 months ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (5 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.8.2](https://github.com/coder/code-server/releases/tag/v4.8.2), 3 days ago) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.26.0](https://github.com/twpayne/chezmoi/releases/tag/v2.26.0), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [coder/code-server](https://github.com/coder/code-server) ([v4.8.2](https://github.com/coder/code-server/releases/tag/v4.8.2), 4 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.26.0](https://github.com/twpayne/chezmoi/releases/tag/v2.26.0), 6 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 3 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [ellie/atuin](https://github.com/ellie/atuin) ([v11.0.0](https://github.com/ellie/atuin/releases/tag/v11.0.0), 1 month ago) - 🐢 Magical shell history
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 7 months ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
 
-- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (1 week ago)
+- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (2 weeks ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (5 months ago)
 - [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (5 months ago)
 - [docs: update README: add installation section](https://github.com/cfunkhouser/tailscalesd/pull/9) on [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) (6 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
-- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring (1 day ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (1 day ago)
-- [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters. (2 days ago)
-- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF (2 days ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 day ago)
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring (2 days ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (2 days ago)
+- [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters. (3 days ago)
+- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF (3 days ago)
