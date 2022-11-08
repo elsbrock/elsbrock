@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (2 days ago)
 - [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (2 days ago)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring (4 days ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (4 days ago)
