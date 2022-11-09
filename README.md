@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.8.3](https://github.com/coder/code-server/releases/tag/v4.8.3), 1 day ago) - VS Code in the browser
-- [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 2 days ago) - 🐢 Magical shell history
+- [coder/code-server](https://github.com/coder/code-server) ([v4.8.3](https://github.com/coder/code-server/releases/tag/v4.8.3), 2 days ago) - VS Code in the browser
+- [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 3 days ago) - 🐢 Magical shell history
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.26.0](https://github.com/twpayne/chezmoi/releases/tag/v2.26.0), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 3 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 7 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
-- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (2 days ago)
-- [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (2 days ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
-- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring (4 days ago)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (1 day ago)
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (3 days ago)
+- [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (3 days ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (4 days ago)
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring (5 days ago)
