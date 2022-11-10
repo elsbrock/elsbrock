@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (today)
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (1 day ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (2 days ago)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (4 days ago)
 - [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (4 days ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (5 days ago)
