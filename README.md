@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.1](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.1), 1 day ago) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.0](https://github.com/twpayne/chezmoi/releases/tag/v2.27.0), 2 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 5 days ago) - 🐢 Magical shell history
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.1](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.1), 2 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.0](https://github.com/twpayne/chezmoi/releases/tag/v2.27.0), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 6 days ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 3 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 7 months ago) - Prometheus Service Discovery for Tailscale
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (1 day ago)
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (2 days ago)
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (3 days ago)
-- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (5 days ago)
-- [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (5 days ago)
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (2 days ago)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (3 days ago)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (4 days ago)
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (6 days ago)
+- [taylorchu/wait-for](https://github.com/taylorchu/wait-for) - A command line tool to wait for network healthy state to start another command, and then wait for network unhealthy state to stop it. (6 days ago)
