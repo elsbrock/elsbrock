@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (today)
 - [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (1 day ago)
 - [MrMarble/zmk-viewer](https://github.com/MrMarble/zmk-viewer) - cli tool to generate preview images from a zmk .keymap file (1 day ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (1 day ago)
 - [sijms/go-ora](https://github.com/sijms/go-ora) - Pure go oracle client (6 days ago)
-- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite (1 week ago)
