@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (1 day ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 days ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (1 week ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 weeks ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (today)
-- [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (1 day ago)
-- [MrMarble/zmk-viewer](https://github.com/MrMarble/zmk-viewer) - cli tool to generate preview images from a zmk .keymap file (1 day ago)
-- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (1 day ago)
-- [sijms/go-ora](https://github.com/sijms/go-ora) - Pure go oracle client (6 days ago)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (1 day ago)
+- [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (2 days ago)
+- [MrMarble/zmk-viewer](https://github.com/MrMarble/zmk-viewer) - cli tool to generate preview images from a zmk .keymap file (2 days ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (2 days ago)
+- [sijms/go-ora](https://github.com/sijms/go-ora) - Pure go oracle client (1 week ago)
