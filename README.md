@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (today)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (2 days ago)
 - [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (3 days ago)
 - [MrMarble/zmk-viewer](https://github.com/MrMarble/zmk-viewer) - cli tool to generate preview images from a zmk .keymap file (3 days ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (3 days ago)
-- [sijms/go-ora](https://github.com/sijms/go-ora) - Pure go oracle client (1 week ago)
