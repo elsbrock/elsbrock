@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (3 days ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (4 days ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (1 week ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.1](https://github.com/twpayne/chezmoi/releases/tag/v2.27.1), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.2](https://github.com/twpayne/chezmoi/releases/tag/v2.27.2), today) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.1](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.1), 2 weeks ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 2 weeks ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 month ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (today)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (2 days ago)
-- [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (3 days ago)
-- [MrMarble/zmk-viewer](https://github.com/MrMarble/zmk-viewer) - cli tool to generate preview images from a zmk .keymap file (3 days ago)
-- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (3 days ago)
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (1 day ago)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (3 days ago)
+- [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (4 days ago)
+- [MrMarble/zmk-viewer](https://github.com/MrMarble/zmk-viewer) - cli tool to generate preview images from a zmk .keymap file (4 days ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (4 days ago)
