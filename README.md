@@ -5,7 +5,7 @@
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (1 week ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 weeks ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 weeks ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (5 months ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.2](https://github.com/twpayne/chezmoi/releases/tag/v2.27.2), 3 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.2](https://github.com/twpayne/chezmoi/releases/tag/v2.27.2), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.1](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.1), 2 weeks ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 3 weeks ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 month ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services (2 days ago)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (2 days ago)
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (4 days ago)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (6 days ago)
+- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services (3 days ago)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (3 days ago)
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (5 days ago)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease (1 week ago)
 - [thinkJD/Adv360-Pro-ZMK](https://github.com/thinkJD/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine (1 week ago)
