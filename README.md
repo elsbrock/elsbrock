@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.3](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.3), today) - VS Code in the browser
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.2](https://github.com/twpayne/chezmoi/releases/tag/v2.27.2), 6 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.3](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.3), 1 day ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.2](https://github.com/twpayne/chezmoi/releases/tag/v2.27.2), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 3 weeks ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 month ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 7 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (today)
-- [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links (today)
-- [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js (today)
-- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (2 days ago)
-- [Kethen/edk2](https://github.com/Kethen/edk2) - EDK II (2 days ago)
+- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (1 day ago)
+- [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links (1 day ago)
+- [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js (1 day ago)
+- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (3 days ago)
+- [Kethen/edk2](https://github.com/Kethen/edk2) - EDK II (3 days ago)
