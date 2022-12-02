@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (today)
 - [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (1 day ago)
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links (1 day ago)
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js (1 day ago)
 - [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (3 days ago)
-- [Kethen/edk2](https://github.com/Kethen/edk2) - EDK II (3 days ago)
