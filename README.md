@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (today)
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (today)
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (1 day ago)
 - [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (2 days ago)
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links (2 days ago)
-- [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js (2 days ago)
