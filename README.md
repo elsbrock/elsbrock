@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (1 week ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 weeks ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (3 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 weeks ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.4](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.4), 2 days ago) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.4](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.4), 3 days ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.2](https://github.com/twpayne/chezmoi/releases/tag/v2.27.2), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 4 weeks ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 month ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (today)
-- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (1 day ago)
-- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (1 day ago)
-- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (2 days ago)
-- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (3 days ago)
+- [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (1 day ago)
+- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (2 days ago)
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (2 days ago)
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (3 days ago)
+- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (4 days ago)
