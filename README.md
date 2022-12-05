@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (today)
 - [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (1 day ago)
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (2 days ago)
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (2 days ago)
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (3 days ago)
-- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (4 days ago)
