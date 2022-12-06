@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.3](https://github.com/twpayne/chezmoi/releases/tag/v2.27.3), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.4](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.4), 3 days ago) - VS Code in the browser
-- [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 4 weeks ago) - 🐢 Magical shell history
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.3](https://github.com/twpayne/chezmoi/releases/tag/v2.27.3), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.0-rc.4](https://github.com/coder/code-server/releases/tag/v4.9.0-rc.4), 4 days ago) - VS Code in the browser
+- [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 1 month ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 1 month ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 8 months ago) - Prometheus Service Discovery for Tailscale
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (today)
-- [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (1 day ago)
-- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (2 days ago)
-- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (2 days ago)
-- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (3 days ago)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (1 day ago)
+- [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (2 days ago)
+- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (3 days ago)
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (3 days ago)
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (4 days ago)
