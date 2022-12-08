@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (today)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 weeks ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (3 weeks ago)
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 weeks ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (5 months ago)
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (today)
+- [fkhan0520/cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions) -  (today)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web (today)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (3 days ago)
-- [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (4 days ago)
-- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (5 days ago)
