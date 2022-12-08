@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
+- [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web (today)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (3 days ago)
 - [falleng0d/ai-downloader](https://github.com/falleng0d/ai-downloader) - A python file downloader almost entirely made by OpenAi Codex, with just a few human optimizations. (4 days ago)
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code. (5 days ago)
-- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly (5 days ago)
-- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library (6 days ago)
