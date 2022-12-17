@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), today) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), 1 day ago) - VS Code in the browser
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.27.3](https://github.com/twpayne/chezmoi/releases/tag/v2.27.3), 1 week ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 1 month ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (1 day ago)
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (1 day ago)
+- [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (2 days ago)
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (2 days ago)
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (1 week ago)
 - [fkhan0520/cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions) -  (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
