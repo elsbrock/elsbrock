@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (3 weeks ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (4 weeks ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (6 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.28.0](https://github.com/twpayne/chezmoi/releases/tag/v2.28.0), today) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), 2 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.28.0](https://github.com/twpayne/chezmoi/releases/tag/v2.28.0), 1 day ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), 3 days ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 1 month ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 8 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites (1 day ago)
-- [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (3 days ago)
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (3 days ago)
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites (2 days ago)
+- [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (4 days ago)
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (4 days ago)
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (1 week ago)
 - [fkhan0520/cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions) -  (1 week ago)
