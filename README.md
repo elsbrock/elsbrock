@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (today)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (1 day ago)
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites (3 days ago)
 - [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (5 days ago)
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (5 days ago)
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (1 week ago)
