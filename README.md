@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (today)
 - [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (1 day ago)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (2 days ago)
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites (4 days ago)
 - [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (6 days ago)
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (6 days ago)
