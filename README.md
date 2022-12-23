@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.28.0](https://github.com/twpayne/chezmoi/releases/tag/v2.28.0), 4 days ago) - Manage your dotfiles across multiple diverse machines, securely.
-- [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), 6 days ago) - VS Code in the browser
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.28.0](https://github.com/twpayne/chezmoi/releases/tag/v2.28.0), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), 1 week ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 1 month ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 8 months ago) - Prometheus Service Discovery for Tailscale
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (1 day ago)
-- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (2 days ago)
-- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (3 days ago)
-- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites (5 days ago)
+- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (2 days ago)
+- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (3 days ago)
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (4 days ago)
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites (6 days ago)
 - [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release (1 week ago)
