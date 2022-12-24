@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.28.0](https://github.com/twpayne/chezmoi/releases/tag/v2.28.0), 5 days ago) - Manage your dotfiles across multiple diverse machines, securely.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ([v2.28.0](https://github.com/twpayne/chezmoi/releases/tag/v2.28.0), 6 days ago) - Manage your dotfiles across multiple diverse machines, securely.
 - [coder/code-server](https://github.com/coder/code-server) ([v4.9.1](https://github.com/coder/code-server/releases/tag/v4.9.1), 1 week ago) - VS Code in the browser
 - [ellie/atuin](https://github.com/ellie/atuin) ([v12.0.0](https://github.com/ellie/atuin/releases/tag/v12.0.0), 1 month ago) - 🐢 Magical shell history
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 2 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (today)
-- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (today)
-- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (2 days ago)
-- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (3 days ago)
-- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (4 days ago)
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (1 day ago)
+- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (1 day ago)
+- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (3 days ago)
+- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (4 days ago)
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (5 days ago)
