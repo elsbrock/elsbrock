@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (2 days ago)
-- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (2 days ago)
-- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (4 days ago)
-- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (5 days ago)
-- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (6 days ago)
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (3 days ago)
+- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (3 days ago)
+- [leoncvlt/blinkist-scraper](https://github.com/leoncvlt/blinkist-scraper) - 📚 Python tool to download book summaries and audio from Blinkist.com, and generate some pretty output (5 days ago)
+- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS (6 days ago)
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (1 week ago)
