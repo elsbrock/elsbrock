@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar. (1 day ago)
+- [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar. (2 days ago)
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools (2 weeks ago)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (2 weeks ago)
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching. (2 weeks ago)
