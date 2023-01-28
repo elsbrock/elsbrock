@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (today)
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (5 days ago)
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux. (6 days ago)
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar. (1 week ago)
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools (4 weeks ago)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 month ago)
