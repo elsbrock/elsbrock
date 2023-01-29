@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (today)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (today)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 day ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 day ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (7 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 5 days ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 6 days ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 3 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 9 months ago) - Prometheus Service Discovery for Tailscale
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (today)
-- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (today)
-- [horriblename/lfimg-sixel](https://github.com/horriblename/lfimg-sixel) - Image preview support for lf-sixel (today)
-- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (today)
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (5 days ago)
+- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (1 day ago)
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (1 day ago)
+- [horriblename/lfimg-sixel](https://github.com/horriblename/lfimg-sixel) - Image preview support for lf-sixel (1 day ago)
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 day ago)
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (6 days ago)
