@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (today)
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (1 day ago)
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (1 day ago)
 - [horriblename/lfimg-sixel](https://github.com/horriblename/lfimg-sixel) - Image preview support for lf-sixel (1 day ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 day ago)
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (6 days ago)
