@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 days ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (4 days ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 days ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (7 months ago)
@@ -20,7 +20,7 @@
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 week ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 3 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
-- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 9 months ago) - Prometheus Service Discovery for Tailscale
+- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 10 months ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment. (2 days ago)
-- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (2 days ago)
-- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (3 days ago)
-- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (3 days ago)
-- [horriblename/lfimg-sixel](https://github.com/horriblename/lfimg-sixel) - Image preview support for lf-sixel (3 days ago)
+- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment. (3 days ago)
+- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (3 days ago)
+- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (4 days ago)
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (4 days ago)
+- [horriblename/lfimg-sixel](https://github.com/horriblename/lfimg-sixel) - Image preview support for lf-sixel (4 days ago)
