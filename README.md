@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (4 days ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (5 days ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (5 days ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (7 months ago)
@@ -27,13 +27,13 @@
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (2 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (2 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (3 months ago)
-- [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (7 months ago)
+- [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (8 months ago)
 - [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (today)
-- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services. (today)
-- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment. (3 days ago)
-- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (3 days ago)
-- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (4 days ago)
+- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (1 day ago)
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services. (1 day ago)
+- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment. (4 days ago)
+- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (4 days ago)
+- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls (5 days ago)
