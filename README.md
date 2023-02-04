@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 days ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (6 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 week ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (2 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (7 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [pnbruckner/ha-illuminance](https://github.com/pnbruckner/ha-illuminance) - Home Assistant Illuminance Sensor (1 day ago)
-- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (2 days ago)
-- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services. (2 days ago)
-- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment. (5 days ago)
-- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (5 days ago)
+- [pnbruckner/ha-illuminance](https://github.com/pnbruckner/ha-illuminance) - Home Assistant Illuminance Sensor (2 days ago)
+- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (3 days ago)
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services. (3 days ago)
+- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment. (6 days ago)
+- [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry&#39;s blog (6 days ago)
