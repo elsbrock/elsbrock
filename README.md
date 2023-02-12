@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (today)
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (2 days ago)
 - [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop (2 days ago)
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (3 days ago)
 - [pnbruckner/ha-illuminance](https://github.com/pnbruckner/ha-illuminance) - Home Assistant Illuminance Sensor (1 week ago)
-- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (1 week ago)
