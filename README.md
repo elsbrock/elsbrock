@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 3 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 3 weeks ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 4 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 10 months ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (today)
-- [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (2 days ago)
-- [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop (2 days ago)
-- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (3 days ago)
+- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (1 day ago)
+- [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (3 days ago)
+- [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop (3 days ago)
+- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (4 days ago)
 - [pnbruckner/ha-illuminance](https://github.com/pnbruckner/ha-illuminance) - Home Assistant Illuminance Sensor (1 week ago)
