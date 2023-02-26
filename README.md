@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (today)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
 - [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (today)
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (3 days ago)
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative (3 days ago)
-- [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework (1 week ago)
