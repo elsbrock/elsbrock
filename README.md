@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (today)
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (3 days ago)
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative (3 days ago)
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework (1 week ago)
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (1 week ago)
-- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (2 weeks ago)
