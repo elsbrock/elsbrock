@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 days ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 weeks ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 week ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (3 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (3 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (8 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (today)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
-- [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (today)
-- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (3 days ago)
-- [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative (3 days ago)
+- [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (1 day ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 day ago)
+- [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (1 day ago)
+- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (4 days ago)
+- [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative (4 days ago)
