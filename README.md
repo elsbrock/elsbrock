@@ -20,7 +20,7 @@
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 4 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
-- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 10 months ago) - Prometheus Service Discovery for Tailscale
+- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 11 months ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (1 day ago)
-- [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (4 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 days ago)
-- [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (4 days ago)
+- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (2 days ago)
+- [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (5 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (5 days ago)
+- [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (5 days ago)
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (1 week ago)
