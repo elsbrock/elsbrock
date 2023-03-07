@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (1 day ago)
-- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (5 days ago)
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (2 days ago)
+- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (6 days ago)
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (1 week ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 week ago)
 - [ldotlopez/ha-historical-sensor](https://github.com/ldotlopez/ha-historical-sensor) - Historical sensors for Home Assistant (1 week ago)
