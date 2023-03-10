@@ -6,7 +6,7 @@
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (3 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (3 months ago)
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (8 months ago)
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (2 days ago)
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (2 days ago)
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (4 days ago)
+- [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (3 days ago)
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (3 days ago)
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (5 days ago)
 - [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (1 week ago)
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (1 week ago)
