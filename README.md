@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (6 days ago)
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (6 days ago)
+- [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (1 week ago)
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (1 week ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (1 week ago)
 - [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (1 week ago)
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (2 weeks ago)
