@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 month ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 4 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 5 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 11 months ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
@@ -35,5 +35,5 @@
 - [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (1 week ago)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (1 week ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (1 week ago)
-- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (1 week ago)
+- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (2 weeks ago)
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R (2 weeks ago)
