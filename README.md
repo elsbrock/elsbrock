@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (today)
+- [foorschtbar/LoRaProMini](https://github.com/foorschtbar/LoRaProMini) - A low power LoRaWAN Node (today)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 day ago)
 - [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (1 week ago)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (1 week ago)
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (2 weeks ago)
-- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (2 weeks ago)
