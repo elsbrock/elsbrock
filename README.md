@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 weeks ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (4 weeks ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (3 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (4 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (today)
-- [foorschtbar/LoRaProMini](https://github.com/foorschtbar/LoRaProMini) - A low power LoRaWAN Node (today)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 day ago)
+- [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (1 day ago)
+- [foorschtbar/LoRaProMini](https://github.com/foorschtbar/LoRaProMini) - A low power LoRaWAN Node (1 day ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (2 days ago)
 - [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (1 week ago)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (1 week ago)
