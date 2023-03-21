@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B&#43; language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading (today)
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM (1 day ago)
 - [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (2 days ago)
 - [foorschtbar/LoRaProMini](https://github.com/foorschtbar/LoRaProMini) - A low power LoRaWAN Node (2 days ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 days ago)
-- [windmill-labs/windmill-helm-charts](https://github.com/windmill-labs/windmill-helm-charts) -  (2 weeks ago)
