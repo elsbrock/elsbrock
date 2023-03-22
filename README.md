@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (today)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (today)
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (today)
 - [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (today)
 - [travisgoodspeed/gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial) - Tutorial for extracting the GameBoy ROM from photographs of the die. (today)
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B&#43; language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading (1 day ago)
