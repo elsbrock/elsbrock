@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (today)
+- [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (today)
+- [travisgoodspeed/gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial) - Tutorial for extracting the GameBoy ROM from photographs of the die. (today)
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B&#43; language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading (1 day ago)
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM (2 days ago)
-- [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (3 days ago)
-- [foorschtbar/LoRaProMini](https://github.com/foorschtbar/LoRaProMini) - A low power LoRaWAN Node (3 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 days ago)
