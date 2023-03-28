@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (5 days ago)
-- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (5 days ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (5 days ago)
-- [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (5 days ago)
-- [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (5 days ago)
+- [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (6 days ago)
+- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (6 days ago)
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (6 days ago)
+- [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (6 days ago)
+- [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (6 days ago)
