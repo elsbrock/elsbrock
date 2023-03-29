@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (4 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (4 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (9 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (6 days ago)
-- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (6 days ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (6 days ago)
-- [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (6 days ago)
-- [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (6 days ago)
+- [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (1 week ago)
+- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (1 week ago)
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
+- [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (1 week ago)
+- [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (1 week ago)
