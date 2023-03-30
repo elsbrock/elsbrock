@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (today)
 - [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (1 week ago)
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (1 week ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool (1 week ago)
-- [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool) - A CAD tool for extracting bits from Mask ROM photographs. (1 week ago)
