@@ -20,7 +20,7 @@
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 5 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
-- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 11 months ago) - Prometheus Service Discovery for Tailscale
+- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 1 year ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
 
@@ -32,7 +32,7 @@
 
 #### ⭐ Recent Stars
 
-- [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (2 days ago)
+- [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (3 days ago)
 - [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (1 week ago)
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation. (1 week ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
