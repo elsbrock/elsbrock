@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (today)
 - [bfritscher/carnac](https://github.com/bfritscher/carnac) - A utility to give some insight into how you use your keyboard (today)
 - [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (1 week ago)
 - [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (2 weeks ago)
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, globals and more to Terraform. (2 weeks ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (2 weeks ago)
