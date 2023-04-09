@@ -6,7 +6,7 @@
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (4 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (4 months ago)
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (9 months ago)
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (today)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 days ago)
-- [bfritscher/carnac](https://github.com/bfritscher/carnac) - A utility to give some insight into how you use your keyboard (2 days ago)
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (1 day ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (3 days ago)
+- [bfritscher/carnac](https://github.com/bfritscher/carnac) - A utility to give some insight into how you use your keyboard (3 days ago)
 - [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (1 week ago)
 - [olavmrk/usb-libvirt-hotplug](https://github.com/olavmrk/usb-libvirt-hotplug) - Script to attach and detach USB devices from libvirt virtual machines based on udev rules. (2 weeks ago)
