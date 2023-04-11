@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (today)
 - [reivaxy/iotFeeder](https://github.com/reivaxy/iotFeeder) - Fish feeder using ESP8266 and a stepper motor. (1 day ago)
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (3 days ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (5 days ago)
-- [bfritscher/carnac](https://github.com/bfritscher/carnac) - A utility to give some insight into how you use your keyboard (5 days ago)
-- [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (1 week ago)
