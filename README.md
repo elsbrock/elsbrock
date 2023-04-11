@@ -5,7 +5,7 @@
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (4 months ago)
-- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (4 months ago)
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (5 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (10 months ago)
 
 #### 🌱 My latest projects
@@ -24,16 +24,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (4 months ago)
-- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (4 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (5 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (5 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (5 months ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (10 months ago)
 - [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [reivaxy/iotFeeder](https://github.com/reivaxy/iotFeeder) - Fish feeder using ESP8266 and a stepper motor. (today)
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (2 days ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (4 days ago)
-- [bfritscher/carnac](https://github.com/bfritscher/carnac) - A utility to give some insight into how you use your keyboard (4 days ago)
+- [reivaxy/iotFeeder](https://github.com/reivaxy/iotFeeder) - Fish feeder using ESP8266 and a stepper motor. (1 day ago)
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (3 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (5 days ago)
+- [bfritscher/carnac](https://github.com/bfritscher/carnac) - A utility to give some insight into how you use your keyboard (5 days ago)
 - [node-saml/node-saml](https://github.com/node-saml/node-saml) - A SAML library not dependent on any frameworks that runs in Node. (1 week ago)
