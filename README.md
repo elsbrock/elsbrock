@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 day ago)
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (1 day ago)
-- [reivaxy/iotFeeder](https://github.com/reivaxy/iotFeeder) - Fish feeder using ESP8266 and a stepper motor. (2 days ago)
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (4 days ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (6 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (2 days ago)
+- [reivaxy/iotFeeder](https://github.com/reivaxy/iotFeeder) - Fish feeder using ESP8266 and a stepper motor. (3 days ago)
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. (5 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
