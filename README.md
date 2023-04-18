@@ -20,7 +20,6 @@
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.2.4](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.2.4), 6 months ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
-- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.2.2](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.2.2), 1 year ago) - Prometheus Service Discovery for Tailscale
 
 #### 🔨 My recent Pull Requests
 
@@ -32,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Fast, in-memory caching module for JavaScript. Inspired by Redis. (today)
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when you need caching but running Redis or Memcached would be an overkill. (today)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 day ago)
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (2 days ago)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (2 days ago)
