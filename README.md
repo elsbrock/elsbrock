@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when you need caching but running Redis or Memcached would be an overkill. (today)
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 day ago)
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (2 days ago)
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (2 days ago)
-- [darthcloud/BlueRetro](https://github.com/darthcloud/BlueRetro) - Multiplayer Bluetooth controllers adapter for retro video game consoles (4 days ago)
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when you need caching but running Redis or Memcached would be an overkill. (1 day ago)
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (2 days ago)
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (3 days ago)
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (3 days ago)
+- [darthcloud/BlueRetro](https://github.com/darthcloud/BlueRetro) - Multiplayer Bluetooth controllers adapter for retro video game consoles (5 days ago)
