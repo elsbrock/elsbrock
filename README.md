@@ -4,7 +4,7 @@
 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (4 months ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (5 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (5 months ago)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (10 months ago)
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill. (1 day ago)
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (2 days ago)
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (3 days ago)
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (3 days ago)
-- [darthcloud/BlueRetro](https://github.com/darthcloud/BlueRetro) - Multiplayer Bluetooth controllers adapter for retro video game consoles (5 days ago)
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill. (2 days ago)
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (3 days ago)
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (4 days ago)
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (4 days ago)
+- [darthcloud/BlueRetro](https://github.com/darthcloud/BlueRetro) - Multiplayer Bluetooth controllers adapter for retro video game consoles (6 days ago)
