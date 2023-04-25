@@ -23,16 +23,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (today)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (5 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (5 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (6 months ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (10 months ago)
-- [docs: fix description for `-o`](https://github.com/nix-community/nixos-generators/pull/154) on [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) (11 months ago)
 
 #### ⭐ Recent Stars
 
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. (today)
+- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A &#39;CSS reset&#39; for TypeScript, improving types for common JavaScript API&#39;s (today)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (today)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (today)
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME (today)
-- [Spritetm/picframe_colepd](https://github.com/Spritetm/picframe_colepd) - A WiFi picture frame allowing for remote photo uploads, using an ESP32-C3 and a 5.6&#34; color E-ink display (today)
-- [shaunnarayan/cytev2](https://github.com/shaunnarayan/cytev2) - MacOS background screen recorder/reader for easy history search (5 days ago)
-- [micw/tibber-pulse-reader](https://github.com/micw/tibber-pulse-reader) - A tool to read data directly from tibber pulse and publish it locally (5 days ago)
