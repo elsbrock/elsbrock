@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (today)
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME (today)
 - [Spritetm/picframe_colepd](https://github.com/Spritetm/picframe_colepd) - A WiFi picture frame allowing for remote photo uploads, using an ESP32-C3 and a 5.6&#34; color E-ink display (today)
 - [shaunnarayan/cytev2](https://github.com/shaunnarayan/cytev2) - MacOS background screen recorder/reader for easy history search (5 days ago)
 - [micw/tibber-pulse-reader](https://github.com/micw/tibber-pulse-reader) - A tool to read data directly from tibber pulse and publish it locally (5 days ago)
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill. (1 week ago)
