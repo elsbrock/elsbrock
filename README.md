@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (today)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (5 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (5 months ago)
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,6 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.3.0](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.3.0), 1 day ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.1.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.1.1), 1 week ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 3 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
