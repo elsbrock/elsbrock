@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration (2 days ago)
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs (2 days ago)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. (3 days ago)
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A &#39;CSS reset&#39; for TypeScript, improving types for common JavaScript API&#39;s (3 days ago)
