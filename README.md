@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [millercentral/hassio_appliance-status-monitor](https://github.com/millercentral/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨ (today)
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#) (1 day ago)
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin (2 days ago)
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money (2 days ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration (4 days ago)
