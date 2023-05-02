@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (today)
 - [millercentral/hassio_appliance-status-monitor](https://github.com/millercentral/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨ (2 days ago)
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#) (3 days ago)
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin (4 days ago)
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money (4 days ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (6 days ago)
