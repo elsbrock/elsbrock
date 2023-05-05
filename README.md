@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (today)
+- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (today)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 days ago)
 - [millercentral/hassio_appliance-status-monitor](https://github.com/millercentral/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨ (5 days ago)
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#) (6 days ago)
-- [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin (1 week ago)
-- [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money (1 week ago)
