@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 5 days ago) - A utility to auto renew your lent media.
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 6 days ago) - A utility to auto renew your lent media.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.3.0](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.3.0), 1 week ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 3 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (today)
-- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (today)
-- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (today)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 days ago)
-- [millercentral/hassio_appliance-status-monitor](https://github.com/millercentral/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨ (5 days ago)
+- [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (1 day ago)
+- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (1 day ago)
+- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (1 day ago)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (4 days ago)
+- [millercentral/hassio_appliance-status-monitor](https://github.com/millercentral/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨ (6 days ago)
