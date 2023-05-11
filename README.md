@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (1 week ago)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (2 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (5 months ago)
-- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (5 months ago)
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,15 +25,15 @@
 #### 🔨 My recent Pull Requests
 
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (2 weeks ago)
-- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (5 months ago)
-- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (5 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (6 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (6 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (6 months ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (2 days ago)
-- [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (5 days ago)
-- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (5 days ago)
-- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (5 days ago)
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (3 days ago)
+- [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (6 days ago)
+- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (6 days ago)
+- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (6 days ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 week ago)
