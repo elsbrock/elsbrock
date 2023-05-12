@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (3 days ago)
-- [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (6 days ago)
-- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (6 days ago)
-- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (6 days ago)
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (4 days ago)
+- [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (1 week ago)
+- [lumapu/ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters (1 week ago)
+- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters (1 week ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 week ago)
