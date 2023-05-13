@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial, reverse-engineered Python API for Tastytrade. (today)
-- [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (today)
-- [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (today)
-- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (4 days ago)
+- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial, reverse-engineered Python API for Tastytrade. (1 day ago)
+- [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (1 day ago)
+- [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (1 day ago)
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (5 days ago)
 - [rw-hsma-fpga/grub-switch](https://github.com/rw-hsma-fpga/grub-switch) - Linux configuration scripts and ATmega32u4-based USB device to control GRUB boot choice through hardware (1 week ago)
