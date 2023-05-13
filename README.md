@@ -32,7 +32,7 @@
 
 #### ⭐ Recent Stars
 
-- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial, reverse-engineered Python API for Tastytrade. (1 day ago)
+- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (1 day ago)
 - [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (1 day ago)
 - [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (1 day ago)
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (5 days ago)
