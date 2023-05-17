@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 2 weeks ago) - A utility to auto renew your lent media.
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.3.0](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.3.0), 2 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.3.0](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.3.0), 3 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 3 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (2 days ago)
-- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (4 days ago)
-- [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (4 days ago)
-- [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (4 days ago)
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (3 days ago)
+- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (5 days ago)
+- [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (5 days ago)
+- [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (5 days ago)
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (1 week ago)
