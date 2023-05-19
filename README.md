@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (4 days ago)
-- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (6 days ago)
-- [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (6 days ago)
-- [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (6 days ago)
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (5 days ago)
+- [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (1 week ago)
+- [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (1 week ago)
+- [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (1 week ago)
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (1 week ago)
