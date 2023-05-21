@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (3 weeks ago)
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 months ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (6 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (6 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 2 weeks ago) - A utility to auto renew your lent media.
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 3 weeks ago) - A utility to auto renew your lent media.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.3.0](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.3.0), 3 weeks ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 3 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -27,12 +27,12 @@
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (3 weeks ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (6 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (6 months ago)
-- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (6 months ago)
+- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (7 months ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (6 days ago)
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (1 week ago)
 - [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (1 week ago)
 - [peter-oroszvari/tastytrade-api](https://github.com/peter-oroszvari/tastytrade-api) - Python SDK for Tastytrade API (1 week ago)
 - [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor! (1 week ago)
