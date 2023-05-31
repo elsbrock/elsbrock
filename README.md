@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [beevik/timerqueue](https://github.com/beevik/timerqueue) - A priority queue for timed events, written in go. (1 day ago)
-- [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022 (1 day ago)
+- [beevik/timerqueue](https://github.com/beevik/timerqueue) - A priority queue for timed events, written in go. (2 days ago)
+- [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022 (2 days ago)
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! (1 week ago)
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (2 weeks ago)
 - [tastyware/tastytrade](https://github.com/tastyware/tastytrade) - An unofficial Python SDK for Tastytrade! (2 weeks ago)
