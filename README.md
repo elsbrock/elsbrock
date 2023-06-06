@@ -32,7 +32,7 @@
 
 #### ⭐ Recent Stars
 
-- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user&#39;s microphone input (You) and the user&#39;s speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI&#39;s GPT-3.5 for the user to say based on the live transcription of the conversation. (today)
+- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user&#39;s microphone input (You) and the user&#39;s speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI&#39;s GPT-3.5 for the user to say based on the live transcription of the conversation. (1 day ago)
 - [beevik/timerqueue](https://github.com/beevik/timerqueue) - A priority queue for timed events, written in go. (1 week ago)
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022 (1 week ago)
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! (2 weeks ago)
