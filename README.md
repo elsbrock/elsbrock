@@ -6,7 +6,7 @@
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (6 months ago)
-- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (6 months ago)
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,15 +25,15 @@
 #### 🔨 My recent Pull Requests
 
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (1 month ago)
-- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (6 months ago)
-- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (6 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (7 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (7 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (7 months ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (today)
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (2 days ago)
-- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user&#39;s microphone input (You) and the user&#39;s speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI&#39;s GPT-3.5 for the user to say based on the live transcription of the conversation. (4 days ago)
+- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (1 day ago)
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (3 days ago)
+- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user&#39;s microphone input (You) and the user&#39;s speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI&#39;s GPT-3.5 for the user to say based on the live transcription of the conversation. (5 days ago)
 - [beevik/timerqueue](https://github.com/beevik/timerqueue) - A priority queue for timed events, written in go. (1 week ago)
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022 (1 week ago)
