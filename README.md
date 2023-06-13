@@ -19,7 +19,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 1 month ago) - A utility to auto renew your lent media.
-- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ([v2.3.0](https://github.com/prometheus-pve/prometheus-pve-exporter/releases/tag/v2.3.0), 1 month ago) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 4 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
