@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (1 month ago)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (2 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (4 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (7 months ago)
@@ -35,4 +35,4 @@
 - [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (2 weeks ago)
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (2 weeks ago)
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (2 weeks ago)
-- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user&#39;s microphone input (You) and the user&#39;s speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI&#39;s GPT-3.5 for the user to say based on the live transcription of the conversation. (2 weeks ago)
+- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user&#39;s microphone input (You) and the user&#39;s speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI&#39;s GPT-3.5 for the user to say based on the live transcription of the conversation. (3 weeks ago)
