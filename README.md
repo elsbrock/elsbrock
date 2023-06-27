@@ -4,7 +4,7 @@
 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (2 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (4 months ago)
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 months ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (5 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (7 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (7 months ago)
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [jonasniesner/open_epaper_link_homeassistant](https://github.com/jonasniesner/open_epaper_link_homeassistant) - Home assistant Integration for the OpenEPaperLink project (today)
-- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) -  (today)
+- [jonasniesner/open_epaper_link_homeassistant](https://github.com/jonasniesner/open_epaper_link_homeassistant) - Home assistant Integration for the OpenEPaperLink project (1 day ago)
+- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) -  (1 day ago)
 - [hishamk/statetrooper](https://github.com/hishamk/statetrooper) - StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules. (1 week ago)
 - [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (2 weeks ago)
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (2 weeks ago)
