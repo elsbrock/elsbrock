@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [jonasniesner/open_epaper_link_homeassistant](https://github.com/jonasniesner/open_epaper_link_homeassistant) - Home assistant Integration for the OpenEPaperLink project (4 days ago)
-- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) -  (4 days ago)
-- [hishamk/statetrooper](https://github.com/hishamk/statetrooper) - StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules. (1 week ago)
-- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (2 weeks ago)
+- [jonasniesner/open_epaper_link_homeassistant](https://github.com/jonasniesner/open_epaper_link_homeassistant) - Home assistant Integration for the OpenEPaperLink project (5 days ago)
+- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) -  (5 days ago)
+- [hishamk/statetrooper](https://github.com/hishamk/statetrooper) - StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules. (2 weeks ago)
+- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (3 weeks ago)
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (3 weeks ago)
