@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub (today)
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT (1 day ago)
 - [jonasniesner/open_epaper_link_homeassistant](https://github.com/jonasniesner/open_epaper_link_homeassistant) - Home assistant Integration for the OpenEPaperLink project (1 week ago)
 - [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) -  (1 week ago)
 - [hishamk/statetrooper](https://github.com/hishamk/statetrooper) - StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules. (2 weeks ago)
-- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (3 weeks ago)
