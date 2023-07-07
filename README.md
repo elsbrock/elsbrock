@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (today)
 - [TheTimeWalker/wallpanel-android](https://github.com/TheTimeWalker/wallpanel-android) - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms (2 days ago)
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub (4 days ago)
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT (5 days ago)
 - [jonasniesner/open_epaper_link_homeassistant](https://github.com/jonasniesner/open_epaper_link_homeassistant) - Home assistant Integration for the OpenEPaperLink project (1 week ago)
-- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) -  (1 week ago)
