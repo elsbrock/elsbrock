@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client. (today)
-- [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™ (today)
-- [cdsteinkuehler/br2rauc](https://github.com/cdsteinkuehler/br2rauc) - Buildroot &#43; RAUC (today)
-- [rauc/meta-rauc-community](https://github.com/rauc/meta-rauc-community) - Yocto/OpenEmbedded meta layer with examples for integration of RAUC, the embedded Linux A/B update framework (today)
-- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (2 days ago)
+- [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client. (1 day ago)
+- [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™ (1 day ago)
+- [cdsteinkuehler/br2rauc](https://github.com/cdsteinkuehler/br2rauc) - Buildroot &#43; RAUC (1 day ago)
+- [rauc/meta-rauc-community](https://github.com/rauc/meta-rauc-community) - Yocto/OpenEmbedded meta layer with examples for integration of RAUC, the embedded Linux A/B update framework (1 day ago)
+- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (3 days ago)
