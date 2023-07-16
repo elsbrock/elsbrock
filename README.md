@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (today)
+- [leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine) - Equipment Loss Tracking (today)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (3 days ago)
 - [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client. (4 days ago)
 - [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™ (4 days ago)
-- [cdsteinkuehler/br2rauc](https://github.com/cdsteinkuehler/br2rauc) - Buildroot &#43; RAUC (4 days ago)
-- [rauc/meta-rauc-community](https://github.com/rauc/meta-rauc-community) - Yocto/OpenEmbedded meta layer with examples for integration of RAUC, the embedded Linux A/B update framework (4 days ago)
