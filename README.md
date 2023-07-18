@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (1 day ago)
-- [leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine) - Equipment Loss Tracking (1 day ago)
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (4 days ago)
-- [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client. (5 days ago)
-- [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™ (5 days ago)
+- [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (2 days ago)
+- [leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine) - Equipment Loss Tracking (2 days ago)
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (5 days ago)
+- [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client. (6 days ago)
+- [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™ (6 days ago)
