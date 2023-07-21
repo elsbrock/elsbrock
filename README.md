@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [MarconLP/snapify](https://github.com/MarconLP/snapify) - Screen recording sharing for absolutely everyone. (today)
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, SMTP) (2 days ago)
-- [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (4 days ago)
-- [leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine) - Equipment Loss Tracking (4 days ago)
+- [MarconLP/snapify](https://github.com/MarconLP/snapify) - Screen recording sharing for absolutely everyone. (1 day ago)
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, SMTP) (3 days ago)
+- [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (5 days ago)
+- [leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine) - Equipment Loss Tracking (5 days ago)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (1 week ago)
