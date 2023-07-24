@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (2 months ago)
+- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (3 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (8 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (8 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (9 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [MarconLP/snapify](https://github.com/MarconLP/snapify) - Screen recording sharing for absolutely everyone. (3 days ago)
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, SMTP) (5 days ago)
+- [MarconLP/snapify](https://github.com/MarconLP/snapify) - Screen recording sharing for absolutely everyone. (4 days ago)
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, SMTP) (6 days ago)
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (1 week ago)
 - [leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine) - Equipment Loss Tracking (1 week ago)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (1 week ago)
