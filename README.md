@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates… (today)
 - [kvmtool/kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo (today)
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal (3 days ago)
 - [MarconLP/snapify](https://github.com/MarconLP/snapify) - Screen recording sharing for absolutely everyone. (1 week ago)
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, SMTP) (1 week ago)
-- [home-assistant/os-agent](https://github.com/home-assistant/os-agent) - Daemon allowing to control OS features through D-Bus (1 week ago)
