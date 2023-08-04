@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (2 days ago)
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (2 days ago)
-- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (4 days ago)
-- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt (5 days ago)
-- [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates… (6 days ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 days ago)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 days ago)
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (5 days ago)
+- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt (6 days ago)
+- [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates… (1 week ago)
