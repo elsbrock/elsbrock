@@ -6,7 +6,7 @@
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (5 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (6 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (8 months ago)
-- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (8 months ago)
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,15 +24,15 @@
 #### 🔨 My recent Pull Requests
 
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (3 months ago)
-- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (8 months ago)
-- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (8 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (9 months ago)
+- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (9 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (9 months ago)
 - [docs: metrics sample; token id](https://github.com/prometheus-pve/prometheus-pve-exporter/pull/114) on [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS (today)
-- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (4 days ago)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS (1 day ago)
+- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (5 days ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 week ago)
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (1 week ago)
