@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (today)
+- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS (today)
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale (today)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (today)
 - [essentry/kiosk-os](https://github.com/essentry/kiosk-os) - 🎰 Kiosk OS based on Linux (1 day ago)
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS (4 days ago)
-- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (1 week ago)
