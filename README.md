@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (1 day ago)
-- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS (1 day ago)
-- [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale (1 day ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 day ago)
-- [essentry/kiosk-os](https://github.com/essentry/kiosk-os) - 🎰 Kiosk OS based on Linux (2 days ago)
+- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (2 days ago)
+- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS (2 days ago)
+- [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale (2 days ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (2 days ago)
+- [essentry/kiosk-os](https://github.com/essentry/kiosk-os) - 🎰 Kiosk OS based on Linux (3 days ago)
