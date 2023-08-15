@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (today)
-- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (today)
-- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer&#39;s OS and you have to manage processes, memory and I/O events. (today)
-- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (2 days ago)
-- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS (2 days ago)
+- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (1 day ago)
+- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (1 day ago)
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer&#39;s OS and you have to manage processes, memory and I/O events. (1 day ago)
+- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (3 days ago)
+- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS (3 days ago)
