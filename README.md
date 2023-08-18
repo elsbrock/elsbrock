@@ -5,7 +5,7 @@
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (3 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (5 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (6 months ago)
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (8 months ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (9 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (9 months ago)
 
 #### 🌱 My latest projects
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [fluent-plugins-nursery/fluent-plugin-bigquery](https://github.com/fluent-plugins-nursery/fluent-plugin-bigquery) -  (2 days ago)
-- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (3 days ago)
-- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (3 days ago)
-- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer&#39;s OS and you have to manage processes, memory and I/O events. (3 days ago)
-- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (5 days ago)
+- [fluent-plugins-nursery/fluent-plugin-bigquery](https://github.com/fluent-plugins-nursery/fluent-plugin-bigquery) -  (3 days ago)
+- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (4 days ago)
+- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (4 days ago)
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer&#39;s OS and you have to manage processes, memory and I/O events. (4 days ago)
+- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (6 days ago)
