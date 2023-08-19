@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet (today)
 - [fluent-plugins-nursery/fluent-plugin-bigquery](https://github.com/fluent-plugins-nursery/fluent-plugin-bigquery) -  (4 days ago)
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (5 days ago)
 - [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (5 days ago)
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer&#39;s OS and you have to manage processes, memory and I/O events. (5 days ago)
-- [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software (1 week ago)
