@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This work has been conducted at the Telecommunication Circuits Laboratory, EPFL.  (today)
+- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (today)
 - [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API (1 day ago)
 - [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet (2 days ago)
 - [fluent-plugins-nursery/fluent-plugin-bigquery](https://github.com/fluent-plugins-nursery/fluent-plugin-bigquery) -  (6 days ago)
-- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (1 week ago)
-- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (1 week ago)
