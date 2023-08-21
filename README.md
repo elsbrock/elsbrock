@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 3 months ago) - A utility to auto renew your lent media.
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 6 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 7 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API (today)
-- [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet (1 day ago)
-- [fluent-plugins-nursery/fluent-plugin-bigquery](https://github.com/fluent-plugins-nursery/fluent-plugin-bigquery) -  (5 days ago)
-- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (6 days ago)
-- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (6 days ago)
+- [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API (1 day ago)
+- [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet (2 days ago)
+- [fluent-plugins-nursery/fluent-plugin-bigquery](https://github.com/fluent-plugins-nursery/fluent-plugin-bigquery) -  (6 days ago)
+- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (1 week ago)
+- [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch. (1 week ago)
