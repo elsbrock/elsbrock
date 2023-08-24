@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [SAP/SapMachine](https://github.com/SAP/SapMachine) - An OpenJDK release maintained and supported by SAP (2 days ago)
-- [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This work has been conducted at the Telecommunication Circuits Laboratory, EPFL.  (2 days ago)
-- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (2 days ago)
-- [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API (3 days ago)
-- [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet (4 days ago)
+- [SAP/SapMachine](https://github.com/SAP/SapMachine) - An OpenJDK release maintained and supported by SAP (3 days ago)
+- [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This work has been conducted at the Telecommunication Circuits Laboratory, EPFL.  (3 days ago)
+- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (3 days ago)
+- [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API (4 days ago)
+- [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet (5 days ago)
