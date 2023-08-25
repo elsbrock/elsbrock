@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash (today)
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own! (today)
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (today)
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN. (today)
 - [platypusguy/jacobin](https://github.com/platypusguy/jacobin) - A more than minimal JVM written in Go and capable of running Java 17 classes. (today)
-- [fwup-home/fwup](https://github.com/fwup-home/fwup) - Configurable embedded Linux firmware update creator and runner (1 day ago)
