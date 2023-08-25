@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (3 months ago)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 months ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (6 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (9 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [fwup-home/fwup](https://github.com/fwup-home/fwup) - Configurable embedded Linux firmware update creator and runner (today)
-- [Octarion/gwib_installer](https://github.com/Octarion/gwib_installer) - Nerves System that allows us to install GWiB to a new device (today)
-- [SAP/SapMachine](https://github.com/SAP/SapMachine) - An OpenJDK release maintained and supported by SAP (3 days ago)
-- [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This work has been conducted at the Telecommunication Circuits Laboratory, EPFL.  (3 days ago)
-- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (3 days ago)
+- [fwup-home/fwup](https://github.com/fwup-home/fwup) - Configurable embedded Linux firmware update creator and runner (1 day ago)
+- [Octarion/gwib_installer](https://github.com/Octarion/gwib_installer) - Nerves System that allows us to install GWiB to a new device (1 day ago)
+- [SAP/SapMachine](https://github.com/SAP/SapMachine) - An OpenJDK release maintained and supported by SAP (4 days ago)
+- [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This work has been conducted at the Telecommunication Circuits Laboratory, EPFL.  (4 days ago)
+- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (4 days ago)
