@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (today)
+- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN. (today)
 - [platypusguy/jacobin](https://github.com/platypusguy/jacobin) - A more than minimal JVM written in Go and capable of running Java 17 classes. (today)
 - [fwup-home/fwup](https://github.com/fwup-home/fwup) - Configurable embedded Linux firmware update creator and runner (1 day ago)
 - [Octarion/gwib_installer](https://github.com/Octarion/gwib_installer) - Nerves System that allows us to install GWiB to a new device (1 day ago)
-- [SAP/SapMachine](https://github.com/SAP/SapMachine) - An OpenJDK release maintained and supported by SAP (4 days ago)
-- [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This work has been conducted at the Telecommunication Circuits Laboratory, EPFL.  (4 days ago)
