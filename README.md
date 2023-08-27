@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash (1 day ago)
-- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own! (1 day ago)
-- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 day ago)
-- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN. (1 day ago)
-- [platypusguy/jacobin](https://github.com/platypusguy/jacobin) - A more than minimal JVM written in Go and capable of running Java 17 classes. (1 day ago)
+- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash (2 days ago)
+- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own! (2 days ago)
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (2 days ago)
+- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN. (2 days ago)
+- [platypusguy/jacobin](https://github.com/platypusguy/jacobin) - A more than minimal JVM written in Go and capable of running Java 17 classes. (2 days ago)
