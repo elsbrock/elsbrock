@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS client for Lemmy built with React-Native. Find us on the App Store!  (today)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (today)
-- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash (3 days ago)
-- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own! (3 days ago)
-- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (3 days ago)
+- [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS client for Lemmy built with React-Native. Find us on the App Store!  (1 day ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (1 day ago)
+- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash (4 days ago)
+- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own! (4 days ago)
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (4 days ago)
