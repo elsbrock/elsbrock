@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code (today)
+- [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions (today)
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (today)
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS client for Lemmy built with React-Native. Find us on the App Store!  (2 days ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (2 days ago)
-- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash (5 days ago)
-- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own! (5 days ago)
