@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (today)
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code (1 day ago)
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions (1 day ago)
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (1 day ago)
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS client for Lemmy built with React-Native. Find us on the App Store!  (3 days ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (3 days ago)
