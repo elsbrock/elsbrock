@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊 (today)
+- [IJMacD/rfc3339-iso8601](https://github.com/IJMacD/rfc3339-iso8601) -  (today)
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability (today)
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (1 day ago)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 day ago)
-- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code (2 days ago)
-- [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions (2 days ago)
