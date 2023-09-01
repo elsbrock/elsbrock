@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (today)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (today)
-- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code (1 day ago)
-- [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions (1 day ago)
-- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (1 day ago)
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (1 day ago)
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 day ago)
+- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code (2 days ago)
+- [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions (2 days ago)
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (2 days ago)
