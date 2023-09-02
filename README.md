@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (today)
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊 (1 day ago)
 - [IJMacD/rfc3339-iso8601](https://github.com/IJMacD/rfc3339-iso8601) -  (1 day ago)
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability (1 day ago)
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (2 days ago)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 days ago)
