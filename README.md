@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (today)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (1 day ago)
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊 (2 days ago)
 - [IJMacD/rfc3339-iso8601](https://github.com/IJMacD/rfc3339-iso8601) -  (2 days ago)
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability (2 days ago)
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (3 days ago)
