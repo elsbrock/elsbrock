@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [patmagauran/i915ovmfPkg](https://github.com/patmagauran/i915ovmfPkg) - VBIOS for Intel GPU Passthrough (today)
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (today)
 - [Vigrond/rig-obs](https://github.com/Vigrond/rig-obs) - Use a device as a streaming rig.  A simple guide.  An NDI alternative. (today)
 - [rse/obs-setup](https://github.com/rse/obs-setup) - OBS Studio Setup Information (today)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (2 days ago)
