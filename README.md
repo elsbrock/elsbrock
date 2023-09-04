@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Vigrond/rig-obs](https://github.com/Vigrond/rig-obs) - Use a device as a streaming rig.  A simple guide.  An NDI alternative. (today)
+- [rse/obs-setup](https://github.com/rse/obs-setup) - OBS Studio Setup Information (today)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (2 days ago)
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊 (3 days ago)
-- [IJMacD/rfc3339-iso8601](https://github.com/IJMacD/rfc3339-iso8601) -  (3 days ago)
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability (3 days ago)
