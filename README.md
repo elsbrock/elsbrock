@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ashton314/emacs-bedrock](https://github.com/ashton314/emacs-bedrock) - [Mirror] Stepping stones to a better Emacs experience (today)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (today)
+- [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound (today)
 - [patmagauran/i915ovmfPkg](https://github.com/patmagauran/i915ovmfPkg) - VBIOS for Intel GPU Passthrough (1 day ago)
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (1 day ago)
-- [Vigrond/rig-obs](https://github.com/Vigrond/rig-obs) - Use a device as a streaming rig.  A simple guide.  An NDI alternative. (1 day ago)
-- [rse/obs-setup](https://github.com/rse/obs-setup) - OBS Studio Setup Information (1 day ago)
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (2 days ago)
