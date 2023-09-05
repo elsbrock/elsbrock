@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (today)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 day ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (9 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [patmagauran/i915ovmfPkg](https://github.com/patmagauran/i915ovmfPkg) - VBIOS for Intel GPU Passthrough (today)
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (today)
-- [Vigrond/rig-obs](https://github.com/Vigrond/rig-obs) - Use a device as a streaming rig.  A simple guide.  An NDI alternative. (today)
-- [rse/obs-setup](https://github.com/rse/obs-setup) - OBS Studio Setup Information (today)
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
+- [patmagauran/i915ovmfPkg](https://github.com/patmagauran/i915ovmfPkg) - VBIOS for Intel GPU Passthrough (1 day ago)
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (1 day ago)
+- [Vigrond/rig-obs](https://github.com/Vigrond/rig-obs) - Use a device as a streaming rig.  A simple guide.  An NDI alternative. (1 day ago)
+- [rse/obs-setup](https://github.com/rse/obs-setup) - OBS Studio Setup Information (1 day ago)
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (2 days ago)
