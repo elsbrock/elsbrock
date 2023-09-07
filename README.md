@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [viaduct-ai/kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources (today)
 - [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring (today)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (today)
 - [ashton314/emacs-bedrock](https://github.com/ashton314/emacs-bedrock) - [Mirror] Stepping stones to a better Emacs experience (2 days ago)
 - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (2 days ago)
-- [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound (2 days ago)
