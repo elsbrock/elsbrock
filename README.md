@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 days ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 days ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (9 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [ashton314/emacs-bedrock](https://github.com/ashton314/emacs-bedrock) - [Mirror] Stepping stones to a better Emacs experience (1 day ago)
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 day ago)
-- [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound (1 day ago)
-- [patmagauran/i915ovmfPkg](https://github.com/patmagauran/i915ovmfPkg) - VBIOS for Intel GPU Passthrough (2 days ago)
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (2 days ago)
+- [ashton314/emacs-bedrock](https://github.com/ashton314/emacs-bedrock) - [Mirror] Stepping stones to a better Emacs experience (2 days ago)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (2 days ago)
+- [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound (2 days ago)
+- [patmagauran/i915ovmfPkg](https://github.com/patmagauran/i915ovmfPkg) - VBIOS for Intel GPU Passthrough (3 days ago)
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (3 days ago)
