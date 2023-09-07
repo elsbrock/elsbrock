@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ThomasVon2021/blikvm](https://github.com/ThomasVon2021/blikvm) - Open and cost-effective &#34;KVM over IP&#34;. BliKVM comes in 3 different models, BliKVM PCIe, BliKVM HAT and BliKVM CM4, all based on Raspberry Pi. (today)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (today)
 - [viaduct-ai/kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources (today)
 - [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring (today)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (today)
-- [ashton314/emacs-bedrock](https://github.com/ashton314/emacs-bedrock) - [Mirror] Stepping stones to a better Emacs experience (2 days ago)
