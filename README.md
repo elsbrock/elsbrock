@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Ads-cmu/WhatsApp-Llama](https://github.com/Ads-cmu/WhatsApp-Llama) - Finetune a LLM to speak like you based on your WhatsApp Conversations (today)
+- [PCrnjak/PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm) -  (today)
 - [ThomasVon2021/blikvm](https://github.com/ThomasVon2021/blikvm) - Open and cost-effective &#34;KVM over IP&#34;. BliKVM comes in 3 different models, BliKVM PCIe, BliKVM HAT and BliKVM CM4, all based on Raspberry Pi. (2 days ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (2 days ago)
 - [viaduct-ai/kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources (2 days ago)
-- [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring (2 days ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (2 days ago)
