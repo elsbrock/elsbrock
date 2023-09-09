@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 days ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (5 days ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (6 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (9 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [ThomasVon2021/blikvm](https://github.com/ThomasVon2021/blikvm) - Open and cost-effective &#34;KVM over IP&#34;. BliKVM comes in 3 different models, BliKVM PCIe, BliKVM HAT and BliKVM CM4, all based on Raspberry Pi. (1 day ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (1 day ago)
-- [viaduct-ai/kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources (1 day ago)
-- [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring (1 day ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (1 day ago)
+- [ThomasVon2021/blikvm](https://github.com/ThomasVon2021/blikvm) - Open and cost-effective &#34;KVM over IP&#34;. BliKVM comes in 3 different models, BliKVM PCIe, BliKVM HAT and BliKVM CM4, all based on Raspberry Pi. (2 days ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (2 days ago)
+- [viaduct-ai/kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources (2 days ago)
+- [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring (2 days ago)
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (2 days ago)
