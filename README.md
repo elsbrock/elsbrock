@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (today)
+- [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely (today)
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot. (1 day ago)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (1 day ago)
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) - Host for Linux system containers based on NixOS, ZFS and LXC (1 day ago)
-- [Ads-cmu/WhatsApp-Llama](https://github.com/Ads-cmu/WhatsApp-Llama) - Finetune a LLM to speak like you based on your WhatsApp Conversations (1 day ago)
-- [PCrnjak/PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm) -  (1 day ago)
