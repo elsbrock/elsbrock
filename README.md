@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it (1 day ago)
-- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software (1 day ago)
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it (2 days ago)
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (1 week ago)
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (1 week ago)
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely (1 week ago)
