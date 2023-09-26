@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (today)
-- [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client (today)
-- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (2 days ago)
-- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it (4 days ago)
-- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software (4 days ago)
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (1 day ago)
+- [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client (1 day ago)
+- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (3 days ago)
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it (5 days ago)
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software (5 days ago)
