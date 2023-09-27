@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 4 months ago) - A utility to auto renew your lent media.
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 5 months ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 8 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (1 day ago)
-- [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client (1 day ago)
-- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (3 days ago)
-- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it (5 days ago)
-- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software (5 days ago)
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (2 days ago)
+- [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client (2 days ago)
+- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (4 days ago)
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it (6 days ago)
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software (6 days ago)
