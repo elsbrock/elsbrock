@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (today)
+- [skogsbrus/os](https://github.com/skogsbrus/os) - My OS &amp; dotfiles configuration for Linux and MacOS devices (Nix) (today)
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (today)
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework (today)
 - [stealthrocket/coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go (1 day ago)
-- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 day ago)
-- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia (1 day ago)
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (2 days ago)
