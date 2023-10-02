@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (today)
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (today)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (today)
 - [zveinn/neovim-config](https://github.com/zveinn/neovim-config) -  (today)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 day ago)
-- [skogsbrus/os](https://github.com/skogsbrus/os) - My OS &amp; dotfiles configuration for Linux and MacOS devices (Nix) (1 day ago)
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
