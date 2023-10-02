@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (today)
+- [zveinn/neovim-config](https://github.com/zveinn/neovim-config) -  (today)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 day ago)
 - [skogsbrus/os](https://github.com/skogsbrus/os) - My OS &amp; dotfiles configuration for Linux and MacOS devices (Nix) (1 day ago)
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
-- [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework (1 day ago)
-- [stealthrocket/coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go (2 days ago)
