@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 weeks ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 weeks ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (5 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (7 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (10 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (today)
-- [skogsbrus/os](https://github.com/skogsbrus/os) - My OS &amp; dotfiles configuration for Linux and MacOS devices (Nix) (today)
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (today)
-- [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework (today)
-- [stealthrocket/coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go (1 day ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 day ago)
+- [skogsbrus/os](https://github.com/skogsbrus/os) - My OS &amp; dotfiles configuration for Linux and MacOS devices (Nix) (1 day ago)
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
+- [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework (1 day ago)
+- [stealthrocket/coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go (2 days ago)
