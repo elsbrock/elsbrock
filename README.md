@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (today)
 - [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (1 day ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (1 day ago)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
 - [zveinn/neovim-config](https://github.com/zveinn/neovim-config) -  (1 day ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 days ago)
