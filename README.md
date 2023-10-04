@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [xvzf/zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) - Telekom FTTH with OpenWRT/PfSense/VyOS/Mikrotik/... (Reverse engineering Zyxel PMG3000-D20B GPON SFP) (today)
 - [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (1 day ago)
 - [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (2 days ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (2 days ago)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (2 days ago)
-- [zveinn/neovim-config](https://github.com/zveinn/neovim-config) -  (2 days ago)
