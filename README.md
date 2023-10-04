@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (4 weeks ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (5 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (7 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (10 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (today)
-- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (1 day ago)
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (1 day ago)
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
-- [zveinn/neovim-config](https://github.com/zveinn/neovim-config) -  (1 day ago)
+- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (1 day ago)
+- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (2 days ago)
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (2 days ago)
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (2 days ago)
+- [zveinn/neovim-config](https://github.com/zveinn/neovim-config) -  (2 days ago)
