@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [ibuildthecloud/k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes (today)
-- [xvzf/zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) - Telekom FTTH with OpenWRT/PfSense/VyOS/Mikrotik/... (Reverse engineering Zyxel PMG3000-D20B GPON SFP) (today)
-- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (1 day ago)
-- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (2 days ago)
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (2 days ago)
+- [ibuildthecloud/k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes (1 day ago)
+- [xvzf/zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) - Telekom FTTH with OpenWRT/PfSense/VyOS/Mikrotik/... (Reverse engineering Zyxel PMG3000-D20B GPON SFP) (1 day ago)
+- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (2 days ago)
+- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (3 days ago)
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform (3 days ago)
