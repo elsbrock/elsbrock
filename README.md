@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (today)
-- [ibuildthecloud/k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes (1 day ago)
-- [xvzf/zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) - Telekom FTTH with OpenWRT/PfSense/VyOS/Mikrotik/... (Reverse engineering Zyxel PMG3000-D20B GPON SFP) (1 day ago)
-- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (2 days ago)
-- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (3 days ago)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (1 day ago)
+- [ibuildthecloud/k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes (2 days ago)
+- [xvzf/zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) - Telekom FTTH with OpenWRT/PfSense/VyOS/Mikrotik/... (Reverse engineering Zyxel PMG3000-D20B GPON SFP) (2 days ago)
+- [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository (3 days ago)
+- [vladvasiliu/statuspage-exporter](https://github.com/vladvasiliu/statuspage-exporter) - Prometheus exporter for StatusPage (4 days ago)
