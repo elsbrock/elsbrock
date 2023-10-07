@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (today)
-- [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E) (today)
-- [alex028502/extra-screen](https://github.com/alex028502/extra-screen) - use an old tablet as an extra screen (today)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (today)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (today)
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (1 day ago)
+- [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E) (1 day ago)
+- [alex028502/extra-screen](https://github.com/alex028502/extra-screen) - use an old tablet as an extra screen (1 day ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 day ago)
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (1 day ago)
