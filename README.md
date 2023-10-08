@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware (today)
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (today)
 - [opnsense/ports](https://github.com/opnsense/ports) - OPNsense ports on top of FreeBSD (today)
 - [jimsalterjrs/ioztat](https://github.com/jimsalterjrs/ioztat) - ioztat is a storage load analysis tool for OpenZFS. It provides iostat-like statistics at an individual dataset/zvol level. (today)
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (2 days ago)
-- [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E) (2 days ago)
-- [alex028502/extra-screen](https://github.com/alex028502/extra-screen) - use an old tablet as an extra screen (2 days ago)
