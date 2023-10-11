@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Decap CMS (1 day ago)
-- [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development (1 day ago)
-- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware (2 days ago)
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (2 days ago)
-- [opnsense/ports](https://github.com/opnsense/ports) - OPNsense ports on top of FreeBSD (2 days ago)
+- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Decap CMS (2 days ago)
+- [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development (2 days ago)
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware (3 days ago)
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (3 days ago)
+- [opnsense/ports](https://github.com/opnsense/ports) - OPNsense ports on top of FreeBSD (3 days ago)
