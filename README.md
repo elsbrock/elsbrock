@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ycd/dots](https://github.com/ycd/dots) - Personal dotfiles. (today)
+- [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt (today)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (today)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (today)
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai (today)
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS (today)
-- [deekue/macos_tiling_de](https://github.com/deekue/macos_tiling_de) - Tiling Desktop Environment for MacOS, inspired by i3/Regolith (today)
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (1 day ago)
