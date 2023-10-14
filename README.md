@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (today)
-- [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators (today)
-- [sendhil/yabai-stack-navigator](https://github.com/sendhil/yabai-stack-navigator) -  (today)
-- [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai &amp; hammerspoon. (today)
-- [ycd/dots](https://github.com/ycd/dots) - Personal dotfiles. (today)
+- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (1 day ago)
+- [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators (1 day ago)
+- [sendhil/yabai-stack-navigator](https://github.com/sendhil/yabai-stack-navigator) -  (1 day ago)
+- [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai &amp; hammerspoon. (1 day ago)
+- [ycd/dots](https://github.com/ycd/dots) - Personal dotfiles. (1 day ago)
