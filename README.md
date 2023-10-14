@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter&#39;s textfile collector (today)
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (1 day ago)
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators (1 day ago)
 - [sendhil/yabai-stack-navigator](https://github.com/sendhil/yabai-stack-navigator) -  (1 day ago)
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai &amp; hammerspoon. (1 day ago)
-- [ycd/dots](https://github.com/ycd/dots) - Personal dotfiles. (1 day ago)
