@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS. (today)
-- [streamdeck-linux-gui/streamdeck-linux-gui](https://github.com/streamdeck-linux-gui/streamdeck-linux-gui) - A Linux compatible UI for the Elgato Stream Deck. (today)
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).  (today)
-- [iamcryptoki/snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden. (today)
-- [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter&#39;s textfile collector (today)
+- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS. (1 day ago)
+- [streamdeck-linux-gui/streamdeck-linux-gui](https://github.com/streamdeck-linux-gui/streamdeck-linux-gui) - A Linux compatible UI for the Elgato Stream Deck. (1 day ago)
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).  (1 day ago)
+- [iamcryptoki/snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden. (1 day ago)
+- [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter&#39;s textfile collector (1 day ago)
