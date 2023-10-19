@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (today)
+- [Dirtywave/M8Firmware](https://github.com/Dirtywave/M8Firmware) - M8 Precompiled Firmware (today)
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Automate reproducible packaging for various language ecosystems [maintainer=@DavHau] (1 day ago)
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box (1 day ago)
 - [greenpau/versioned](https://github.com/greenpau/versioned) - Simplified package metadata management for Go packages. (1 day ago)
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility. (1 day ago)
-- [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO) (3 days ago)
