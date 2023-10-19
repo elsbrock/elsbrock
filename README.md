@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (today)
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains (today)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (today)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (today)
 - [Dirtywave/M8Firmware](https://github.com/Dirtywave/M8Firmware) - M8 Precompiled Firmware (today)
-- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Automate reproducible packaging for various language ecosystems [maintainer=@DavHau] (1 day ago)
-- [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box (1 day ago)
-- [greenpau/versioned](https://github.com/greenpau/versioned) - Simplified package metadata management for Go packages. (1 day ago)
