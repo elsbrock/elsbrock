@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 5 months ago) - A utility to auto renew your lent media.
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 8 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 9 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [benjamin-maynard/ios-usage-prometheus-exporter](https://github.com/benjamin-maynard/ios-usage-prometheus-exporter) - A Prometheus Exporter, written in Golang that allows metrics from certain actions in iOS 13 to be exported into Prometheus. (today)
-- [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (today)
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (today)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains (today)
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (today)
+- [benjamin-maynard/ios-usage-prometheus-exporter](https://github.com/benjamin-maynard/ios-usage-prometheus-exporter) - A Prometheus Exporter, written in Golang that allows metrics from certain actions in iOS 13 to be exported into Prometheus. (1 day ago)
+- [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (1 day ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (1 day ago)
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains (1 day ago)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (1 day ago)
