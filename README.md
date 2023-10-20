@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (today)
 - [benjamin-maynard/ios-usage-prometheus-exporter](https://github.com/benjamin-maynard/ios-usage-prometheus-exporter) - A Prometheus Exporter, written in Golang that allows metrics from certain actions in iOS 13 to be exported into Prometheus. (1 day ago)
 - [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (1 day ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (1 day ago)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains (1 day ago)
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (1 day ago)
