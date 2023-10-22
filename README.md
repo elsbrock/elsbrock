@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (5 months ago)
+- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (6 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (11 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (11 months ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (1 year ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example (today)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 day ago)
-- [benjamin-maynard/ios-usage-prometheus-exporter](https://github.com/benjamin-maynard/ios-usage-prometheus-exporter) - A Prometheus Exporter, written in Golang that allows metrics from certain actions in iOS 13 to be exported into Prometheus. (2 days ago)
-- [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (2 days ago)
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 days ago)
+- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example (1 day ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 days ago)
+- [benjamin-maynard/ios-usage-prometheus-exporter](https://github.com/benjamin-maynard/ios-usage-prometheus-exporter) - A Prometheus Exporter, written in Golang that allows metrics from certain actions in iOS 13 to be exported into Prometheus. (3 days ago)
+- [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf. (3 days ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (3 days ago)
