@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (today)
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust. (today)
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (1 day ago)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example (2 days ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (3 days ago)
-- [benjamin-maynard/ios-usage-prometheus-exporter](https://github.com/benjamin-maynard/ios-usage-prometheus-exporter) - A Prometheus Exporter, written in Golang that allows metrics from certain actions in iOS 13 to be exported into Prometheus. (4 days ago)
