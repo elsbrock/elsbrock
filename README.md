@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (5 months ago)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (8 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (11 months ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (11 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (today)
-- [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust. (today)
-- [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (1 day ago)
-- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example (2 days ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (3 days ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
+- [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust. (1 day ago)
+- [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (2 days ago)
+- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example (3 days ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (4 days ago)
