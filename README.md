@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (today)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust. (1 day ago)
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (2 days ago)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example (3 days ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (4 days ago)
