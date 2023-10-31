@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [dynatrace-oss/DynatraceDashboardPowerups](https://github.com/dynatrace-oss/DynatraceDashboardPowerups) - Chrome Extension to boost DT dashboards (today)
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard. (1 day ago)
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality (2 days ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (4 days ago)
 - [SuperMayo/tinyPlanets](https://github.com/SuperMayo/tinyPlanets) - Randomly generated tiny planets. (4 days ago)
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (5 days ago)
