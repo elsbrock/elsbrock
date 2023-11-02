@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [octokit/graphql-action](https://github.com/octokit/graphql-action) - A GitHub Action to send queries to GitHub&#39;s GraphQL API (today)
 - [fazalmajid/fts5index](https://github.com/fazalmajid/fts5index) - SQLite FTS5-based search engine for Hugo pages (today)
 - [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (2 days ago)
 - [dynatrace-oss/DynatraceDashboardPowerups](https://github.com/dynatrace-oss/DynatraceDashboardPowerups) - Chrome Extension to boost DT dashboards (2 days ago)
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard. (3 days ago)
-- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality (4 days ago)
