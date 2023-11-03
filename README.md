@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible) (today)
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer &amp; Volume Mixer  🎧 (today)
 - [octokit/graphql-action](https://github.com/octokit/graphql-action) - A GitHub Action to send queries to GitHub&#39;s GraphQL API (1 day ago)
 - [fazalmajid/fts5index](https://github.com/fazalmajid/fts5index) - SQLite FTS5-based search engine for Hugo pages (1 day ago)
 - [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (3 days ago)
-- [dynatrace-oss/DynatraceDashboardPowerups](https://github.com/dynatrace-oss/DynatraceDashboardPowerups) - Chrome Extension to boost DT dashboards (3 days ago)
-- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard. (4 days ago)
