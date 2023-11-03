@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (1 month ago)
+- [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (8 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (11 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [octokit/graphql-action](https://github.com/octokit/graphql-action) - A GitHub Action to send queries to GitHub&#39;s GraphQL API (today)
-- [fazalmajid/fts5index](https://github.com/fazalmajid/fts5index) - SQLite FTS5-based search engine for Hugo pages (today)
-- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (2 days ago)
-- [dynatrace-oss/DynatraceDashboardPowerups](https://github.com/dynatrace-oss/DynatraceDashboardPowerups) - Chrome Extension to boost DT dashboards (2 days ago)
-- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard. (3 days ago)
+- [octokit/graphql-action](https://github.com/octokit/graphql-action) - A GitHub Action to send queries to GitHub&#39;s GraphQL API (1 day ago)
+- [fazalmajid/fts5index](https://github.com/fazalmajid/fts5index) - SQLite FTS5-based search engine for Hugo pages (1 day ago)
+- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (3 days ago)
+- [dynatrace-oss/DynatraceDashboardPowerups](https://github.com/dynatrace-oss/DynatraceDashboardPowerups) - Chrome Extension to boost DT dashboards (3 days ago)
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard. (4 days ago)
