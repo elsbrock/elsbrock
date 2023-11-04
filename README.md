@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (today)
 - [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible) (1 day ago)
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer &amp; Volume Mixer  🎧 (1 day ago)
 - [octokit/graphql-action](https://github.com/octokit/graphql-action) - A GitHub Action to send queries to GitHub&#39;s GraphQL API (2 days ago)
 - [fazalmajid/fts5index](https://github.com/fazalmajid/fts5index) - SQLite FTS5-based search engine for Hugo pages (2 days ago)
-- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (4 days ago)
