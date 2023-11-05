@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs (today)
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (today)
 - [garnix-io/garn](https://github.com/garnix-io/garn) -  (today)
 - [FaisalBinAhmed/MVGFahrinfo](https://github.com/FaisalBinAhmed/MVGFahrinfo) - Get up-to-date departure times for Munich public transport in your terminal. (today)
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
-- [fraugster/cwtch](https://github.com/fraugster/cwtch) - cwtch is &#39;watch&#39; with configurable colourful highlighting. (today)
