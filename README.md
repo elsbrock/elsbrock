@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (today)
+- [garnix-io/garn](https://github.com/garnix-io/garn) -  (today)
+- [FaisalBinAhmed/MVGFahrinfo](https://github.com/FaisalBinAhmed/MVGFahrinfo) - Get up-to-date departure times for Munich public transport in your terminal. (today)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
 - [fraugster/cwtch](https://github.com/fraugster/cwtch) - cwtch is &#39;watch&#39; with configurable colourful highlighting. (today)
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (today)
-- [pstrobl96/prusa_exporter](https://github.com/pstrobl96/prusa_exporter) - Prometheus exporter for public APIs of Prusa Printers (today)
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 day ago)
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible) (2 days ago)
