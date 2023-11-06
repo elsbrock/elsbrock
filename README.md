@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [joeycumines/ts-chan](https://github.com/joeycumines/ts-chan) - Concurrency primitives for TypeScript and JavaScript. (today)
+- [thexyno/nixos-config](https://github.com/thexyno/nixos-config) - my nixos/nix-darwin configurations (today)
 - [lxe/llavavision](https://github.com/lxe/llavavision) - A simple &#34;Be My Eyes&#34; web app with a llama.cpp/llava backend (today)
 - [humanmade/go-anonymize-mysqldump](https://github.com/humanmade/go-anonymize-mysqldump) - Allows you to pipe data from mysqldump or an SQL file and anonymize it. (today)
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (today)
-- [jcalvinowens/tempsensor](https://github.com/jcalvinowens/tempsensor) - ESP32 Temperature Sensor (today)
-- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs (1 day ago)
