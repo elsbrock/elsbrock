@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI (today)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (today)
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (today)
 - [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL (today)
 - [joeycumines/ts-chan](https://github.com/joeycumines/ts-chan) - Concurrency primitives for TypeScript and JavaScript. (today)
-- [thexyno/nixos-config](https://github.com/thexyno/nixos-config) - my nixos/nix-darwin configurations (today)
-- [lxe/llavavision](https://github.com/lxe/llavavision) - A simple &#34;Be My Eyes&#34; web app with a llama.cpp/llava backend (today)
-- [humanmade/go-anonymize-mysqldump](https://github.com/humanmade/go-anonymize-mysqldump) - Allows you to pipe data from mysqldump or an SQL file and anonymize it. (today)
