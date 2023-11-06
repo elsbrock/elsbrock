@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [lxe/llavavision](https://github.com/lxe/llavavision) - A simple &#34;Be My Eyes&#34; web app with a llama.cpp/llava backend (today)
+- [humanmade/go-anonymize-mysqldump](https://github.com/humanmade/go-anonymize-mysqldump) - Allows you to pipe data from mysqldump or an SQL file and anonymize it. (today)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (today)
+- [jcalvinowens/tempsensor](https://github.com/jcalvinowens/tempsensor) - ESP32 Temperature Sensor (today)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs (1 day ago)
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (1 day ago)
-- [garnix-io/garn](https://github.com/garnix-io/garn) -  (1 day ago)
-- [FaisalBinAhmed/MVGFahrinfo](https://github.com/FaisalBinAhmed/MVGFahrinfo) - Get up-to-date departure times for Munich public transport in your terminal. (1 day ago)
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 day ago)
