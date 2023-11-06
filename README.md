@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs (today)
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (today)
-- [garnix-io/garn](https://github.com/garnix-io/garn) -  (today)
-- [FaisalBinAhmed/MVGFahrinfo](https://github.com/FaisalBinAhmed/MVGFahrinfo) - Get up-to-date departure times for Munich public transport in your terminal. (today)
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs (1 day ago)
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (1 day ago)
+- [garnix-io/garn](https://github.com/garnix-io/garn) -  (1 day ago)
+- [FaisalBinAhmed/MVGFahrinfo](https://github.com/FaisalBinAhmed/MVGFahrinfo) - Get up-to-date departure times for Munich public transport in your terminal. (1 day ago)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 day ago)
