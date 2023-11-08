@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (today)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. (1 day ago)
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI (2 days ago)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (2 days ago)
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (2 days ago)
-- [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL (2 days ago)
