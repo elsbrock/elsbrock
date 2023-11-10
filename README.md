@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed! (today)
 - [webgiss/niolesk](https://github.com/webgiss/niolesk) - Edit diagrams from textual descriptions! : A kroki interface. (1 day ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 days ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. (3 days ago)
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI (4 days ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (4 days ago)
