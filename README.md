@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (today)
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox &amp; others. (1 day ago)
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed! (1 day ago)
 - [webgiss/niolesk](https://github.com/webgiss/niolesk) - Edit diagrams from textual descriptions! : A kroki interface. (2 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (3 days ago)
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. (4 days ago)
