@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Jcparkyn/dpoint](https://github.com/Jcparkyn/dpoint) - Open-source digital stylus using camera tracking and inertial measurements (today)
 - [iocage/iocage](https://github.com/iocage/iocage) - A FreeBSD jail manager written in Python 3 (today)
 - [n8henrie/nixos-btrfs-pi](https://github.com/n8henrie/nixos-btrfs-pi) - Raspberry Pi SD card image for NixOS on BTRFS root (today)
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd. (today)
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus] (today)
-- [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics (today)
