@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (today)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (8 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (11 months ago)
-- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [iocage/iocage](https://github.com/iocage/iocage) - A FreeBSD jail manager written in Python 3 (today)
 - [n8henrie/nixos-btrfs-pi](https://github.com/n8henrie/nixos-btrfs-pi) - Raspberry Pi SD card image for NixOS on BTRFS root (today)
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd. (today)
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus] (today)
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics (today)
-- [lorenz/go-zfs](https://github.com/lorenz/go-zfs) - GoZFS is a pure-Go implementation of ZFS userspace (today)
