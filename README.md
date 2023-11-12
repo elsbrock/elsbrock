@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [n8henrie/nixos-btrfs-pi](https://github.com/n8henrie/nixos-btrfs-pi) - Raspberry Pi SD card image for NixOS on BTRFS root (today)
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd. (today)
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus] (today)
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics (today)
 - [lorenz/go-zfs](https://github.com/lorenz/go-zfs) - GoZFS is a pure-Go implementation of ZFS userspace (today)
-- [lucysrausch/colorlight-led-cube](https://github.com/lucysrausch/colorlight-led-cube) - 64x64 LED Cube based on the Colorlight 5a-75B LED driver board. (today)
