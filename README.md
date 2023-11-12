@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim. (today)
 - [d4ckard/spray](https://github.com/d4ckard/spray) - A x86_64 Linux debugger 🐛🐛🐛 (1 day ago)
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (1 day ago)
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox &amp; others. (2 days ago)
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed! (2 days ago)
-- [webgiss/niolesk](https://github.com/webgiss/niolesk) - Edit diagrams from textual descriptions! : A kroki interface. (3 days ago)
