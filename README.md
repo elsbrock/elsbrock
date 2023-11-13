@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [astro/prittorrent](https://github.com/astro/prittorrent) - BitTorrent Content Distribution for Podcasts (today)
 - [heywoodlh/flakes](https://github.com/heywoodlh/flakes) -  (1 day ago)
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs (1 day ago)
 - [Jcparkyn/dpoint](https://github.com/Jcparkyn/dpoint) - Open-source digital stylus using camera tracking and inertial measurements (1 day ago)
 - [iocage/iocage](https://github.com/iocage/iocage) - A FreeBSD jail manager written in Python 3 (1 day ago)
-- [n8henrie/nixos-btrfs-pi](https://github.com/n8henrie/nixos-btrfs-pi) - Raspberry Pi SD card image for NixOS on BTRFS root (1 day ago)
