@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (today)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 day ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (8 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (today)
-- [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel &amp; MicroVM Compilation and Deployment Platform (today)
-- [astro/prittorrent](https://github.com/astro/prittorrent) - BitTorrent Content Distribution for Podcasts (1 day ago)
-- [heywoodlh/flakes](https://github.com/heywoodlh/flakes) -  (2 days ago)
-- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs (2 days ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (1 day ago)
+- [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel &amp; MicroVM Compilation and Deployment Platform (1 day ago)
+- [astro/prittorrent](https://github.com/astro/prittorrent) - BitTorrent Content Distribution for Podcasts (2 days ago)
+- [heywoodlh/flakes](https://github.com/heywoodlh/flakes) -  (3 days ago)
+- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs (3 days ago)
