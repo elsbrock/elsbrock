@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 day ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (2 days ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (8 months ago)
-- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (11 months ago)
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe &amp; Syscall hook &amp; Plugins (today)
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (1 day ago)
-- [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel &amp; MicroVM Compilation and Deployment Platform (1 day ago)
-- [astro/prittorrent](https://github.com/astro/prittorrent) - BitTorrent Content Distribution for Podcasts (2 days ago)
-- [heywoodlh/flakes](https://github.com/heywoodlh/flakes) -  (3 days ago)
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe &amp; Syscall hook &amp; Plugins (1 day ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (2 days ago)
+- [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel &amp; MicroVM Compilation and Deployment Platform (2 days ago)
+- [astro/prittorrent](https://github.com/astro/prittorrent) - BitTorrent Content Distribution for Podcasts (3 days ago)
+- [heywoodlh/flakes](https://github.com/heywoodlh/flakes) -  (4 days ago)
