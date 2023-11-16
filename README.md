@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (today)
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (today)
 - [poettering/diskomator](https://github.com/poettering/diskomator) - 🦠 NVMe-TCP at your fingertips 🦠 (today)
 - [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe &amp; Syscall hook &amp; Plugins (1 day ago)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (2 days ago)
-- [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel &amp; MicroVM Compilation and Deployment Platform (2 days ago)
-- [astro/prittorrent](https://github.com/astro/prittorrent) - BitTorrent Content Distribution for Podcasts (3 days ago)
