@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [truenas/py-libzfs](https://github.com/truenas/py-libzfs) - Python libzfs bindings (today)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (1 day ago)
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (1 day ago)
 - [poettering/diskomator](https://github.com/poettering/diskomator) - 🦠 NVMe-TCP at your fingertips 🦠 (1 day ago)
 - [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe &amp; Syscall hook &amp; Plugins (2 days ago)
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (3 days ago)
