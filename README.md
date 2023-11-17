@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (2 days ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (3 days ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (8 months ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (9 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (1 year ago)
 
 #### 🌱 My latest projects
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (today)
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (today)
-- [poettering/diskomator](https://github.com/poettering/diskomator) - 🦠 NVMe-TCP at your fingertips 🦠 (today)
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe &amp; Syscall hook &amp; Plugins (1 day ago)
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (2 days ago)
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (1 day ago)
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (1 day ago)
+- [poettering/diskomator](https://github.com/poettering/diskomator) - 🦠 NVMe-TCP at your fingertips 🦠 (1 day ago)
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe &amp; Syscall hook &amp; Plugins (2 days ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (3 days ago)
