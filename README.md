@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (today)
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (today)
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (today)
 - [radian-software/riju-replit](https://github.com/radian-software/riju-replit) - ⚡ Extremely fast online playground for every programming language. (today)
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (today)
-- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (today)
-- [truenas/py-libzfs](https://github.com/truenas/py-libzfs) - Python libzfs bindings (today)
