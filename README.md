@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (3 days ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (4 days ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (9 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (today)
-- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (today)
-- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (today)
-- [radian-software/riju-replit](https://github.com/radian-software/riju-replit) - ⚡ Extremely fast online playground for every programming language. (today)
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (today)
+- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (1 day ago)
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (1 day ago)
+- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (1 day ago)
+- [radian-software/riju-replit](https://github.com/radian-software/riju-replit) - ⚡ Extremely fast online playground for every programming language. (1 day ago)
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (1 day ago)
