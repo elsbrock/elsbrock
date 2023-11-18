@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (today)
 - [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (1 day ago)
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (1 day ago)
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (1 day ago)
 - [radian-software/riju-replit](https://github.com/radian-software/riju-replit) - ⚡ Extremely fast online playground for every programming language. (1 day ago)
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (1 day ago)
