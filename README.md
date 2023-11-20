@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (today)
+- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (today)
 - [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (2 days ago)
 - [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (3 days ago)
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (3 days ago)
-- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (3 days ago)
-- [radian-software/riju-replit](https://github.com/radian-software/riju-replit) - ⚡ Extremely fast online playground for every programming language. (3 days ago)
