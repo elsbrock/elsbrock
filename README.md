@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (6 days ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 week ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (9 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (6 months ago)
+- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (7 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (1 year ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (1 year ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (today)
-- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (today)
-- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (2 days ago)
-- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (3 days ago)
-- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (3 days ago)
+- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (1 day ago)
+- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (1 day ago)
+- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (3 days ago)
+- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (4 days ago)
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (4 days ago)
