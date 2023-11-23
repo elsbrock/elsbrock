@@ -4,7 +4,7 @@
 
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 week ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (6 months ago)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (9 months ago)
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments (1 year ago)
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (2 days ago)
-- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (2 days ago)
-- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (4 days ago)
-- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (5 days ago)
-- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (5 days ago)
+- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (3 days ago)
+- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (3 days ago)
+- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (5 days ago)
+- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (6 days ago)
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI (6 days ago)
