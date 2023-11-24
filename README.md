@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [briandowns/jail](https://github.com/briandowns/jail) - Package jail provides native FreeBSD Jail syscalls in Go (today)
-- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (3 days ago)
-- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (3 days ago)
-- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (5 days ago)
-- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (6 days ago)
+- [briandowns/jail](https://github.com/briandowns/jail) - Package jail provides native FreeBSD Jail syscalls in Go (1 day ago)
+- [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (4 days ago)
+- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (4 days ago)
+- [socotecio/django-socio-grpc](https://github.com/socotecio/django-socio-grpc) - gRPC for Django. (6 days ago)
+- [elcharitas/chakra-ui-svelte](https://github.com/elcharitas/chakra-ui-svelte) - ⚡️ Simple, Modular &amp; Accessible UI Components for your Svelte Applications (1 week ago)
