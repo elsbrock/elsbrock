@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall (today)
 - [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data (today)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (today)
 - [briandowns/jail](https://github.com/briandowns/jail) - Package jail provides native FreeBSD Jail syscalls in Go (1 day ago)
 - [jrief/django-sass-processor](https://github.com/jrief/django-sass-processor) - SASS processor to compile SCSS files into *.css, while rendering, or offline. (4 days ago)
-- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. (4 days ago)
