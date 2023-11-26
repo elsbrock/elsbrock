@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components (today)
 - [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service (1 day ago)
 - [jonmon6691/storage_architecture](https://github.com/jonmon6691/storage_architecture) - Documentation and scripts for my storage and backup system (1 day ago)
 - [mistifyio/go-zfs](https://github.com/mistifyio/go-zfs) - Go wrappers for ZFS commands (1 day ago)
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (2 days ago)
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall (2 days ago)
