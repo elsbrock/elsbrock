@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (today)
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (today)
 - [Momciloo/fun-with-sockets](https://github.com/Momciloo/fun-with-sockets) -  (today)
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙 (today)
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components (today)
-- [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service (1 day ago)
-- [jonmon6691/storage_architecture](https://github.com/jonmon6691/storage_architecture) - Documentation and scripts for my storage and backup system (1 day ago)
