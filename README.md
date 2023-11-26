@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (today)
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 (today)
+- [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django &#43; Tailwind CSS = 💚 (today)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (today)
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (today)
-- [Momciloo/fun-with-sockets](https://github.com/Momciloo/fun-with-sockets) -  (today)
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙 (today)
-- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components (today)
