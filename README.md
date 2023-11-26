@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), today) - 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 6 months ago) - A utility to auto renew your lent media.
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 1 day ago) - 
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 7 months ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 10 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
-- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (2 weeks ago)
+- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (3 weeks ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (7 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (1 year ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service (today)
-- [jonmon6691/storage_architecture](https://github.com/jonmon6691/storage_architecture) - Documentation and scripts for my storage and backup system (today)
-- [mistifyio/go-zfs](https://github.com/mistifyio/go-zfs) - Go wrappers for ZFS commands (today)
-- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (1 day ago)
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall (1 day ago)
+- [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service (1 day ago)
+- [jonmon6691/storage_architecture](https://github.com/jonmon6691/storage_architecture) - Documentation and scripts for my storage and backup system (1 day ago)
+- [mistifyio/go-zfs](https://github.com/mistifyio/go-zfs) - Go wrappers for ZFS commands (1 day ago)
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (2 days ago)
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall (2 days ago)
