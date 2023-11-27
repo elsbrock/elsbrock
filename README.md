@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (today)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 day ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 day ago)
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 (1 day ago)
 - [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django &#43; Tailwind CSS = 💚 (1 day ago)
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 day ago)
