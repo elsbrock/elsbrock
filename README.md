@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 week ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (2 weeks ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (3 weeks ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (2 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 2 days ago) - 
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 3 days ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 7 months ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 10 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon (today)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (today)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 day ago)
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 day ago)
-- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 (1 day ago)
+- [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon (1 day ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 day ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (2 days ago)
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (2 days ago)
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 (2 days ago)
