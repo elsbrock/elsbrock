@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search &amp; analytics engine on cloud storage (today)
 - [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon (2 days ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 days ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (3 days ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (3 days ago)
-- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 (3 days ago)
