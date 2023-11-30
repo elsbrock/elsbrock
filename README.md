@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) - Home Assistant TP-Link Omada Integration (today)
 - [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django (today)
 - [jrief/django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django (today)
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. (today)
 - [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django. (today)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (today)
