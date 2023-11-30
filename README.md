@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 4 days ago) - 
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 5 days ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 7 months ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 10 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search &amp; analytics engine on cloud storage (today)
-- [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon (2 days ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 days ago)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (3 days ago)
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (3 days ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search &amp; analytics engine on cloud storage (1 day ago)
+- [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon (3 days ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 days ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (4 days ago)
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (4 days ago)
