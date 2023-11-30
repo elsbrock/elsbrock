@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django (today)
+- [jrief/django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django (today)
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. (today)
+- [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django. (today)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (today)
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzzy search, hexdumps, searches nested archives (zip, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more (today)
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search &amp; analytics engine on cloud storage (1 day ago)
-- [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon (3 days ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 days ago)
