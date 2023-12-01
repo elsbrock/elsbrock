@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX (today)
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (today)
 - [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) - Home Assistant TP-Link Omada Integration (1 day ago)
 - [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django (1 day ago)
 - [jrief/django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django (1 day ago)
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. (1 day ago)
