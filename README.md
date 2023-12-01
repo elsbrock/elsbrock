@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (today)
 - [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) - Home Assistant TP-Link Omada Integration (1 day ago)
 - [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django (1 day ago)
 - [jrief/django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django (1 day ago)
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. (1 day ago)
-- [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django. (1 day ago)
