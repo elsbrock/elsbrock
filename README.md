@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 5 days ago) - 
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 6 days ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 7 months ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 10 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) - Home Assistant TP-Link Omada Integration (today)
-- [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django (today)
-- [jrief/django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django (today)
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. (today)
-- [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django. (today)
+- [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) - Home Assistant TP-Link Omada Integration (1 day ago)
+- [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django (1 day ago)
+- [jrief/django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django (1 day ago)
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. (1 day ago)
+- [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django. (1 day ago)
