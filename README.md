@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (today)
+- [django-webpack/django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with django (today)
 - [sass/libsass](https://github.com/sass/libsass) - A C/C&#43;&#43; implementation of a Sass compiler (today)
 - [dangeng/visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper &#34;Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models&#34; (today)
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX (today)
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (today)
-- [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) - Home Assistant TP-Link Omada Integration (1 day ago)
