@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (today)
+- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (today)
 - [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (1 day ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (2 days ago)
 - [django-webpack/django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with django (2 days ago)
-- [sass/libsass](https://github.com/sass/libsass) - A C/C&#43;&#43; implementation of a Sass compiler (2 days ago)
-- [dangeng/visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper &#34;Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models&#34; (2 days ago)
