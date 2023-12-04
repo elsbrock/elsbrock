@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (2 weeks ago)
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (3 weeks ago)
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (4 weeks ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (9 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (today)
-- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (today)
-- [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (1 day ago)
-- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (2 days ago)
-- [django-webpack/django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with django (2 days ago)
+- [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (1 day ago)
+- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (1 day ago)
+- [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (2 days ago)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (3 days ago)
+- [django-webpack/django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with django (3 days ago)
