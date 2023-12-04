@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [albertito/chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] (today)
 - [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (1 day ago)
 - [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (1 day ago)
 - [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (2 days ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (3 days ago)
-- [django-webpack/django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with django (3 days ago)
