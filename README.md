@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [herrera-luis/vision-core-ai](https://github.com/herrera-luis/vision-core-ai) - Demo python script app to interact with llama.cpp server using whisper API, microphone and webcam devices. (today)
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS&#39;23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. (today)
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (today)
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (today)
 - [seveibar/pragmaticversioning](https://github.com/seveibar/pragmaticversioning) -  (today)
-- [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer (1 day ago)
-- [albertito/chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] (1 day ago)
-- [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (2 days ago)
