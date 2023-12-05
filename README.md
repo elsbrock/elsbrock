@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (2 weeks ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (3 weeks ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (4 weeks ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (4 weeks ago)
+- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (1 month ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (7 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (1 year ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer (today)
-- [albertito/chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] (today)
-- [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (1 day ago)
-- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (1 day ago)
-- [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (2 days ago)
+- [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer (1 day ago)
+- [albertito/chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] (1 day ago)
+- [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (2 days ago)
+- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (2 days ago)
+- [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (3 days ago)
