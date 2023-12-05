@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (today)
+- [seveibar/pragmaticversioning](https://github.com/seveibar/pragmaticversioning) -  (today)
 - [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer (1 day ago)
 - [albertito/chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] (1 day ago)
 - [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch) -  (2 days ago)
-- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects. (2 days ago)
-- [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version (3 days ago)
