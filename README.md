@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (today)
 - [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui) - A chess TUI implementation in rust (today)
 - [herrera-luis/vision-core-ai](https://github.com/herrera-luis/vision-core-ai) - Demo python script app to interact with llama.cpp server using whisper API, microphone and webcam devices. (1 day ago)
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS&#39;23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. (1 day ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 day ago)
-- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (1 day ago)
