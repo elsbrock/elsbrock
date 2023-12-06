@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (3 weeks ago)
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (4 weeks ago)
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (9 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [herrera-luis/vision-core-ai](https://github.com/herrera-luis/vision-core-ai) - Demo python script app to interact with llama.cpp server using whisper API, microphone and webcam devices. (today)
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS&#39;23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. (today)
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (today)
-- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (today)
-- [seveibar/pragmaticversioning](https://github.com/seveibar/pragmaticversioning) -  (today)
+- [herrera-luis/vision-core-ai](https://github.com/herrera-luis/vision-core-ai) - Demo python script app to interact with llama.cpp server using whisper API, microphone and webcam devices. (1 day ago)
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS&#39;23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. (1 day ago)
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 day ago)
+- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (1 day ago)
+- [seveibar/pragmaticversioning](https://github.com/seveibar/pragmaticversioning) -  (1 day ago)
