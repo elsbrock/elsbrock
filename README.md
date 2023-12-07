@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow (today)
+- [MrBin99/django-vite](https://github.com/MrBin99/django-vite) - Integration of ViteJS in a Django project. (today)
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that&#39;s using Docker and Docker Compose. (today)
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler (today)
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. (1 day ago)
-- [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension (1 day ago)
-- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (1 day ago)
-- [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui) - A chess TUI implementation in rust 🦀 (1 day ago)
