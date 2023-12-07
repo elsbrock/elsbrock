@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (today)
 - [ihuguet/picotts](https://github.com/ihuguet/picotts) - Pico TTS: text to speech voice sinthesizer from SVox, included in Android AOSP (today)
 - [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow (today)
 - [MrBin99/django-vite](https://github.com/MrBin99/django-vite) - Integration of ViteJS in a Django project. (today)
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that&#39;s using Docker and Docker Compose. (today)
-- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler (today)
