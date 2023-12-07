@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler (today)
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. (1 day ago)
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension (1 day ago)
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (1 day ago)
 - [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui) - A chess TUI implementation in rust 🦀 (1 day ago)
-- [herrera-luis/vision-core-ai](https://github.com/herrera-luis/vision-core-ai) - Demo python script app to interact with llama.cpp server using whisper API, microphone and webcam devices. (2 days ago)
