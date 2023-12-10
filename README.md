@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC (today)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (3 days ago)
 - [ihuguet/picotts](https://github.com/ihuguet/picotts) - Pico TTS: text to speech voice sinthesizer from SVox, included in Android AOSP (3 days ago)
 - [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow (3 days ago)
 - [MrBin99/django-vite](https://github.com/MrBin99/django-vite) - Integration of ViteJS in a Django project. (3 days ago)
-- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that&#39;s using Docker and Docker Compose. (3 days ago)
