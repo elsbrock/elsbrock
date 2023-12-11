@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (today)
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform (1 day ago)
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. (1 day ago)
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant (1 day ago)
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC (1 day ago)
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (4 days ago)
