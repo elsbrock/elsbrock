@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [FL550/dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant (today)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform (2 days ago)
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. (2 days ago)
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant (2 days ago)
-- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC (2 days ago)
