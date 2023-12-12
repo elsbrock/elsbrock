@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (3 weeks ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (4 weeks ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (today)
-- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform (1 day ago)
-- [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. (1 day ago)
-- [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant (1 day ago)
-- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC (1 day ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
+- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform (2 days ago)
+- [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. (2 days ago)
+- [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant (2 days ago)
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC (2 days ago)
