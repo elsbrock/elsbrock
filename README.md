@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - A custom Home Assistant integration to play an audio file before and/or after text-to-speech (TTS) messages (today)
-- [FL550/dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant (today)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
-- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform (2 days ago)
-- [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. (2 days ago)
+- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - A custom Home Assistant integration to play an audio file before and/or after text-to-speech (TTS) messages (1 day ago)
+- [FL550/dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant (1 day ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 days ago)
+- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform (3 days ago)
+- [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. (3 days ago)
