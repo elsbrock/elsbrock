@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (today)
 - [music-assistant/hass-music-assistant](https://github.com/music-assistant/hass-music-assistant) - Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players. (today)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 day ago)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (1 day ago)
 - [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - A custom Home Assistant integration to play an audio file before and/or after text-to-speech (TTS) messages (2 days ago)
-- [FL550/dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant (2 days ago)
