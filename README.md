@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (4 weeks ago)
+- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 month ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (7 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
-- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (today)
-- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - A custom Home Assistant integration to play an audio file before and/or after text-to-speech (TTS) messages (1 day ago)
-- [FL550/dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant (1 day ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 day ago)
+- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (1 day ago)
+- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - A custom Home Assistant integration to play an audio file before and/or after text-to-speech (TTS) messages (2 days ago)
+- [FL550/dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant (2 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (3 days ago)
