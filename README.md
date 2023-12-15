@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (today)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (today)
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (today)
-- [music-assistant/hass-music-assistant](https://github.com/music-assistant/hass-music-assistant) - Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players. (today)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 day ago)
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (1 day ago)
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (1 day ago)
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (1 day ago)
+- [music-assistant/hass-music-assistant](https://github.com/music-assistant/hass-music-assistant) - Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players. (1 day ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (2 days ago)
