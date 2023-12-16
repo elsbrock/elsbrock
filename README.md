@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf (today)
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (1 day ago)
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (2 days ago)
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (2 days ago)
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (2 days ago)
-- [music-assistant/hass-music-assistant](https://github.com/music-assistant/hass-music-assistant) - Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players. (2 days ago)
