@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 2 weeks ago) - 
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 3 weeks ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 7 months ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 10 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (today)
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (1 day ago)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (1 day ago)
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (1 day ago)
-- [music-assistant/hass-music-assistant](https://github.com/music-assistant/hass-music-assistant) - Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players. (1 day ago)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (1 day ago)
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (2 days ago)
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (2 days ago)
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (2 days ago)
+- [music-assistant/hass-music-assistant](https://github.com/music-assistant/hass-music-assistant) - Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players. (2 days ago)
