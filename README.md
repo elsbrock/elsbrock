@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (today)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (1 day ago)
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 month ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
@@ -20,7 +20,7 @@
 
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 3 weeks ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 7 months ago) - A utility to auto renew your lent media.
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 10 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 11 months ago) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited &#34;frecently.&#34; A native Zsh port of z.sh with added features. (1 day ago)
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (2 days ago)
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (3 days ago)
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (4 days ago)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (4 days ago)
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited &#34;frecently.&#34; A native Zsh port of z.sh with added features. (2 days ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (3 days ago)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (4 days ago)
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client (5 days ago)
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (5 days ago)
