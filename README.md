@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (2 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 days ago)
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 month ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
@@ -25,15 +25,15 @@
 #### 🔨 My recent Pull Requests
 
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (1 month ago)
-- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (7 months ago)
+- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (8 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (1 year ago)
 - [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [darshanime/netpeek](https://github.com/darshanime/netpeek) - Layer 7 sniffer (today)
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF (today)
-- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container (1 day ago)
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited &#34;frecently.&#34; A native Zsh port of z.sh with added features. (3 days ago)
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (4 days ago)
+- [darshanime/netpeek](https://github.com/darshanime/netpeek) - Layer 7 sniffer (1 day ago)
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF (1 day ago)
+- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container (2 days ago)
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited &#34;frecently.&#34; A native Zsh port of z.sh with added features. (4 days ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (5 days ago)
