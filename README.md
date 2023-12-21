@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (today)
 - [darshanime/netpeek](https://github.com/darshanime/netpeek) - Layer 7 sniffer (1 day ago)
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF (1 day ago)
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container (2 days ago)
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited &#34;frecently.&#34; A native Zsh port of z.sh with added features. (4 days ago)
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (5 days ago)
