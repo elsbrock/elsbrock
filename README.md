@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (3 days ago)
+- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) to a Github repo using the GitHub v3 API (4 days ago)
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) -  (1 month ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 - [elsbrock/tilejson-dl](https://github.com/elsbrock/tilejson-dl) - Downloads tileJSON layer images and composes them into a single image. (3 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (today)
-- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (today)
-- [darshanime/netpeek](https://github.com/darshanime/netpeek) - Layer 7 sniffer (1 day ago)
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF (1 day ago)
-- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container (2 days ago)
+- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (1 day ago)
+- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (1 day ago)
+- [darshanime/netpeek](https://github.com/darshanime/netpeek) - Layer 7 sniffer (2 days ago)
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF (2 days ago)
+- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container (3 days ago)
