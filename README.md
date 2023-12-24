@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf (today)
+- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (today)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (today)
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code (1 day ago)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (2 days ago)
-- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (3 days ago)
-- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (3 days ago)
-- [darshanime/netpeek](https://github.com/darshanime/netpeek) - Layer 7 sniffer (4 days ago)
