@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [devos50/qemu-ios](https://github.com/devos50/qemu-ios) - A QEMU emulator for legacy Apple devices (today)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications (1 day ago)
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (1 day ago)
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf (2 days ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 days ago)
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 days ago)
