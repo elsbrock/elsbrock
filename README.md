@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (today)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (1 month ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (8 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (1 year ago)
-- [chore: try to add umlauts](https://github.com/elsbrock/Adv360-Pro-ZMK/pull/1) on [elsbrock/Adv360-Pro-ZMK](https://github.com/elsbrock/Adv360-Pro-ZMK) (1 year ago)
 
 #### ⭐ Recent Stars
 
