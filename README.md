@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream &#34;Ouch!&#34; (or everything else) everytime it bumps into something. (today)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (today)
 - [SFTtech/abrechnung](https://github.com/SFTtech/abrechnung) - Payment tracking and splitting for groups :money_with_wings: (today)
 - [jfedor2/screen-hopper](https://github.com/jfedor2/screen-hopper) - Smart KVM switch (1 day ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (1 day ago)
-- [devos50/qemu-ios](https://github.com/devos50/qemu-ios) - A QEMU emulator for legacy Apple devices (2 days ago)
