@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [SFTtech/abrechnung](https://github.com/SFTtech/abrechnung) - Payment tracking and splitting for groups :money_with_wings: (today)
 - [jfedor2/screen-hopper](https://github.com/jfedor2/screen-hopper) - Smart KVM switch (1 day ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (1 day ago)
 - [devos50/qemu-ios](https://github.com/devos50/qemu-ios) - A QEMU emulator for legacy Apple devices (2 days ago)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications (3 days ago)
-- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (3 days ago)
