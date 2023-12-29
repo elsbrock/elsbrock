@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [matt8707/addon-ha-fusion](https://github.com/matt8707/addon-ha-fusion) - ha-fusion addon (1 day ago)
-- [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream &#34;Ouch!&#34; (or everything else) everytime it bumps into something. (1 day ago)
-- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (1 day ago)
-- [SFTtech/abrechnung](https://github.com/SFTtech/abrechnung) - Payment tracking and splitting for groups :money_with_wings: (1 day ago)
-- [jfedor2/screen-hopper](https://github.com/jfedor2/screen-hopper) - Smart KVM switch (2 days ago)
+- [Ottercast/OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2) - OtterCast is an open-source audio streaming device running Linux. Based on a Sochip S3 SoC, featuring a Webinterface, shairport-sync, snapcast, Spotify Connect and pulseaudio sink/source. (today)
+- [Ottercast/OtterCastAmp](https://github.com/Ottercast/OtterCastAmp) - OtterCastAmp is an open-source WiFi Speaker amplifier, based on a Sochip S3 SoC. Powered by any USB PD adapter for up to 100W of music. (today)
+- [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (today)
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go. (today)
+- [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang (today)
