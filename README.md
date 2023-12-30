@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [meklort/bcm5719-fw](https://github.com/meklort/bcm5719-fw) - BCM5719 firmware reimplementation (today)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 day ago)
 - [Ottercast/OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2) - OtterCast is an open-source audio streaming device running Linux. Based on a Sochip S3 SoC, featuring a Webinterface, shairport-sync, snapcast, Spotify Connect and pulseaudio sink/source. (1 day ago)
 - [Ottercast/OtterCastAmp](https://github.com/Ottercast/OtterCastAmp) - OtterCastAmp is an open-source WiFi Speaker amplifier, based on a Sochip S3 SoC. Powered by any USB PD adapter for up to 100W of music. (1 day ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (1 day ago)
-- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go. (1 day ago)
