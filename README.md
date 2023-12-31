@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [offbyone/tailscale-s3-proxy](https://github.com/offbyone/tailscale-s3-proxy) - A tailscale to S3 bucket proxy (today)
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (today)
 - [meklort/bcm5719-fw](https://github.com/meklort/bcm5719-fw) - BCM5719 firmware reimplementation (1 day ago)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 days ago)
 - [Ottercast/OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2) - OtterCast is an open-source audio streaming device running Linux. Based on a Sochip S3 SoC, featuring a Webinterface, shairport-sync, snapcast, Spotify Connect and pulseaudio sink/source. (2 days ago)
-- [Ottercast/OtterCastAmp](https://github.com/Ottercast/OtterCastAmp) - OtterCastAmp is an open-source WiFi Speaker amplifier, based on a Sochip S3 SoC. Powered by any USB PD adapter for up to 100W of music. (2 days ago)
