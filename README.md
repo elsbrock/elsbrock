@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) - My dotfiles are here, managed with Chezmoi and NixOS Flakes (today)
+- [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook (today)
+- [lemonjesus/qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano) - An attempt at rehosting iPod Nano 3G (and possibly others) in QEMU. Originally a fork of Devos50&#39;s QEMU fork which had work for the iPod Touch 1G which I used as a starting point. (today)
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (1 day ago)
 - [offbyone/tailscale-s3-proxy](https://github.com/offbyone/tailscale-s3-proxy) - A tailscale to S3 bucket proxy (1 day ago)
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (1 day ago)
-- [meklort/bcm5719-fw](https://github.com/meklort/bcm5719-fw) - BCM5719 firmware reimplementation (2 days ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (3 days ago)
