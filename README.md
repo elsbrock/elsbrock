@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (1 week ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 week ago)
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) - Some ZFS experiments with MicroVMs and buildroot (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (4 days ago)
+- [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (5 days ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (1 month ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (8 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) - My dotfiles are here, managed with Chezmoi and NixOS Flakes (today)
-- [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook (today)
-- [lemonjesus/qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano) - An attempt at rehosting iPod Nano 3G (and possibly others) in QEMU. Originally a fork of Devos50&#39;s QEMU fork which had work for the iPod Touch 1G which I used as a starting point. (today)
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (1 day ago)
-- [offbyone/tailscale-s3-proxy](https://github.com/offbyone/tailscale-s3-proxy) - A tailscale to S3 bucket proxy (1 day ago)
+- [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) - My dotfiles are here, managed with Chezmoi and NixOS Flakes (1 day ago)
+- [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook (1 day ago)
+- [lemonjesus/qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano) - An attempt at rehosting iPod Nano 3G (and possibly others) in QEMU. Originally a fork of Devos50&#39;s QEMU fork which had work for the iPod Touch 1G which I used as a starting point. (1 day ago)
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (2 days ago)
+- [offbyone/tailscale-s3-proxy](https://github.com/offbyone/tailscale-s3-proxy) - A tailscale to S3 bucket proxy (2 days ago)
