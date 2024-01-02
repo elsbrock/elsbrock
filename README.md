@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (1 week ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 week ago)
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) - Some ZFS experiments with MicroVMs and buildroot (1 month ago)
@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.0](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.0), today) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 1 week ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 1 month ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 8 months ago) - A utility to auto renew your lent media.
@@ -25,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (today)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (5 days ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (1 month ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (8 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
-- [fix: example in docs with invalid syntax](https://github.com/elsbrock/dns/pull/1) on [elsbrock/dns](https://github.com/elsbrock/dns) (1 year ago)
 
 #### ⭐ Recent Stars
 
