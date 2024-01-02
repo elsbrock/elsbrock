@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (1 week ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 week ago)
 - [elsbrock/zedfs](https://github.com/elsbrock/zedfs) - Some ZFS experiments with MicroVMs and buildroot (1 month ago)
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (1 month ago)
 
 #### 🌱 My latest projects
 
