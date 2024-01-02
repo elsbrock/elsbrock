@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage. (today)
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (today)
 - [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) - My dotfiles are here, managed with Chezmoi and NixOS Flakes (1 day ago)
 - [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook (1 day ago)
 - [lemonjesus/qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano) - An attempt at rehosting iPod Nano 3G (and possibly others) in QEMU. Originally a fork of Devos50&#39;s QEMU fork which had work for the iPod Touch 1G which I used as a starting point. (1 day ago)
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (2 days ago)
-- [offbyone/tailscale-s3-proxy](https://github.com/offbyone/tailscale-s3-proxy) - A tailscale to S3 bucket proxy (2 days ago)
