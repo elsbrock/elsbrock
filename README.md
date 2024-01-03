@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [mwarning/chaos-sticker-collection](https://github.com/mwarning/chaos-sticker-collection) - A collection of chaos event / nerd culture related stickers. (today)
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell. Join our Discord community https://discord.gg/myshell and select the Developer role upon joining to gain exclusive access to our developer-only channel! Don&#39;t miss out on valuable discussions and collaboration opportunities. (today)
 - [Azure/image-rootfs-scanner](https://github.com/Azure/image-rootfs-scanner) - Tool to scan a container image&#39;s rootfs (today)
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage. (1 day ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 day ago)
-- [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) - My dotfiles are here, managed with Chezmoi and NixOS Flakes (2 days ago)
-- [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook (2 days ago)
