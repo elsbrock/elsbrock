@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Azure/image-rootfs-scanner](https://github.com/Azure/image-rootfs-scanner) - Tool to scan a container image&#39;s rootfs (today)
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage. (1 day ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 day ago)
 - [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) - My dotfiles are here, managed with Chezmoi and NixOS Flakes (2 days ago)
 - [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook (2 days ago)
-- [lemonjesus/qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano) - An attempt at rehosting iPod Nano 3G (and possibly others) in QEMU. Originally a fork of Devos50&#39;s QEMU fork which had work for the iPod Touch 1G which I used as a starting point. (2 days ago)
