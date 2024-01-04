@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what your 2023 looks like in command-line! (today)
 - [eidam/cf-workers-prometheus-push-gateway](https://github.com/eidam/cf-workers-prometheus-push-gateway) - A simple Prometheus (aggregated) push gateway allowing stateless/serverless workloads, ephemeral and batch jobs to easily expose their metrics. (1 day ago)
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter (1 day ago)
 - [mwarning/chaos-sticker-collection](https://github.com/mwarning/chaos-sticker-collection) - A collection of chaos event / nerd culture related stickers. (1 day ago)
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell. (1 day ago)
-- [Azure/image-rootfs-scanner](https://github.com/Azure/image-rootfs-scanner) - Tool to scan a container image&#39;s rootfs (1 day ago)
