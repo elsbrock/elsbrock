@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (today)
 - [RainbowLabsDE/PDBrick](https://github.com/RainbowLabsDE/PDBrick) - A 1.7kW USB-C PD power supply (today)
 - [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (1 day ago)
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what your 2023 looks like in commandline! (1 day ago)
 - [eidam/cf-workers-prometheus-push-gateway](https://github.com/eidam/cf-workers-prometheus-push-gateway) - A simple Prometheus (aggregated) push gateway allowing stateless/serverless workloads, ephemeral and batch jobs to easily expose their metrics. (2 days ago)
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter (2 days ago)
