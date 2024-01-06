@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (today)
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - home manager option search interface (1 day ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 day ago)
 - [RainbowLabsDE/PDBrick](https://github.com/RainbowLabsDE/PDBrick) - A 1.7kW USB-C PD power supply (1 day ago)
 - [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (2 days ago)
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what your 2023 looks like in commandline! (2 days ago)
