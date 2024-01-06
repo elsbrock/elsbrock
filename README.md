@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bmartin5692/bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robots. (today)
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (today)
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - home manager option search interface (1 day ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 day ago)
 - [RainbowLabsDE/PDBrick](https://github.com/RainbowLabsDE/PDBrick) - A 1.7kW USB-C PD power supply (1 day ago)
-- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (2 days ago)
