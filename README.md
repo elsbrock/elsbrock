@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (today)
+- [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config &amp; Home-Manager user config (today)
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, accessible and flexible desktop configuration.  (today)
 - [bmartin5692/bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robots. (today)
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (today)
-- [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - home manager option search interface (1 day ago)
-- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 day ago)
-- [RainbowLabsDE/PDBrick](https://github.com/RainbowLabsDE/PDBrick) - A 1.7kW USB-C PD power supply (1 day ago)
