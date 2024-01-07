@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [snaptec/openWB](https://github.com/snaptec/openWB) - openWB - die modulare Wallbox (today)
+- [tcellerier/Pico_ePaper_73](https://github.com/tcellerier/Pico_ePaper_73) - Firmware for the epaper photo frame Waveshare PhotoPainter 7 color 7.3&#34;  (today)
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. (today)
 - [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things. (today)
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon (today)
-- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (today)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
