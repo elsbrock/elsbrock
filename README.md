@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (today)
+- [divan/expvarmon](https://github.com/divan/expvarmon) - TermUI based monitor for Go apps using expvars (/debug/vars). Quickest way to monitor your Go app(s). (today)
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (today)
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (1 day ago)
-- [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config &amp; Home-Manager user config (1 day ago)
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, accessible and flexible desktop configuration.  (1 day ago)
-- [bmartin5692/bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robots. (1 day ago)
-- [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (1 day ago)
