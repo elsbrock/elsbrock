@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon (today)
+- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (today)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (today)
 - [divan/expvarmon](https://github.com/divan/expvarmon) - TermUI based monitor for Go apps using expvars (/debug/vars). Quickest way to monitor your Go app(s). (today)
-- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (today)
-- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (1 day ago)
