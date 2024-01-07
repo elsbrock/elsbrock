@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. (today)
+- [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things. (today)
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon (today)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (today)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (today)
-- [divan/expvarmon](https://github.com/divan/expvarmon) - TermUI based monitor for Go apps using expvars (/debug/vars). Quickest way to monitor your Go app(s). (today)
