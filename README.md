@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (today)
 - [snaptec/openWB](https://github.com/snaptec/openWB) - openWB - die modulare Wallbox (1 day ago)
 - [tcellerier/Pico_ePaper_73](https://github.com/tcellerier/Pico_ePaper_73) - Firmware for the epaper photo frame Waveshare PhotoPainter 7 color 7.3&#34;  (1 day ago)
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. (1 day ago)
 - [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things. (1 day ago)
-- [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon (1 day ago)
