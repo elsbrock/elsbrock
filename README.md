@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (today)
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (2 days ago)
 - [snaptec/openWB](https://github.com/snaptec/openWB) - openWB - die modulare Wallbox (3 days ago)
 - [tcellerier/Pico_ePaper_73](https://github.com/tcellerier/Pico_ePaper_73) - Firmware for the epaper photo frame Waveshare PhotoPainter 7 color 7.3&#34;  (3 days ago)
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. (3 days ago)
-- [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things. (3 days ago)
