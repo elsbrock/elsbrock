@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (1 week ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (2 weeks ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (2 weeks ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (1 day ago)
-- [snaptec/openWB](https://github.com/snaptec/openWB) - openWB - die modulare Wallbox (2 days ago)
-- [tcellerier/Pico_ePaper_73](https://github.com/tcellerier/Pico_ePaper_73) - Firmware for the epaper photo frame Waveshare PhotoPainter 7 color 7.3&#34;  (2 days ago)
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. (2 days ago)
-- [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things. (2 days ago)
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (2 days ago)
+- [snaptec/openWB](https://github.com/snaptec/openWB) - openWB - die modulare Wallbox (3 days ago)
+- [tcellerier/Pico_ePaper_73](https://github.com/tcellerier/Pico_ePaper_73) - Firmware for the epaper photo frame Waveshare PhotoPainter 7 color 7.3&#34;  (3 days ago)
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. (3 days ago)
+- [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things. (3 days ago)
