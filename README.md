@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [connorfeeley/dotfiles](https://github.com/connorfeeley/dotfiles) - NixOS/Nix-Darwin/Home-Manager configuration. (today)
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust (today)
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (2 days ago)
-- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (1 week ago)
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (1 week ago)
+- [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem. (today)
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS / NixOS &#43; starter templates and step-by-step guides ✨ (today)
+- [cor/nixos-config](https://github.com/cor/nixos-config) - NixOS, nix-darwin, and Home Manager configurations (today)
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager (today)
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration (today)
