@@ -6,15 +6,15 @@
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (2 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (4 weeks ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (4 weeks ago)
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) - Some ZFS experiments with MicroVMs and buildroot (2 months ago)
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (2 months ago)
 
 #### 🌱 My latest projects
 
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
-- [elsbrock/zedfs](https://github.com/elsbrock/zedfs) - Some ZFS experiments with MicroVMs and buildroot
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
+- [elsbrock/tor-node](https://github.com/elsbrock/tor-node) - :rocket: small, customizable, up-to-date Tor node :whale: Docker image based on the Arch Linux `tor` package
 
 #### 🔭 Latest releases I've contributed to
 
