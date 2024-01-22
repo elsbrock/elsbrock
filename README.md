@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (2 weeks ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (4 weeks ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (4 weeks ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem. (today)
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS / NixOS &#43; starter templates and step-by-step guides ✨ (today)
-- [cor/nixos-config](https://github.com/cor/nixos-config) - NixOS, nix-darwin, and Home Manager configurations (today)
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager (today)
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration (today)
+- [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem. (1 day ago)
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS / NixOS &#43; starter templates and step-by-step guides ✨ (1 day ago)
+- [cor/nixos-config](https://github.com/cor/nixos-config) - NixOS, nix-darwin, and Home Manager configurations (1 day ago)
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager (1 day ago)
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration (1 day ago)
