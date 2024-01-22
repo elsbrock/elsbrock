@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide] (today)
+- [LGUG2Z/nixos-hetzner-robot-starter](https://github.com/LGUG2Z/nixos-hetzner-robot-starter) -  A sane, batteries-included starter template for running NixOS on Hetzner Robot (today)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸 (today)
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools &amp; settings for Nix-based development (macOS &amp; Linux supported) (today)
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem. (1 day ago)
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS / NixOS &#43; starter templates and step-by-step guides ✨ (1 day ago)
-- [cor/nixos-config](https://github.com/cor/nixos-config) - NixOS, nix-darwin, and Home Manager configurations (1 day ago)
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager (1 day ago)
