@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools &amp; settings for Nix-based development (macOS &amp; Linux supported) (today)
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem. (1 day ago)
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS / NixOS &#43; starter templates and step-by-step guides ✨ (1 day ago)
 - [cor/nixos-config](https://github.com/cor/nixos-config) - NixOS, nix-darwin, and Home Manager configurations (1 day ago)
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager (1 day ago)
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration (1 day ago)
