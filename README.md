@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (today)
+- [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome. (today)
 - [sebastiant/dotfiles](https://github.com/sebastiant/dotfiles) -  (2 days ago)
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard (2 days ago)
-- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (2 days ago)
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (2 days ago)
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (2 days ago)
