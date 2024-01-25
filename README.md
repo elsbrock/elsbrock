@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bandithedoge/nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Nixpkgs overlay with Firefox binary builds for macOS (today)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (today)
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome. (today)
 - [sebastiant/dotfiles](https://github.com/sebastiant/dotfiles) -  (2 days ago)
-- [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard (2 days ago)
