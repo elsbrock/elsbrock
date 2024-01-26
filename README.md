@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ichitaso/ApolloPatcher](https://github.com/ichitaso/ApolloPatcher) - Apollo for Reddit tweak with in-app configurable API keys (today)
 - [bandithedoge/nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Nixpkgs overlay with Firefox binary builds for macOS (1 day ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 day ago)
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (1 day ago)
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome. (1 day ago)
-- [sebastiant/dotfiles](https://github.com/sebastiant/dotfiles) -  (3 days ago)
