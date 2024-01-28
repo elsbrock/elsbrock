@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client (today)
-- [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured (today)
-- [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments (today)
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy. (today)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 day ago)
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (today)
+- [srid/nixos-flake](https://github.com/srid/nixos-flake) - A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion. (today)
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system (today)
+- [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes &amp; flake-parts (supports macOS too) (today)
+- [ereslibre/dotfiles](https://github.com/ereslibre/dotfiles) - ❄️ Nixified ❄️ dotfiles (today)
