@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations. (today)
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ (today)
 - [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester. (today)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (today)
 - [srid/nixos-flake](https://github.com/srid/nixos-flake) - A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion. (today)
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system (today)
