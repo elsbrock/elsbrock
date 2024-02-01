@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (today)
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal. (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 day ago)
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations. (4 days ago)
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ (4 days ago)
