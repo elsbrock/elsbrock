@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 day ago)
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan (2 days ago)
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (2 days ago)
-- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide] (2 days ago)
-- [i077/opsm-nix](https://github.com/i077/opsm-nix) - 1Password secrets management for Nix (3 days ago)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (2 days ago)
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan (3 days ago)
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (3 days ago)
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide] (3 days ago)
+- [i077/opsm-nix](https://github.com/i077/opsm-nix) - 1Password secrets management for Nix (4 days ago)
