@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O&#39;Reilly - out now! Here&#39;s where you&#39;ll find a VM config for the examples, and more (today)
 - [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (1 day ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (3 days ago)
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan (4 days ago)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (4 days ago)
-- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide] (4 days ago)
