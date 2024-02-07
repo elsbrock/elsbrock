@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (today)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (2 days ago)
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan (3 days ago)
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (3 days ago)
-- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide] (3 days ago)
+- [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (1 day ago)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (3 days ago)
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan (4 days ago)
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (4 days ago)
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide] (4 days ago)
