@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (today)
 - [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O&#39;Reilly - out now! Here&#39;s where you&#39;ll find a VM config for the examples, and more (4 days ago)
 - [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (5 days ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan (1 week ago)
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (1 week ago)
