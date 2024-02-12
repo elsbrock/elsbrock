@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (1 month ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (1 month ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (today)
-- [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️  (today)
-- [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (today)
-- [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O&#39;Reilly - out now! Here&#39;s where you&#39;ll find a VM config for the examples, and more (4 days ago)
-- [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (5 days ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (1 day ago)
+- [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️  (1 day ago)
+- [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (1 day ago)
+- [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O&#39;Reilly - out now! Here&#39;s where you&#39;ll find a VM config for the examples, and more (5 days ago)
+- [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (6 days ago)
