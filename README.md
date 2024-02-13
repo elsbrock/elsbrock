@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [zeeblaze/Melodio-SelfMate](https://github.com/zeeblaze/Melodio-SelfMate) - Your Ultimate Portable Music Companion For Home Automation. (today)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (2 days ago)
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️  (2 days ago)
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (2 days ago)
 - [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O&#39;Reilly - out now! Here&#39;s where you&#39;ll find a VM config for the examples, and more (6 days ago)
-- [engelchrisi/sma_charge_ctrl](https://github.com/engelchrisi/sma_charge_ctrl) -  (1 week ago)
