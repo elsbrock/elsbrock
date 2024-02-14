@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (today)
+- [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (today)
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (today)
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (today)
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (today)
-- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes. (today)
-- [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter (today)
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (1 day ago)
