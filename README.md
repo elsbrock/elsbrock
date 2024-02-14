@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter (today)
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (1 day ago)
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix) - Kickstart your Nix environment. (1 day ago)
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager (1 day ago)
 - [zeeblaze/Melodio-SelfMate](https://github.com/zeeblaze/Melodio-SelfMate) - Your Ultimate Portable Music Companion For Home Automation. (1 day ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (3 days ago)
