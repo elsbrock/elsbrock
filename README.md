@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (1 month ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (1 month ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (today)
-- [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (today)
-- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (today)
-- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (today)
-- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (today)
+- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (1 day ago)
+- [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (1 day ago)
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (1 day ago)
+- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (1 day ago)
+- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (1 day ago)
