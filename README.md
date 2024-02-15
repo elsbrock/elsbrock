@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more (today)
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages. (today)
 - [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (1 day ago)
 - [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (1 day ago)
 - [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (1 day ago)
-- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (1 day ago)
-- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (1 day ago)
