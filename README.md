@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (1 month ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (1 month ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) - A platform for packaging and launching ephemeral backend stacks with a focus on approachability for the average developer.  (today)
-- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more (today)
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages. (today)
-- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (1 day ago)
-- [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (1 day ago)
+- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) - A platform for packaging and launching ephemeral backend stacks with a focus on approachability for the average developer.  (1 day ago)
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more (1 day ago)
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages. (1 day ago)
+- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (2 days ago)
+- [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (2 days ago)
