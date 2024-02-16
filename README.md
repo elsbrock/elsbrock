@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ael-code/zsh-colored-man-pages](https://github.com/ael-code/zsh-colored-man-pages) - zsh plugin that colorifies man pages (today)
 - [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) - A platform for packaging and launching ephemeral backend stacks with a focus on approachability for the average developer.  (1 day ago)
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more (1 day ago)
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages. (1 day ago)
 - [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (2 days ago)
-- [jralvarezc/conf](https://github.com/jralvarezc/conf) - NixOS and Home-Manager Configuration (2 days ago)
