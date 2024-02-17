@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [GaetanLepage/dotfiles](https://github.com/GaetanLepage/dotfiles) -  (today)
+- [GaetanLepage/obs-do](https://github.com/GaetanLepage/obs-do) - CLI for common OBS operations while streaming using WebSocket (today)
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C&#43;&#43;20. (today)
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration (today)
 - [kmein/niveum](https://github.com/kmein/niveum) - dotfiles / NixOS config (1 day ago)
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage] (1 day ago)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 day ago)
