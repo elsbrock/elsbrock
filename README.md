@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [kmein/niveum](https://github.com/kmein/niveum) - dotfiles / NixOS config (today)
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage] (today)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (today)
-- [ael-code/zsh-colored-man-pages](https://github.com/ael-code/zsh-colored-man-pages) - zsh plugin that colorifies man pages (today)
-- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) - A platform for packaging and launching ephemeral backend stacks with a focus on approachability for the average developer.  (1 day ago)
+- [kmein/niveum](https://github.com/kmein/niveum) - dotfiles / NixOS config (1 day ago)
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage] (1 day ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 day ago)
+- [ael-code/zsh-colored-man-pages](https://github.com/ael-code/zsh-colored-man-pages) - zsh plugin that colorifies man pages (1 day ago)
+- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) - A platform for packaging and launching ephemeral backend stacks with a focus on approachability for the average developer.  (2 days ago)
