@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (today)
-- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (today)
-- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (today)
-- [GaetanLepage/dotfiles](https://github.com/GaetanLepage/dotfiles) -  (1 day ago)
-- [GaetanLepage/obs-do](https://github.com/GaetanLepage/obs-do) - CLI for common OBS operations while streaming using WebSocket (1 day ago)
+- [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (today)
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agonistic Neovim distribution for Nix/NixOS. (today)
+- [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix! (today)
+- [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix. (today)
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world. (today)
