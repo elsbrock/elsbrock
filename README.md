@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (today)
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (today)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (today)
 - [GaetanLepage/dotfiles](https://github.com/GaetanLepage/dotfiles) -  (1 day ago)
 - [GaetanLepage/obs-do](https://github.com/GaetanLepage/obs-do) - CLI for common OBS operations while streaming using WebSocket (1 day ago)
-- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C&#43;&#43;20. (1 day ago)
