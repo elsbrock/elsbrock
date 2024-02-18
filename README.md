@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [GaetanLepage/dotfiles](https://github.com/GaetanLepage/dotfiles) -  (today)
-- [GaetanLepage/obs-do](https://github.com/GaetanLepage/obs-do) - CLI for common OBS operations while streaming using WebSocket (today)
-- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C&#43;&#43;20. (today)
-- [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration (today)
-- [kmein/niveum](https://github.com/kmein/niveum) - dotfiles / NixOS config (1 day ago)
+- [GaetanLepage/dotfiles](https://github.com/GaetanLepage/dotfiles) -  (1 day ago)
+- [GaetanLepage/obs-do](https://github.com/GaetanLepage/obs-do) - CLI for common OBS operations while streaming using WebSocket (1 day ago)
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C&#43;&#43;20. (1 day ago)
+- [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration (1 day ago)
+- [kmein/niveum](https://github.com/kmein/niveum) - dotfiles / NixOS config (2 days ago)
