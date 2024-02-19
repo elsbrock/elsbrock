@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC (today)
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service (1 day ago)
 - [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (1 day ago)
 - [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agnostic Neovim distribution for Nix/NixOS. (1 day ago)
 - [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix! (1 day ago)
-- [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix. (1 day ago)
