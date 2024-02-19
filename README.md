@@ -29,13 +29,13 @@
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (1 month ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (1 month ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (3 months ago)
-- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (9 months ago)
+- [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (10 months ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service (today)
-- [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (today)
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agonistic Neovim distribution for Nix/NixOS. (today)
-- [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix! (today)
-- [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix. (today)
+- [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service (1 day ago)
+- [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (1 day ago)
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agonistic Neovim distribution for Nix/NixOS. (1 day ago)
+- [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix! (1 day ago)
+- [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix. (1 day ago)
