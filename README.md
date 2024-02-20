@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [nix-community/nixpkgs-xr](https://github.com/nix-community/nixpkgs-xr) - Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex] (today)
-- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC (today)
-- [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service (1 day ago)
-- [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (1 day ago)
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agnostic Neovim distribution for Nix/NixOS. (1 day ago)
+- [nix-community/nixpkgs-xr](https://github.com/nix-community/nixpkgs-xr) - Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex] (1 day ago)
+- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC (1 day ago)
+- [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service (2 days ago)
+- [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (2 days ago)
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agnostic Neovim distribution for Nix/NixOS. (2 days ago)
