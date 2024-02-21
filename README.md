@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [sellout/project-manager](https://github.com/sellout/project-manager) - Home Manager, but for repos. (today)
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (today)
 - [nix-community/nixpkgs-xr](https://github.com/nix-community/nixpkgs-xr) - Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex] (2 days ago)
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC (2 days ago)
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service (3 days ago)
-- [DavSanchez/nix-dotfiles](https://github.com/DavSanchez/nix-dotfiles) - Nix-based dotfiles for my systems (3 days ago)
