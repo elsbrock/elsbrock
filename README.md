@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (today)
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes (today)
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (today)
 - [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@adisbladis] (today)
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo (1 day ago)
-- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm] (1 day ago)
-- [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies) (1 day ago)
-- [sellout/project-manager](https://github.com/sellout/project-manager) - Home Manager, but for repos. (1 day ago)
