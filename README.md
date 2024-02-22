@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@adisbladis] (today)
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo (1 day ago)
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm] (1 day ago)
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies) (1 day ago)
 - [sellout/project-manager](https://github.com/sellout/project-manager) - Home Manager, but for repos. (1 day ago)
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (1 day ago)
