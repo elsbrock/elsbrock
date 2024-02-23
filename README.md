@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [c3e/grundgesetz-dev](https://github.com/c3e/grundgesetz-dev) - DocPatch Dev Repo (today)
+- [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland (today)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (1 day ago)
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes (1 day ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (1 day ago)
-- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@adisbladis] (1 day ago)
-- [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo (2 days ago)
