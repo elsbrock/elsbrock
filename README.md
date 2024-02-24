@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Gerschtli/nix-formatter-pack](https://github.com/Gerschtli/nix-formatter-pack) - Collection of several nix formatters (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (today)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (today)
 - [disassembler/network](https://github.com/disassembler/network) - Home Network (today)
 - [imincik/geospatial-nix](https://github.com/imincik/geospatial-nix) - Geospatial packages repository and environment. Check out https://geospatial-nix.today/ . (today)
-- [gardenfence/blocklist](https://github.com/gardenfence/blocklist) - A basic fediverse blocklist for Mastodon admins to block the most well known sources of hate speech, harassment, etc. (today)
-- [Ninlives/relocatable.nix](https://github.com/Ninlives/relocatable.nix) - A nix bundler that produces relocatable deployment script for nix store paths. (1 day ago)
-- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling (1 day ago)
