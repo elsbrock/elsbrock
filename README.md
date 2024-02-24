@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [gardenfence/blocklist](https://github.com/gardenfence/blocklist) - A basic fediverse blocklist for Mastodon admins to block the most well known sources of hate speech, harassment, etc. (today)
 - [Ninlives/relocatable.nix](https://github.com/Ninlives/relocatable.nix) - A nix bundler that produces relocatable deployment script for nix store paths. (1 day ago)
 - [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling (1 day ago)
 - [c3e/grundgesetz-dev](https://github.com/c3e/grundgesetz-dev) - DocPatch Dev Repo (1 day ago)
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland (1 day ago)
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (2 days ago)
