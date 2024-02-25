@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows (today)
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM (today)
 - [Gerschtli/nix-formatter-pack](https://github.com/Gerschtli/nix-formatter-pack) - Collection of several nix formatters (1 day ago)
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (1 day ago)
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (1 day ago)
-- [disassembler/network](https://github.com/disassembler/network) - Home Network (1 day ago)
