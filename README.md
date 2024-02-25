@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (1 month ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (2 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (2 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Gerschtli/nix-formatter-pack](https://github.com/Gerschtli/nix-formatter-pack) - Collection of several nix formatters (today)
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (today)
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (today)
-- [disassembler/network](https://github.com/disassembler/network) - Home Network (today)
-- [imincik/geospatial-nix](https://github.com/imincik/geospatial-nix) - Geospatial packages repository and environment. Check out https://geospatial-nix.today/ . (today)
+- [Gerschtli/nix-formatter-pack](https://github.com/Gerschtli/nix-formatter-pack) - Collection of several nix formatters (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (1 day ago)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (1 day ago)
+- [disassembler/network](https://github.com/disassembler/network) - Home Network (1 day ago)
+- [imincik/geospatial-nix](https://github.com/imincik/geospatial-nix) - Geospatial packages repository and environment. Check out https://geospatial-nix.today/ . (1 day ago)
