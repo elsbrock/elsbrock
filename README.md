@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua. (today)
 - [wouterdebie/putioarr](https://github.com/wouterdebie/putioarr) - put.io to sonarr/radarr proxy (today)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows (1 day ago)
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM (1 day ago)
 - [Gerschtli/nix-formatter-pack](https://github.com/Gerschtli/nix-formatter-pack) - Collection of several nix formatters (2 days ago)
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (2 days ago)
