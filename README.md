@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes (today)
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively  (1 day ago)
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively (1 day ago)
-- [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub (1 day ago)
