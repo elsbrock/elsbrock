@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (today)
 - [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes (1 day ago)
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively  (2 days ago)
-- [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively (2 days ago)
