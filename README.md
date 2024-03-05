@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (today)
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (today)
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links (today)
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects (1 day ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 days ago)
-- [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes (4 days ago)
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (4 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
