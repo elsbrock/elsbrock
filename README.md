@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (today)
 - [fricklerhandwerk/lazy-run](https://github.com/fricklerhandwerk/lazy-run) - Build executables from Nix derivations on demand. (today)
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (1 day ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 day ago)
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links (1 day ago)
-- [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects (2 days ago)
