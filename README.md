@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit (today)
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. (today)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (1 day ago)
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile&#39;s Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! (1 day ago)
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website (1 day ago)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (5 days ago)
-- [fricklerhandwerk/lazy-run](https://github.com/fricklerhandwerk/lazy-run) - Build executables from Nix derivations on demand. (5 days ago)
