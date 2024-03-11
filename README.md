@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 1 month ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 2 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 2 months ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 3 months ago) - 
 - [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 10 months ago) - A utility to auto renew your lent media.
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (today)
-- [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile&#39;s Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! (today)
-- [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website (today)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (4 days ago)
-- [fricklerhandwerk/lazy-run](https://github.com/fricklerhandwerk/lazy-run) - Build executables from Nix derivations on demand. (4 days ago)
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (1 day ago)
+- [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile&#39;s Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! (1 day ago)
+- [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website (1 day ago)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (5 days ago)
+- [fricklerhandwerk/lazy-run](https://github.com/fricklerhandwerk/lazy-run) - Build executables from Nix derivations on demand. (5 days ago)
