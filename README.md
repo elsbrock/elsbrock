@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (today)
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit (1 day ago)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. (1 day ago)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (2 days ago)
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile&#39;s Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! (2 days ago)
-- [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website (2 days ago)
