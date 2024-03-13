@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (today)
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (1 day ago)
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit (2 days ago)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. (2 days ago)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (3 days ago)
-- [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile&#39;s Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! (3 days ago)
