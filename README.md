@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (2 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (2 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (2 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API (today)
-- [paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar) - A sleek and minimalist ePaper calendar using ESPHome. (today)
-- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (today)
-- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (5 days ago)
+- [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API (1 day ago)
+- [paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar) - A sleek and minimalist ePaper calendar using ESPHome. (1 day ago)
+- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (1 day ago)
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (6 days ago)
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (1 week ago)
