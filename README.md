@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (today)
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API (1 day ago)
 - [paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar) - A sleek and minimalist ePaper calendar using ESPHome. (1 day ago)
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (1 day ago)
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (6 days ago)
-- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (1 week ago)
