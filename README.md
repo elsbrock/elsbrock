@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bonomani/devmon](https://github.com/bonomani/devmon) - Devmon is an open-source SNMP monitoring tool that can graph and alert several hundreds of devices per minutes (today)
 - [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like! (today)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API (1 week ago)
 - [paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar) - A sleek and minimalist ePaper calendar using ESPHome. (1 week ago)
-- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (1 week ago)
