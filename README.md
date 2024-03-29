@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (2 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (3 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (3 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [bonomani/devmon](https://github.com/bonomani/devmon) - Devmon is an open-source SNMP monitoring tool that can graph and alert several hundreds of devices per minutes (today)
-- [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like! (today)
+- [bonomani/devmon](https://github.com/bonomani/devmon) - Devmon is an open-source SNMP monitoring tool that can graph and alert several hundreds of devices per minutes (1 day ago)
+- [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like! (1 day ago)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API (1 week ago)
 - [paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar) - A sleek and minimalist ePaper calendar using ESPHome. (1 week ago)
