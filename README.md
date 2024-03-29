@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu. (today)
 - [mayl/buildroot_flake](https://github.com/mayl/buildroot_flake) - Nix flake for building buildroot projects (today)
 - [bonomani/devmon](https://github.com/bonomani/devmon) - Devmon is an open-source SNMP monitoring tool that can graph and alert several hundreds of devices per minutes (1 day ago)
 - [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like! (1 day ago)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
-- [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API (1 week ago)
