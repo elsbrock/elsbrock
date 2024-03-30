@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (today)
 - [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu. (1 day ago)
 - [mayl/buildroot_flake](https://github.com/mayl/buildroot_flake) - Nix flake for building buildroot projects (1 day ago)
 - [bonomani/devmon](https://github.com/bonomani/devmon) - Devmon is an open-source SNMP monitoring tool that can graph and alert several hundreds of devices per minutes (2 days ago)
 - [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like! (2 days ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
