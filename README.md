@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [velentr/buildroot.nix](https://github.com/velentr/buildroot.nix) - Flake for building Buildroot using nix (6 days ago)
-- [boehs/miami](https://github.com/boehs/miami) - 🍡 A little fork of Umami that does big things (6 days ago)
-- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options (6 days ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (6 days ago)
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The soon-to-be official formatter for Nix code (6 days ago)
+- [velentr/buildroot.nix](https://github.com/velentr/buildroot.nix) - Flake for building Buildroot using nix (1 week ago)
+- [boehs/miami](https://github.com/boehs/miami) - 🍡 A little fork of Umami that does big things (1 week ago)
+- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options (1 week ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (1 week ago)
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The soon-to-be official formatter for Nix code (1 week ago)
