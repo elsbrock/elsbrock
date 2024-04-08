@@ -38,4 +38,4 @@
 - [boehs/miami](https://github.com/boehs/miami) - 🍡 A little fork of Umami that does big things (1 week ago)
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options (1 week ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (1 week ago)
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The soon-to-be official formatter for Nix code (1 week ago)
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code (1 week ago)
