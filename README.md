@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (today)
-- [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (today)
+- [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (1 day ago)
+- [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (1 day ago)
 - [velentr/buildroot.nix](https://github.com/velentr/buildroot.nix) - Flake for building Buildroot using nix (1 week ago)
 - [boehs/miami](https://github.com/boehs/miami) - 🍡 A little fork of Umami that does big things (1 week ago)
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options (1 week ago)
