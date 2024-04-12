@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (3 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (3 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (3 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (1 day ago)
-- [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (1 day ago)
+- [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (2 days ago)
+- [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (2 days ago)
 - [velentr/buildroot.nix](https://github.com/velentr/buildroot.nix) - Flake for building Buildroot using nix (1 week ago)
 - [boehs/miami](https://github.com/boehs/miami) - 🍡 A little fork of Umami that does big things (1 week ago)
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options (1 week ago)
