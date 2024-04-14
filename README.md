@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [Kethen/edk2-build-intel-gop](https://github.com/Kethen/edk2-build-intel-gop) - A build script for building edk2 along with intel-gop (today)
 - [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (4 days ago)
 - [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (4 days ago)
 - [velentr/buildroot.nix](https://github.com/velentr/buildroot.nix) - Flake for building Buildroot using nix (2 weeks ago)
 - [boehs/miami](https://github.com/boehs/miami) - 🍡 A little fork of Umami that does big things (2 weeks ago)
-- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options (2 weeks ago)
