@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (3 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (3 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (3 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [cmd2001/build-edk2-gvtd](https://github.com/cmd2001/build-edk2-gvtd) - Automatically Build GVT-d Ready OVMF and OpROM (today)
-- [Kethen/edk2-build-intel-gop](https://github.com/Kethen/edk2-build-intel-gop) - A build script for building edk2 along with intel-gop (today)
-- [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (4 days ago)
-- [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (4 days ago)
+- [cmd2001/build-edk2-gvtd](https://github.com/cmd2001/build-edk2-gvtd) - Automatically Build GVT-d Ready OVMF and OpROM (1 day ago)
+- [Kethen/edk2-build-intel-gop](https://github.com/Kethen/edk2-build-intel-gop) - A build script for building edk2 along with intel-gop (1 day ago)
+- [badkeys/evilpubkeys](https://github.com/badkeys/evilpubkeys) - Public keys with strong evidence of compromise by malicious actor (5 days ago)
+- [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard (5 days ago)
 - [velentr/buildroot.nix](https://github.com/velentr/buildroot.nix) - Flake for building Buildroot using nix (2 weeks ago)
