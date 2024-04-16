@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (today)
 - [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (today)
 - [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (today)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 day ago)
 - [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (1 day ago)
-- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager (1 day ago)
