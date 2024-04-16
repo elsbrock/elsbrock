@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (3 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (3 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (3 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (today)
-- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (today)
-- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager (today)
-- [cmd2001/build-edk2-gvtd](https://github.com/cmd2001/build-edk2-gvtd) - Automatically Build GVT-d Ready OVMF and OpROM (1 day ago)
-- [Kethen/edk2-build-intel-gop](https://github.com/Kethen/edk2-build-intel-gop) - A build script for building edk2 along with intel-gop (1 day ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 day ago)
+- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (1 day ago)
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager (1 day ago)
+- [cmd2001/build-edk2-gvtd](https://github.com/cmd2001/build-edk2-gvtd) - Automatically Build GVT-d Ready OVMF and OpROM (2 days ago)
+- [Kethen/edk2-build-intel-gop](https://github.com/Kethen/edk2-build-intel-gop) - A build script for building edk2 along with intel-gop (2 days ago)
