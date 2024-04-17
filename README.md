@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (3 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (3 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (3 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (today)
-- [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (today)
-- [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (today)
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 day ago)
-- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (1 day ago)
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (1 day ago)
+- [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (1 day ago)
+- [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (1 day ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (2 days ago)
+- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (2 days ago)
