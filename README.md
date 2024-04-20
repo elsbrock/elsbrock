@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (3 days ago)
-- [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (3 days ago)
-- [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (3 days ago)
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (4 days ago)
-- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (4 days ago)
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (4 days ago)
+- [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (4 days ago)
+- [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (4 days ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (5 days ago)
+- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (5 days ago)
