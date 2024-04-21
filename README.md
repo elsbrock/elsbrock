@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [0x0mer/doom-htop](https://github.com/0x0mer/doom-htop) - The classic DOOM game over htop, the text-based process viewer (today)
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (5 days ago)
 - [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (5 days ago)
 - [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (5 days ago)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (6 days ago)
-- [eh8/chenglab](https://github.com/eh8/chenglab) - what it feels like to run nixos-rebuild: (6 days ago)
