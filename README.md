@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products (today)
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here. (1 day ago)
 - [0x0mer/doom-htop](https://github.com/0x0mer/doom-htop) - The classic DOOM game over htop, the text-based process viewer (2 days ago)
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (1 week ago)
 - [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (1 week ago)
-- [majbacka-labs/nixos.fi](https://github.com/majbacka-labs/nixos.fi) - NixOS netboot server configurations (1 week ago)
