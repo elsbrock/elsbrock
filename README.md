@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (today)
+- [hawkw/tinymetrics](https://github.com/hawkw/tinymetrics) -  a minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust. (today)
 - [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products (1 day ago)
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here. (2 days ago)
 - [0x0mer/doom-htop](https://github.com/0x0mer/doom-htop) - The classic DOOM game over htop, the text-based process viewer (3 days ago)
-- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs (1 week ago)
-- [jhvst/nix-config](https://github.com/jhvst/nix-config) - My personal NixOS config (1 week ago)
