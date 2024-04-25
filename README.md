@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (today)
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config (today)
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (1 day ago)
 - [hawkw/tinymetrics](https://github.com/hawkw/tinymetrics) -  a minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust. (1 day ago)
 - [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products (2 days ago)
-- [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here. (3 days ago)
