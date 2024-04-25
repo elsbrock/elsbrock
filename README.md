@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (3 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (4 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (4 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config (today)
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (1 day ago)
 - [hawkw/tinymetrics](https://github.com/hawkw/tinymetrics) -  a minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust. (1 day ago)
 - [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products (2 days ago)
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here. (3 days ago)
-- [0x0mer/doom-htop](https://github.com/0x0mer/doom-htop) - The classic DOOM game over htop, the text-based process viewer (4 days ago)
