@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (today)
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.  (today)
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (1 day ago)
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config (1 day ago)
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (2 days ago)
-- [hawkw/tinymetrics](https://github.com/hawkw/tinymetrics) -  a minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust. (2 days ago)
