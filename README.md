@@ -21,7 +21,6 @@
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 3 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 4 months ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 5 months ago) - 
-- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) ([v0.2.1](https://github.com/thinkJD/bibli-o-mat/releases/tag/v0.2.1), 1 year ago) - A utility to auto renew your lent media.
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 year ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
