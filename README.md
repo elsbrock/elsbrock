@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (today)
+- [SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant](https://github.com/SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant) - The APsystems EZ1 Integration offers a streamlined interface for interacting with the local API of APsystems EZ1 Microinverters using Home Assistant. (today)
 - [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (5 days ago)
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.  (5 days ago)
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (6 days ago)
-- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config (6 days ago)
-- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (1 week ago)
