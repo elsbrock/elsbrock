@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
-- [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (3 months ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (4 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (4 months ago)
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (5 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (3 months ago)
+- [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (4 months ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (4 months ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (5 months ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (1 year ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (4 days ago)
-- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.  (4 days ago)
-- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (5 days ago)
-- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config (5 days ago)
-- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (6 days ago)
+- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (5 days ago)
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.  (5 days ago)
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (6 days ago)
+- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config (6 days ago)
+- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (1 week ago)
