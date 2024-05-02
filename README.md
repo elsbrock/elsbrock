@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (4 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (4 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (today)
-- [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (today)
-- [SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant](https://github.com/SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant) - The APsystems EZ1 Integration offers a streamlined interface for interacting with the local API of APsystems EZ1 Microinverters using Home Assistant. (today)
-- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (5 days ago)
-- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.  (5 days ago)
+- [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (1 day ago)
+- [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (1 day ago)
+- [SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant](https://github.com/SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant) - The APsystems EZ1 Integration offers a streamlined interface for interacting with the local API of APsystems EZ1 Microinverters using Home Assistant. (1 day ago)
+- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (6 days ago)
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.  (6 days ago)
