@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (today)
 - [suaveolent/ha-hoymiles-wifi](https://github.com/suaveolent/ha-hoymiles-wifi) - Home Assistant custom component for Hoymiles DTUs and the HMS-XXXXW-2T microinverters (1 day ago)
 - [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (2 days ago)
 - [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (2 days ago)
 - [SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant](https://github.com/SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant) - The APsystems EZ1 Integration offers a streamlined interface for interacting with the local API of APsystems EZ1 Microinverters using Home Assistant. (2 days ago)
-- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (1 week ago)
