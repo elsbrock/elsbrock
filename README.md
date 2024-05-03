@@ -27,14 +27,14 @@
 
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (4 months ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (4 months ago)
-- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (5 months ago)
+- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (6 months ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [suaveolent/ha-hoymiles-wifi](https://github.com/suaveolent/ha-hoymiles-wifi) - Home Assistant custom component for Hoymiles DTUs and the HMS-XXXXW-2T microinverters (today)
-- [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (1 day ago)
-- [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (1 day ago)
-- [SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant](https://github.com/SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant) - The APsystems EZ1 Integration offers a streamlined interface for interacting with the local API of APsystems EZ1 Microinverters using Home Assistant. (1 day ago)
-- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (6 days ago)
+- [suaveolent/ha-hoymiles-wifi](https://github.com/suaveolent/ha-hoymiles-wifi) - Home Assistant custom component for Hoymiles DTUs and the HMS-XXXXW-2T microinverters (1 day ago)
+- [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (2 days ago)
+- [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (2 days ago)
+- [SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant](https://github.com/SonnenladenGmbH/APsystems-EZ1-API-HomeAssistant) - The APsystems EZ1 Integration offers a streamlined interface for interacting with the local API of APsystems EZ1 Microinverters using Home Assistant. (2 days ago)
+- [holoplot/go-rauc](https://github.com/holoplot/go-rauc) - Golang bindings for the RAUC update service (1 week ago)
