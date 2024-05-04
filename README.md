@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell. (today)
 - [DennisOSRM/hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) - HMS-XXXXW-2T MQTT publisher and Home Assistant addon (1 day ago)
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (1 day ago)
 - [suaveolent/ha-hoymiles-wifi](https://github.com/suaveolent/ha-hoymiles-wifi) - Home Assistant custom component for Hoymiles DTUs and the HMS-XXXXW-2T microinverters (2 days ago)
 - [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (3 days ago)
-- [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System (3 days ago)
