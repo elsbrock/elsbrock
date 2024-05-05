@@ -29,12 +29,12 @@
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (4 months ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (6 months ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (1 year ago)
-- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (1 year ago)
+- [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell. (today)
-- [DennisOSRM/hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) - HMS-XXXXW-2T MQTT publisher and Home Assistant addon (1 day ago)
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (1 day ago)
-- [suaveolent/ha-hoymiles-wifi](https://github.com/suaveolent/ha-hoymiles-wifi) - Home Assistant custom component for Hoymiles DTUs and the HMS-XXXXW-2T microinverters (2 days ago)
-- [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (3 days ago)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell. (1 day ago)
+- [DennisOSRM/hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) - HMS-XXXXW-2T MQTT publisher and Home Assistant addon (2 days ago)
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (2 days ago)
+- [suaveolent/ha-hoymiles-wifi](https://github.com/suaveolent/ha-hoymiles-wifi) - Home Assistant custom component for Hoymiles DTUs and the HMS-XXXXW-2T microinverters (3 days ago)
+- [ohAnd/dtuGateway](https://github.com/ohAnd/dtuGateway) - arduino gateway for Hoymiles HMS-800W-2T and similar as stable connection to the dtu for applications in smarthome or IFTT environments (4 days ago)
