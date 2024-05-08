@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (today)
-- [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots. (1 day ago)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell. (3 days ago)
-- [DennisOSRM/hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) - HMS-XXXXW-2T MQTT publisher and Home Assistant addon (4 days ago)
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (4 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (1 day ago)
+- [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots. (2 days ago)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell. (4 days ago)
+- [DennisOSRM/hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) - HMS-XXXXW-2T MQTT publisher and Home Assistant addon (5 days ago)
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (5 days ago)
