@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (today)
+- [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild&#39;s command line program that builds Containerfiles and custom images based on your recipe.yml. (today)
+- [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (1 day ago)
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots. (2 days ago)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell. (4 days ago)
-- [DennisOSRM/hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) - HMS-XXXXW-2T MQTT publisher and Home Assistant addon (5 days ago)
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (5 days ago)
