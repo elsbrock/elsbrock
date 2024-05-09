@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs (today)
 - [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module&#39;s libyear! (today)
 - [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (1 day ago)
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild&#39;s command line program that builds Containerfiles and custom images based on your recipe.yml. (1 day ago)
 - [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild (1 day ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (2 days ago)
