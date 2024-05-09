@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (4 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (4 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (4 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (today)
-- [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild&#39;s command line program that builds Containerfiles and custom images based on your recipe.yml. (today)
-- [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild (today)
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (1 day ago)
-- [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots. (2 days ago)
+- [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (1 day ago)
+- [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild&#39;s command line program that builds Containerfiles and custom images based on your recipe.yml. (1 day ago)
+- [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild (1 day ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (2 days ago)
+- [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots. (3 days ago)
