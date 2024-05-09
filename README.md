@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (today)
 - [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment. (today)
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs (today)
 - [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module&#39;s libyear! (today)
 - [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (1 day ago)
-- [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild&#39;s command line program that builds Containerfiles and custom images based on your recipe.yml. (1 day ago)
