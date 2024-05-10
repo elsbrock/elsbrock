@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine (today)
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs. (today)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 day ago)
 - [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment. (1 day ago)
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs (1 day ago)
-- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module&#39;s libyear! (1 day ago)
