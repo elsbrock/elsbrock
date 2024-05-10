@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 3 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 4 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 4 months ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 5 months ago) - 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 year ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (today)
-- [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment. (today)
-- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs (today)
-- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module&#39;s libyear! (today)
-- [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (1 day ago)
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 day ago)
+- [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment. (1 day ago)
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs (1 day ago)
+- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module&#39;s libyear! (1 day ago)
+- [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included (2 days ago)
