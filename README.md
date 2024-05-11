@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (today)
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner. (today)
 - [CampbellOwen/NowPlaying](https://github.com/CampbellOwen/NowPlaying) -  (today)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (today)
 - [vpsfreecz/confctl](https://github.com/vpsfreecz/confctl) - Nix deployment management tool (1 day ago)
-- [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine (1 day ago)
