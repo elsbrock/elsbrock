@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner. (today)
+- [CampbellOwen/NowPlaying](https://github.com/CampbellOwen/NowPlaying) -  (today)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (today)
 - [vpsfreecz/confctl](https://github.com/vpsfreecz/confctl) - Nix deployment management tool (1 day ago)
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine (1 day ago)
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs. (1 day ago)
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 days ago)
