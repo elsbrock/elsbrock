@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files (today)
 - [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (1 day ago)
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner. (1 day ago)
 - [CampbellOwen/NowPlaying](https://github.com/CampbellOwen/NowPlaying) -  (1 day ago)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (1 day ago)
-- [vpsfreecz/confctl](https://github.com/vpsfreecz/confctl) - Nix deployment management tool (2 days ago)
