@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) -  (today)
 - [proxmoxer/proxmoxer](https://github.com/proxmoxer/proxmoxer) - python wrapper for Proxmox API v2 (https://pve.proxmox.com/pve-docs/api-viewer/index.html) (today)
 - [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd (1 day ago)
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration (1 day ago)
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files (1 day ago)
-- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (2 days ago)
