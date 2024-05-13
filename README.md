@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd (today)
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration (today)
-- [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files (today)
-- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (1 day ago)
-- [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner. (1 day ago)
+- [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd (1 day ago)
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration (1 day ago)
+- [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files (1 day ago)
+- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (2 days ago)
+- [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner. (2 days ago)
