@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI (today)
+- [coxley/codesearch](https://github.com/coxley/codesearch) - Delightful grep for GitHub (today)
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) -  (today)
 - [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) -  (1 day ago)
 - [proxmoxer/proxmoxer](https://github.com/proxmoxer/proxmoxer) - python wrapper for Proxmox API v2 (https://pve.proxmox.com/pve-docs/api-viewer/index.html) (1 day ago)
-- [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd (2 days ago)
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration (2 days ago)
-- [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files (2 days ago)
