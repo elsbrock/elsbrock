@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [andydunstall/pico](https://github.com/andydunstall/pico) - A reverse proxy to connect to external networks (tunnelling) (today)
-- [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider (today)
-- [nix-community/nixos-images](https://github.com/nix-community/nixos-images) - Automatically build (netboot) images for NixOS [maintainer=@Mic92] (today)
-- [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI (today)
-- [coxley/codesearch](https://github.com/coxley/codesearch) - Delightful grep for GitHub (today)
+- [andydunstall/pico](https://github.com/andydunstall/pico) - A reverse proxy to connect to external networks (tunnelling) (1 day ago)
+- [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider (1 day ago)
+- [nix-community/nixos-images](https://github.com/nix-community/nixos-images) - Automatically build (netboot) images for NixOS [maintainer=@Mic92] (1 day ago)
+- [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI (1 day ago)
+- [coxley/codesearch](https://github.com/coxley/codesearch) - Delightful grep for GitHub (1 day ago)
