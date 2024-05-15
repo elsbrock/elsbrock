@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [andydunstall/pico](https://github.com/andydunstall/pico) - A reverse proxy to connect to external networks (tunnelling) (1 day ago)
+- [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 day ago)
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider (1 day ago)
 - [nix-community/nixos-images](https://github.com/nix-community/nixos-images) - Automatically build (netboot) images for NixOS [maintainer=@Mic92] (1 day ago)
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI (1 day ago)
