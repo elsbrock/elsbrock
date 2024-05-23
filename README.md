@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH (today)
+- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux. (today)
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.  (today)
 - [leukipp/cortile](https://github.com/leukipp/cortile) -   Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this project provides dynamic tiling for XFCE, LXDE, LXQt, KDE and GNOME (Mate, Deepin, Cinnamon, Budgie) based desktop environments. (today)
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone! (1 day ago)
-- [cachix/cachix-deploy-hetzner-dedicated](https://github.com/cachix/cachix-deploy-hetzner-dedicated) - Bootstrap Hetzner Dedicated machines with a single command and deploy using GitHub Actions (1 week ago)
-- [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 week ago)
