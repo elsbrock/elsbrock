@@ -26,15 +26,15 @@
 #### 🔨 My recent Pull Requests
 
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (4 months ago)
-- [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (4 months ago)
+- [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (5 months ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (6 months ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [carrotIndustries/usbkvm](https://github.com/carrotIndustries/usbkvm) - Keyboard, video and mouse over USB (today)
-- [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface mini-KVM  (today)
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH (2 days ago)
-- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux. (2 days ago)
-- [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.  (2 days ago)
+- [carrotIndustries/usbkvm](https://github.com/carrotIndustries/usbkvm) - Keyboard, video and mouse over USB (1 day ago)
+- [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface mini-KVM  (1 day ago)
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH (3 days ago)
+- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux. (3 days ago)
+- [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.  (3 days ago)
