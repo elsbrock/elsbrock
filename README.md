@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr. (today)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (today)
+- [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics (today)
 - [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd (today)
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager (1 day ago)
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin) (1 day ago)
-- [datashaman/putio-automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on put.io. Works well with SickRage, Sonarr, etc. (1 day ago)
-- [carrotIndustries/usbkvm](https://github.com/carrotIndustries/usbkvm) - Keyboard, video and mouse over USB (2 days ago)
