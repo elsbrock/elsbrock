@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd (today)
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager (1 day ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin) (1 day ago)
 - [datashaman/putio-automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on put.io. Works well with SickRage, Sonarr, etc. (1 day ago)
 - [carrotIndustries/usbkvm](https://github.com/carrotIndustries/usbkvm) - Keyboard, video and mouse over USB (2 days ago)
-- [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface mini-KVM  (2 days ago)
