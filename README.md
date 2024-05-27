@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser (today)
+- [HexF/dotfiles](https://github.com/HexF/dotfiles) - My dotfiles (today)
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS (today)
 - [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr. (today)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (today)
-- [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics (today)
-- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd (today)
-- [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager (1 day ago)
