@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs! (today)
+- [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal! (today)
 - [DataDog/ddqa](https://github.com/DataDog/ddqa) - Datadog&#39;s QA manager for releases of GitHub repositories (today)
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring (today)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (today)
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (today)
-- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Your single pane of glass for real-time analytics into MySQL/MariaDB &amp; ProxySQL (today)
