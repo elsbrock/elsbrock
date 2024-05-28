@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser (1 day ago)
-- [HexF/dotfiles](https://github.com/HexF/dotfiles) - My dotfiles (1 day ago)
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS (1 day ago)
-- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr. (1 day ago)
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (1 day ago)
+- [DataDog/ddqa](https://github.com/DataDog/ddqa) - Datadog&#39;s QA manager for releases of GitHub repositories (today)
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring (today)
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (today)
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (today)
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Your single pane of glass for real-time analytics into MySQL/MariaDB &amp; ProxySQL (today)
