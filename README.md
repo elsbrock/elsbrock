@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser (today)
-- [HexF/dotfiles](https://github.com/HexF/dotfiles) - My dotfiles (today)
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS (today)
-- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr. (today)
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (today)
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser (1 day ago)
+- [HexF/dotfiles](https://github.com/HexF/dotfiles) - My dotfiles (1 day ago)
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS (1 day ago)
+- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr. (1 day ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (1 day ago)
