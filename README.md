@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module which lets you route traffic from systemd services through a VPN while preventing DNS leaks. (today)
 - [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all. (today)
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (today)
 - [devins2518/dotfiles](https://github.com/devins2518/dotfiles) -  (1 day ago)
 - [dalet-oss/terraform-provider-opnsense](https://github.com/dalet-oss/terraform-provider-opnsense) - Terraform Provider for OPNSense DHCP Leases (1 day ago)
-- [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs! (1 day ago)
