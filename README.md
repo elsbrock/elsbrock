@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all. (today)
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (today)
 - [devins2518/dotfiles](https://github.com/devins2518/dotfiles) -  (1 day ago)
 - [dalet-oss/terraform-provider-opnsense](https://github.com/dalet-oss/terraform-provider-opnsense) - Terraform Provider for OPNSense DHCP Leases (1 day ago)
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs! (1 day ago)
-- [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal! (1 day ago)
