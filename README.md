@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust (today)
 - [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module which lets you route traffic from systemd services through a VPN while preventing DNS leaks. (1 day ago)
 - [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all. (1 day ago)
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (1 day ago)
 - [devins2518/dotfiles](https://github.com/devins2518/dotfiles) -  (2 days ago)
-- [dalet-oss/terraform-provider-opnsense](https://github.com/dalet-oss/terraform-provider-opnsense) - Terraform Provider for OPNSense DHCP Leases (2 days ago)
