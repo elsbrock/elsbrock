@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [pborzenkov/nix-config](https://github.com/pborzenkov/nix-config) - My Nix configuration (today)
-- [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents. (today)
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust (1 day ago)
-- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module which lets you route traffic from systemd services through a VPN while preventing DNS leaks. (2 days ago)
-- [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all. (2 days ago)
+- [pborzenkov/nix-config](https://github.com/pborzenkov/nix-config) - My Nix configuration (1 day ago)
+- [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents. (1 day ago)
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust (2 days ago)
+- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module which lets you route traffic from systemd services through a VPN while preventing DNS leaks. (3 days ago)
+- [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all. (3 days ago)
