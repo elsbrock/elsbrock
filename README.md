@@ -27,14 +27,14 @@
 
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (5 months ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (5 months ago)
-- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (6 months ago)
+- [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (7 months ago)
 - [docs: Update README.md](https://github.com/thinkJD/bibli-o-mat/pull/25) on [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) (1 year ago)
 - [fix: example in docs with invalid syntax](https://github.com/miekg/dns/pull/1401) on [miekg/dns](https://github.com/miekg/dns) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment. (today)
-- [pborzenkov/nix-config](https://github.com/pborzenkov/nix-config) - My Nix configuration (1 day ago)
-- [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents. (1 day ago)
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust (2 days ago)
-- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module which lets you route traffic from systemd services through a VPN while preventing DNS leaks. (3 days ago)
+- [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment. (1 day ago)
+- [pborzenkov/nix-config](https://github.com/pborzenkov/nix-config) - My Nix configuration (2 days ago)
+- [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents. (2 days ago)
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust (3 days ago)
+- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module which lets you route traffic from systemd services through a VPN while preventing DNS leaks. (4 days ago)
