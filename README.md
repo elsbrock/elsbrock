@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media (today)
 - [karimould/zellij-forgot](https://github.com/karimould/zellij-forgot) - A Zellij plugin to remember your keybinds and all the other things you want to remember (today)
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check (today)
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (today)
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) - Tunnel TCP connections through a file (today)
-- [nicoSWD/put.io-adder](https://github.com/nicoSWD/put.io-adder) - macOS put.io client that acts as handler for magnet: links and .torrent files, and adds them to your put.io download queue (1 day ago)
