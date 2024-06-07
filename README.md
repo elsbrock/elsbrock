@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (today)
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (today)
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant. (2 days ago)
 - [davidusb-geek/emhass-add-on](https://github.com/davidusb-geek/emhass-add-on) - The Home Assistant Add-on for EMHASS: Energy Management Optimization for Home Assistant (2 days ago)
 - [inviteroute/graph](https://github.com/inviteroute/graph) -  (2 days ago)
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media (4 days ago)
