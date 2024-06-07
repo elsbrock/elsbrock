@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant. (1 day ago)
-- [davidusb-geek/emhass-add-on](https://github.com/davidusb-geek/emhass-add-on) - The Home Assistant Add-on for EMHASS: Energy Management Optimization for Home Assistant (1 day ago)
-- [inviteroute/graph](https://github.com/inviteroute/graph) -  (1 day ago)
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media (3 days ago)
-- [karimould/zellij-forgot](https://github.com/karimould/zellij-forgot) - A Zellij plugin to remember your keybinds and all the other things you want to remember (3 days ago)
+- [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant. (2 days ago)
+- [davidusb-geek/emhass-add-on](https://github.com/davidusb-geek/emhass-add-on) - The Home Assistant Add-on for EMHASS: Energy Management Optimization for Home Assistant (2 days ago)
+- [inviteroute/graph](https://github.com/inviteroute/graph) -  (2 days ago)
+- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media (4 days ago)
+- [karimould/zellij-forgot](https://github.com/karimould/zellij-forgot) - A Zellij plugin to remember your keybinds and all the other things you want to remember (4 days ago)
