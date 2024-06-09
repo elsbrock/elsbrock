@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 4 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 5 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 5 months ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 6 months ago) - 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 year ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet. (today)
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers (today)
-- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support (1 day ago)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (1 day ago)
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 day ago)
+- [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet. (1 day ago)
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers (1 day ago)
+- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support (2 days ago)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (2 days ago)
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 days ago)
