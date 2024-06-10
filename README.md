@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (today)
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant (today)
 - [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (today)
 - [flixlix/energy-period-selector-plus](https://github.com/flixlix/energy-period-selector-plus) - An upgraded Energy Date Selection Card for Home Assistant, with added customizability, while maintaining the Energy Dashboard&#39;s original design. (today)
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right (today)
-- [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (today)
