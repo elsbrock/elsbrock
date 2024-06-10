@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right (today)
 - [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (today)
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet. (2 days ago)
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers (2 days ago)
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support (3 days ago)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (3 days ago)
