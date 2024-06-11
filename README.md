@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. (today)
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (1 day ago)
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant (1 day ago)
 - [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 day ago)
 - [flixlix/energy-period-selector-plus](https://github.com/flixlix/energy-period-selector-plus) - An upgraded Energy Date Selection Card for Home Assistant, with added customizability, while maintaining the Energy Dashboard&#39;s original design. (1 day ago)
-- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right (1 day ago)
