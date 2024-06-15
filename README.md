@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (5 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (5 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (5 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically (today)
-- [knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast) - Convert any PDF into a podcast episode! (1 day ago)
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors). (2 days ago)
-- [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line. (2 days ago)
-- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. (3 days ago)
+- [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically (1 day ago)
+- [knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast) - Convert any PDF into a podcast episode! (2 days ago)
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors). (3 days ago)
+- [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line. (3 days ago)
+- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. (4 days ago)
