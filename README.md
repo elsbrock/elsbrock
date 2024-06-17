@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies. (today)
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically (3 days ago)
 - [knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast) - Convert any PDF into a podcast episode! (4 days ago)
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors). (5 days ago)
 - [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line. (5 days ago)
-- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. (6 days ago)
