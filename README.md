@@ -20,7 +20,7 @@
 
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.1](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.1), 5 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 6 months ago) - Prometheus Service Discovery for Tailscale
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 6 months ago) - 
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 7 months ago) - 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 1 year ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 day ago)
-- [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration &amp; Model to control your smart home using a Local LLM (1 day ago)
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (1 day ago)
-- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。 (2 days ago)
-- [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (3 days ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (2 days ago)
+- [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration &amp; Model to control your smart home using a Local LLM (2 days ago)
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (2 days ago)
+- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。 (3 days ago)
+- [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (4 days ago)
