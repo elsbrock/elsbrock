@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (today)
+- [sveltestrap/sveltestrap](https://github.com/sveltestrap/sveltestrap) - Bootstrap 5 components for Svelte 4&#43; (today)
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (1 day ago)
 - [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (1 day ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 days ago)
-- [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration &amp; Model to control your smart home using a Local LLM (3 days ago)
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (3 days ago)
