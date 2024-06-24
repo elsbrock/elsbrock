@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [edk2-porting/linux-next](https://github.com/edk2-porting/linux-next) - Mainline Linux tree for various devices, only for fun :) (today)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (1 day ago)
 - [sveltestrap/sveltestrap](https://github.com/sveltestrap/sveltestrap) - Bootstrap 5 components for Svelte 4&#43; (1 day ago)
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (2 days ago)
 - [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (2 days ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (4 days ago)
