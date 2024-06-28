@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (today)
 - [edk2-porting/linux-next](https://github.com/edk2-porting/linux-next) - Mainline Linux tree for various devices, only for fun :) (4 days ago)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (5 days ago)
 - [sveltestrap/sveltestrap](https://github.com/sveltestrap/sveltestrap) - Bootstrap 5 components for Svelte 4&#43; (5 days ago)
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (6 days ago)
-- [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (6 days ago)
