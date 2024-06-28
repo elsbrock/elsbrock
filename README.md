@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (5 days ago)
+- [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (6 days ago)
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (5 months ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (6 months ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (7 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [edk2-porting/linux-next](https://github.com/edk2-porting/linux-next) - Mainline Linux tree for various devices, only for fun :) (3 days ago)
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (4 days ago)
-- [sveltestrap/sveltestrap](https://github.com/sveltestrap/sveltestrap) - Bootstrap 5 components for Svelte 4&#43; (4 days ago)
-- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (5 days ago)
-- [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (5 days ago)
+- [edk2-porting/linux-next](https://github.com/edk2-porting/linux-next) - Mainline Linux tree for various devices, only for fun :) (4 days ago)
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (5 days ago)
+- [sveltestrap/sveltestrap](https://github.com/sveltestrap/sveltestrap) - Bootstrap 5 components for Svelte 4&#43; (5 days ago)
+- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (6 days ago)
+- [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (6 days ago)
