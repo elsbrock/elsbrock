@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (today)
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (today)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (today)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 days ago)
 - [edk2-porting/linux-next](https://github.com/edk2-porting/linux-next) - Mainline Linux tree for various devices, only for fun :) (6 days ago)
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (1 week ago)
