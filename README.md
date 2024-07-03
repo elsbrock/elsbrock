@@ -6,7 +6,7 @@
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (6 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (6 months ago)
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale (6 months ago)
-- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (7 months ago)
+- [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [rhasspy/piper-recording-studio](https://github.com/rhasspy/piper-recording-studio) - Local voice recording for creating Piper datasets (today)
-- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (today)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (2 days ago)
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (2 days ago)
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 days ago)
+- [rhasspy/piper-recording-studio](https://github.com/rhasspy/piper-recording-studio) - Local voice recording for creating Piper datasets (1 day ago)
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (3 days ago)
+- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (3 days ago)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (3 days ago)
