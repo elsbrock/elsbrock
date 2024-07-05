@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [amosyuen/ha-tplink-deco](https://github.com/amosyuen/ha-tplink-deco) - Home Assistant TP-Link Deco Custom Component (1 day ago)
-- [rhasspy/piper-recording-studio](https://github.com/rhasspy/piper-recording-studio) - Local voice recording for creating Piper datasets (2 days ago)
-- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (4 days ago)
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (4 days ago)
+- [amosyuen/ha-tplink-deco](https://github.com/amosyuen/ha-tplink-deco) - Home Assistant TP-Link Deco Custom Component (2 days ago)
+- [rhasspy/piper-recording-studio](https://github.com/rhasspy/piper-recording-studio) - Local voice recording for creating Piper datasets (3 days ago)
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (3 days ago)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (5 days ago)
+- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (5 days ago)
