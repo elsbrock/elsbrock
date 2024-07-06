@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (today)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (1 day ago)
 - [amosyuen/ha-tplink-deco](https://github.com/amosyuen/ha-tplink-deco) - Home Assistant TP-Link Deco Custom Component (3 days ago)
 - [rhasspy/piper-recording-studio](https://github.com/rhasspy/piper-recording-studio) - Local voice recording for creating Piper datasets (4 days ago)
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (4 days ago)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (6 days ago)
