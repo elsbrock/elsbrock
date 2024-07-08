@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (today)
 - [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq (1 day ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 day ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 days ago)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (3 days ago)
-- [amosyuen/ha-tplink-deco](https://github.com/amosyuen/ha-tplink-deco) - Home Assistant TP-Link Deco Custom Component (5 days ago)
