@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊 (today)
 - [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit. (1 day ago)
 - [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights (1 day ago)
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (2 days ago)
 - [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq (3 days ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (3 days ago)
