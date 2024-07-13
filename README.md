@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (2 weeks ago)
+- [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 weeks ago)
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (6 months ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (6 months ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (8 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [shahruk10/nixshells](https://github.com/shahruk10/nixshells) - Frequently used nix shells for Python, CUDA and more.  (today)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (today)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (1 day ago)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (1 day ago)
-- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊 (2 days ago)
+- [shahruk10/nixshells](https://github.com/shahruk10/nixshells) - Frequently used nix shells for Python, CUDA and more.  (1 day ago)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (1 day ago)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (2 days ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 days ago)
+- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊 (3 days ago)
