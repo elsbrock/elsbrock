@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [shahruk10/nixshells](https://github.com/shahruk10/nixshells) - Frequently used nix shells for Python, CUDA and more.  (1 day ago)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (1 day ago)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (2 days ago)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 days ago)
-- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊 (3 days ago)
+- [shahruk10/nixshells](https://github.com/shahruk10/nixshells) - Frequently used nix shells for Python, CUDA and more.  (2 days ago)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (2 days ago)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (3 days ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (3 days ago)
+- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊 (4 days ago)
