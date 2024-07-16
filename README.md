@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (today)
 - [shahruk10/nixshells](https://github.com/shahruk10/nixshells) - Frequently used nix shells for Python, CUDA and more.  (4 days ago)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (4 days ago)
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (5 days ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (5 days ago)
-- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊 (6 days ago)
