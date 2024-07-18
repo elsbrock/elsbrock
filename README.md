@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac (today)
-- [carderne/upid](https://github.com/carderne/upid) - Universally Unique Prefixed Lexicographically Sortable Identifier (today)
-- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid (today)
-- [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js (1 day ago)
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (1 day ago)
+- [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac (1 day ago)
+- [carderne/upid](https://github.com/carderne/upid) - Universally Unique Prefixed Lexicographically Sortable Identifier (1 day ago)
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid (1 day ago)
+- [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js (2 days ago)
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (2 days ago)
