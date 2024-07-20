@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 weeks ago)
+- [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (4 weeks ago)
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (6 months ago)
 - [Add icon and logo for Cowboy custom integration](https://github.com/home-assistant/brands/pull/5034) on [home-assistant/brands](https://github.com/home-assistant/brands) (6 months ago)
 - [feat(action): go build](https://github.com/thinkJD/munch-o-matic/pull/8) on [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) (8 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (today)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 day ago)
-- [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac (2 days ago)
-- [carderne/upid](https://github.com/carderne/upid) - Universally Unique Prefixed Lexicographically Sortable Identifier (2 days ago)
-- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid (2 days ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (1 day ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (2 days ago)
+- [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac (3 days ago)
+- [carderne/upid](https://github.com/carderne/upid) - Universally Unique Prefixed Lexicographically Sortable Identifier (3 days ago)
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid (3 days ago)
