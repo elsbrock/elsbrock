@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (today)
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (3 days ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (4 days ago)
 - [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac (5 days ago)
 - [carderne/upid](https://github.com/carderne/upid) - Universally Unique Prefixed Lexicographically Sortable Identifier (5 days ago)
-- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid (5 days ago)
