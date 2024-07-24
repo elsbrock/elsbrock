@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Troels51/dtui](https://github.com/Troels51/dtui) - Small TUI for introspecting the state of the system/session dbus (today)
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini (today)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (2 days ago)
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (5 days ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (6 days ago)
-- [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac (1 week ago)
-- [carderne/upid](https://github.com/carderne/upid) - Universally Unique Prefixed Lexicographically Sortable Identifier (1 week ago)
