@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [robn/quiz](https://github.com/robn/quiz) - Fast edit-compile-test cycles for Linux&#43;OpenZFS development (today)
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS (1 day ago)
 - [bherbruck/svelte-echarts](https://github.com/bherbruck/svelte-echarts) - Apache ECharts wrapper for Svelte (2 days ago)
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app (2 days ago)
 - [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it (4 days ago)
-- [Troels51/dtui](https://github.com/Troels51/dtui) - Small TUI for introspecting the state of the system/session dbus (1 week ago)
