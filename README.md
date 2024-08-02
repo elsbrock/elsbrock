@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [cgzirim/seek-sound](https://github.com/cgzirim/seek-sound) - An implementation of Shazam&#39;s song matching algorithm. (today)
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song matching algorithm. (today)
 - [robn/quiz](https://github.com/robn/quiz) - Fast edit-compile-test cycles for Linux&#43;OpenZFS development (1 day ago)
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS (2 days ago)
 - [bherbruck/svelte-echarts](https://github.com/bherbruck/svelte-echarts) - Apache ECharts wrapper for Svelte (3 days ago)
