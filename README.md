@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song matching algorithm. (2 days ago)
-- [robn/quiz](https://github.com/robn/quiz) - Fast edit-compile-test cycles for Linux&#43;OpenZFS development (3 days ago)
-- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS (4 days ago)
-- [bherbruck/svelte-echarts](https://github.com/bherbruck/svelte-echarts) - Apache ECharts wrapper for Svelte (5 days ago)
-- [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app (5 days ago)
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song matching algorithm. (3 days ago)
+- [robn/quiz](https://github.com/robn/quiz) - Fast edit-compile-test cycles for Linux&#43;OpenZFS development (4 days ago)
+- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS (5 days ago)
+- [bherbruck/svelte-echarts](https://github.com/bherbruck/svelte-echarts) - Apache ECharts wrapper for Svelte (6 days ago)
+- [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app (6 days ago)
