@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox (1 day ago)
-- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song matching algorithm. (4 days ago)
-- [robn/quiz](https://github.com/robn/quiz) - Fast edit-compile-test cycles for Linux&#43;OpenZFS development (5 days ago)
-- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS (6 days ago)
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox (2 days ago)
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song matching algorithm. (5 days ago)
+- [robn/quiz](https://github.com/robn/quiz) - Fast edit-compile-test cycles for Linux&#43;OpenZFS development (6 days ago)
+- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS (1 week ago)
 - [bherbruck/svelte-echarts](https://github.com/bherbruck/svelte-echarts) - Apache ECharts wrapper for Svelte (1 week ago)
