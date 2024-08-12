@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
 
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction :bar_chart:
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
 - [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
-- [elsbrock/tor-node](https://github.com/elsbrock/tor-node) - :rocket: small, customizable, up-to-date Tor node :whale: Docker image based on the Arch Linux `tor` package
 
 #### 🔭 Latest releases I've contributed to
 
