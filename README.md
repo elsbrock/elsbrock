@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (4 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 day ago)
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (5 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (7 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (7 months ago)
@@ -25,16 +25,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (4 days ago)
+- [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
+- [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (5 days ago)
 - [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (1 month ago)
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [tomas/pixeltune](https://github.com/tomas/pixeltune) -  (today)
-- [jbunke/stipple-effect](https://github.com/jbunke/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux) (today)
-- [Qwer-TeX/minibox](https://github.com/Qwer-TeX/minibox) - Advanced unix toolbox superceding BusyBox/ToyBox under the subject of size. (today)
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found. (today)
-- [zuplo/rate-my-openapi](https://github.com/zuplo/rate-my-openapi) -  (today)
+- [tomas/pixeltune](https://github.com/tomas/pixeltune) -  (1 day ago)
+- [jbunke/stipple-effect](https://github.com/jbunke/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux) (1 day ago)
+- [Qwer-TeX/minibox](https://github.com/Qwer-TeX/minibox) - Advanced unix toolbox superceding BusyBox/ToyBox under the subject of size. (1 day ago)
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found. (1 day ago)
+- [zuplo/rate-my-openapi](https://github.com/zuplo/rate-my-openapi) -  (1 day ago)
