@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [anse1/sqlsmith](https://github.com/anse1/sqlsmith) - A random SQL query generator (today)
 - [tomas/pixeltune](https://github.com/tomas/pixeltune) -  (2 days ago)
 - [jbunke/stipple-effect](https://github.com/jbunke/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux) (2 days ago)
 - [Qwer-TeX/minibox](https://github.com/Qwer-TeX/minibox) - Advanced unix toolbox superceding BusyBox/ToyBox under the subject of size. (2 days ago)
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found. (2 days ago)
-- [zuplo/rate-my-openapi](https://github.com/zuplo/rate-my-openapi) -  (2 days ago)
