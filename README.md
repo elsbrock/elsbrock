@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (today)
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (today)
 - [danielskowronski/hetzner-auction-hunter](https://github.com/danielskowronski/hetzner-auction-hunter) - checks for newest servers on Hetzner server auction (server-bidding) and pushes them viatelegram_send (today)
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (today)
 - [sorentwo/oban](https://github.com/sorentwo/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3 (today)
-- [anse1/sqlsmith](https://github.com/anse1/sqlsmith) - A random SQL query generator (2 days ago)
