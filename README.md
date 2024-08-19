@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (today)
+- [sorentwo/oban](https://github.com/sorentwo/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3 (today)
 - [anse1/sqlsmith](https://github.com/anse1/sqlsmith) - A random SQL query generator (2 days ago)
 - [tomas/pixeltune](https://github.com/tomas/pixeltune) -  (4 days ago)
 - [jbunke/stipple-effect](https://github.com/jbunke/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux) (4 days ago)
-- [Qwer-TeX/minibox](https://github.com/Qwer-TeX/minibox) - Advanced unix toolbox superceding BusyBox/ToyBox under the subject of size. (4 days ago)
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found. (4 days ago)
