@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (today)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (1 day ago)
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (1 day ago)
 - [danielskowronski/hetzner-auction-hunter](https://github.com/danielskowronski/hetzner-auction-hunter) - checks for newest servers on Hetzner server auction (server-bidding) and pushes them viatelegram_send (1 day ago)
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (1 day ago)
-- [sorentwo/oban](https://github.com/sorentwo/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3 (1 day ago)
