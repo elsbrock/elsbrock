@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf) - Handwriting synthesis with Harfbuzz WASM. (today)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB (today)
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (1 day ago)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (2 days ago)
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (2 days ago)
-- [danielskowronski/hetzner-auction-hunter](https://github.com/danielskowronski/hetzner-auction-hunter) - checks for newest servers on Hetzner server auction (server-bidding) and pushes them viatelegram_send (2 days ago)
