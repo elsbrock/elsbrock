@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [themesberg/flowbite-svelte-admin-dashboard](https://github.com/themesberg/flowbite-svelte-admin-dashboard) - Free and open-source admin dashboard template built with Flowbite, Svelte, and Tailwind CSS (today)
 - [hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf) - Handwriting synthesis with Harfbuzz WASM. (3 days ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB (3 days ago)
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (4 days ago)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (5 days ago)
-- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (5 days ago)
