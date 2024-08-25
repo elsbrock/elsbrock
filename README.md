@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - Manage Kubernetes Using Cypher (today)
+- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (today)
+- [corradio/polynomial](https://github.com/corradio/polynomial) - A central place to track your most vital KPIs (today)
+- [ralexander-phi/relicensing-monitor](https://github.com/ralexander-phi/relicensing-monitor) - This project tracks various attributes of open source projects to surface relicensing risks. (today)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 day ago)
-- [themesberg/flowbite-svelte-admin-dashboard](https://github.com/themesberg/flowbite-svelte-admin-dashboard) - Free and open-source admin dashboard template built with Flowbite, Svelte, and Tailwind CSS (1 day ago)
-- [hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf) - Handwriting synthesis with Harfbuzz WASM. (4 days ago)
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB (4 days ago)
-- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (5 days ago)
