@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (1 week ago)
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (7 months ago)
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) - :octocat: Commit file(s) in Github repo using the GitHub v3 API (8 months ago)
@@ -27,14 +27,14 @@
 
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
-- [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (1 week ago)
+- [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (2 weeks ago)
 - [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (2 months ago)
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (today)
-- [themesberg/flowbite-svelte-admin-dashboard](https://github.com/themesberg/flowbite-svelte-admin-dashboard) - Free and open-source admin dashboard template built with Flowbite, Svelte, and Tailwind CSS (today)
-- [hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf) - Handwriting synthesis with Harfbuzz WASM. (3 days ago)
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB (3 days ago)
-- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (4 days ago)
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 day ago)
+- [themesberg/flowbite-svelte-admin-dashboard](https://github.com/themesberg/flowbite-svelte-admin-dashboard) - Free and open-source admin dashboard template built with Flowbite, Svelte, and Tailwind CSS (1 day ago)
+- [hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf) - Handwriting synthesis with Harfbuzz WASM. (4 days ago)
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB (4 days ago)
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (5 days ago)
