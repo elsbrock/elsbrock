@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (today)
 - [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze (today)
 - [ashtom/hadge](https://github.com/ashtom/hadge) - 💪 Export workout data from Health.app on iOS to a GitHub repo (today)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - Manage Kubernetes Using Cypher (1 day ago)
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (1 day ago)
-- [corradio/polynomial](https://github.com/corradio/polynomial) - A central place to track your most vital KPIs (1 day ago)
