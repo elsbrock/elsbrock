@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 day ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (7 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - Manage Kubernetes Using Cypher (today)
-- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (today)
-- [corradio/polynomial](https://github.com/corradio/polynomial) - A central place to track your most vital KPIs (today)
-- [ralexander-phi/relicensing-monitor](https://github.com/ralexander-phi/relicensing-monitor) - This project tracks various attributes of open source projects to surface relicensing risks. (today)
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 day ago)
+- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - Manage Kubernetes Using Cypher (1 day ago)
+- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (1 day ago)
+- [corradio/polynomial](https://github.com/corradio/polynomial) - A central place to track your most vital KPIs (1 day ago)
+- [ralexander-phi/relicensing-monitor](https://github.com/ralexander-phi/relicensing-monitor) - This project tracks various attributes of open source projects to surface relicensing risks. (1 day ago)
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 days ago)
