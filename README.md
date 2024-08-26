@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ashtom/hadge](https://github.com/ashtom/hadge) - 💪 Export workout data from Health.app on iOS to a GitHub repo (today)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - Manage Kubernetes Using Cypher (1 day ago)
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (1 day ago)
 - [corradio/polynomial](https://github.com/corradio/polynomial) - A central place to track your most vital KPIs (1 day ago)
 - [ralexander-phi/relicensing-monitor](https://github.com/ralexander-phi/relicensing-monitor) - This project tracks various attributes of open source projects to surface relicensing risks. (1 day ago)
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 days ago)
