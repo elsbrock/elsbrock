@@ -37,4 +37,4 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 days ago)
 - [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze (2 days ago)
 - [ashtom/hadge](https://github.com/ashtom/hadge) - 💪 Export workout data from Health.app on iOS to a GitHub repo (2 days ago)
-- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - Manage Kubernetes Using Cypher (3 days ago)
+- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - The Kubernetes Query Language (3 days ago)
