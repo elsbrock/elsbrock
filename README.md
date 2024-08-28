@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (today)
 - [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) - A simple operator for nomad which reconciles the running jobs in comparison to git repos (today)
 - [moxie0/knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface. (today)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 days ago)
 - [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze (2 days ago)
-- [ashtom/hadge](https://github.com/ashtom/hadge) - 💪 Export workout data from Health.app on iOS to a GitHub repo (2 days ago)
