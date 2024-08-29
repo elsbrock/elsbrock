@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎 (today)
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (1 day ago)
 - [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) - A simple operator for nomad which reconciles the running jobs in comparison to git repos (1 day ago)
 - [moxie0/knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface. (1 day ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (3 days ago)
-- [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze (3 days ago)
