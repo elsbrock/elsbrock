@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (3 days ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (8 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform (today)
-- [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) -  (today)
-- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎 (today)
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (1 day ago)
-- [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) - A simple operator for nomad which reconciles the running jobs in comparison to git repos (1 day ago)
+- [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform (1 day ago)
+- [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) -  (1 day ago)
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎 (1 day ago)
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (2 days ago)
+- [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) - A simple operator for nomad which reconciles the running jobs in comparison to git repos (2 days ago)
