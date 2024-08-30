@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [alicebob/verssion](https://github.com/alicebob/verssion) - RSS feeds of stable release versions, as found in Wikipedia. (today)
+- [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests (today)
 - [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform (1 day ago)
 - [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) -  (1 day ago)
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎 (1 day ago)
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (2 days ago)
-- [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) - A simple operator for nomad which reconciles the running jobs in comparison to git repos (2 days ago)
