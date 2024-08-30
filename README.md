@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation (today)
 - [alicebob/verssion](https://github.com/alicebob/verssion) - RSS feeds of stable release versions, as found in Wikipedia. (today)
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests (today)
 - [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform (1 day ago)
 - [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) -  (1 day ago)
-- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎 (1 day ago)
