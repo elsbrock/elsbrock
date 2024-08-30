@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。 (today)
 - [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation (today)
 - [alicebob/verssion](https://github.com/alicebob/verssion) - RSS feeds of stable release versions, as found in Wikipedia. (today)
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests (today)
 - [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform (1 day ago)
-- [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) -  (1 day ago)
