@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry (today)
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF) (1 day ago)
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。 (1 day ago)
 - [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation (1 day ago)
 - [alicebob/verssion](https://github.com/alicebob/verssion) - RSS feeds of stable release versions, as found in Wikipedia. (1 day ago)
-- [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests (1 day ago)
