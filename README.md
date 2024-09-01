@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [TobleMiner/ttn-klax](https://github.com/TobleMiner/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (today)
 - [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry (1 day ago)
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF) (2 days ago)
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。 (2 days ago)
 - [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation (2 days ago)
-- [alicebob/verssion](https://github.com/alicebob/verssion) - RSS feeds of stable release versions, as found in Wikipedia. (2 days ago)
