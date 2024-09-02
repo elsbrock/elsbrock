@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. (today)
+- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components. (today)
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte. (today)
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications. (today)
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (today)
-- [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models (today)
-- [TobleMiner/ttn-klax](https://github.com/TobleMiner/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 day ago)
-- [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry (2 days ago)
