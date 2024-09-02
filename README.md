@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [kyma-project/kyma](https://github.com/kyma-project/kyma) - Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications. (today)
+- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (today)
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models (today)
 - [TobleMiner/ttn-klax](https://github.com/TobleMiner/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 day ago)
 - [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry (2 days ago)
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF) (3 days ago)
-- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。 (3 days ago)
