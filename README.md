@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models (today)
 - [TobleMiner/ttn-klax](https://github.com/TobleMiner/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 day ago)
 - [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry (2 days ago)
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF) (3 days ago)
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。 (3 days ago)
-- [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation (3 days ago)
