@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [unjs/unpdf](https://github.com/unjs/unpdf) - 📄 Utilities to work with PDFs in Node.js, browser and workers (today)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. (2 days ago)
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components. (2 days ago)
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte. (2 days ago)
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications. (2 days ago)
-- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (2 days ago)
