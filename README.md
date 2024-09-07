@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [scmmishra/ipshield](https://github.com/scmmishra/ipshield) - DNS based API for Firehol IP list (today)
+- [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans... (today)
 - [grafana/sobek](https://github.com/grafana/sobek) -  (today)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (1 day ago)
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (1 day ago)
-- [autometrics-dev/autometrics-shared](https://github.com/autometrics-dev/autometrics-shared) - Resources used by all of the autometrics implementations (1 day ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 day ago)
