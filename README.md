@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Ultraschall/ultraschall-portable](https://github.com/Ultraschall/ultraschall-portable) - Portable ULTRASCHALL Podcasting Extensions including the REAPER DAW  (today)
+- [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻 (today)
 - [scmmishra/ipshield](https://github.com/scmmishra/ipshield) - DNS based API for Firehol IP list (1 day ago)
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans... (1 day ago)
 - [grafana/sobek](https://github.com/grafana/sobek) -  (1 day ago)
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (2 days ago)
-- [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (2 days ago)
