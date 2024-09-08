@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - Learn SQL by creating a SQL database in JavaScript (today)
 - [Ultraschall/ultraschall-portable](https://github.com/Ultraschall/ultraschall-portable) - Portable ULTRASCHALL Podcasting Extensions including the REAPER DAW  (today)
 - [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻 (today)
 - [scmmishra/ipshield](https://github.com/scmmishra/ipshield) - DNS based API for Firehol IP list (1 day ago)
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans... (1 day ago)
-- [grafana/sobek](https://github.com/grafana/sobek) -  (1 day ago)
