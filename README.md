@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (4 weeks ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (8 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - Learn SQL by creating a SQL database in JavaScript (today)
-- [Ultraschall/ultraschall-portable](https://github.com/Ultraschall/ultraschall-portable) - Portable ULTRASCHALL Podcasting Extensions including the REAPER DAW  (today)
-- [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻 (today)
-- [scmmishra/ipshield](https://github.com/scmmishra/ipshield) - DNS based API for Firehol IP list (1 day ago)
-- [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans... (1 day ago)
+- [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - Learn SQL by creating a SQL database in JavaScript (1 day ago)
+- [Ultraschall/ultraschall-portable](https://github.com/Ultraschall/ultraschall-portable) - Portable ULTRASCHALL Podcasting Extensions including the REAPER DAW  (1 day ago)
+- [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻 (1 day ago)
+- [scmmishra/ipshield](https://github.com/scmmishra/ipshield) - DNS based API for Firehol IP list (2 days ago)
+- [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans... (2 days ago)
