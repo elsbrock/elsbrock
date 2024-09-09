@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support (today)
 - [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications. (today)
 - [Bishwas-py/django-svelte-template](https://github.com/Bishwas-py/django-svelte-template) - sveltekit / svelte5 with django; auth, forms-actions, toast/flash messages, validations and more (today)
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - Learn SQL by creating a SQL database in JavaScript (1 day ago)
 - [Ultraschall/ultraschall-portable](https://github.com/Ultraschall/ultraschall-portable) - Portable ULTRASCHALL Podcasting Extensions including the REAPER DAW  (1 day ago)
-- [warpling/Macmoji](https://github.com/warpling/Macmoji) - Slack/GitHub/Trello emoji for your mac! 😁 💥 💻 (1 day ago)
