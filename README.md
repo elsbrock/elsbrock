@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [k8snetworkplumbingwg/sriov-network-device-plugin](https://github.com/k8snetworkplumbingwg/sriov-network-device-plugin) - SRIOV network device plugin for Kubernetes (today)
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.  (today)
 - [jp3141/AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter) - Turn your Apple Watch into an ammeter to measure DC currents (1 day ago)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (1 day ago)
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer. (1 day ago)
-- [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app. (1 day ago)
