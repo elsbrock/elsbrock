@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (today)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres (today)
 - [sevmeyer/chrumm-keyboard](https://github.com/sevmeyer/chrumm-keyboard) - Ergonomic monoblock keyboard (1 day ago)
 - [leahneukirchen/extrace](https://github.com/leahneukirchen/extrace) - trace exec() calls system-wide (1 day ago)
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (1 day ago)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (3 days ago)
