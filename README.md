@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - desktop-collector (today)
+- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer (today)
+- [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (today)
 - [jaymzh/iptstate](https://github.com/jaymzh/iptstate) - IP Tables State (today)
 - [thomastschurtschenthaler/electrico](https://github.com/thomastschurtschenthaler/electrico) - A Lightweight Electron App Container (today)
-- [c-robinson/iplib](https://github.com/c-robinson/iplib) - A library  for working with IP addresses and networks in Go (1 day ago)
-- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (1 day ago)
-- [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config (1 day ago)
