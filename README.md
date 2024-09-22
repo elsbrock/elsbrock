@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (1 month ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (8 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (today)
-- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 day ago)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (2 days ago)
-- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - desktop-collector (3 days ago)
-- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer (3 days ago)
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (1 day ago)
+- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (2 days ago)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (3 days ago)
+- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - desktop-collector (4 days ago)
+- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer (4 days ago)
