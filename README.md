@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (1 day ago)
-- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (1 day ago)
-- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (2 days ago)
-- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (3 days ago)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (4 days ago)
+- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (2 days ago)
+- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (2 days ago)
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (3 days ago)
+- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (4 days ago)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (5 days ago)
