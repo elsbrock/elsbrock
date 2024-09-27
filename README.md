@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.3](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.3), 1 week ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.3](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.3), 2 weeks ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 9 months ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 10 months ago) - 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 years ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama (today)
-- [deggja/netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads. (today)
-- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (4 days ago)
-- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (4 days ago)
-- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (5 days ago)
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama (1 day ago)
+- [deggja/netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads. (1 day ago)
+- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (5 days ago)
+- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (5 days ago)
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM (6 days ago)
