@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
-- [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (1 month ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (9 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot (today)
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama (2 days ago)
-- [deggja/netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads. (2 days ago)
-- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (6 days ago)
-- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (6 days ago)
+- [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot (1 day ago)
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama (3 days ago)
+- [deggja/netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads. (3 days ago)
+- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (1 week ago)
+- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (1 week ago)
