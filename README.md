@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (today)
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (today)
 - [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant (today)
 - [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. (today)
 - [RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate token/s &amp; GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization (today)
-- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations. (today)
