@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot (1 week ago)
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama (1 week ago)
-- [deggja/netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads. (1 week ago)
-- [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query) (2 weeks ago)
-- [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts (2 weeks ago)
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (today)
+- [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant (today)
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. (today)
+- [RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate token/s &amp; GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization (today)
+- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations. (today)
