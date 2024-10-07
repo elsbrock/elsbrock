@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS (today)
 - [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (1 day ago)
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (1 day ago)
 - [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant (1 day ago)
 - [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. (1 day ago)
-- [RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate token/s &amp; GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization (1 day ago)
