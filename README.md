@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [archiewood/gosql](https://github.com/archiewood/gosql) - A SQL query engine in Go (today)
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. (today)
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS (1 day ago)
 - [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (2 days ago)
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (2 days ago)
-- [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant (2 days ago)
-- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. (2 days ago)
