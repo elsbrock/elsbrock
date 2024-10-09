@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (today)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (today)
 - [lux-operating-system/kernel](https://github.com/lux-operating-system/kernel) - Portable asynchronous microkernel implementing multiprocessor priority scheduling and Unix-like abstractions (today)
 - [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (today)
-- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices. (today)
