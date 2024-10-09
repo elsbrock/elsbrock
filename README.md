@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (3 weeks ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 4 days ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 5 days ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 9 months ago) - Prometheus Service Discovery for Tailscale
 - [thinkJD/munch-o-matic](https://github.com/thinkJD/munch-o-matic) ([v1.0.1](https://github.com/thinkJD/munch-o-matic/releases/tag/v1.0.1), 10 months ago) - 
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 years ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [archiewood/gosql](https://github.com/archiewood/gosql) - A SQL query engine in Go (today)
-- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. (today)
-- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS (1 day ago)
-- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (2 days ago)
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (2 days ago)
+- [archiewood/gosql](https://github.com/archiewood/gosql) - A SQL query engine in Go (1 day ago)
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. (1 day ago)
+- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS (2 days ago)
+- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (3 days ago)
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (3 days ago)
