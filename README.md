@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
+- [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (today)
 - [lux-operating-system/kernel](https://github.com/lux-operating-system/kernel) - Portable asynchronous microkernel implementing multiprocessor priority scheduling and Unix-like abstractions (today)
 - [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (today)
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices. (today)
-- [archiewood/gosql](https://github.com/archiewood/gosql) - A SQL query engine in Go (1 day ago)
-- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. (1 day ago)
