@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (today)
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (today)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 day ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 day ago)
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (1 day ago)
-- [lux-operating-system/kernel](https://github.com/lux-operating-system/kernel) - Portable asynchronous microkernel implementing multiprocessor priority scheduling and Unix-like abstractions (1 day ago)
-- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (1 day ago)
