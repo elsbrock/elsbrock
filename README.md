@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 weeks ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (3 weeks ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (4 weeks ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (9 months ago)
 
@@ -26,15 +26,15 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
+- [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (2 months ago)
 - [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 months ago)
 - [Adds new integration [elsbrock/cowboy-ha]](https://github.com/hacs/default/pull/2257) on [hacs/default](https://github.com/hacs/default) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (today)
-- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV (1 day ago)
-- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (1 day ago)
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 day ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (2 days ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (1 day ago)
+- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV (2 days ago)
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (2 days ago)
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (2 days ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (3 days ago)
