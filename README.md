@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (4 weeks ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
+- [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (2 months ago)
 - [docs: update docs for accepting device invites](https://github.com/tailscale/tailscale/pull/12581) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (today)
-- [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device (today)
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (1 day ago)
-- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV (2 days ago)
-- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (2 days ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (1 day ago)
+- [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device (1 day ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (2 days ago)
+- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV (3 days ago)
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (3 days ago)
