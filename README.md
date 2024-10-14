@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 weeks ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (4 weeks ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (9 months ago)
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (today)
-- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) - A package for creating slides in Typst (today)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (1 day ago)
-- [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device (1 day ago)
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (2 days ago)
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (1 day ago)
+- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) - A package for creating slides in Typst (1 day ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (2 days ago)
+- [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device (2 days ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (3 days ago)
