@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [giovanniberti/moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv (today)
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (today)
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (1 day ago)
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) - A package for creating slides in Typst (1 day ago)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (2 days ago)
-- [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device (2 days ago)
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds (3 days ago)
