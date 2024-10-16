@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (today)
 - [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...) (today)
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch (today)
 - [Digital-Naturalism-Laboratories/Mothbox](https://github.com/Digital-Naturalism-Laboratories/Mothbox) - Developing an open source,low cost automated system for Moth-Lighting photography  (today)
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds! (1 day ago)
-- [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse (1 day ago)
