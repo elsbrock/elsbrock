@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds! (today)
-- [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse (today)
-- [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (1 day ago)
-- [giovanniberti/moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv (1 day ago)
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (1 day ago)
+- [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds! (1 day ago)
+- [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse (1 day ago)
+- [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (2 days ago)
+- [giovanniberti/moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv (2 days ago)
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
