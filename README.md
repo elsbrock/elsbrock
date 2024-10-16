@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...) (today)
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch (today)
+- [Digital-Naturalism-Laboratories/Mothbox](https://github.com/Digital-Naturalism-Laboratories/Mothbox) - Developing an open source,low cost automated system for Moth-Lighting photography  (today)
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds! (1 day ago)
 - [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse (1 day ago)
-- [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (2 days ago)
-- [giovanniberti/moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv (2 days ago)
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
