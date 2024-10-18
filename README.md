@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) -  (today)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (2 days ago)
 - [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...) (2 days ago)
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch (2 days ago)
 - [Digital-Naturalism-Laboratories/Mothbox](https://github.com/Digital-Naturalism-Laboratories/Mothbox) - Developing an open source,low cost automated system for Moth-Lighting photography  (2 days ago)
-- [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds! (3 days ago)
