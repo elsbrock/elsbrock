@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. (today)
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) -  (today)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (2 days ago)
 - [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...) (2 days ago)
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch (2 days ago)
-- [Digital-Naturalism-Laboratories/Mothbox](https://github.com/Digital-Naturalism-Laboratories/Mothbox) - Developing an open source,low cost automated system for Moth-Lighting photography  (2 days ago)
