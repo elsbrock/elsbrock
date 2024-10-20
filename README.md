@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (today)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (today)
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. (2 days ago)
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) -  (2 days ago)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (4 days ago)
-- [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...) (4 days ago)
