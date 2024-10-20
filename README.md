@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 weeks ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (9 months ago)
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (today)
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. (2 days ago)
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) -  (2 days ago)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (4 days ago)
 - [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...) (4 days ago)
-- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch (4 days ago)
