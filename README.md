@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 weeks ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (9 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM (today)
-- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (today)
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (today)
-- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. (2 days ago)
-- [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) -  (2 days ago)
+- [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM (1 day ago)
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (1 day ago)
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (1 day ago)
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. (3 days ago)
+- [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) -  (3 days ago)
