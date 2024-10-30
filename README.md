@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1 (today)
 - [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (1 day ago)
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (2 days ago)
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  (2 days ago)
 - [mediakular/gridcraft](https://github.com/mediakular/gridcraft) - GridCraft Data Table Component for SvelteKit Apps (4 days ago)
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork (6 days ago)
