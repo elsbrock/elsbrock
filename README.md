@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [james-elicx/cf-bindings-proxy](https://github.com/james-elicx/cf-bindings-proxy) - Experimental proxy for interfacing with bindings in projects targeting Cloudflare Pages (today)
 - [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (1 day ago)
 - [jschlesser/authjs-sveltekit-cloudflare-pages](https://github.com/jschlesser/authjs-sveltekit-cloudflare-pages) - A demo of using authjs with sveltekit and cloudflare pages (1 day ago)
 - [linagora/jmap-client-ts](https://github.com/linagora/jmap-client-ts) - JMAP 1.0 client library in TypeScript (1 day ago)
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1 (3 days ago)
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (4 days ago)
