@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points) (today)
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (today)
 - [james-elicx/cf-bindings-proxy](https://github.com/james-elicx/cf-bindings-proxy) - Experimental proxy for interfacing with bindings in projects targeting Cloudflare Pages (today)
 - [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (1 day ago)
 - [jschlesser/authjs-sveltekit-cloudflare-pages](https://github.com/jschlesser/authjs-sveltekit-cloudflare-pages) - A demo of using authjs with sveltekit and cloudflare pages (1 day ago)
-- [linagora/jmap-client-ts](https://github.com/linagora/jmap-client-ts) - JMAP 1.0 client library in TypeScript (1 day ago)
