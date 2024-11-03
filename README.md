@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [vega/svelte-vega](https://github.com/vega/svelte-vega) - Svelte component for Vega and Vega-Lite (today)
+- [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform. (today)
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points) (1 day ago)
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (1 day ago)
 - [james-elicx/cf-bindings-proxy](https://github.com/james-elicx/cf-bindings-proxy) - Experimental proxy for interfacing with bindings in projects targeting Cloudflare Pages (1 day ago)
-- [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (2 days ago)
-- [jschlesser/authjs-sveltekit-cloudflare-pages](https://github.com/jschlesser/authjs-sveltekit-cloudflare-pages) - A demo of using authjs with sveltekit and cloudflare pages (2 days ago)
