@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (today)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
-- [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (10 months ago)
 
 #### 🌱 My latest projects
 
+- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) - 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [joaopalmeiro/awesome-vega](https://github.com/joaopalmeiro/awesome-vega) - :chart_with_upwards_trend: Resources leveraging and to leverage the Vega ecosystem. (today)
+- [vega/vega-embed](https://github.com/vega/vega-embed) - Publish Vega visualizations as embedded web components with interactive parameters. (today)
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics (today)
 - [vega/svelte-vega](https://github.com/vega/svelte-vega) - Svelte component for Vega and Vega-Lite (today)
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform. (today)
-- [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points) (1 day ago)
-- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (1 day ago)
-- [james-elicx/cf-bindings-proxy](https://github.com/james-elicx/cf-bindings-proxy) - Experimental proxy for interfacing with bindings in projects targeting Cloudflare Pages (1 day ago)
