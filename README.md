@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project (today)
 - [Standard-Intelligence/hertz-dev](https://github.com/Standard-Intelligence/hertz-dev) - first base model for full-duplex conversational audio (today)
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (1 day ago)
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare. (1 day ago)
 - [robaho/seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us (1 day ago)
-- [joaopalmeiro/awesome-vega](https://github.com/joaopalmeiro/awesome-vega) - :chart_with_upwards_trend: Resources leveraging and to leverage the Vega ecosystem. (1 day ago)
