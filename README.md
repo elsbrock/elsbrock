@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
-- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (1 day ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 
@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
+- [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (today)
-- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare. (today)
-- [robaho/seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us (today)
-- [joaopalmeiro/awesome-vega](https://github.com/joaopalmeiro/awesome-vega) - :chart_with_upwards_trend: Resources leveraging and to leverage the Vega ecosystem. (today)
-- [vega/vega-embed](https://github.com/vega/vega-embed) - Publish Vega visualizations as embedded web components with interactive parameters. (today)
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (1 day ago)
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare. (1 day ago)
+- [robaho/seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us (1 day ago)
+- [joaopalmeiro/awesome-vega](https://github.com/joaopalmeiro/awesome-vega) - :chart_with_upwards_trend: Resources leveraging and to leverage the Vega ecosystem. (1 day ago)
+- [vega/vega-embed](https://github.com/vega/vega-embed) - Publish Vega visualizations as embedded web components with interactive parameters. (1 day ago)
