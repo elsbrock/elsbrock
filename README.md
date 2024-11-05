@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [jahir9991/sveltekit-cloudflare-fullstack](https://github.com/jahir9991/sveltekit-cloudflare-fullstack) - sveltekit edge  fullstack graphql with  api  crud &#43; pages &#43; worker &#43; D1(with drizzle orm) &#43; (supabase-postgres&#43; drizzle) &#43;       (neon-postgres&#43; drizzle)   &#43;  kv  crud &#43; R2&#43;  remote-proxy (today)
 - [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀 (today)
 - [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude (today)
 - [pilcrowonpaper/oslo](https://github.com/pilcrowonpaper/oslo) - A collection of auth-related utilities (1 day ago)
 - [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) -  (1 day ago)
-- [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web (1 day ago)
