@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude (today)
 - [pilcrowonpaper/oslo](https://github.com/pilcrowonpaper/oslo) - A collection of auth-related utilities (1 day ago)
 - [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) -  (1 day ago)
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web (1 day ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean (1 day ago)
-- [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project (1 day ago)
