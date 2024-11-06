@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem. (today)
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers (today)
+- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (today)
 - [anorthall/incident-db](https://github.com/anorthall/incident-db) - A project to digitise historical caving incident reports and make them available online. (today)
 - [anorthall/northall.me.uk](https://github.com/anorthall/northall.me.uk) - My personal website, https://northall.me.uk/ (today)
-- [anorthall/caves.app](https://github.com/anorthall/caves.app) - A Django app to log caving trips, with full social network features. (today)
-- [matvp91/superstreamer](https://github.com/matvp91/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (today)
-- [jahir9991/sveltekit-cloudflare-fullstack](https://github.com/jahir9991/sveltekit-cloudflare-fullstack) - sveltekit edge  fullstack graphql with  api  crud &#43; pages &#43; worker &#43; D1(with drizzle orm) &#43; (supabase-postgres&#43; drizzle) &#43;       (neon-postgres&#43; drizzle)   &#43;  kv  crud &#43; R2&#43;  remote-proxy (1 day ago)
