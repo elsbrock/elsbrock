@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit) - Cypress Commands for Mailpit ✉️ (today)
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem. (today)
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers (today)
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (today)
 - [anorthall/incident-db](https://github.com/anorthall/incident-db) - A project to digitise historical caving incident reports and make them available online. (today)
-- [anorthall/northall.me.uk](https://github.com/anorthall/northall.me.uk) - My personal website, https://northall.me.uk/ (today)
