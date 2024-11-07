@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (2 days ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
-- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
+- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (4 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit) - Cypress Commands for Mailpit ✉️ (today)
-- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem. (today)
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers (today)
-- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (today)
-- [anorthall/incident-db](https://github.com/anorthall/incident-db) - A project to digitise historical caving incident reports and make them available online. (today)
+- [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit) - Cypress Commands for Mailpit ✉️ (1 day ago)
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem. (1 day ago)
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers (1 day ago)
+- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (1 day ago)
+- [anorthall/incident-db](https://github.com/anorthall/incident-db) - A project to digitise historical caving incident reports and make them available online. (1 day ago)
