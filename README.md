@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (today)
+- [TyrealHu/acorn-typescript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser (today)
 - [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP (today)
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (today)
 - [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit) - Cypress Commands for Mailpit ✉️ (1 day ago)
-- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem. (1 day ago)
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers (1 day ago)
