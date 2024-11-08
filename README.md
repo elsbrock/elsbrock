@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (3 days ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 days ago)
-- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (4 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (4 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (5 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (today)
-- [TyrealHu/acorn-typescript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser (today)
-- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP (today)
-- [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (today)
-- [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit) - Cypress Commands for Mailpit ✉️ (1 day ago)
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (1 day ago)
+- [TyrealHu/acorn-typescript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser (1 day ago)
+- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP (1 day ago)
+- [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (1 day ago)
+- [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit) - Cypress Commands for Mailpit ✉️ (2 days ago)
