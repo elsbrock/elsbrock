@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (4 days ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
-- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (5 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (6 days ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (2 months ago)
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
-- [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (2 months ago)
+- [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
-- [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta (today)
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (1 day ago)
-- [TyrealHu/acorn-typescript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser (1 day ago)
-- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP (1 day ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
+- [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta (1 day ago)
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (2 days ago)
+- [TyrealHu/acorn-typescript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser (2 days ago)
+- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP (2 days ago)
