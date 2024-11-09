@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS (today)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta (1 day ago)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (2 days ago)
 - [TyrealHu/acorn-typescript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser (2 days ago)
-- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP (2 days ago)
