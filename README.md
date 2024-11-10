@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [aidenwallis/kysely-d1](https://github.com/aidenwallis/kysely-d1) - D1 dialect for Kysely (today)
 - [ciscoheat/sveltekit-rate-limiter](https://github.com/ciscoheat/sveltekit-rate-limiter) - A modular rate limiter for SvelteKit. Use in password resets, account registration, etc. (1 day ago)
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS (1 day ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta (2 days ago)
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (3 days ago)
