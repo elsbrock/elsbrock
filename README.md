@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler (today)
 - [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (1 day ago)
 - [aidenwallis/kysely-d1](https://github.com/aidenwallis/kysely-d1) - D1 dialect for Kysely (1 day ago)
 - [ciscoheat/sveltekit-rate-limiter](https://github.com/ciscoheat/sveltekit-rate-limiter) - A modular rate limiter for SvelteKit. Use in password resets, account registration, etc. (2 days ago)
-- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS (2 days ago)
