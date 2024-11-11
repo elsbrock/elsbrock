@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (today)
+- [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (today)
 - [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (today)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler (today)
-- [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (1 day ago)
-- [aidenwallis/kysely-d1](https://github.com/aidenwallis/kysely-d1) - D1 dialect for Kysely (1 day ago)
