@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (today)
 - [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (1 day ago)
 - [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (1 day ago)
 - [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (1 day ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 day ago)
-- [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler (1 day ago)
