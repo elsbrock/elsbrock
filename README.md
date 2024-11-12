@@ -26,14 +26,14 @@
 
 - [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
-- [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
+- [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (today)
-- [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (today)
-- [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (today)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
-- [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler (today)
+- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (1 day ago)
+- [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (1 day ago)
+- [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (1 day ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 day ago)
+- [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler (1 day ago)
