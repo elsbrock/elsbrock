@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform (today)
-- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (today)
-- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (1 day ago)
-- [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (1 day ago)
-- [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (1 day ago)
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform (1 day ago)
+- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (1 day ago)
+- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (2 days ago)
+- [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (2 days ago)
+- [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (2 days ago)
