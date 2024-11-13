@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero (today)
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform (1 day ago)
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (1 day ago)
 - [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (2 days ago)
 - [hazcod/cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers. (2 days ago)
-- [Ethan-Arrowood/socket](https://github.com/Ethan-Arrowood/socket) - A Node.js Implementation of the Cloudflare Socket API  (2 days ago)
