@@ -4,17 +4,17 @@
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
-- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) -  (1 week ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (3 months ago)
+- [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (10 months ago)
 
 #### 🌱 My latest projects
 
-- [elsbrock/svelte-vega-repro](https://github.com/elsbrock/svelte-vega-repro) - 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
+- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
 
 #### 🔭 Latest releases I've contributed to
 
