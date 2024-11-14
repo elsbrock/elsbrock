@@ -32,7 +32,7 @@
 
 #### ⭐ Recent Stars
 
-- [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero (1 day ago)
+- [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)  (1 day ago)
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform (2 days ago)
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (2 days ago)
 - [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (3 days ago)
