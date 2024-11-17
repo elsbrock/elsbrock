@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (1 month ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (3 months ago)
 - [home-assistant/brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant (10 months ago)
@@ -25,15 +25,15 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
-- [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
+- [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [docs: Array Type: fix link to list functions](https://github.com/duckdb/duckdb-web/pull/3370) on [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. (1 day ago)
-- [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)  (3 days ago)
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform (4 days ago)
-- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (4 days ago)
-- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (5 days ago)
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. (2 days ago)
+- [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)  (4 days ago)
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform (5 days ago)
+- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (5 days ago)
+- [zcsd/sveltekit-cloudflare-template](https://github.com/zcsd/sveltekit-cloudflare-template) - A fully functional SvelteKit template that integrates Cloudflare services (Pages, D1, KV, Workers, Queues, R2, Turnstile). Good to be a starting point for a SaaS application or a membership site. (6 days ago)
