@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations (today)
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc. (1 day ago)
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte. (1 day ago)
 - [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap) - Sitemap generator for SvelteKit. Small helper which scans your SvelteKit routes and generates static sitemap.xml (1 day ago)
 - [0ssamaak0/CLIPPyX](https://github.com/0ssamaak0/CLIPPyX) - AI Powered Image search tool offers content-based, text, and visual similarity system-wide search. (2 days ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 days ago)
