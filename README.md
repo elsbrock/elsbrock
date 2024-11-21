@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [ErikKaum/runner](https://github.com/ErikKaum/runner) - Experimental wasm32-unknown-wasi runtime for Python code execution (today)
+- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread] (today)
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (today)
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (today)
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations (1 day ago)
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc. (2 days ago)
-- [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte. (2 days ago)
