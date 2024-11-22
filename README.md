@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (today)
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (today)
 - [bn-l/sparkline-svelte](https://github.com/bn-l/sparkline-svelte) - Small responsive svelte 5 chart. Ideal for dashboards etc. Fully customizable. (today)
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (1 day ago)
 - [ErikKaum/runner](https://github.com/ErikKaum/runner) - Experimental wasm32-unknown-wasi runtime for Python code execution (1 day ago)
-- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread] (1 day ago)
-- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (1 day ago)
