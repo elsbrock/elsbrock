@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [dbohdan/memsparkline](https://github.com/dbohdan/memsparkline) - Track the RAM usage of a process and its descendants in real time (today)
 - [OpenVoiceOS/ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OpenVoiceOS Core, the FOSS Artificial Intelligence platform.  (today)
 - [esphome/home-assistant-voice-pe](https://github.com/esphome/home-assistant-voice-pe) - Home Assistant Voice PE (today)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 days ago)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (2 days ago)
-- [bn-l/sparkline-svelte](https://github.com/bn-l/sparkline-svelte) - Small responsive svelte 5 chart. Ideal for dashboards etc. Fully customizable. (2 days ago)
