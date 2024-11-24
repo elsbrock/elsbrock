@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [OpenVoiceOS/ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OpenVoiceOS Core, the FOSS Artificial Intelligence platform.  (today)
+- [esphome/home-assistant-voice-pe](https://github.com/esphome/home-assistant-voice-pe) - Home Assistant Voice PE (today)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 days ago)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (2 days ago)
 - [bn-l/sparkline-svelte](https://github.com/bn-l/sparkline-svelte) - Small responsive svelte 5 chart. Ideal for dashboards etc. Fully customizable. (2 days ago)
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (3 days ago)
-- [ErikKaum/runner](https://github.com/ErikKaum/runner) - Experimental wasm32-unknown-wasi runtime for Python code execution (3 days ago)
