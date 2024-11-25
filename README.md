@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of &#34;SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory&#34; (today)
 - [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (today)
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (today)
 - [dbohdan/memsparkline](https://github.com/dbohdan/memsparkline) - Track the RAM usage of a process and its descendants in real time (1 day ago)
 - [OpenVoiceOS/ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OpenVoiceOS Core, the FOSS Artificial Intelligence platform.  (1 day ago)
-- [esphome/home-assistant-voice-pe](https://github.com/esphome/home-assistant-voice-pe) - Home Assistant Voice PE (1 day ago)
