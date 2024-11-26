@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (today)
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of &#34;SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory&#34; (1 day ago)
 - [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (1 day ago)
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (1 day ago)
 - [dbohdan/memsparkline](https://github.com/dbohdan/memsparkline) - Track the RAM usage of a process and its descendants in real time (2 days ago)
-- [OpenVoiceOS/ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OpenVoiceOS Core, the FOSS Artificial Intelligence platform.  (2 days ago)
