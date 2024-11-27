@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative (today)
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (1 day ago)
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of &#34;SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory&#34; (2 days ago)
 - [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (2 days ago)
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (2 days ago)
-- [dbohdan/memsparkline](https://github.com/dbohdan/memsparkline) - Track the RAM usage of a process and its descendants in real time (3 days ago)
