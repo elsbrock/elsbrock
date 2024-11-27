@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (6 days ago)
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 months ago)
@@ -24,16 +24,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: no longer using `master` but `main`](https://github.com/nix-community/nixvim/pull/2555) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (6 days ago)
-- [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
+- [docs: no longer using `master` but `main`](https://github.com/nix-community/nixvim/pull/2555) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (1 week ago)
+- [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (today)
-- [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of &#34;SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory&#34; (1 day ago)
-- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (1 day ago)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (1 day ago)
-- [dbohdan/memsparkline](https://github.com/dbohdan/memsparkline) - Track the RAM usage of a process and its descendants in real time (2 days ago)
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (1 day ago)
+- [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of &#34;SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory&#34; (2 days ago)
+- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (2 days ago)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (2 days ago)
+- [dbohdan/memsparkline](https://github.com/dbohdan/memsparkline) - Track the RAM usage of a process and its descendants in real time (3 days ago)
