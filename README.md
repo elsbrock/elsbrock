@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers. (today)
 - [crftd-tech/trunkver](https://github.com/crftd-tech/trunkver) - so we can stop talking about versions and start shipping (today)
 - [darkstego/Mudeer](https://github.com/darkstego/Mudeer) - KDE Plasma Screen Splitting Shortcuts ideal for Ultrawide and Super-Ultrawide Monitors (1 day ago)
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda] (1 day ago)
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative (1 day ago)
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (2 days ago)
