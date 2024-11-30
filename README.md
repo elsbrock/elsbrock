@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (today)
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (1 day ago)
 - [karhuton/bluescreen](https://github.com/karhuton/bluescreen) - Bluescreen.live (1 day ago)
 - [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub  (2 days ago)
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers. (2 days ago)
-- [crftd-tech/trunkver](https://github.com/crftd-tech/trunkver) - so we can stop talking about versions and start shipping (2 days ago)
