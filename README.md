@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 1 month ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 2 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 11 months ago) - Prometheus Service Discovery for Tailscale
 - [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 years ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (1 day ago)
-- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (2 days ago)
-- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (3 days ago)
-- [karhuton/bluescreen](https://github.com/karhuton/bluescreen) - Bluescreen.live (3 days ago)
-- [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub  (4 days ago)
+- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (2 days ago)
+- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (3 days ago)
+- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (4 days ago)
+- [karhuton/bluescreen](https://github.com/karhuton/bluescreen) - Bluescreen.live (4 days ago)
+- [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub  (5 days ago)
