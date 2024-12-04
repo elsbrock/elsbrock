@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 week ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 months ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (3 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: no longer using `master` but `main`](https://github.com/nix-community/nixvim/pull/2555) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (1 week ago)
+- [docs: no longer using `master` but `main`](https://github.com/nix-community/nixvim/pull/2555) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (2 weeks ago)
 - [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅 (today)
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (2 days ago)
-- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (3 days ago)
-- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (4 days ago)
-- [karhuton/bluescreen](https://github.com/karhuton/bluescreen) - Bluescreen.live (4 days ago)
+- [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅 (1 day ago)
+- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (3 days ago)
+- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (4 days ago)
+- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (5 days ago)
+- [karhuton/bluescreen](https://github.com/karhuton/bluescreen) - Bluescreen.live (5 days ago)
