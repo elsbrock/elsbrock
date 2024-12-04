@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (today)
+- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (today)
+- [nicupavel/openpanzer](https://github.com/nicupavel/openpanzer) - Javascript/HTML5 rewrite of Panzer General 2 game (today)
 - [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅 (1 day ago)
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (3 days ago)
-- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (4 days ago)
-- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (5 days ago)
-- [karhuton/bluescreen](https://github.com/karhuton/bluescreen) - Bluescreen.live (5 days ago)
