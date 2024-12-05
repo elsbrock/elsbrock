@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [berezovyy/ai-interview-practice-tool](https://github.com/berezovyy/ai-interview-practice-tool) -  (today)
-- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator (today)
-- [mozilla/nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla overlay for Nixpkgs. (today)
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (today)
-- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (today)
+- [berezovyy/ai-interview-practice-tool](https://github.com/berezovyy/ai-interview-practice-tool) -  (1 day ago)
+- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator (1 day ago)
+- [mozilla/nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla overlay for Nixpkgs. (1 day ago)
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (1 day ago)
+- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (1 day ago)
