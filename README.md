@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks (today)
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Web interface to turn codebases into prompt-friendly text (today)
+- [cloudflare/orange](https://github.com/cloudflare/orange) -  (today)
 - [Mstrodl/ORCT2-web](https://github.com/Mstrodl/ORCT2-web) - OpenRCT2 in your browser! (today)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (today)
-- [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML (today)
-- [berezovyy/ai-interview-practice-tool](https://github.com/berezovyy/ai-interview-practice-tool) -  (1 day ago)
-- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator (1 day ago)
