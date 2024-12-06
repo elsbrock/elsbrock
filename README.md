@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: dummy](https://github.com/elsbrock/hetzner-radar/pull/72) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [docs: no longer using `master` but `main`](https://github.com/nix-community/nixvim/pull/2555) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (2 weeks ago)
 - [feat: configuration showcases](https://github.com/elsbrock/hetzner-radar/pull/57) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: playwright e2e testing](https://github.com/elsbrock/hetzner-radar/pull/54) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: load server configuration details](https://github.com/elsbrock/hetzner-radar/pull/13) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
-- [chore: add more stats](https://github.com/elsbrock/hetzner-radar/pull/12) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 
 #### ⭐ Recent Stars
 
