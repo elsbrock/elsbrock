@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, single-file, open-source application server with type-safe APIs, Auth, and Admin UI built on Rust&#43;SQLite.  (today)
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space (today)
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript (today)
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin (1 day ago)
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import (1 day ago)
-- [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks (1 day ago)
