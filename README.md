@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(query): recentlySeen only when enabled](https://github.com/elsbrock/hetzner-radar/pull/80) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [fix(analyze): server config query](https://github.com/elsbrock/hetzner-radar/pull/77) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [feat(stats): price trend](https://github.com/elsbrock/hetzner-radar/pull/76) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [fix(push): measure time correctly](https://github.com/elsbrock/hetzner-radar/pull/74) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 - [chore: dummy](https://github.com/elsbrock/hetzner-radar/pull/72) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
-- [docs: no longer using `master` but `main`](https://github.com/nix-community/nixvim/pull/2555) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
