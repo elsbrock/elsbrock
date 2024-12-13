@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant (today)
 - [atomic14/esp32-zxspectrum-hardware](https://github.com/atomic14/esp32-zxspectrum-hardware) - KiCad project for esp32-zxspectrum (today)
 - [atomic14/esp32-zxspectrum](https://github.com/atomic14/esp32-zxspectrum) -  (today)
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (today)
 - [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer&#39;s Locomotion (1 day ago)
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (1 day ago)
