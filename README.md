@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (today)
 - [ellenhp/farebox](https://github.com/ellenhp/farebox) - Multimodal routing in Rust (today)
 - [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant (1 day ago)
 - [atomic14/esp32-zxspectrum-hardware](https://github.com/atomic14/esp32-zxspectrum-hardware) - KiCad project for esp32-zxspectrum (1 day ago)
 - [atomic14/esp32-zxspectrum](https://github.com/atomic14/esp32-zxspectrum) -  (1 day ago)
-- [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (1 day ago)
