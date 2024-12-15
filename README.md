@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [statico/imposter-attack-2024](https://github.com/statico/imposter-attack-2024) - 👽 An Among Us-themed infrared shooting gallery game built with ESP32 devices and a Node.js scoreboard (today)
 - [sockmaster27/svader](https://github.com/sockmaster27/svader) - Create GPU-rendered Svelte components (today)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (1 day ago)
 - [ellenhp/farebox](https://github.com/ellenhp/farebox) - Multimodal routing in Rust (1 day ago)
 - [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant (2 days ago)
-- [atomic14/esp32-zxspectrum-hardware](https://github.com/atomic14/esp32-zxspectrum-hardware) - KiCad project for esp32-zxspectrum (2 days ago)
