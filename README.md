@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [mfasold/epaper-display-website](https://github.com/mfasold/epaper-display-website) -  (today)
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (today)
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (1 day ago)
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application (1 day ago)
 - [statico/imposter-attack-2024](https://github.com/statico/imposter-attack-2024) - 👽 An Among Us-themed infrared shooting gallery game built with ESP32 devices and a Node.js scoreboard (1 day ago)
-- [sockmaster27/svader](https://github.com/sockmaster27/svader) - Create GPU-rendered Svelte components (1 day ago)
-- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (2 days ago)
