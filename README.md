@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (3 weeks ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (2 months ago)
@@ -24,16 +24,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
-- [fix(query): recentlySeen only when enabled](https://github.com/elsbrock/hetzner-radar/pull/80) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
-- [fix(analyze): server config query](https://github.com/elsbrock/hetzner-radar/pull/77) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
+- [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
+- [fix(query): recentlySeen only when enabled](https://github.com/elsbrock/hetzner-radar/pull/80) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [fix(analyze): server config query](https://github.com/elsbrock/hetzner-radar/pull/77) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (today)
-- [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application (today)
-- [statico/imposter-attack-2024](https://github.com/statico/imposter-attack-2024) - 👽 An Among Us-themed infrared shooting gallery game built with ESP32 devices and a Node.js scoreboard (today)
-- [sockmaster27/svader](https://github.com/sockmaster27/svader) - Create GPU-rendered Svelte components (today)
-- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (1 day ago)
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (1 day ago)
+- [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application (1 day ago)
+- [statico/imposter-attack-2024](https://github.com/statico/imposter-attack-2024) - 👽 An Among Us-themed infrared shooting gallery game built with ESP32 devices and a Node.js scoreboard (1 day ago)
+- [sockmaster27/svader](https://github.com/sockmaster27/svader) - Create GPU-rendered Svelte components (1 day ago)
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (2 days ago)
