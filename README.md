@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [helloimalastair/where-durableobjects-live](https://github.com/helloimalastair/where-durableobjects-live) - Tracking where Durable Objects are created, wherever you are in the world. (today)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (today)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (today)
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference? (1 day ago)
 - [mfasold/epaper-display-website](https://github.com/mfasold/epaper-display-website) -  (1 day ago)
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 day ago)
