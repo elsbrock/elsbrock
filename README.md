@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (today)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (today)
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference? (1 day ago)
 - [mfasold/epaper-display-website](https://github.com/mfasold/epaper-display-website) -  (1 day ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 day ago)
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (2 days ago)
-- [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application (2 days ago)
