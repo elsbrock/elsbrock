@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (today)
 - [helloimalastair/where-durableobjects-live](https://github.com/helloimalastair/where-durableobjects-live) - Tracking where Durable Objects are created, wherever you are in the world. (1 day ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (1 day ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (1 day ago)
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference? (2 days ago)
-- [mfasold/epaper-display-website](https://github.com/mfasold/epaper-display-website) -  (2 days ago)
