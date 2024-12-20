@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more! (today)
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router. (today)
 - [kwhitley/itty-durable](https://github.com/kwhitley/itty-durable) - Cloudflare Durable Objects &#43; Itty Router = shorter code (today)
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (2 days ago)
 - [helloimalastair/where-durableobjects-live](https://github.com/helloimalastair/where-durableobjects-live) - Tracking where Durable Objects are created, wherever you are in the world. (3 days ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (3 days ago)
