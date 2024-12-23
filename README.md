@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth) - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (today)
 - [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can&#39;t (today)
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table (1 day ago)
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library (1 day ago)
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally. (1 day ago)
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (1 day ago)
