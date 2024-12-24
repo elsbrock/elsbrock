@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [skariel/keypub](https://github.com/skariel/keypub) - the public ssh public key registry! (today)
 - [caspervonb/wasi-test-suite](https://github.com/caspervonb/wasi-test-suite) - Ready to use runtime agnostic build of the WebAssembly System Interface test repositories (1 day ago)
 - [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets (1 day ago)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (1 day ago)
 - [atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth) - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (1 day ago)
-- [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can&#39;t (1 day ago)
