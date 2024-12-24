@@ -19,8 +19,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 2 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
-- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) ([v0.3.0](https://github.com/cfunkhouser/tailscalesd/releases/tag/v0.3.0), 1 year ago) - Prometheus Service Discovery for Tailscale
-- [elsbrock/go-ghwrite](https://github.com/elsbrock/go-ghwrite) ([v0.3.2](https://github.com/elsbrock/go-ghwrite/releases/tag/v0.3.2), 2 years ago) - :octocat: Commit file(s) in Github repo using the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
