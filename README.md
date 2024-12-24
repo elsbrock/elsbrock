@@ -24,16 +24,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
-- [fix(query): recentlySeen only when enabled](https://github.com/elsbrock/hetzner-radar/pull/80) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [fix(query): recentlySeen only when enabled](https://github.com/elsbrock/hetzner-radar/pull/80) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (today)
-- [atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth) - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (today)
-- [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can&#39;t (today)
-- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table (1 day ago)
-- [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library (1 day ago)
+- [caspervonb/wasi-test-suite](https://github.com/caspervonb/wasi-test-suite) - Ready to use runtime agnostic build of the WebAssembly System Interface test repositories (1 day ago)
+- [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets (1 day ago)
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (1 day ago)
+- [atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth) - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (1 day ago)
+- [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can&#39;t (1 day ago)
