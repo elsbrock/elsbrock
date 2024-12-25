@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (today)
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station&#39;s urine tank is in real time (today)
 - [skariel/keypub](https://github.com/skariel/keypub) - the public ssh public key registry! (1 day ago)
 - [caspervonb/wasi-test-suite](https://github.com/caspervonb/wasi-test-suite) - Ready to use runtime agnostic build of the WebAssembly System Interface test repositories (2 days ago)
 - [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets (2 days ago)
-- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (2 days ago)
