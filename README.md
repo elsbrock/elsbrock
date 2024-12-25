@@ -22,16 +22,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
+- [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
-- [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix(query): recentlySeen only when enabled](https://github.com/elsbrock/hetzner-radar/pull/80) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [skariel/keypub](https://github.com/skariel/keypub) - the public ssh public key registry! (today)
-- [caspervonb/wasi-test-suite](https://github.com/caspervonb/wasi-test-suite) - Ready to use runtime agnostic build of the WebAssembly System Interface test repositories (1 day ago)
-- [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets (1 day ago)
-- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (1 day ago)
-- [atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth) - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (1 day ago)
+- [skariel/keypub](https://github.com/skariel/keypub) - the public ssh public key registry! (1 day ago)
+- [caspervonb/wasi-test-suite](https://github.com/caspervonb/wasi-test-suite) - Ready to use runtime agnostic build of the WebAssembly System Interface test repositories (2 days ago)
+- [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets (2 days ago)
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (2 days ago)
+- [atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth) - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (2 days ago)
