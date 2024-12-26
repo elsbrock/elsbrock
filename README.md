@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [rewindui/rewindui](https://github.com/rewindui/rewindui) - A React component library for building modern web applications using Tailwind CSS. (today)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (today)
+- [rob-balfre/svelte-select](https://github.com/rob-balfre/svelte-select) - Svelte Select. A select component for Svelte (today)
+- [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System (today)
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof (1 day ago)
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 day ago)
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station&#39;s urine tank is in real time (1 day ago)
-- [skariel/keypub](https://github.com/skariel/keypub) - the public ssh public key registry! (2 days ago)
-- [caspervonb/wasi-test-suite](https://github.com/caspervonb/wasi-test-suite) - Ready to use runtime agnostic build of the WebAssembly System Interface test repositories (3 days ago)
