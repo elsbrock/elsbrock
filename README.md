@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org (today)
 - [rewindui/rewindui](https://github.com/rewindui/rewindui) - A React component library for building modern web applications using Tailwind CSS. (1 day ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 day ago)
 - [rob-balfre/svelte-select](https://github.com/rob-balfre/svelte-select) - Svelte Select. A select component for Svelte (1 day ago)
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System (1 day ago)
-- [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof (2 days ago)
