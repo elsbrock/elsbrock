@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components, actions, stores, and utilities to build highly interactive applications. (today)
+- [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a wide range of visualizations (today)
 - [bits0rcerer/wellenbrecher](https://github.com/bits0rcerer/wellenbrecher) - 🌊 A capable pixelflut server written in Rust 🦀 (1 day ago)
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library (1 day ago)
 - [esp32-open-mac/esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32 (1 day ago)
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (1 day ago)
-- [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 330&#43; edge locations (2 days ago)
