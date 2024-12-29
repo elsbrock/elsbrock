@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc (today)
 - [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client. (today)
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use! (today)
 - [AdrianGonz97/refined-cf-pages-action](https://github.com/AdrianGonz97/refined-cf-pages-action) -  (today)
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
-- [techniq/strava-analysis](https://github.com/techniq/strava-analysis) - Strava Analysis (today)
