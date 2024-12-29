@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use! (today)
 - [AdrianGonz97/refined-cf-pages-action](https://github.com/AdrianGonz97/refined-cf-pages-action) -  (today)
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
 - [techniq/strava-analysis](https://github.com/techniq/strava-analysis) - Strava Analysis (today)
 - [techniq/github-analysis](https://github.com/techniq/github-analysis) - Analyze Github data (today)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
