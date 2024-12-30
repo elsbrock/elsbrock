@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (4 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc (today)
-- [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client. (today)
-- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use! (today)
-- [AdrianGonz97/refined-cf-pages-action](https://github.com/AdrianGonz97/refined-cf-pages-action) -  (today)
-- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
+- [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc (1 day ago)
+- [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client. (1 day ago)
+- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use! (1 day ago)
+- [AdrianGonz97/refined-cf-pages-action](https://github.com/AdrianGonz97/refined-cf-pages-action) -  (1 day ago)
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (1 day ago)
