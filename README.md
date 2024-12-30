@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [lagenar/python-cronet](https://github.com/lagenar/python-cronet) - Python wrapper for Cronet - Chromium&#39;s http library (today)
+- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. (today)
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome &amp; Firefox (today)
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. (today)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (today)
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (today)
-- [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 &amp; typescript (today)
-- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets. (today)
-- [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs (today)
