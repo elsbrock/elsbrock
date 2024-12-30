@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening! (today)
 - [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks! (today)
 - [techniq/layerchart-shadcn-svelte](https://github.com/techniq/layerchart-shadcn-svelte) - Example project integrating LayerChart with shadcn-svelte (today)
 - [lagenar/python-cronet](https://github.com/lagenar/python-cronet) - Python wrapper for Cronet - Chromium&#39;s http library (today)
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. (today)
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome &amp; Firefox (today)
