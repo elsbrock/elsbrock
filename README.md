@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - &#34;Unmask Your Traffic&#34; - UAParser.js: The Essential Web Development Tool for User-Agent Detection (today)
+- [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (today)
 - [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰  (today)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (today)
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers (1 day ago)
-- [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening! (1 day ago)
-- [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks! (1 day ago)
