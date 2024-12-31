@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰  (today)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (today)
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers (1 day ago)
 - [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening! (1 day ago)
 - [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks! (1 day ago)
-- [techniq/layerchart-shadcn-svelte](https://github.com/techniq/layerchart-shadcn-svelte) - Example project integrating LayerChart with shadcn-svelte (1 day ago)
