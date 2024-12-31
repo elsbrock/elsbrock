@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (4 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
+- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening! (today)
-- [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks! (today)
-- [techniq/layerchart-shadcn-svelte](https://github.com/techniq/layerchart-shadcn-svelte) - Example project integrating LayerChart with shadcn-svelte (today)
-- [lagenar/python-cronet](https://github.com/lagenar/python-cronet) - Python wrapper for Cronet - Chromium&#39;s http library (today)
-- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. (today)
+- [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (today)
+- [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers (1 day ago)
+- [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening! (1 day ago)
+- [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks! (1 day ago)
+- [techniq/layerchart-shadcn-svelte](https://github.com/techniq/layerchart-shadcn-svelte) - Example project integrating LayerChart with shadcn-svelte (1 day ago)
