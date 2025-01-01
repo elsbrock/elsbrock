@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail. (today)
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - &#34;Unmask Your Traffic&#34; - UAParser.js: The Essential Web Development Tool for User-Agent Detection (1 day ago)
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (1 day ago)
 - [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰  (1 day ago)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (1 day ago)
-- [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers (2 days ago)
