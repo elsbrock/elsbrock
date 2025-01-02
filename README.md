@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (5 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 2 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 3 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
+- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (today)
-- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (today)
-- [nix-community/nix4nvchad](https://github.com/nix-community/nix4nvchad) - Install NvChad on Nix-based system [maintainer=@Bot-wxt1221, @MOIS3Y] (today)
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail. (today)
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - &#34;Unmask Your Traffic&#34; - UAParser.js: The Essential Web Development Tool for User-Agent Detection (1 day ago)
+- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (1 day ago)
+- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (1 day ago)
+- [nix-community/nix4nvchad](https://github.com/nix-community/nix4nvchad) - Install NvChad on Nix-based system [maintainer=@Bot-wxt1221, @MOIS3Y] (1 day ago)
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail. (1 day ago)
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - &#34;Unmask Your Traffic&#34; - UAParser.js: The Essential Web Development Tool for User-Agent Detection (2 days ago)
