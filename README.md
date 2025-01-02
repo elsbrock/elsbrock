@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (today)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (today)
 - [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (1 day ago)
 - [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (1 day ago)
 - [nix-community/nix4nvchad](https://github.com/nix-community/nix4nvchad) - Install NvChad on Nix-based system [maintainer=@Bot-wxt1221, @MOIS3Y] (1 day ago)
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail. (1 day ago)
