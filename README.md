@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
@@ -22,16 +22,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
-- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
+- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 - [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (today)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (today)
-- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (1 day ago)
-- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (1 day ago)
-- [nix-community/nix4nvchad](https://github.com/nix-community/nix4nvchad) - Install NvChad on Nix-based system [maintainer=@Bot-wxt1221, @MOIS3Y] (1 day ago)
+- [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (1 day ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 day ago)
+- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (2 days ago)
+- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (2 days ago)
+- [nix-community/nix4nvchad](https://github.com/nix-community/nix4nvchad) - Install NvChad on Nix-based system [maintainer=@Bot-wxt1221, @MOIS3Y] (2 days ago)
