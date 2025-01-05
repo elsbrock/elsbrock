@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [nanostores/i18n](https://github.com/nanostores/i18n) - A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte (today)
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (today)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (today)
 - [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (2 days ago)
 - [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (3 days ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 days ago)
-- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (4 days ago)
-- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (4 days ago)
