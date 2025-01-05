@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (1 day ago)
-- [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (2 days ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 days ago)
-- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (3 days ago)
-- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (3 days ago)
+- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (2 days ago)
+- [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (3 days ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 days ago)
+- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment. (4 days ago)
+- [MichaelKreil/volksdaten-grafiken](https://github.com/MichaelKreil/volksdaten-grafiken) -  (4 days ago)
