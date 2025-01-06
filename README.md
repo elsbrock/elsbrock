@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 week ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (4 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [nanostores/i18n](https://github.com/nanostores/i18n) - A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte (today)
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (today)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (today)
-- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (2 days ago)
-- [cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example) - A great place for platforms to get started on Cloudflare Workers! (3 days ago)
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (1 day ago)
+- [nanostores/i18n](https://github.com/nanostores/i18n) - A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte (1 day ago)
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 day ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 day ago)
+- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (3 days ago)
