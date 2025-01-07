@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (1 day ago)
-- [nanostores/i18n](https://github.com/nanostores/i18n) - A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte (1 day ago)
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 day ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 day ago)
-- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (3 days ago)
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (2 days ago)
+- [nanostores/i18n](https://github.com/nanostores/i18n) - A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte (2 days ago)
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (2 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 days ago)
+- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux (4 days ago)
