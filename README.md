@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [znah/tt09-vga-ca](https://github.com/znah/tt09-vga-ca) -  (today)
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines. (today)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (today)
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (3 days ago)
 - [nanostores/i18n](https://github.com/nanostores/i18n) - A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte (3 days ago)
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (3 days ago)
