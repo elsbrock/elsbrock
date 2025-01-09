@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (today)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (1 day ago)
 - [znah/tt09-vga-ca](https://github.com/znah/tt09-vga-ca) -  (1 day ago)
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines. (1 day ago)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (1 day ago)
-- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (4 days ago)
