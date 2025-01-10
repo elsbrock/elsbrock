@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised (today)
 - [ticket-bridge/hyper-durable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction (today)
 - [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects &amp; Wrangler (today)
 - [cloudflare/dog](https://github.com/cloudflare/dog) - Durable Object Groups (today)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility. (1 day ago)
-- [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (1 day ago)
