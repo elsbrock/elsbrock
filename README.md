@@ -25,13 +25,13 @@
 - [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
-- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
+- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [techniq/layerstack](https://github.com/techniq/layerstack) -  (1 day ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (1 day ago)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 day ago)
-- [evanderkoogh/otel-cf-workers](https://github.com/evanderkoogh/otel-cf-workers) - An OpenTelemetry compatible library for instrumenting and exporting traces for Cloudflare Workers (1 day ago)
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised (1 day ago)
+- [techniq/layerstack](https://github.com/techniq/layerstack) -  (2 days ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (2 days ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 days ago)
+- [evanderkoogh/otel-cf-workers](https://github.com/evanderkoogh/otel-cf-workers) - An OpenTelemetry compatible library for instrumenting and exporting traces for Cloudflare Workers (2 days ago)
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised (2 days ago)
