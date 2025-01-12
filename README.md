@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (today)
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React (today)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (today)
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. (today)
 - [techniq/layerstack](https://github.com/techniq/layerstack) -  (2 days ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (2 days ago)
