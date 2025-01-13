@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
@@ -24,14 +24,14 @@
 
 - [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
-- [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
+- [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: add sitemap](https://github.com/elsbrock/hetzner-radar/pull/83) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (today)
-- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React (today)
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (today)
-- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. (today)
-- [techniq/layerstack](https://github.com/techniq/layerstack) -  (2 days ago)
+- [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (1 day ago)
+- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React (1 day ago)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 day ago)
+- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. (1 day ago)
+- [techniq/layerstack](https://github.com/techniq/layerstack) -  (3 days ago)
