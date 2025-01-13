@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) - Talk to a Cloudflare Worker from Claude Desktop! (today)
 - [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (1 day ago)
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React (1 day ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 day ago)
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. (1 day ago)
-- [techniq/layerstack](https://github.com/techniq/layerstack) -  (3 days ago)
