@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (today)
 - [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) - Talk to a Cloudflare Worker from Claude Desktop! (1 day ago)
 - [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (2 days ago)
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React (2 days ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (2 days ago)
-- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. (2 days ago)
