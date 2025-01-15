@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (5 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier (today)
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (today)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (today)
-- [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) - Talk to a Cloudflare Worker from Claude Desktop! (1 day ago)
-- [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (2 days ago)
+- [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier (1 day ago)
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (1 day ago)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 day ago)
+- [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) - Talk to a Cloudflare Worker from Claude Desktop! (2 days ago)
+- [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client &amp; API docs generator for your Serverless Application (Svelte First) (3 days ago)
