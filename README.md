@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [julesmons/recline](https://github.com/julesmons/recline) - Recline: The autonomous AI assistant that seamlessly integrates with your CLI and editor to create, edit and run; redefining how you code. (today)
+- [kturung/cogent](https://github.com/kturung/cogent) -  (today)
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. (today)
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier (1 day ago)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (1 day ago)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 day ago)
-- [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) - Talk to a Cloudflare Worker from Claude Desktop! (2 days ago)
