@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector (today)
 - [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion. (today)
 - [amazon-ion/ion-go](https://github.com/amazon-ion/ion-go) - A Go implementation of Amazon Ion. (today)
 - [julesmons/recline](https://github.com/julesmons/recline) - Recline: The autonomous AI assistant that seamlessly integrates with your CLI and editor to create, edit and run; redefining how you code. (1 day ago)
 - [kturung/cogent](https://github.com/kturung/cogent) -  (1 day ago)
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. (1 day ago)
