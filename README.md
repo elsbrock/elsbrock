@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare. (today)
+- [nora-soderlund/cloudflare-tcp-fetcher](https://github.com/nora-soderlund/cloudflare-tcp-fetcher) - A Fetcher implementation using the Cloudflare TCP Sockets API. (today)
 - [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector (1 day ago)
 - [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion. (1 day ago)
 - [amazon-ion/ion-go](https://github.com/amazon-ion/ion-go) - A Go implementation of Amazon Ion. (1 day ago)
-- [julesmons/recline](https://github.com/julesmons/recline) - Recline: The autonomous AI assistant that seamlessly integrates with your CLI and editor to create, edit and run; redefining how you code. (2 days ago)
-- [kturung/cogent](https://github.com/kturung/cogent) -  (2 days ago)
