@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) -  (today)
 - [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare. (1 day ago)
 - [nora-soderlund/cloudflare-tcp-fetcher](https://github.com/nora-soderlund/cloudflare-tcp-fetcher) - A Fetcher implementation using the Cloudflare TCP Sockets API. (1 day ago)
 - [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector (2 days ago)
 - [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion. (2 days ago)
-- [amazon-ion/ion-go](https://github.com/amazon-ion/ion-go) - A Go implementation of Amazon Ion. (2 days ago)
