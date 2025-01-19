@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window (today)
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (1 day ago)
 - [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) -  (1 day ago)
 - [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare. (2 days ago)
 - [nora-soderlund/cloudflare-tcp-fetcher](https://github.com/nora-soderlund/cloudflare-tcp-fetcher) - A Fetcher implementation using the Cloudflare TCP Sockets API. (2 days ago)
-- [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector (3 days ago)
