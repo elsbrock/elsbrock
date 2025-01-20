@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [brennoo/terraform-provider-hrui](https://github.com/brennoo/terraform-provider-hrui) - Terraform provider for HRUI (Horaco, Sodola, XikeStor, etc) switches (today)
 - [delta-io/delta-sharing](https://github.com/delta-io/delta-sharing) - An open protocol for secure data sharing (today)
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window (1 day ago)
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (2 days ago)
 - [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) -  (2 days ago)
-- [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare. (3 days ago)
