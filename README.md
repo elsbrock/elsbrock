@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Amine-LG/Obsidian-Text-Transformer-LocalAI](https://github.com/Amine-LG/Obsidian-Text-Transformer-LocalAI) - Transform your .txt and .md notes into visually appealing and well-structured Markdown for Obsidian, powered by local LLMs using Ollama. (today)
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor. (today)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends. (today)
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (1 day ago)
 - [brennoo/terraform-provider-hrui](https://github.com/brennoo/terraform-provider-hrui) - Terraform provider for HRUI (Horaco, Sodola, XikeStor, etc) switches (1 day ago)
-- [delta-io/delta-sharing](https://github.com/delta-io/delta-sharing) - An open protocol for secure data sharing (1 day ago)
-- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window (2 days ago)
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (3 days ago)
