@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (3 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (today)
-- [brennoo/terraform-provider-hrui](https://github.com/brennoo/terraform-provider-hrui) - Terraform provider for HRUI (Horaco, Sodola, XikeStor, etc) switches (today)
-- [delta-io/delta-sharing](https://github.com/delta-io/delta-sharing) - An open protocol for secure data sharing (today)
-- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window (1 day ago)
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (2 days ago)
+- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (1 day ago)
+- [brennoo/terraform-provider-hrui](https://github.com/brennoo/terraform-provider-hrui) - Terraform provider for HRUI (Horaco, Sodola, XikeStor, etc) switches (1 day ago)
+- [delta-io/delta-sharing](https://github.com/delta-io/delta-sharing) - An open protocol for secure data sharing (1 day ago)
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window (2 days ago)
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (3 days ago)
