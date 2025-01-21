@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.  (today)
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (today)
 - [Amine-LG/Obsidian-Text-Transformer-LocalAI](https://github.com/Amine-LG/Obsidian-Text-Transformer-LocalAI) - Transform your .txt and .md notes into visually appealing and well-structured Markdown for Obsidian, powered by local LLMs using Ollama. (today)
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor. (today)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends. (today)
-- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (1 day ago)
-- [brennoo/terraform-provider-hrui](https://github.com/brennoo/terraform-provider-hrui) - Terraform provider for HRUI (Horaco, Sodola, XikeStor, etc) switches (1 day ago)
