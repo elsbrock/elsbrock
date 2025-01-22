@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [brave/cookiemonster](https://github.com/brave/cookiemonster) - Automatically gobble up cookie consent notices (today)
 - [rkusa/do-sqlite](https://github.com/rkusa/do-sqlite) - [Experimental] Persist SQLite in a Cloudflare Durable Object (1 day ago)
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.  (1 day ago)
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (1 day ago)
 - [Amine-LG/Obsidian-Text-Transformer-LocalAI](https://github.com/Amine-LG/Obsidian-Text-Transformer-LocalAI) - Transform your .txt and .md notes into visually appealing and well-structured Markdown for Obsidian, powered by local LLMs using Ollama. (1 day ago)
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor. (1 day ago)
