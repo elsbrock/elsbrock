@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (today)
-- [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (today)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly (today)
-- [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients (today)
-- [brave/cookiemonster](https://github.com/brave/cookiemonster) - Automatically gobble up cookie consent notices (today)
+- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (1 day ago)
+- [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (1 day ago)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly (1 day ago)
+- [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients (1 day ago)
+- [brave/cookiemonster](https://github.com/brave/cookiemonster) - Automatically gobble up cookie consent notices (1 day ago)
