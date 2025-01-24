@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. (today)
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser (today)
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (2 days ago)
 - [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (2 days ago)
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly (2 days ago)
-- [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients (2 days ago)
