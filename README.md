@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser (today)
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (2 days ago)
 - [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (2 days ago)
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly (2 days ago)
 - [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients (2 days ago)
-- [brave/cookiemonster](https://github.com/brave/cookiemonster) - Automatically gobble up cookie consent notices (2 days ago)
