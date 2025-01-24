@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
+- [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (1 day ago)
-- [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (1 day ago)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly (1 day ago)
-- [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients (1 day ago)
-- [brave/cookiemonster](https://github.com/brave/cookiemonster) - Automatically gobble up cookie consent notices (1 day ago)
+- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (2 days ago)
+- [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (2 days ago)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly (2 days ago)
+- [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients (2 days ago)
+- [brave/cookiemonster](https://github.com/brave/cookiemonster) - Automatically gobble up cookie consent notices (2 days ago)
