@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000&#43; Unsplash images made available for research and machine learning (2 days ago)
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. (2 days ago)
-- [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser (2 days ago)
-- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (4 days ago)
-- [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (4 days ago)
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000&#43; Unsplash images made available for research and machine learning (3 days ago)
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. (3 days ago)
+- [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser (3 days ago)
+- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (5 days ago)
+- [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target (5 days ago)
