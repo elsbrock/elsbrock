@@ -22,11 +22,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: store servers in backend too](https://github.com/elsbrock/hetzner-radar/pull/124) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [feat: use tweening effect for page stats](https://github.com/elsbrock/hetzner-radar/pull/123) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat: usage stats](https://github.com/elsbrock/hetzner-radar/pull/122) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix: set content type in layout](https://github.com/elsbrock/hetzner-radar/pull/102) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [chore: glow contrib button](https://github.com/elsbrock/hetzner-radar/pull/91) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [fix: robots.txt: allow all](https://github.com/elsbrock/hetzner-radar/pull/89) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
