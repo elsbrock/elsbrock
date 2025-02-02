@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [mzyy94/InkArt](https://github.com/mzyy94/InkArt) - Display grayscale art on Inkplate! (today)
 - [vasanthv/ahey](https://github.com/vasanthv/ahey) - a simple pub-sub over web push (2 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (6 days ago)
 - [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000&#43; Unsplash images made available for research and machine learning (1 week ago)
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. (1 week ago)
