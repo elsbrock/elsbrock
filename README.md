@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (today)
 - [camellia-app/unsplash-bridge](https://github.com/camellia-app/unsplash-bridge) - Cloudflare Worker that provides API for picking random photo from Unsplash collection. (today)
 - [mzyy94/InkArt](https://github.com/mzyy94/InkArt) - Display grayscale art on Inkplate! (today)
 - [vasanthv/ahey](https://github.com/vasanthv/ahey) - a simple pub-sub over web push (2 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
-- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (6 days ago)
