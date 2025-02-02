@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [brianhama/bad-asn-list](https://github.com/brianhama/bad-asn-list) - An open source list of ASNs known to belong to cloud, managed hosting, and colo facilities. (today)
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick (today)
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (today)
 - [camellia-app/unsplash-bridge](https://github.com/camellia-app/unsplash-bridge) - Cloudflare Worker that provides API for picking random photo from Unsplash collection. (today)
 - [mzyy94/InkArt](https://github.com/mzyy94/InkArt) - Display grayscale art on Inkplate! (today)
-- [vasanthv/ahey](https://github.com/vasanthv/ahey) - a simple pub-sub over web push (2 days ago)
