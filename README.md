@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement (today)
+- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (today)
+- [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (today)
 - [brianhama/bad-asn-list](https://github.com/brianhama/bad-asn-list) - An open source list of ASNs known to belong to cloud, managed hosting, and colo facilities. (1 day ago)
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick (1 day ago)
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (1 day ago)
-- [camellia-app/unsplash-bridge](https://github.com/camellia-app/unsplash-bridge) - Cloudflare Worker that provides API for picking random photo from Unsplash collection. (1 day ago)
-- [mzyy94/InkArt](https://github.com/mzyy94/InkArt) - Display grayscale art on Inkplate! (1 day ago)
