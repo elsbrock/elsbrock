@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 weeks ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
@@ -22,16 +22,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: notify on pipeline failure](https://github.com/elsbrock/hetzner-radar/pull/125) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [feat: store servers in backend too](https://github.com/elsbrock/hetzner-radar/pull/124) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
-- [feat: use tweening effect for page stats](https://github.com/elsbrock/hetzner-radar/pull/123) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
-- [feat: usage stats](https://github.com/elsbrock/hetzner-radar/pull/122) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
+- [feat: notify on pipeline failure](https://github.com/elsbrock/hetzner-radar/pull/125) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [feat: store servers in backend too](https://github.com/elsbrock/hetzner-radar/pull/124) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
+- [feat: use tweening effect for page stats](https://github.com/elsbrock/hetzner-radar/pull/123) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
+- [feat: usage stats](https://github.com/elsbrock/hetzner-radar/pull/122) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
 - [chore: remove noindex header](https://github.com/elsbrock/hetzner-radar/pull/111) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement (today)
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (today)
-- [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (today)
-- [brianhama/bad-asn-list](https://github.com/brianhama/bad-asn-list) - An open source list of ASNs known to belong to cloud, managed hosting, and colo facilities. (1 day ago)
-- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick (1 day ago)
+- [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement (1 day ago)
+- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 day ago)
+- [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (1 day ago)
+- [brianhama/bad-asn-list](https://github.com/brianhama/bad-asn-list) - An open source list of ASNs known to belong to cloud, managed hosting, and colo facilities. (2 days ago)
+- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick (2 days ago)
