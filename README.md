@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [benjypng/logseq-mermaid-plugin](https://github.com/benjypng/logseq-mermaid-plugin) - Create mermaid diagrams in image format on-the-fly. (today)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (today)
 - [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement (1 day ago)
 - [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 day ago)
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (1 day ago)
-- [brianhama/bad-asn-list](https://github.com/brianhama/bad-asn-list) - An open source list of ASNs known to belong to cloud, managed hosting, and colo facilities. (2 days ago)
