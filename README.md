@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal (today)
 - [benjypng/logseq-mermaid-plugin](https://github.com/benjypng/logseq-mermaid-plugin) - Create mermaid diagrams in image format on-the-fly. (1 day ago)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 day ago)
 - [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement (2 days ago)
 - [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (2 days ago)
-- [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (2 days ago)
