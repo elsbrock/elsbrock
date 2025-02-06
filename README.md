@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator (today)
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (1 day ago)
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal (1 day ago)
 - [benjypng/logseq-mermaid-plugin](https://github.com/benjypng/logseq-mermaid-plugin) - Create mermaid diagrams in image format on-the-fly. (2 days ago)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (2 days ago)
-- [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement (3 days ago)
