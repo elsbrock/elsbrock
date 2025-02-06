@@ -18,7 +18,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.0.4](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.0.4), 4 months ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 
 #### 🔨 My recent Pull Requests
 
