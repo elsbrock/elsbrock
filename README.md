@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. (today)
 - [coredevices/pebble](https://github.com/coredevices/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only. (today)
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator (1 day ago)
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (2 days ago)
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal (2 days ago)
-- [benjypng/logseq-mermaid-plugin](https://github.com/benjypng/logseq-mermaid-plugin) - Create mermaid diagrams in image format on-the-fly. (3 days ago)
