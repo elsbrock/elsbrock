@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
@@ -21,11 +21,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [fix: wording on landing page](https://github.com/elsbrock/hetzner-radar/pull/127) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 - [feat: notify on pipeline failure](https://github.com/elsbrock/hetzner-radar/pull/125) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
 - [feat: store servers in backend too](https://github.com/elsbrock/hetzner-radar/pull/124) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: use tweening effect for page stats](https://github.com/elsbrock/hetzner-radar/pull/123) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
-- [feat: usage stats](https://github.com/elsbrock/hetzner-radar/pull/122) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 
 #### ⭐ Recent Stars
 
