@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features (today)
 - [rstockm/fedipol](https://github.com/rstockm/fedipol) - Liste aller bekannter Accounts von Politiker*innen und politischer Institutionen im Fediverse mit Aktivitätsmetriken (today)
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG (today)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. (1 day ago)
 - [coredevices/pebble](https://github.com/coredevices/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only. (1 day ago)
-- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator (2 days ago)
