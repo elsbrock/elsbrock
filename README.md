@@ -3,18 +3,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) -  (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) - DuckDB website and documentation (6 months ago)
 
 #### 🌱 My latest projects
 
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
 - [elsbrock/guix-package-docker](https://github.com/elsbrock/guix-package-docker) - :octocat: Action that builds a Guix package as Docker image
-- [elsbrock/guix-base](https://github.com/elsbrock/guix-base) - :whale: guix as a Docker base image
 
 #### 🔭 Latest releases I've contributed to
 
