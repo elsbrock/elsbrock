@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as a library (today)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as npm library (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
 
 #### 🌱 My latest projects
 
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as a library
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as npm library
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [kwhitley/itty-limiter](https://github.com/kwhitley/itty-limiter) - An extremely high-performance, low-footprint rate-limiter in under 200 bytes. (today)
 - [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) - Open-data downloads for OurAirports.com (today)
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features (today)
 - [rstockm/fedipol](https://github.com/rstockm/fedipol) - Liste aller bekannter Accounts von Politiker*innen und politischer Institutionen im Fediverse mit Aktivitätsmetriken (today)
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG (today)
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. (1 day ago)
