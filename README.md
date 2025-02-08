@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) -  (today)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as a library (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
 
 #### 🌱 My latest projects
 
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - 
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as a library
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
