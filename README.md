@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as npm library (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as npm library (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
 
@@ -21,16 +21,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [fix: wording on landing page](https://github.com/elsbrock/hetzner-radar/pull/127) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
-- [feat: notify on pipeline failure](https://github.com/elsbrock/hetzner-radar/pull/125) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [fix: wording on landing page](https://github.com/elsbrock/hetzner-radar/pull/127) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
+- [feat: notify on pipeline failure](https://github.com/elsbrock/hetzner-radar/pull/125) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: store servers in backend too](https://github.com/elsbrock/hetzner-radar/pull/124) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [kwhitley/itty-limiter](https://github.com/kwhitley/itty-limiter) - An extremely high-performance, low-footprint rate-limiter in under 200 bytes. (today)
-- [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) - Open-data downloads for OurAirports.com (today)
-- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features (today)
-- [rstockm/fedipol](https://github.com/rstockm/fedipol) - Liste aller bekannter Accounts von Politiker*innen und politischer Institutionen im Fediverse mit Aktivitätsmetriken (today)
-- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG (today)
+- [kwhitley/itty-limiter](https://github.com/kwhitley/itty-limiter) - An extremely high-performance, low-footprint rate-limiter in under 200 bytes. (1 day ago)
+- [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) - Open-data downloads for OurAirports.com (1 day ago)
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features (1 day ago)
+- [rstockm/fedipol](https://github.com/rstockm/fedipol) - Liste aller bekannter Accounts von Politiker*innen und politischer Institutionen im Fediverse mit Aktivitätsmetriken (1 day ago)
+- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG (1 day ago)
