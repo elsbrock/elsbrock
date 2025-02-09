@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 &amp; COLM 2024 (today)
 - [kwhitley/itty-limiter](https://github.com/kwhitley/itty-limiter) - An extremely high-performance, low-footprint rate-limiter in under 200 bytes. (1 day ago)
 - [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) - Open-data downloads for OurAirports.com (1 day ago)
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features (1 day ago)
 - [rstockm/fedipol](https://github.com/rstockm/fedipol) - Liste aller bekannter Accounts von Politiker*innen und politischer Institutionen im Fediverse mit Aktivitätsmetriken (1 day ago)
-- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG (1 day ago)
