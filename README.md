@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [jaxxstorm/met](https://github.com/jaxxstorm/met) - Dynamically render prometheus compatible metrics in your terminal (today)
 - [georgique/world-geojson](https://github.com/georgique/world-geojson) - GeoJson for all the countries, areas (regions) and some states. (today)
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 &amp; COLM 2024 (today)
 - [kwhitley/itty-limiter](https://github.com/kwhitley/itty-limiter) - An extremely high-performance, low-footprint rate-limiter in under 200 bytes. (1 day ago)
 - [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) - Open-data downloads for OurAirports.com (1 day ago)
-- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features (1 day ago)
