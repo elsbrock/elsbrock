@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as npm library (1 day ago)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (1 day ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
 
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - :airplane: Airport IATA locations metadata as npm library
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history (today)
 - [ivan770/freight](https://github.com/ivan770/freight) - Nix Flake for building Rust-based Cloudflare Workers (1 day ago)
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle (1 day ago)
 - [jaxxstorm/met](https://github.com/jaxxstorm/met) - Dynamically render prometheus compatible metrics in your terminal (1 day ago)
 - [georgique/world-geojson](https://github.com/georgique/world-geojson) - GeoJson for all the countries, areas (regions) and some states. (1 day ago)
-- [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 &amp; COLM 2024 (1 day ago)
