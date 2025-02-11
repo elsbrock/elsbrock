@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇 (today)
 - [ToborWinner/i-use-nixos-btw](https://github.com/ToborWinner/i-use-nixos-btw) - The &#34;I use NixOS btw&#34; programming language, interpreted with Nix. (today)
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem (today)
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models (today)
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history (1 day ago)
-- [ivan770/freight](https://github.com/ivan770/freight) - Nix Flake for building Rust-based Cloudflare Workers (2 days ago)
