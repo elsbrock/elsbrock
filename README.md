@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -  (today)
+- [nickbaumann98/cline_docs](https://github.com/nickbaumann98/cline_docs) - Documentation and best practices for using Cline (today)
 - [WebAssembly/wasi-libc](https://github.com/WebAssembly/wasi-libc) - WASI libc implementation for WebAssembly (1 day ago)
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇 (2 days ago)
 - [ToborWinner/i-use-nixos-btw](https://github.com/ToborWinner/i-use-nixos-btw) - The &#34;I use NixOS btw&#34; programming language, interpreted with Nix. (2 days ago)
-- [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem (2 days ago)
-- [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models (2 days ago)
