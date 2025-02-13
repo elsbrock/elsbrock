@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (today)
+- [svecosystem/mode-watcher](https://github.com/svecosystem/mode-watcher) - Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️ (today)
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js (today)
+- [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM (today)
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -  (today)
-- [nickbaumann98/cline_docs](https://github.com/nickbaumann98/cline_docs) - Documentation and best practices for using Cline (today)
-- [WebAssembly/wasi-libc](https://github.com/WebAssembly/wasi-libc) - WASI libc implementation for WebAssembly (1 day ago)
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇 (2 days ago)
-- [ToborWinner/i-use-nixos-btw](https://github.com/ToborWinner/i-use-nixos-btw) - The &#34;I use NixOS btw&#34; programming language, interpreted with Nix. (2 days ago)
