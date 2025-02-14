@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (4 days ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (5 days ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (5 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
 
@@ -21,16 +21,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
-- [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [fix: wording on landing page](https://github.com/elsbrock/hetzner-radar/pull/127) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: notify on pipeline failure](https://github.com/elsbrock/hetzner-radar/pull/125) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: store servers in backend too](https://github.com/elsbrock/hetzner-radar/pull/124) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (today)
-- [svecosystem/mode-watcher](https://github.com/svecosystem/mode-watcher) - Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️ (today)
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js (today)
-- [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM (today)
-- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -  (today)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 day ago)
+- [svecosystem/mode-watcher](https://github.com/svecosystem/mode-watcher) - Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️ (1 day ago)
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js (1 day ago)
+- [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM (1 day ago)
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -  (1 day ago)
