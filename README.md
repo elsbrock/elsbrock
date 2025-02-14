@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [friendofsvelte/state](https://github.com/friendofsvelte/state) - Super powered Svelte 5 states (today)
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser (today)
 - [nahco314/feed-llm](https://github.com/nahco314/feed-llm) - A TUI-based file selection tool for feeding code to LLMs. (today)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (today)
 - [azer/llmcat](https://github.com/azer/llmcat) - Prepare files and directories for LLM consumption (today)
-- [rivet-gg/actor-core](https://github.com/rivet-gg/actor-core) - 🎭 Stateful serverless framework for Rivet, Cloudflare Workers, Bun, and Node.js. Build AI agents, realtime apps, game servers, and more. (today)
