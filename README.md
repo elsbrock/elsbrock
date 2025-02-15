@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (5 days ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [hacs/default](https://github.com/hacs/default) - The home of the default HACS repositories. (4 months ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [friendofsvelte/state](https://github.com/friendofsvelte/state) - Super powered Svelte 5 states (today)
-- [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser (today)
-- [nahco314/feed-llm](https://github.com/nahco314/feed-llm) - A TUI-based file selection tool for feeding code to LLMs. (today)
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (today)
-- [azer/llmcat](https://github.com/azer/llmcat) - Prepare files and directories for LLM consumption (today)
+- [friendofsvelte/state](https://github.com/friendofsvelte/state) - Super powered Svelte 5 states (1 day ago)
+- [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser (1 day ago)
+- [nahco314/feed-llm](https://github.com/nahco314/feed-llm) - A TUI-based file selection tool for feeding code to LLMs. (1 day ago)
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (1 day ago)
+- [azer/llmcat](https://github.com/azer/llmcat) - Prepare files and directories for LLM consumption (1 day ago)
