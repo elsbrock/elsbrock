@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (today)
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations (today)
 - [friendofsvelte/state](https://github.com/friendofsvelte/state) - Super powered Svelte 5 states (1 day ago)
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser (1 day ago)
 - [nahco314/feed-llm](https://github.com/nahco314/feed-llm) - A TUI-based file selection tool for feeding code to LLMs. (1 day ago)
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (1 day ago)
