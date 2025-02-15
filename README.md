@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (today)
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents. (today)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (today)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (today)
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations (today)
-- [friendofsvelte/state](https://github.com/friendofsvelte/state) - Super powered Svelte 5 states (1 day ago)
-- [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser (1 day ago)
-- [nahco314/feed-llm](https://github.com/nahco314/feed-llm) - A TUI-based file selection tool for feeding code to LLMs. (1 day ago)
