@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [EdyTheCow/docker-media-center](https://github.com/EdyTheCow/docker-media-center) - Docker Media Center running Jellyfin under Traefik, fully automated and production ready solution (today)
+- [rtestardi/usbte](https://github.com/rtestardi/usbte) - Web USB Flea-Scope™ GUI/deep-dive UI and general-purpose terminal emulator (well, without actual emulation :-) (today)
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder (1 day ago)
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (1 day ago)
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents. (1 day ago)
-- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (1 day ago)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (1 day ago)
