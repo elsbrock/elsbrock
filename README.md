@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE (today)
 - [msteen/nix-prefetch](https://github.com/msteen/nix-prefetch) - Prefetch any fetcher function call, e.g. a package source (today)
 - [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search (today)
 - [hyperbunny77/RealDebridManager](https://github.com/hyperbunny77/RealDebridManager) - Lightweight automation of downloading .torrents using Real Debrid (1 day ago)
 - [EdyTheCow/docker-media-center](https://github.com/EdyTheCow/docker-media-center) - Docker Media Center running Jellyfin under Traefik, fully automated and production ready solution (1 day ago)
-- [rtestardi/usbte](https://github.com/rtestardi/usbte) - Web USB Flea-Scope™ GUI/deep-dive UI and general-purpose terminal emulator (well, without actual emulation :-) (1 day ago)
