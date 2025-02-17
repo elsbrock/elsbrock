@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search (today)
 - [hyperbunny77/RealDebridManager](https://github.com/hyperbunny77/RealDebridManager) - Lightweight automation of downloading .torrents using Real Debrid (1 day ago)
 - [EdyTheCow/docker-media-center](https://github.com/EdyTheCow/docker-media-center) - Docker Media Center running Jellyfin under Traefik, fully automated and production ready solution (1 day ago)
 - [rtestardi/usbte](https://github.com/rtestardi/usbte) - Web USB Flea-Scope™ GUI/deep-dive UI and general-purpose terminal emulator (well, without actual emulation :-) (1 day ago)
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder (2 days ago)
-- [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (2 days ago)
