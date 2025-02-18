@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (today)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (today)
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE (1 day ago)
 - [msteen/nix-prefetch](https://github.com/msteen/nix-prefetch) - Prefetch any fetcher function call, e.g. a package source (1 day ago)
 - [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search (1 day ago)
-- [hyperbunny77/RealDebridManager](https://github.com/hyperbunny77/RealDebridManager) - Lightweight automation of downloading .torrents using Real Debrid (2 days ago)
-- [EdyTheCow/docker-media-center](https://github.com/EdyTheCow/docker-media-center) - Docker Media Center running Jellyfin under Traefik, fully automated and production ready solution (2 days ago)
