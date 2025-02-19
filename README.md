@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [aurc/loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming (today)
+- [dloss/klp](https://github.com/dloss/klp) - Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others) (today)
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (today)
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (today)
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim (today)
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) (1 day ago)
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (1 day ago)
