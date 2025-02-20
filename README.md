@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (today)
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (today)
 - [aurc/loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming (1 day ago)
 - [dloss/klp](https://github.com/dloss/klp) - Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others) (1 day ago)
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (1 day ago)
-- [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (1 day ago)
