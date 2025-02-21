@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [englmaxi/zmk-dongle-display](https://github.com/englmaxi/zmk-dongle-display) - Custom status screen for zmk dongles (today)
+- [carrefinho/prospector](https://github.com/carrefinho/prospector) - Desktop ZMK Dongle with color LCD screen (today)
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (1 day ago)
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (1 day ago)
 - [aurc/loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming (2 days ago)
-- [dloss/klp](https://github.com/dloss/klp) - Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others) (2 days ago)
-- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (2 days ago)
