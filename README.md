@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (today)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (today)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200&#43; integration / Enterprise automation tool / Zapier Alternative (today)
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (today)
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go (1 day ago)
-- [vearutop/plt](https://github.com/vearutop/plt) - ⏱️ Pocket load tester (1 day ago)
