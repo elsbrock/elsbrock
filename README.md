@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (4 days ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (5 days ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (today)
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200&#43; integration / Enterprise automation tool / Zapier Alternative (today)
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (today)
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go (1 day ago)
 - [vearutop/plt](https://github.com/vearutop/plt) - ⏱️ Pocket load tester (1 day ago)
-- [englmaxi/zmk-dongle-display](https://github.com/englmaxi/zmk-dongle-display) - Custom status screen for zmk dongles (1 day ago)
-- [carrefinho/prospector](https://github.com/carrefinho/prospector) - Desktop ZMK Dongle with color LCD screen (1 day ago)
-- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (2 days ago)
