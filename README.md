@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc (today)
-- [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects (1 day ago)
-- [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz (1 day ago)
-- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (2 days ago)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (2 days ago)
+- [devopsarr/terraform-provider-sonarr](https://github.com/devopsarr/terraform-provider-sonarr) - Terraform Sonarr provider (today)
+- [devopsarr/prowlarr-go](https://github.com/devopsarr/prowlarr-go) - go SDK for Prowlarr (today)
+- [devopsarr/readarr-go](https://github.com/devopsarr/readarr-go) - go SDK for Readarr (today)
+- [devopsarr/sonarr-go](https://github.com/devopsarr/sonarr-go) - go SDK for Sonarr (today)
+- [devopsarr/radarr-go](https://github.com/devopsarr/radarr-go) - go SDK for Radarr (today)
