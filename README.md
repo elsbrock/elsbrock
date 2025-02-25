@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (today)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (today)
 - [devopsarr/terraform-provider-sonarr](https://github.com/devopsarr/terraform-provider-sonarr) - Terraform Sonarr provider (1 day ago)
 - [devopsarr/prowlarr-go](https://github.com/devopsarr/prowlarr-go) - go SDK for Prowlarr (1 day ago)
 - [devopsarr/readarr-go](https://github.com/devopsarr/readarr-go) - go SDK for Readarr (1 day ago)
-- [devopsarr/sonarr-go](https://github.com/devopsarr/sonarr-go) - go SDK for Sonarr (1 day ago)
