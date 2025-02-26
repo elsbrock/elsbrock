@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution (today)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 day ago)
 - [grafana/augurs](https://github.com/grafana/augurs) - Time series analysis for Rust, with bindings to Python and Javascript (1 day ago)
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (1 day ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
-- [devopsarr/terraform-provider-sonarr](https://github.com/devopsarr/terraform-provider-sonarr) - Terraform Sonarr provider (2 days ago)
