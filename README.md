@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 day ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (1 week ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (2 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 weeks ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances (today)
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution (today)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 day ago)
 - [grafana/augurs](https://github.com/grafana/augurs) - Time series analysis for Rust, with bindings to Python and Javascript (1 day ago)
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (1 day ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
