@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted customer support desk. Single binary app. (today)
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances (1 day ago)
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution (1 day ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 days ago)
 - [grafana/augurs](https://github.com/grafana/augurs) - Time series analysis for Rust, with bindings to Python and Javascript (2 days ago)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (2 days ago)
