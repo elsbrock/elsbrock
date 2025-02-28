@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (today)
+- [peter-yanase/Logseq-Presentation-Mode-Fixer](https://github.com/peter-yanase/Logseq-Presentation-Mode-Fixer) - A batch of custom CSS files made to improve Logseq&#39;s Presentation Mode (today)
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted customer support desk. Single binary app. (1 day ago)
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances (2 days ago)
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution (2 days ago)
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (3 days ago)
-- [grafana/augurs](https://github.com/grafana/augurs) - Time series analysis for Rust, with bindings to Python and Javascript (3 days ago)
