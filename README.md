@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 day ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (1 week ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (2 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 weeks ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [pgollangi/fastget](https://github.com/pgollangi/fastget) - ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S) (today)
+- [vbauerster/getparty](https://github.com/vbauerster/getparty) - HTTP Download Manager with multi-parts (today)
 - [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository (today)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (today)
 - [peter-yanase/Logseq-Presentation-Mode-Fixer](https://github.com/peter-yanase/Logseq-Presentation-Mode-Fixer) - A batch of custom CSS files made to improve Logseq&#39;s Presentation Mode (today)
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted customer support desk. Single binary app. (1 day ago)
-- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances (2 days ago)
