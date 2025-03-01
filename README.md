@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more. (today)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (today)
 - [evidence-dev/duckdb_gsheets](https://github.com/evidence-dev/duckdb_gsheets) - DuckDB extension to read and write Google Sheets using SQL (today)
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour (today)
 - [nhtlongcs/StarListify](https://github.com/nhtlongcs/StarListify) -  StarListify is a Python package that classifies GitHub stars history into organized category lists based on user-defined criteria. (today)
-- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (today)
