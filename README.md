@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Scriptable interface to a powerful, multi-lingual language server built on top of Tree-sitter (today)
 - [pgollangi/fastget](https://github.com/pgollangi/fastget) - ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S) (1 day ago)
 - [vbauerster/getparty](https://github.com/vbauerster/getparty) - HTTP Download Manager with multi-parts (1 day ago)
 - [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository (1 day ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 day ago)
-- [peter-yanase/Logseq-Presentation-Mode-Fixer](https://github.com/peter-yanase/Logseq-Presentation-Mode-Fixer) - A batch of custom CSS files made to improve Logseq&#39;s Presentation Mode (1 day ago)
