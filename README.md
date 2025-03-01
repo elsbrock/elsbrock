@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (today)
+- [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert (today)
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Scriptable interface to a powerful, multi-lingual language server built on top of Tree-sitter (today)
 - [pgollangi/fastget](https://github.com/pgollangi/fastget) - ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S) (1 day ago)
 - [vbauerster/getparty](https://github.com/vbauerster/getparty) - HTTP Download Manager with multi-parts (1 day ago)
-- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository (1 day ago)
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 day ago)
