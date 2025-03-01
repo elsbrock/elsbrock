@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [nhtlongcs/StarListify](https://github.com/nhtlongcs/StarListify) -  StarListify is a Python package that classifies GitHub stars history into organized category lists based on user-defined criteria. (today)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (today)
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert (today)
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Scriptable interface to a powerful, multi-lingual language server built on top of Tree-sitter (today)
 - [pgollangi/fastget](https://github.com/pgollangi/fastget) - ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S) (1 day ago)
-- [vbauerster/getparty](https://github.com/vbauerster/getparty) - HTTP Download Manager with multi-parts (1 day ago)
