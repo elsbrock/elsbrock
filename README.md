@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. (today)
 - [mattiaginoble/Recyclarr-PreConfig](https://github.com/mattiaginoble/Recyclarr-PreConfig) - Premade configuration YAML files for Recyclarr from TRaSH-Guides (today)
 - [NishantTharani/LogSeqToObsidian](https://github.com/NishantTharani/LogSeqToObsidian) - Some tools to help move my notes from LogSeq to Obsidian (today)
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS (today)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (today)
-- [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 day ago)
