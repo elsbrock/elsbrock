@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/netns-unit](https://github.com/elsbrock/netns-unit) - A NixOS module for network namespace isolation with gateway dependency. Work in progress! (1 day ago)
+- [elsbrock/netns-unit](https://github.com/elsbrock/netns-unit) - A NixOS module for network namespace isolation with gateway dependency. Work in progress! (today)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (4 days ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (2 weeks ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (3 weeks ago)
