@@ -30,7 +30,7 @@
 #### ⭐ Recent Stars
 
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 day ago)
-- [signerlabs/klee-client](https://github.com/signerlabs/klee-client) -  (1 day ago)
+- [signerlabs/klee-client](https://github.com/signerlabs/klee-client) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support. (1 day ago)
 - [mtth/avsc](https://github.com/mtth/avsc) - Avro for JavaScript :zap: (1 day ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 day ago)
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter (1 day ago)
