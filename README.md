@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/netns-unit](https://github.com/elsbrock/netns-unit) - A NixOS module for network namespace isolation with gateway dependency. Work in progress! (today)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (4 days ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (2 weeks ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (3 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 weeks ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [elsbrock/netns-unit](https://github.com/elsbrock/netns-unit) - A NixOS module for network namespace isolation with gateway dependency. Work in progress!
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
+- [elsbrock/blog-comments](https://github.com/elsbrock/blog-comments) - blog comments
 
 #### 🔭 Latest releases I've contributed to
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [mattiaginoble/Recyclarr-PreConfig](https://github.com/mattiaginoble/Recyclarr-PreConfig) - Premade configuration YAML files for Recyclarr from TRaSH-Guides (today)
 - [NishantTharani/LogSeqToObsidian](https://github.com/NishantTharani/LogSeqToObsidian) - Some tools to help move my notes from LogSeq to Obsidian (today)
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS (today)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (today)
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 day ago)
-- [signerlabs/klee-client](https://github.com/signerlabs/klee-client) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support. (1 day ago)
