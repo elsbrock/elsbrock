@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (5 days ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 days ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (2 weeks ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (3 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 weeks ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [NLaundry/zboxes](https://github.com/NLaundry/zboxes) - Learning some Go by building a ZFS tui using bubbletea and lipgloss (today)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (today)
-- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (today)
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. (1 day ago)
-- [mattiaginoble/Recyclarr-PreConfig](https://github.com/mattiaginoble/Recyclarr-PreConfig) - Premade configuration YAML files for Recyclarr from TRaSH-Guides (1 day ago)
+- [NLaundry/zboxes](https://github.com/NLaundry/zboxes) - Learning some Go by building a ZFS tui using bubbletea and lipgloss (1 day ago)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 day ago)
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (1 day ago)
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. (2 days ago)
+- [mattiaginoble/Recyclarr-PreConfig](https://github.com/mattiaginoble/Recyclarr-PreConfig) - Premade configuration YAML files for Recyclarr from TRaSH-Guides (2 days ago)
