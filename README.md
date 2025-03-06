@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (today)
+- [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds. (today)
+- [ro8inmorgan/MinUI](https://github.com/ro8inmorgan/MinUI) - MinUI Next, an improved version over the original with screen sync fixes and many many more features! (today)
 - [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. (today)
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments (today)
-- [NLaundry/zboxes](https://github.com/NLaundry/zboxes) - Learning some Go by building a ZFS tui using bubbletea and lipgloss (1 day ago)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 day ago)
-- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (1 day ago)
