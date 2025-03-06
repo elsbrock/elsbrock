@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments (today)
 - [NLaundry/zboxes](https://github.com/NLaundry/zboxes) - Learning some Go by building a ZFS tui using bubbletea and lipgloss (1 day ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 day ago)
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (1 day ago)
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. (2 days ago)
-- [mattiaginoble/Recyclarr-PreConfig](https://github.com/mattiaginoble/Recyclarr-PreConfig) - Premade configuration YAML files for Recyclarr from TRaSH-Guides (2 days ago)
