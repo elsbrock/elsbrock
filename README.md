@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows (today)
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (1 day ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (1 day ago)
 - [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds. (1 day ago)
 - [ro8inmorgan/MinUI](https://github.com/ro8inmorgan/MinUI) - MinUI Next, an improved version over the original with screen sync fixes and many many more features! (1 day ago)
-- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. (1 day ago)
