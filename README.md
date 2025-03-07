@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (today)
 - [ciderale/nixos-utm](https://github.com/ciderale/nixos-utm) - Automate creation of UTM based NixOS VMs (today)
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows (today)
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (1 day ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (1 day ago)
-- [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds. (1 day ago)
