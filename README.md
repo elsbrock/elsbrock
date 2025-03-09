@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (today)
 - [metalmatze/transmission-exporter](https://github.com/metalmatze/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (today)
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (2 days ago)
 - [ciderale/nixos-utm](https://github.com/ciderale/nixos-utm) - Automate creation of UTM based NixOS VMs (2 days ago)
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows (2 days ago)
-- [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (3 days ago)
