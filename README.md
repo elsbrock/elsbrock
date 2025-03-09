@@ -21,11 +21,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (today)
 - [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (1 week ago)
 - [Add plundrio to complimentary apps](https://github.com/Ravencentric/awesome-arr/pull/54) on [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) (3 weeks ago)
 - [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [fix: wording on landing page](https://github.com/elsbrock/hetzner-radar/pull/127) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
