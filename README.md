@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev (today)
+- [ghuntley/groundhog](https://github.com/ghuntley/groundhog) - Groundhog&#39;s primary purpose is to teach people how Cursor and all these other coding agents work under the hood. If you understand how these coding assistants work from first principles, then you can drive these tools harder (or perhaps make your own!). (today)
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them. (today)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (1 day ago)
 - [metalmatze/transmission-exporter](https://github.com/metalmatze/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (1 day ago)
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (3 days ago)
-- [ciderale/nixos-utm](https://github.com/ciderale/nixos-utm) - Automate creation of UTM based NixOS VMs (3 days ago)
-- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows (3 days ago)
