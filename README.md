@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (today)
+- [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text. (today)
+- [hgl/nixverse](https://github.com/hgl/nixverse) - File-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc. (today)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (today)
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (today)
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. (today)
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev (1 day ago)
-- [ghuntley/groundhog](https://github.com/ghuntley/groundhog) - Groundhog&#39;s primary purpose is to teach people how Cursor and all these other coding agents work under the hood. If you understand how these coding assistants work from first principles, then you can drive these tools harder (or perhaps make your own!). (1 day ago)
