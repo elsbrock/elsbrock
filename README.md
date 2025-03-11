@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (today)
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. (today)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev (1 day ago)
 - [ghuntley/groundhog](https://github.com/ghuntley/groundhog) - Groundhog&#39;s primary purpose is to teach people how Cursor and all these other coding agents work under the hood. If you understand how these coding assistants work from first principles, then you can drive these tools harder (or perhaps make your own!). (1 day ago)
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them. (1 day ago)
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (2 days ago)
-- [metalmatze/transmission-exporter](https://github.com/metalmatze/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (2 days ago)
