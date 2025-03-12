@@ -21,16 +21,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 days ago)
-- [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (1 week ago)
+- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 days ago)
+- [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (2 weeks ago)
 - [Add plundrio to complimentary apps](https://github.com/Ravencentric/awesome-arr/pull/54) on [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) (3 weeks ago)
 - [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix: markup](https://github.com/elsbrock/hetzner-radar/pull/128) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (today)
-- [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text. (today)
-- [hgl/nixverse](https://github.com/hgl/nixverse) - File-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc. (today)
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (today)
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (today)
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (1 day ago)
+- [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text. (1 day ago)
+- [hgl/nixverse](https://github.com/hgl/nixverse) - File-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc. (1 day ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 day ago)
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (1 day ago)
