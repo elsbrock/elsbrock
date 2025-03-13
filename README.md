@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-) - A framework designed to manage context, dependencies, and tasks in large-scale Cline projects within VS Code (today)
 - [hgl/configs](https://github.com/hgl/configs) - My nix configurations (today)
 - [FreeFull/runt](https://github.com/FreeFull/runt) - Terminal web browser (today)
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) -  (today)
 - [rs/zerocert](https://github.com/rs/zerocert) -  (today)
-- [simonnilsson/ask](https://github.com/simonnilsson/ask) - A Go package that provides a simple way of accessing nested properties in maps and slices. (today)
