@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 days ago)
+- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 days ago)
 - [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (2 weeks ago)
 - [Add plundrio to complimentary apps](https://github.com/Ravencentric/awesome-arr/pull/54) on [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) (3 weeks ago)
 - [chore: fix html structure](https://github.com/elsbrock/hetzner-radar/pull/129) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (today)
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (today)
-- [jbreckmckye/daylight](https://github.com/jbreckmckye/daylight) - a command-line program for tracking sunrise and sunset times (today)
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips (today)
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (today)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (1 day ago)
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 day ago)
+- [jbreckmckye/daylight](https://github.com/jbreckmckye/daylight) - a command-line program for tracking sunrise and sunset times (1 day ago)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips (1 day ago)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 day ago)
