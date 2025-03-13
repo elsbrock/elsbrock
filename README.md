@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [hgl/configs](https://github.com/hgl/configs) - My nix configurations (today)
 - [FreeFull/runt](https://github.com/FreeFull/runt) - Terminal web browser (today)
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) -  (today)
 - [rs/zerocert](https://github.com/rs/zerocert) -  (today)
 - [simonnilsson/ask](https://github.com/simonnilsson/ask) - A Go package that provides a simple way of accessing nested properties in maps and slices. (today)
-- [drbh/wasm-flate](https://github.com/drbh/wasm-flate) - 🗜️⚡WebAssembly powered compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE (today)
