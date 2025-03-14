@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs. (today)
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager (1 day ago)
 - [RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-) - A framework designed to manage context, dependencies, and tasks in large-scale Cline projects within VS Code (1 day ago)
 - [hgl/configs](https://github.com/hgl/configs) - My nix configurations (1 day ago)
 - [FreeFull/runt](https://github.com/FreeFull/runt) - Terminal web browser (1 day ago)
-- [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) -  (1 day ago)
