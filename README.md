@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (today)
+- [opspotes/jellyseerr-exporter](https://github.com/opspotes/jellyseerr-exporter) -  (today)
+- [go-pluto/styx](https://github.com/go-pluto/styx) - Export Data from Prometheus to csv, gnuplot &amp; matplotlib (today)
 - [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (today)
 - [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs. (today)
-- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager (1 day ago)
-- [RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-) - A framework designed to manage context, dependencies, and tasks in large-scale Cline projects within VS Code (1 day ago)
-- [hgl/configs](https://github.com/hgl/configs) - My nix configurations (1 day ago)
