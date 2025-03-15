@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (today)
 - [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (1 day ago)
 - [opspotes/jellyseerr-exporter](https://github.com/opspotes/jellyseerr-exporter) -  (1 day ago)
 - [go-pluto/styx](https://github.com/go-pluto/styx) - Export Data from Prometheus to csv, gnuplot &amp; matplotlib (1 day ago)
 - [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (1 day ago)
-- [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs. (1 day ago)
