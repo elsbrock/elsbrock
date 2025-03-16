@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn&#39;t need an API key to function (today)
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by (today)
 - [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 day ago)
 - [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (2 days ago)
 - [opspotes/jellyseerr-exporter](https://github.com/opspotes/jellyseerr-exporter) -  (2 days ago)
-- [go-pluto/styx](https://github.com/go-pluto/styx) - Export Data from Prometheus to csv, gnuplot &amp; matplotlib (2 days ago)
