@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by (today)
 - [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 day ago)
 - [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (2 days ago)
 - [opspotes/jellyseerr-exporter](https://github.com/opspotes/jellyseerr-exporter) -  (2 days ago)
 - [go-pluto/styx](https://github.com/go-pluto/styx) - Export Data from Prometheus to csv, gnuplot &amp; matplotlib (2 days ago)
-- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (2 days ago)
