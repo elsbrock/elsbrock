@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (3 weeks ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (1 month ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 month ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 
 #### 🌱 My latest projects
 
