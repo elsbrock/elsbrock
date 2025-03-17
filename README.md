@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [safedep/vet](https://github.com/safedep/vet) - Policy driven vetting of open source packages with malicious code analysis (today)
 - [lxin/quic](https://github.com/lxin/quic) - In-kernel QUIC implementation with Userspace handshake (today)
 - [nubskr/nubmq](https://github.com/nubskr/nubmq) - A high performant key-value storage engine engineered from first principles (today)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware. (today)
 - [step-security/changed-files](https://github.com/step-security/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. (today)
-- [charlie-haley/omada_exporter](https://github.com/charlie-haley/omada_exporter) - Prometheus Exporter for TP-Link Omada Controller SDN. (1 day ago)
