@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [nubskr/nubmq](https://github.com/nubskr/nubmq) - A high performant key-value storage engine engineered from first principles (today)
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware. (today)
+- [step-security/changed-files](https://github.com/step-security/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. (today)
 - [charlie-haley/omada_exporter](https://github.com/charlie-haley/omada_exporter) - Prometheus Exporter for TP-Link Omada Controller SDN. (1 day ago)
 - [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn&#39;t need an API key to function (1 day ago)
-- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by (1 day ago)
-- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (2 days ago)
-- [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (3 days ago)
