@@ -21,16 +21,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (today)
-- [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 days ago)
+- [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 day ago)
+- [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 days ago)
 - [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
 - [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (2 weeks ago)
 - [Add plundrio to complimentary apps](https://github.com/Ravencentric/awesome-arr/pull/54) on [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [charlie-haley/omada_exporter](https://github.com/charlie-haley/omada_exporter) - Prometheus Exporter for TP-Link Omada Controller SDN. (today)
-- [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn&#39;t need an API key to function (today)
-- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by (today)
-- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 day ago)
-- [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (2 days ago)
+- [charlie-haley/omada_exporter](https://github.com/charlie-haley/omada_exporter) - Prometheus Exporter for TP-Link Omada Controller SDN. (1 day ago)
+- [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn&#39;t need an API key to function (1 day ago)
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by (1 day ago)
+- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (2 days ago)
+- [ROCm/device-metrics-exporter](https://github.com/ROCm/device-metrics-exporter) - Device Metrics Exporter exports metrics from AMD devices (GPUs) to collectors like Prometheus. (3 days ago)
