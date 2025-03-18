@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (today)
+- [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage (today)
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (today)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (today)
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript (today)
-- [Bishwas-py/notify](https://github.com/Bishwas-py/notify) - golang complete notification system for linux (today)
-- [safedep/vet](https://github.com/safedep/vet) - 🚀 Policy driven vetting of open source packages with malicious code analysis (1 day ago)
-- [lxin/quic](https://github.com/lxin/quic) - In-kernel QUIC implementation with Userspace handshake (1 day ago)
