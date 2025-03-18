@@ -29,7 +29,7 @@
 
 #### ⭐ Recent Stars
 
-- [safedep/vet](https://github.com/safedep/vet) - Policy driven vetting of open source packages with malicious code analysis (1 day ago)
+- [safedep/vet](https://github.com/safedep/vet) - 🚀 Policy driven vetting of open source packages with malicious code analysis (1 day ago)
 - [lxin/quic](https://github.com/lxin/quic) - In-kernel QUIC implementation with Userspace handshake (1 day ago)
 - [nubskr/nubmq](https://github.com/nubskr/nubmq) - A high performant key-value storage engine engineered from first principles (1 day ago)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware. (1 day ago)
