@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (today)
+- [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python (today)
 - [glebnaz/transmission-exporter](https://github.com/glebnaz/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (1 day ago)
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (1 day ago)
 - [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage (1 day ago)
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (1 day ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 day ago)
