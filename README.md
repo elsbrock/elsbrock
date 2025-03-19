@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii &lt;y-fujii at mimosa-pudica.net&gt; (today)
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (today)
 - [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python (today)
 - [glebnaz/transmission-exporter](https://github.com/glebnaz/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (1 day ago)
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (1 day ago)
-- [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage (1 day ago)
