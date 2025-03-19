@@ -21,16 +21,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 days ago)
-- [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (5 days ago)
+- [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 days ago)
+- [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (6 days ago)
 - [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
-- [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (2 weeks ago)
+- [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (3 weeks ago)
 - [Add plundrio to complimentary apps](https://github.com/Ravencentric/awesome-arr/pull/54) on [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [glebnaz/transmission-exporter](https://github.com/glebnaz/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (today)
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (today)
-- [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage (today)
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (today)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (today)
+- [glebnaz/transmission-exporter](https://github.com/glebnaz/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (1 day ago)
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (1 day ago)
+- [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage (1 day ago)
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (1 day ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 day ago)
