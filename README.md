@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) - Neovim plugin to dynamically adjust the scrolloff setting (today)
+- [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) -  ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed. (today)
 - [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii &lt;y-fujii at mimosa-pudica.net&gt; (1 day ago)
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (1 day ago)
 - [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python (1 day ago)
-- [glebnaz/transmission-exporter](https://github.com/glebnaz/transmission-exporter) - Prometheus exporter for Transmission metrics, written in Go. (2 days ago)
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (2 days ago)
