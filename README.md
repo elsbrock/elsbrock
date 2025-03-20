@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 week ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (1 month ago)
 - [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (1 month ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 month ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) - RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Bank system with five integrated modes and system-level customization. Uses Roo Code&#39;s experimental &#34;Footgun&#34; feature for deep AI assistant customization while maintaining efficient token usage!  (today)
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD. (today)
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]  (today)
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (today)
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search (today)
-- [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) - Neovim plugin to dynamically adjust the scrolloff setting (today)
