@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD. (today)
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]  (today)
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (today)
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search (today)
 - [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) - Neovim plugin to dynamically adjust the scrolloff setting (today)
-- [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) -  ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed. (today)
