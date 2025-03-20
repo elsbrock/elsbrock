@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]  (today)
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (today)
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search (today)
 - [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) - Neovim plugin to dynamically adjust the scrolloff setting (today)
 - [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) -  ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed. (today)
-- [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii &lt;y-fujii at mimosa-pudica.net&gt; (1 day ago)
