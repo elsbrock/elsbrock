@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀 (today)
 - [LinuxDroidMaster/TrimUI-Brick-101](https://github.com/LinuxDroidMaster/TrimUI-Brick-101) - All you need to know about the TrimUI Brick, Stock &amp; Custom Firmwares, ROMs, HackRoms, etc (today)
 - [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) - RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Bank system with five integrated modes and system-level customization. Uses Roo Code&#39;s experimental &#34;Footgun&#34; feature for deep AI assistant customization while maintaining efficient token usage!  (2 days ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD. (2 days ago)
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]  (2 days ago)
-- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (2 days ago)
