@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object (today)
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (1 day ago)
 - [caseyscarborough/qbittorrent-exporter](https://github.com/caseyscarborough/qbittorrent-exporter) - A prometheus exporter for qBittorrent. (2 days ago)
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀 (2 days ago)
 - [LinuxDroidMaster/TrimUI-Brick-101](https://github.com/LinuxDroidMaster/TrimUI-Brick-101) - All you need to know about the TrimUI Brick, Stock &amp; Custom Firmwares, ROMs, HackRoms, etc (2 days ago)
-- [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) - RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Bank system with five integrated modes and system-level customization. Uses Roo Code&#39;s experimental &#34;Footgun&#34; feature for deep AI assistant customization while maintaining efficient token usage!  (4 days ago)
