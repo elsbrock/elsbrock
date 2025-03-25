@@ -21,11 +21,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(check): add missing module](https://github.com/petm5/nixlet/pull/6) on [petm5/nixlet](https://github.com/petm5/nixlet) (today)
 - [feat(monitoring): add Prometheus exporters for *arr services](https://github.com/rasmus-kirk/nixarr/pull/47) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 days ago)
 - [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
 - [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
 - [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 weeks ago)
-- [Add missing `hash` property to Transfer](https://github.com/putdotio/go-putio/pull/7) on [putdotio/go-putio](https://github.com/putdotio/go-putio) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
