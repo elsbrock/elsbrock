@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files (today)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (1 day ago)
 - [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object (1 day ago)
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (2 days ago)
 - [caseyscarborough/qbittorrent-exporter](https://github.com/caseyscarborough/qbittorrent-exporter) - A prometheus exporter for qBittorrent. (3 days ago)
-- [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀 (3 days ago)
