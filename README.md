@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
+- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (1 day ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (5 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 weeks ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (1 month ago)
-- [elsbrock/iata-location](https://github.com/elsbrock/iata-location) - ✈️ Airport IATA locations metadata as npm library (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.1.5.3](https://github.com/petm5/nixlet/releases/tag/0.1.5.3), 1 month ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
