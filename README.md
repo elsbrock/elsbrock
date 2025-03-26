@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations (today)
+- [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer. (today)
+- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines! (today)
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. (today)
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (today)
-- [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images (today)
-- [jandinter/gesetze-im-internet](https://github.com/jandinter/gesetze-im-internet) - Archive of German legal acts (weekly archive of gesetze-im-internet.de) (1 day ago)
-- [abstimmung-eu/abstimmung.eu](https://github.com/abstimmung-eu/abstimmung.eu) -  (1 day ago)
