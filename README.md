@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (today)
 - [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images (today)
 - [jandinter/gesetze-im-internet](https://github.com/jandinter/gesetze-im-internet) - Archive of German legal acts (weekly archive of gesetze-im-internet.de) (1 day ago)
 - [abstimmung-eu/abstimmung.eu](https://github.com/abstimmung-eu/abstimmung.eu) -  (1 day ago)
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files (1 day ago)
-- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (2 days ago)
