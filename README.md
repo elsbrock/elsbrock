@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (today)
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch (1 day ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 day ago)
 - [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs (1 day ago)
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs (1 day ago)
-- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations (2 days ago)
