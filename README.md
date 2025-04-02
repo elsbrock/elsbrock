@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications (today)
+- [hgs3/confetti](https://github.com/hgs3/confetti) - An unopinionated configuration language. (today)
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free, Open-Source Invoice PDF Generator – Live Preview, Runs in Your Browser, No Sign-Up (2 days ago)
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community (2 days ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 days ago)
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.  (3 days ago)
-- [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial (3 days ago)
