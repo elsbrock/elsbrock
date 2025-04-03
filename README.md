@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ConduitIO/benchi](https://github.com/ConduitIO/benchi) - Benchmark any tool from the CLI (today)
+- [hail-hydrant/zxc](https://github.com/hail-hydrant/zxc) -  Terminal based intercepting proxy written in rust with tmux and vim as user interface.  (today)
 - [LibreQoE/LibreQoS](https://github.com/LibreQoE/LibreQoS) - A Quality of Experience and Smart Queue Management system for ISPs. Leverage CAKE to improve network responsiveness, enforce bandwidth plans, and reduce bufferbloat. (today)
 - [naveenkul/WattWise](https://github.com/naveenkul/WattWise) - System Power Monitoring using Smart Plugs from the Terminal (today)
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp] (1 day ago)
-- [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications (1 day ago)
-- [hgs3/confetti](https://github.com/hgs3/confetti) - An unopinionated configuration language. (1 day ago)
