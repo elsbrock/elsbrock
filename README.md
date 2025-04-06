@@ -24,14 +24,14 @@
 
 - [fix(check): add missing module](https://github.com/petm5/nixlet/pull/6) on [petm5/nixlet](https://github.com/petm5/nixlet) (1 week ago)
 - [feat(monitoring): add Prometheus exporters for *arr services](https://github.com/rasmus-kirk/nixarr/pull/47) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 weeks ago)
-- [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 weeks ago)
+- [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 weeks ago)
 - [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 weeks ago)
-- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 weeks ago)
+- [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [Cyclenerd/hcloud-github-runner](https://github.com/Cyclenerd/hcloud-github-runner) - 🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud (today)
-- [ntgussoni/clashofapps](https://github.com/ntgussoni/clashofapps) - Track &amp; Analyze Your App Competitors. ASO, Competitive Analysis, Google Play, App Store (1 day ago)
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 day ago)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (1 day ago)
-- [ConduitIO/benchi](https://github.com/ConduitIO/benchi) - Benchmark any tool from the CLI (2 days ago)
+- [Cyclenerd/hcloud-github-runner](https://github.com/Cyclenerd/hcloud-github-runner) - 🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud (1 day ago)
+- [ntgussoni/clashofapps](https://github.com/ntgussoni/clashofapps) - Track &amp; Analyze Your App Competitors. ASO, Competitive Analysis, Google Play, App Store (2 days ago)
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (2 days ago)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (2 days ago)
+- [ConduitIO/benchi](https://github.com/ConduitIO/benchi) - Benchmark any tool from the CLI (3 days ago)
