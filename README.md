@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (today)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (today)
 - [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode and photo screensaver for your Home Assistant Dashboards (today)
 - [Cyclenerd/hcloud-github-runner](https://github.com/Cyclenerd/hcloud-github-runner) - 🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud (1 day ago)
 - [ntgussoni/clashofapps](https://github.com/ntgussoni/clashofapps) - Track &amp; Analyze Your App Competitors. ASO, Competitive Analysis, Google Play, App Store (2 days ago)
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (2 days ago)
