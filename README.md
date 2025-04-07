@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (today)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (1 day ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 day ago)
 - [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode and photo screensaver for your Home Assistant Dashboards (1 day ago)
 - [Cyclenerd/hcloud-github-runner](https://github.com/Cyclenerd/hcloud-github-runner) - 🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud (2 days ago)
-- [ntgussoni/clashofapps](https://github.com/ntgussoni/clashofapps) - Track &amp; Analyze Your App Competitors. ASO, Competitive Analysis, Google Play, App Store (3 days ago)
