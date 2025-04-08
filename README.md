@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 day ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (2 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 days ago)
-- [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode and photo screensaver for your Home Assistant Dashboards (2 days ago)
-- [Cyclenerd/hcloud-github-runner](https://github.com/Cyclenerd/hcloud-github-runner) - 🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud (3 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. (today)
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (today)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (today)
+- [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte (today)
+- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (today)
