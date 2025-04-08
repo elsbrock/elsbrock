@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages. (today)
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. (today)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (today)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (today)
 - [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte (today)
-- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (today)
