@@ -25,13 +25,13 @@
 - [fix(check): add missing module](https://github.com/petm5/nixlet/pull/6) on [petm5/nixlet](https://github.com/petm5/nixlet) (2 weeks ago)
 - [feat(monitoring): add Prometheus exporters for *arr services](https://github.com/rasmus-kirk/nixarr/pull/47) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 weeks ago)
 - [feat(jellyseerr): implement expose](https://github.com/rasmus-kirk/nixarr/pull/46) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 weeks ago)
-- [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 weeks ago)
+- [feat: autobrr](https://github.com/rasmus-kirk/nixarr/pull/45) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 weeks ago)
 - [feat: recyclarr](https://github.com/rasmus-kirk/nixarr/pull/44) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (today)
-- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt. (today)
-- [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages. (1 day ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. (1 day ago)
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (1 day ago)
+- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (1 day ago)
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt. (1 day ago)
+- [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages. (2 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. (2 days ago)
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (2 days ago)
