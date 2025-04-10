@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (today)
 - [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (today)
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (1 day ago)
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt. (1 day ago)
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages. (2 days ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. (2 days ago)
