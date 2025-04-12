@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (today)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo Code (forked from Roo Code) gives you a whole dev team of AI agents in your code editor. (today)
 - [benbucksch/eu-vat-rates](https://github.com/benbucksch/eu-vat-rates) - Super simple static JSON file to grab VAT rates for all EU Member States. (today)
 - [DAMcraft/cuiiliste](https://github.com/DAMcraft/cuiiliste) -  (today)
 - [DAMcraft/cuiiliste-frontend](https://github.com/DAMcraft/cuiiliste-frontend) -  (today)
-- [systemd/particleos](https://github.com/systemd/particleos) -  (today)
