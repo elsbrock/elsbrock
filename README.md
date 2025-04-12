@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [benbucksch/eu-vat-rates](https://github.com/benbucksch/eu-vat-rates) - Super simple static JSON file to grab VAT rates for all EU Member States. (today)
+- [DAMcraft/cuiiliste](https://github.com/DAMcraft/cuiiliste) -  (today)
+- [DAMcraft/cuiiliste-frontend](https://github.com/DAMcraft/cuiiliste-frontend) -  (today)
 - [systemd/particleos](https://github.com/systemd/particleos) -  (today)
 - [ntnj/tunwg](https://github.com/ntnj/tunwg) - Secure private tunnel to your local servers (1 day ago)
-- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (2 days ago)
-- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (2 days ago)
-- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (3 days ago)
