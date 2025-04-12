@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo Code (forked from Roo Code) gives you a whole dev team of AI agents in your code editor. (today)
 - [benbucksch/eu-vat-rates](https://github.com/benbucksch/eu-vat-rates) - Super simple static JSON file to grab VAT rates for all EU Member States. (today)
 - [DAMcraft/cuiiliste](https://github.com/DAMcraft/cuiiliste) -  (today)
 - [DAMcraft/cuiiliste-frontend](https://github.com/DAMcraft/cuiiliste-frontend) -  (today)
 - [systemd/particleos](https://github.com/systemd/particleos) -  (today)
-- [ntnj/tunwg](https://github.com/ntnj/tunwg) - Secure private tunnel to your local servers (1 day ago)
