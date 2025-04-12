@@ -22,11 +22,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: ipv4 fixed cost price](https://github.com/elsbrock/hetzner-radar/pull/149) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [chore(banner): introduce version](https://github.com/elsbrock/hetzner-radar/pull/148) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat: VAT support](https://github.com/elsbrock/hetzner-radar/pull/147) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [chore(renovate): separate major release updates](https://github.com/elsbrock/hetzner-radar/pull/137) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [fix(filter): debounce interaction with history API](https://github.com/elsbrock/hetzner-radar/pull/135) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [fix(check): add missing module](https://github.com/petm5/nixlet/pull/6) on [petm5/nixlet](https://github.com/petm5/nixlet) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
