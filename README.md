@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [openbikesensor/OpenBikeSensorFirmware](https://github.com/openbikesensor/OpenBikeSensorFirmware) - Overtaking distance measurements for cyclists  (today)
 - [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs (today)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (today)
 - [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux (today)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 day ago)
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo Code (forked from Roo Code) gives you a whole dev team of AI agents in your code editor. (1 day ago)
