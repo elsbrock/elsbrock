@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux (today)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 day ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo Code (forked from Roo Code) gives you a whole dev team of AI agents in your code editor. (1 day ago)
 - [benbucksch/eu-vat-rates](https://github.com/benbucksch/eu-vat-rates) - Super simple static JSON file to grab VAT rates for all EU Member States. (1 day ago)
 - [DAMcraft/cuiiliste](https://github.com/DAMcraft/cuiiliste) -  (1 day ago)
-- [DAMcraft/cuiiliste-frontend](https://github.com/DAMcraft/cuiiliste-frontend) -  (1 day ago)
