@@ -22,11 +22,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(drawer): server auction list for configuration](https://github.com/elsbrock/hetzner-radar/pull/153) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat: ipv4 fixed cost price](https://github.com/elsbrock/hetzner-radar/pull/149) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 - [chore(banner): introduce version](https://github.com/elsbrock/hetzner-radar/pull/148) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 - [feat: VAT support](https://github.com/elsbrock/hetzner-radar/pull/147) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 - [chore(renovate): separate major release updates](https://github.com/elsbrock/hetzner-radar/pull/137) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
-- [fix(filter): debounce interaction with history API](https://github.com/elsbrock/hetzner-radar/pull/135) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
 
 #### ⭐ Recent Stars
 
