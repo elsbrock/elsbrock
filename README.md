@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [asciimoo/omnom](https://github.com/asciimoo/omnom) - A webpage bookmarking and snapshotting service (today)
 - [openbikesensor/OpenBikeSensorFirmware](https://github.com/openbikesensor/OpenBikeSensorFirmware) - Overtaking distance measurements for cyclists  (1 day ago)
 - [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs (1 day ago)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (1 day ago)
 - [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux (1 day ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (2 days ago)
