@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  (today)
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A webpage bookmarking and snapshotting service (1 day ago)
 - [openbikesensor/OpenBikeSensorFirmware](https://github.com/openbikesensor/OpenBikeSensorFirmware) - Overtaking distance measurements for cyclists  (2 days ago)
 - [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs (2 days ago)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (2 days ago)
-- [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux (2 days ago)
