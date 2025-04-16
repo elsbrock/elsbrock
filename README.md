@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (3 weeks ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 month ago)
@@ -22,11 +22,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(alerts): Lower minimum price and improve error message](https://github.com/elsbrock/hetzner-radar/pull/156) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat(drawer): server auction list for configuration](https://github.com/elsbrock/hetzner-radar/pull/153) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 - [feat: ipv4 fixed cost price](https://github.com/elsbrock/hetzner-radar/pull/149) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
 - [chore(banner): introduce version](https://github.com/elsbrock/hetzner-radar/pull/148) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
 - [feat: VAT support](https://github.com/elsbrock/hetzner-radar/pull/147) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
-- [chore(renovate): separate major release updates](https://github.com/elsbrock/hetzner-radar/pull/137) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
 
 #### ⭐ Recent Stars
 
