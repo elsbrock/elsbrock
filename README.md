@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (today)
+- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (today)
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (1 day ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 days ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (2 days ago)
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (2 days ago)
-- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 days ago)
