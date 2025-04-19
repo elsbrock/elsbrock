@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions. (today)
+- [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages. (today)
 - [pietdevries94/playwright-web-flake](https://github.com/pietdevries94/playwright-web-flake) -  (1 day ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (1 day ago)
-- [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (2 days ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (3 days ago)
