@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [martinohmann/weather-landscape](https://github.com/martinohmann/weather-landscape) - Weather encoded as a landscape (today)
 - [arnarg/nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with nix and Argo CD. (today)
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants) (today)
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. (today)
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser. (1 day ago)
-- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass. (1 day ago)
