@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. (today)
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser. (1 day ago)
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass. (1 day ago)
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server (1 day ago)
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash) - ZFS management application (GUI/WEB-UI) for Linux. Provides both Desktop GUI and  Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, including creation, destruction, property editing, snapshots, rollback, and encryption management. (1 day ago)
-- [mdlayher/vsock](https://github.com/mdlayher/vsock) - Package vsock provides access to Linux VM sockets (AF_VSOCK) for communication between a hypervisor and its virtual machines.  MIT Licensed. (1 day ago)
