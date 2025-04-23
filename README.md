@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib. (today)
+- [patricktrainer/duckdb-doom](https://github.com/patricktrainer/duckdb-doom) - A Doom-like game using DuckDB (today)
+- [alexykn/sapphire](https://github.com/alexykn/sapphire) - Rust based package manager for macOS (today)
+- [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code (today)
 - [martinohmann/weather-landscape](https://github.com/martinohmann/weather-landscape) - Weather encoded as a landscape (1 day ago)
-- [arnarg/nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with nix and Argo CD. (1 day ago)
-- [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants) (1 day ago)
-- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. (1 day ago)
-- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser. (2 days ago)
