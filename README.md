@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [apricote/grafana-hcloud-datasource](https://github.com/apricote/grafana-hcloud-datasource) - Metrics for your Hetzner Cloud Servers and Load Balancers in Grafana. (today)
+- [dwin/tailscale-webhook-proxy](https://github.com/dwin/tailscale-webhook-proxy) - Cloudflare Worker to receive Tailscale webhooks and forward to notification service such as Pushover (today)
+- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (today)
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown (today)
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib. (today)
-- [patricktrainer/duckdb-doom](https://github.com/patricktrainer/duckdb-doom) - A Doom-like game using DuckDB (today)
-- [alexykn/sapphire](https://github.com/alexykn/sapphire) - Rust based package manager for macOS (today)
-- [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code (today)
