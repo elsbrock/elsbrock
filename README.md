@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown (today)
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib. (today)
 - [patricktrainer/duckdb-doom](https://github.com/patricktrainer/duckdb-doom) - A Doom-like game using DuckDB (today)
 - [alexykn/sapphire](https://github.com/alexykn/sapphire) - Rust based package manager for macOS (today)
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code (today)
-- [martinohmann/weather-landscape](https://github.com/martinohmann/weather-landscape) - Weather encoded as a landscape (1 day ago)
