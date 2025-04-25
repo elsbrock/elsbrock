@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension (today)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (today)
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN) (2 days ago)
 - [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) - HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy (2 days ago)
 - [apricote/grafana-hcloud-datasource](https://github.com/apricote/grafana-hcloud-datasource) - Metrics for your Hetzner Cloud Servers and Load Balancers in Grafana. (2 days ago)
-- [dwin/tailscale-webhook-proxy](https://github.com/dwin/tailscale-webhook-proxy) - Cloudflare Worker to receive Tailscale webhooks and forward to notification service such as Pushover (2 days ago)
