@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning (today)
 - [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player (today)
 - [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) - RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Bank system with five integrated modes and system-level customization. Uses Roo Code&#39;s experimental &#34;Footgun&#34; feature for deep AI assistant customization while maintaining efficient token usage!  (today)
 - [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) - A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank. (today)
 - [marv1nnnnn/rooroo](https://github.com/marv1nnnnn/rooroo) - 🚀 rooroo (如如): Minimalist AI Orchestration with Swiss Army Knife Agents 🚀 (today)
-- [simonw/llm-cmd](https://github.com/simonw/llm-cmd) - Use LLM to generate and execute commands in your shell (today)
