@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website (today)
 - [oneleaftea/KinP](https://github.com/oneleaftea/KinP) - RP2040 Pico Mod for the Kinesis Advantage/Contoured Keyboard (today)
 - [dcpedit/pillzmod](https://github.com/dcpedit/pillzmod) - Replacement PCBs for the Kinesis Advantage/Contour keyboards (today)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (1 day ago)
 - [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning (1 day ago)
-- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player (1 day ago)
