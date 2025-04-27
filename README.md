@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [wizarddata/Ergo-S-1](https://github.com/wizarddata/Ergo-S-1) -  (today)
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU (today)
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It&#39;s used to use Claude Code with OpenRouter instead of the Anthropic API (today)
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website (1 day ago)
 - [oneleaftea/KinP](https://github.com/oneleaftea/KinP) - RP2040 Pico Mod for the Kinesis Advantage/Contoured Keyboard (1 day ago)
-- [dcpedit/pillzmod](https://github.com/dcpedit/pillzmod) - Replacement PCBs for the Kinesis Advantage/Contour keyboards (1 day ago)
