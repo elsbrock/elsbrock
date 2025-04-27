@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [devashishdxt/tonic-web-wasm-client](https://github.com/devashishdxt/tonic-web-wasm-client) - Rust implementation of grpc-web protocol that allows using tonic clients in browsers via webassembly. (today)
 - [joexbayer/RetrOS-32](https://github.com/joexbayer/RetrOS-32) - A x86 32bit Hobby Operatingsystem with graphics, multitasking, networking and 32bit C-Compiler for i386 architecture. (today)
 - [wizarddata/Ergo-S-1](https://github.com/wizarddata/Ergo-S-1) -  (today)
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU (today)
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It&#39;s used to use Claude Code with OpenRouter instead of the Anthropic API (today)
-- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website (1 day ago)
