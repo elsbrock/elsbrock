@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [datalpia/laketower](https://github.com/datalpia/laketower) - Oversee your lakehouse (today)
+- [klementine-org/svelte-directory](https://github.com/klementine-org/svelte-directory) - A curated directory of Svelte libraries. (today)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta. (1 day ago)
 - [devashishdxt/tonic-web-wasm-client](https://github.com/devashishdxt/tonic-web-wasm-client) - Rust implementation of grpc-web protocol that allows using tonic clients in browsers via webassembly. (1 day ago)
 - [joexbayer/RetrOS-32](https://github.com/joexbayer/RetrOS-32) - A x86 32bit Hobby Operatingsystem with graphics, multitasking, networking and 32bit C-Compiler for i386 architecture. (1 day ago)
-- [wizarddata/Ergo-S-1](https://github.com/wizarddata/Ergo-S-1) -  (1 day ago)
-- [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU (1 day ago)
