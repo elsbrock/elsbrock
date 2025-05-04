@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Lizonghang/prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters (today)
 - [paperlesspaper/paperlesspaper-apps](https://github.com/paperlesspaper/paperlesspaper-apps) -  (today)
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs (today)
 - [michelhe/pimp-my-marax](https://github.com/michelhe/pimp-my-marax) - Toying with my Espresso Machine&#39;s serial interface (today)
 - [manyos-robert/esphome-marax](https://github.com/manyos-robert/esphome-marax) - Home Assistant Integration for Lelit MaraX with ESPHome (today)
-- [open-lcc/control-board-schematic](https://github.com/open-lcc/control-board-schematic) - Reverse engineered schematic of the Gicar Control Board (incomplete) (today)
