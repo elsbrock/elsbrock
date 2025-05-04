@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Lizonghang/prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters (today)
-- [paperlesspaper/paperlesspaper-apps](https://github.com/paperlesspaper/paperlesspaper-apps) -  (today)
-- [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs (today)
-- [michelhe/pimp-my-marax](https://github.com/michelhe/pimp-my-marax) - Toying with my Espresso Machine&#39;s serial interface (today)
-- [manyos-robert/esphome-marax](https://github.com/manyos-robert/esphome-marax) - Home Assistant Integration for Lelit MaraX with ESPHome (today)
+- [limzykenneth/p5.wasm](https://github.com/limzykenneth/p5.wasm) -  (today)
+- [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser (today)
+- [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine (today)
+- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS. (today)
+- [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. (today)
