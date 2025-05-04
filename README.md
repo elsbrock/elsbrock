@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (today)
-- [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization (today)
-- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS. (today)
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (1 day ago)
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (1 day ago)
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 day ago)
+- [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization (1 day ago)
+- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS. (1 day ago)
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (2 days ago)
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (2 days ago)
