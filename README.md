@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs (today)
 - [michelhe/pimp-my-marax](https://github.com/michelhe/pimp-my-marax) - Toying with my Espresso Machine&#39;s serial interface (today)
 - [manyos-robert/esphome-marax](https://github.com/manyos-robert/esphome-marax) - Home Assistant Integration for Lelit MaraX with ESPHome (today)
 - [open-lcc/control-board-schematic](https://github.com/open-lcc/control-board-schematic) - Reverse engineered schematic of the Gicar Control Board (incomplete) (today)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 day ago)
-- [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization (1 day ago)
