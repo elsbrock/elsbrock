@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Bzero/typstwriter](https://github.com/Bzero/typstwriter) - An integrated editor for the typst typesetting system. (today)
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible. (today)
 - [SaibotFlow/marax-monitor](https://github.com/SaibotFlow/marax-monitor) - Lelit Mara X (V2) data visualisation with an automatic Shot-Timer (today)
 - [RedNomis/MaraXObserver](https://github.com/RedNomis/MaraXObserver) - Lelit Mara X (V2) data observer with shot-timer (today)
 - [Unclezz/LelitMaraX-Monitor-ESP32](https://github.com/Unclezz/LelitMaraX-Monitor-ESP32) - Lelit Mara X V2 Monitor, Timer, MQTT Client, SPI Oled (today)
-- [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames (today)
