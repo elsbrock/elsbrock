@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [SaibotFlow/marax-monitor](https://github.com/SaibotFlow/marax-monitor) - Lelit Mara X (V2) data visualisation with an automatic Shot-Timer (today)
+- [RedNomis/MaraXObserver](https://github.com/RedNomis/MaraXObserver) - Lelit Mara X (V2) data observer with shot-timer (today)
+- [Unclezz/LelitMaraX-Monitor-ESP32](https://github.com/Unclezz/LelitMaraX-Monitor-ESP32) - Lelit Mara X V2 Monitor, Timer, MQTT Client, SPI Oled (today)
 - [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames (today)
 - [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft. (today)
-- [limzykenneth/p5.wasm](https://github.com/limzykenneth/p5.wasm) -  (1 day ago)
-- [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser (1 day ago)
-- [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine (1 day ago)
