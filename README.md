@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (1 month ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 month ago)
@@ -26,12 +26,12 @@
 - [feat: cloud server availability](https://github.com/elsbrock/hetzner-radar/pull/164) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: min and max price](https://github.com/elsbrock/hetzner-radar/pull/159) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix(alerts): Lower minimum price and improve error message](https://github.com/elsbrock/hetzner-radar/pull/156) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
-- [feat(drawer): server auction list for configuration](https://github.com/elsbrock/hetzner-radar/pull/153) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
+- [feat(drawer): server auction list for configuration](https://github.com/elsbrock/hetzner-radar/pull/153) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [limzykenneth/p5.wasm](https://github.com/limzykenneth/p5.wasm) -  (today)
-- [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser (today)
-- [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine (today)
-- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS. (today)
-- [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. (today)
+- [limzykenneth/p5.wasm](https://github.com/limzykenneth/p5.wasm) -  (1 day ago)
+- [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser (1 day ago)
+- [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine (1 day ago)
+- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS. (1 day ago)
+- [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. (1 day ago)
