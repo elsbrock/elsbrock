@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames (today)
+- [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft. (today)
 - [limzykenneth/p5.wasm](https://github.com/limzykenneth/p5.wasm) -  (1 day ago)
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser (1 day ago)
 - [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine (1 day ago)
-- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS. (1 day ago)
-- [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. (1 day ago)
