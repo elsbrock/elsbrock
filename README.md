@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (1 month ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 month ago)
@@ -18,20 +18,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.1.6-r8](https://github.com/petm5/nixlet/releases/tag/0.1.6-r8), 2 weeks ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.1.6-r8](https://github.com/petm5/nixlet/releases/tag/0.1.6-r8), 3 weeks ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
 - [feat: collapsible filter](https://github.com/elsbrock/hetzner-radar/pull/170) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
-- [feat: cloud server availability](https://github.com/elsbrock/hetzner-radar/pull/164) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [feat: cloud server availability](https://github.com/elsbrock/hetzner-radar/pull/164) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [feat: min and max price](https://github.com/elsbrock/hetzner-radar/pull/159) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix(alerts): Lower minimum price and improve error message](https://github.com/elsbrock/hetzner-radar/pull/156) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [feat(drawer): server auction list for configuration](https://github.com/elsbrock/hetzner-radar/pull/153) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [Bzero/typstwriter](https://github.com/Bzero/typstwriter) - An integrated editor for the typst typesetting system. (today)
-- [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible. (today)
-- [SaibotFlow/marax-monitor](https://github.com/SaibotFlow/marax-monitor) - Lelit Mara X (V2) data visualisation with an automatic Shot-Timer (today)
-- [RedNomis/MaraXObserver](https://github.com/RedNomis/MaraXObserver) - Lelit Mara X (V2) data observer with shot-timer (today)
-- [Unclezz/LelitMaraX-Monitor-ESP32](https://github.com/Unclezz/LelitMaraX-Monitor-ESP32) - Lelit Mara X V2 Monitor, Timer, MQTT Client, SPI Oled (today)
+- [Bzero/typstwriter](https://github.com/Bzero/typstwriter) - An integrated editor for the typst typesetting system. (1 day ago)
+- [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible. (1 day ago)
+- [SaibotFlow/marax-monitor](https://github.com/SaibotFlow/marax-monitor) - Lelit Mara X (V2) data visualisation with an automatic Shot-Timer (1 day ago)
+- [RedNomis/MaraXObserver](https://github.com/RedNomis/MaraXObserver) - Lelit Mara X (V2) data observer with shot-timer (1 day ago)
+- [Unclezz/LelitMaraX-Monitor-ESP32](https://github.com/Unclezz/LelitMaraX-Monitor-ESP32) - Lelit Mara X V2 Monitor, Timer, MQTT Client, SPI Oled (1 day ago)
