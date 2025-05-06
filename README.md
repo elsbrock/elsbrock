@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (today)
 - [jwchen119/EPF](https://github.com/jwchen119/EPF) - epaper photo frame (today)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (today)
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. (today)
 - [Bzero/typstwriter](https://github.com/Bzero/typstwriter) - An integrated editor for the typst typesetting system. (1 day ago)
-- [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible. (1 day ago)
