@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. (today)
 - [Bzero/typstwriter](https://github.com/Bzero/typstwriter) - An integrated editor for the typst typesetting system. (1 day ago)
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible. (1 day ago)
 - [SaibotFlow/marax-monitor](https://github.com/SaibotFlow/marax-monitor) - Lelit Mara X (V2) data visualisation with an automatic Shot-Timer (1 day ago)
 - [RedNomis/MaraXObserver](https://github.com/RedNomis/MaraXObserver) - Lelit Mara X (V2) data observer with shot-timer (1 day ago)
-- [Unclezz/LelitMaraX-Monitor-ESP32](https://github.com/Unclezz/LelitMaraX-Monitor-ESP32) - Lelit Mara X V2 Monitor, Timer, MQTT Client, SPI Oled (1 day ago)
