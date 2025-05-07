@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (today)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 day ago)
 - [jwchen119/EPF](https://github.com/jwchen119/EPF) - epaper photo frame (1 day ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 day ago)
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. (1 day ago)
-- [Bzero/typstwriter](https://github.com/Bzero/typstwriter) - An integrated editor for the typst typesetting system. (2 days ago)
