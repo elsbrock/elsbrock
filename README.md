@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (1 month ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript. (today)
-- [joshmarinacci/node-pureimage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of the HTML Canvas 2D drawing API (today)
-- [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux (today)
-- [aperoc/toolkami](https://github.com/aperoc/toolkami) - Minimal AI agent framework that just works with only seven tools. (today)
-- [oekazuma/svelte-meta-tags](https://github.com/oekazuma/svelte-meta-tags) - Svelte Meta Tags provides components designed to help you manage SEO for Svelte projects. (today)
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript. (1 day ago)
+- [joshmarinacci/node-pureimage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of the HTML Canvas 2D drawing API (1 day ago)
+- [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux (1 day ago)
+- [aperoc/toolkami](https://github.com/aperoc/toolkami) - Minimal AI agent framework that just works with only seven tools. (1 day ago)
+- [oekazuma/svelte-meta-tags](https://github.com/oekazuma/svelte-meta-tags) - Svelte Meta Tags provides components designed to help you manage SEO for Svelte projects. (1 day ago)
