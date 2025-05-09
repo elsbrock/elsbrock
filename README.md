@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.1.6-r8](https://github.com/petm5/nixlet/releases/tag/0.1.6-r8), 3 weeks ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.0](https://github.com/petm5/nixlet/releases/tag/0.2.0), today) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
