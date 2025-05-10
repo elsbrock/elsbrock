@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [RVCA212/codesys](https://github.com/RVCA212/codesys) -  (today)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 days ago)
 - [microsoft/typespec](https://github.com/microsoft/typespec) -  (2 days ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (2 days ago)
 - [mycoria/mycoria](https://github.com/mycoria/mycoria) - Mycoria is an open and secure overlay network that connects all participants. It values freedom of connectivity and aims to imitate the curious and adventurous spirit of the early Internet. (2 days ago)
-- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript. (3 days ago)
