@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop. (today)
 - [RVCA212/codesys](https://github.com/RVCA212/codesys) -  (1 day ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (3 days ago)
 - [microsoft/typespec](https://github.com/microsoft/typespec) -  (3 days ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (3 days ago)
-- [mycoria/mycoria](https://github.com/mycoria/mycoria) - Mycoria is an open and secure overlay network that connects all participants. It values freedom of connectivity and aims to imitate the curious and adventurous spirit of the early Internet. (3 days ago)
