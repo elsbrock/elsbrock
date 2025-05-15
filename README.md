@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework (today)
+- [hanielu/dnd-kit-svelte](https://github.com/hanielu/dnd-kit-svelte) - Svelte 5 dnd-kit port (today)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (today)
 - [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js (2 days ago)
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser? (3 days ago)
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project (3 days ago)
-- [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering. (3 days ago)
