@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim. (today)
 - [FrameOS/frameos-home-assistant-addon](https://github.com/FrameOS/frameos-home-assistant-addon) -  (today)
 - [rolo-kit/rolo](https://github.com/rolo-kit/rolo) - Rolo: Framework for modern browser extensions (today)
 - [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework (1 day ago)
 - [hanielu/dnd-kit-svelte](https://github.com/hanielu/dnd-kit-svelte) - Svelte 5 dnd-kit port (1 day ago)
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 day ago)
