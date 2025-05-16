@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [rolo-kit/rolo](https://github.com/rolo-kit/rolo) - Rolo: Framework for modern browser extensions (today)
 - [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework (1 day ago)
 - [hanielu/dnd-kit-svelte](https://github.com/hanielu/dnd-kit-svelte) - Svelte 5 dnd-kit port (1 day ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 day ago)
 - [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js (3 days ago)
-- [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser? (4 days ago)
