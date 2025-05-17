@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies (today)
+- [malcolmosh/dispatchPi](https://github.com/malcolmosh/dispatchPi) - Source code for my e-paper picture frame (today)
+- [nrenner/brouter-web](https://github.com/nrenner/brouter-web) - Web client for BRouter, a routing engine based on OpenStreetMap (today)
 - [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim. (1 day ago)
 - [FrameOS/frameos-home-assistant-addon](https://github.com/FrameOS/frameos-home-assistant-addon) -  (1 day ago)
-- [rolo-kit/rolo](https://github.com/rolo-kit/rolo) - Rolo: Framework for modern browser extensions (1 day ago)
-- [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework (2 days ago)
-- [hanielu/dnd-kit-svelte](https://github.com/hanielu/dnd-kit-svelte) - Svelte 5 dnd-kit port (2 days ago)
