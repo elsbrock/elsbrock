@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key. (today)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (today)
 - [janwilmake/nested-fetch-experiments](https://github.com/janwilmake/nested-fetch-experiments) - Burst fetch requests through DO scaling (today)
 - [janwilmake/dodfetch](https://github.com/janwilmake/dodfetch) - Ditch Concurrency Limits - Distributed Fetch Through CloudFlare Durable Objects (today)
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (today)
-- [janwilmake/awesome-durable-objects](https://github.com/janwilmake/awesome-durable-objects) - A collection of cool Durable Objects (today)
