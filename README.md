@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies (today)
-- [malcolmosh/dispatchPi](https://github.com/malcolmosh/dispatchPi) - Source code for my e-paper picture frame (today)
-- [nrenner/brouter-web](https://github.com/nrenner/brouter-web) - Web client for BRouter, a routing engine based on OpenStreetMap (today)
-- [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim. (1 day ago)
-- [FrameOS/frameos-home-assistant-addon](https://github.com/FrameOS/frameos-home-assistant-addon) -  (1 day ago)
+- [janwilmake/nested-fetch-experiments](https://github.com/janwilmake/nested-fetch-experiments) - Burst fetch requests through DO scaling (today)
+- [janwilmake/dodfetch](https://github.com/janwilmake/dodfetch) - Ditch Concurrency Limits - Distributed Fetch Through CloudFlare Durable Objects (today)
+- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (today)
+- [janwilmake/awesome-durable-objects](https://github.com/janwilmake/awesome-durable-objects) - A collection of cool Durable Objects (today)
+- [benovic/marax_display](https://github.com/benovic/marax_display) - reads the serial port of the Lelit MaraX espresso machine and displays on a TTGO ESP32 (today)
