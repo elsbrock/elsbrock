@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [paddymul/buckaroo](https://github.com/paddymul/buckaroo) - Buckaroo - The data table UI  for Notebooks.  Quickly explore dataframes, scroll through dataframes, search, sort, view summary stats and histograms. Works with Pandas, Polars, Jupyter, Marimo, VSCode Notebooks (today)
 - [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (today)
 - [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (1 day ago)
 - [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key. (1 day ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 day ago)
-- [janwilmake/nested-fetch-experiments](https://github.com/janwilmake/nested-fetch-experiments) - Burst fetch requests through DO scaling (1 day ago)
