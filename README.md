@@ -24,14 +24,14 @@
 
 - [feat: collapsible filter](https://github.com/elsbrock/hetzner-radar/pull/170) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 - [feat: cloud server availability](https://github.com/elsbrock/hetzner-radar/pull/164) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
-- [feat: min and max price](https://github.com/elsbrock/hetzner-radar/pull/159) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
+- [feat: min and max price](https://github.com/elsbrock/hetzner-radar/pull/159) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix(alerts): Lower minimum price and improve error message](https://github.com/elsbrock/hetzner-radar/pull/156) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat(drawer): server auction list for configuration](https://github.com/elsbrock/hetzner-radar/pull/153) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (today)
-- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key. (today)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (today)
-- [janwilmake/nested-fetch-experiments](https://github.com/janwilmake/nested-fetch-experiments) - Burst fetch requests through DO scaling (today)
-- [janwilmake/dodfetch](https://github.com/janwilmake/dodfetch) - Ditch Concurrency Limits - Distributed Fetch Through CloudFlare Durable Objects (today)
+- [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (today)
+- [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (1 day ago)
+- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key. (1 day ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 day ago)
+- [janwilmake/nested-fetch-experiments](https://github.com/janwilmake/nested-fetch-experiments) - Burst fetch requests through DO scaling (1 day ago)
