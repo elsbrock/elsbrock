@@ -6,7 +6,7 @@
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (1 month ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
-- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (2 months ago)
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), today) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 1 day ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [paddymul/buckaroo](https://github.com/paddymul/buckaroo) - Buckaroo - The data table UI  for Notebooks.  Quickly explore dataframes, scroll through dataframes, search, sort, view summary stats and histograms. Works with Pandas, Polars, Jupyter, Marimo, VSCode Notebooks (today)
-- [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (today)
-- [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (1 day ago)
-- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key. (1 day ago)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 day ago)
+- [paddymul/buckaroo](https://github.com/paddymul/buckaroo) - Buckaroo - The data table UI  for Notebooks.  Quickly explore dataframes, scroll through dataframes, search, sort, view summary stats and histograms. Works with Pandas, Polars, Jupyter, Marimo, VSCode Notebooks (1 day ago)
+- [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (1 day ago)
+- [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (2 days ago)
+- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key. (2 days ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (2 days ago)
