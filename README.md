@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 2 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 3 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [maxgerhardt/platform-raspberrypi](https://github.com/maxgerhardt/platform-raspberrypi) - Raspberry Pi: development platform for PlatformIO  (today)
-- [voideditor/void](https://github.com/voideditor/void) -  (1 day ago)
-- [paddymul/buckaroo](https://github.com/paddymul/buckaroo) - Buckaroo - The data table UI  for Notebooks.  Quickly explore dataframes, scroll through dataframes, search, sort, view summary stats and histograms. Works with Pandas, Polars, Jupyter, Marimo, VSCode Notebooks (2 days ago)
-- [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (2 days ago)
-- [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (3 days ago)
+- [maxgerhardt/platform-raspberrypi](https://github.com/maxgerhardt/platform-raspberrypi) - Raspberry Pi: development platform for PlatformIO  (1 day ago)
+- [voideditor/void](https://github.com/voideditor/void) -  (2 days ago)
+- [paddymul/buckaroo](https://github.com/paddymul/buckaroo) - Buckaroo - The data table UI  for Notebooks.  Quickly explore dataframes, scroll through dataframes, search, sort, view summary stats and histograms. Works with Pandas, Polars, Jupyter, Marimo, VSCode Notebooks (3 days ago)
+- [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (3 days ago)
+- [dario-piotrowicz/sveltekit-durable-object-local-usage-example](https://github.com/dario-piotrowicz/sveltekit-durable-object-local-usage-example) -  (4 days ago)
