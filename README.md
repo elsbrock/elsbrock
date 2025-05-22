@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [sdeigm/uni-meter](https://github.com/sdeigm/uni-meter) - A universal electric meter data converter (emulator) (today)
+- [hoylabs/OpenDTU-OnBattery](https://github.com/hoylabs/OpenDTU-OnBattery) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters, VE.Direct devices, battery management systems, and related peripherals (today)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (1 day ago)
 - [maxgerhardt/platform-raspberrypi](https://github.com/maxgerhardt/platform-raspberrypi) - Raspberry Pi: development platform for PlatformIO  (2 days ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (3 days ago)
-- [paddymul/buckaroo](https://github.com/paddymul/buckaroo) - Buckaroo - The data table UI  for Notebooks.  Quickly explore dataframes, scroll through dataframes, search, sort, view summary stats and histograms. Works with Pandas, Polars, Jupyter, Marimo, VSCode Notebooks (4 days ago)
-- [jingoro2112/wrench](https://github.com/jingoro2112/wrench) - practical embedded script interpreter (4 days ago)
