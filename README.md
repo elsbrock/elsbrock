@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) - Node.js client for Replicate (today)
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context (today)
 - [brizzbuzz/opnix](https://github.com/brizzbuzz/opnix) - Agenix inspired tool enabling users to inject secrets from 1password into their Nix servers at build time (today)
 - [sdeigm/uni-meter](https://github.com/sdeigm/uni-meter) - A universal electric meter data converter (emulator) (today)
 - [hoylabs/OpenDTU-OnBattery](https://github.com/hoylabs/OpenDTU-OnBattery) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters, VE.Direct devices, battery management systems, and related peripherals (today)
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (1 day ago)
