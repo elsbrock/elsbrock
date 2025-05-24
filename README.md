@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation in an LLM-ready format. (today)
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management. (today)
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (today)
 - [replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) - Node.js client for Replicate (2 days ago)
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context (2 days ago)
-- [brizzbuzz/opnix](https://github.com/brizzbuzz/opnix) - Agenix inspired tool enabling users to inject secrets from 1password into their Nix servers at build time (2 days ago)
-- [sdeigm/uni-meter](https://github.com/sdeigm/uni-meter) - A universal electric meter data converter (emulator) (2 days ago)
-- [hoylabs/OpenDTU-OnBattery](https://github.com/hoylabs/OpenDTU-OnBattery) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters, VE.Direct devices, battery management systems, and related peripherals (2 days ago)
