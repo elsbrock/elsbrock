@@ -18,12 +18,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 3 days ago) - DuckDB website and documentation
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 6 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 4 days ago) - DuckDB website and documentation
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 1 week ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
-- [feat: collapsible filter](https://github.com/elsbrock/hetzner-radar/pull/170) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 weeks ago)
+- [feat: collapsible filter](https://github.com/elsbrock/hetzner-radar/pull/170) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: cloud server availability](https://github.com/elsbrock/hetzner-radar/pull/164) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: min and max price](https://github.com/elsbrock/hetzner-radar/pull/159) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix(alerts): Lower minimum price and improve error message](https://github.com/elsbrock/hetzner-radar/pull/156) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation in an LLM-ready format. (today)
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management. (today)
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (today)
-- [replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) - Node.js client for Replicate (2 days ago)
-- [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context (2 days ago)
+- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation in an LLM-ready format. (1 day ago)
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management. (1 day ago)
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (1 day ago)
+- [replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) - Node.js client for Replicate (3 days ago)
+- [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context (3 days ago)
