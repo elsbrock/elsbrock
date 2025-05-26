@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 4 days ago) - DuckDB website and documentation
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 5 days ago) - DuckDB website and documentation
 - [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 1 week ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (today)
-- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation in an LLM-ready format. (1 day ago)
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management. (1 day ago)
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (1 day ago)
-- [replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) - Node.js client for Replicate (3 days ago)
+- [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (1 day ago)
+- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation in an LLM-ready format. (2 days ago)
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management. (2 days ago)
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (2 days ago)
+- [replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) - Node.js client for Replicate (4 days ago)
