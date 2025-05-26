@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [balloob/squeezelite-esp32-install](https://github.com/balloob/squeezelite-esp32-install) - Web installer example for Squeezelite-ESP32 (today)
 - [forwardemail/status.forwardemail.net](https://github.com/forwardemail/status.forwardemail.net) - Status Page (today)
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (today)
 - [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server (today)
 - [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (1 day ago)
-- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation in an LLM-ready format. (2 days ago)
