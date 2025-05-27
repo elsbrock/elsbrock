@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML &amp; CSS – no JavaScript. (today)
+- [nutsdb/nutsdb](https://github.com/nutsdb/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set. (today)
+- [brillout/telefunc](https://github.com/brillout/telefunc) - Remote Functions. Instead of API. (today)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (today)
 - [balloob/squeezelite-esp32-install](https://github.com/balloob/squeezelite-esp32-install) - Web installer example for Squeezelite-ESP32 (1 day ago)
-- [forwardemail/status.forwardemail.net](https://github.com/forwardemail/status.forwardemail.net) - Status Page (1 day ago)
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (1 day ago)
-- [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server (1 day ago)
