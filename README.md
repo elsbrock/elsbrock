@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format (today)
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML &amp; CSS – no JavaScript. (today)
 - [nutsdb/nutsdb](https://github.com/nutsdb/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set. (today)
 - [brillout/telefunc](https://github.com/brillout/telefunc) - Remote Functions. Instead of API. (today)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (today)
-- [balloob/squeezelite-esp32-install](https://github.com/balloob/squeezelite-esp32-install) - Web installer example for Squeezelite-ESP32 (1 day ago)
