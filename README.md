@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (2 months ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 5 days ago) - DuckDB website and documentation
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 6 days ago) - DuckDB website and documentation
 - [petm5/nixlet](https://github.com/petm5/nixlet) ([0.2.1](https://github.com/petm5/nixlet/releases/tag/0.2.1), 1 week ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [balloob/squeezelite-esp32-install](https://github.com/balloob/squeezelite-esp32-install) - Web installer example for Squeezelite-ESP32 (today)
-- [forwardemail/status.forwardemail.net](https://github.com/forwardemail/status.forwardemail.net) - Status Page (today)
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (today)
-- [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server (today)
-- [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (1 day ago)
+- [balloob/squeezelite-esp32-install](https://github.com/balloob/squeezelite-esp32-install) - Web installer example for Squeezelite-ESP32 (1 day ago)
+- [forwardemail/status.forwardemail.net](https://github.com/forwardemail/status.forwardemail.net) - Status Page (1 day ago)
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (1 day ago)
+- [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server (1 day ago)
+- [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (2 days ago)
