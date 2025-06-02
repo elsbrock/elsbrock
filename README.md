@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (today)
+- [treeform/nim_emscripten_tutorial](https://github.com/treeform/nim_emscripten_tutorial) - Nim emscripten tutorial. (today)
+- [GabrielLasso/drawim](https://github.com/GabrielLasso/drawim) - A simple drawing library in Nim, inspired by p5js (today)
+- [pietroppeter/p5nim](https://github.com/pietroppeter/p5nim) - 🌸👑 p5nim: processing for nim through p5js (today)
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  (1 day ago)
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript (2 days ago)
-- [vincenthopf/claude-code](https://github.com/vincenthopf/claude-code) - A curated list of commands, files, and workflows for Claude Code (2 days ago)
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation. (4 days ago)
-- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (5 days ago)
