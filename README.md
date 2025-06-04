@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (2 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.1](https://github.com/petm5/nixlet/releases/tag/0.3.1), 6 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 1 week ago) - DuckDB website and documentation
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.1](https://github.com/petm5/nixlet/releases/tag/0.3.1), 1 week ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 2 weeks ago) - DuckDB website and documentation
 
 #### 🔨 My recent Pull Requests
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (1 day ago)
-- [treeform/nim_emscripten_tutorial](https://github.com/treeform/nim_emscripten_tutorial) - Nim emscripten tutorial. (1 day ago)
-- [GabrielLasso/drawim](https://github.com/GabrielLasso/drawim) - A simple drawing library in Nim, inspired by p5js (1 day ago)
-- [pietroppeter/p5nim](https://github.com/pietroppeter/p5nim) - 🌸👑 p5nim: processing for nim through p5js (1 day ago)
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  (2 days ago)
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (2 days ago)
+- [treeform/nim_emscripten_tutorial](https://github.com/treeform/nim_emscripten_tutorial) - Nim emscripten tutorial. (2 days ago)
+- [GabrielLasso/drawim](https://github.com/GabrielLasso/drawim) - A simple drawing library in Nim, inspired by p5js (2 days ago)
+- [pietroppeter/p5nim](https://github.com/pietroppeter/p5nim) - 🌸👑 p5nim: processing for nim through p5js (2 days ago)
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  (3 days ago)
