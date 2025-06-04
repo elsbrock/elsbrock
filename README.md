@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, KV, and geolocation services. Available as NPM package and project template. (today)
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (2 days ago)
 - [treeform/nim_emscripten_tutorial](https://github.com/treeform/nim_emscripten_tutorial) - Nim emscripten tutorial. (2 days ago)
 - [GabrielLasso/drawim](https://github.com/GabrielLasso/drawim) - A simple drawing library in Nim, inspired by p5js (2 days ago)
 - [pietroppeter/p5nim](https://github.com/pietroppeter/p5nim) - 🌸👑 p5nim: processing for nim through p5js (2 days ago)
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  (3 days ago)
