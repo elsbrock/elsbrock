@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more (today)
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library. (1 day ago)
 - [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, KV, and geolocation services. Available as NPM package and project template. (1 day ago)
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (3 days ago)
 - [treeform/nim_emscripten_tutorial](https://github.com/treeform/nim_emscripten_tutorial) - Nim emscripten tutorial. (3 days ago)
-- [GabrielLasso/drawim](https://github.com/GabrielLasso/drawim) - A simple drawing library in Nim, inspired by p5js (3 days ago)
