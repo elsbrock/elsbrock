@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal. (today)
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more (1 day ago)
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library. (2 days ago)
 - [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, KV, and geolocation services. Available as NPM package and project template. (2 days ago)
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (4 days ago)
-- [treeform/nim_emscripten_tutorial](https://github.com/treeform/nim_emscripten_tutorial) - Nim emscripten tutorial. (4 days ago)
