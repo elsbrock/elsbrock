@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/playwright](https://github.com/cloudflare/playwright) - Playwright fork that works with Cloudflare Browser Rendering (today)
+- [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) - Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE. (today)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (today)
 - [SemanticSearch-ai/semanticsearch](https://github.com/SemanticSearch-ai/semanticsearch) - Build a Zero-Cost Semantic Search Engine with Cloudflare Workers (1 day ago)
 - [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps (1 day ago)
-- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal. (1 day ago)
-- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more (2 days ago)
