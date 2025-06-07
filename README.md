@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (today)
 - [SemanticSearch-ai/semanticsearch](https://github.com/SemanticSearch-ai/semanticsearch) - Build a Zero-Cost Semantic Search Engine with Cloudflare Workers (1 day ago)
 - [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps (1 day ago)
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal. (1 day ago)
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more (2 days ago)
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library. (3 days ago)
