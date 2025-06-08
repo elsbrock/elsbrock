@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [vahid110/sqlxport](https://github.com/vahid110/sqlxport) - sql2parquet: A modern CLI tool to export SQL query results from PostgreSQL or Amazon Redshift directly to Parquet files, with optional upload to S3 or MinIO. (today)
 - [cloudflare/playwright](https://github.com/cloudflare/playwright) - Playwright fork that works with Cloudflare Browser Rendering (1 day ago)
 - [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) - Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE. (1 day ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (1 day ago)
 - [SemanticSearch-ai/semanticsearch](https://github.com/SemanticSearch-ai/semanticsearch) - Build a Zero-Cost Semantic Search Engine with Cloudflare Workers (2 days ago)
-- [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps (2 days ago)
