@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [evalstate/mcp-webcam](https://github.com/evalstate/mcp-webcam) - Capture live images from your webcam with a tool or resource request  (today)
 - [aavetis/ai-pr-watcher](https://github.com/aavetis/ai-pr-watcher) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours. (today)
 - [pimoroni/inky](https://github.com/pimoroni/inky) - Combined library for V2/V3 Inky pHAT and Inky wHAT. (1 day ago)
 - [vahid110/sqlxport](https://github.com/vahid110/sqlxport) - sql2parquet: A modern CLI tool to export SQL query results from PostgreSQL or Amazon Redshift directly to Parquet files, with optional upload to S3 or MinIO. (1 day ago)
 - [cloudflare/playwright](https://github.com/cloudflare/playwright) - Playwright fork that works with Cloudflare Browser Rendering (2 days ago)
-- [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) - Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE. (2 days ago)
