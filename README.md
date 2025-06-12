@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent. (today)
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers. (today)
+- [get-convex/better-auth](https://github.com/get-convex/better-auth) - Convex &#43; Better Auth 🔥 (today)
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (today)
 - [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing &amp; billing platform (today)
-- [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter) - PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers (today)
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini Pro / Flash / O3 / O3-Mini / All Of The Above] working as one. (today)
-- [akchro/eyesite](https://github.com/akchro/eyesite) -  (today)
