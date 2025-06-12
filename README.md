@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (today)
+- [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing &amp; billing platform (today)
+- [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter) - PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers (today)
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini Pro / Flash / O3 / O3-Mini / All Of The Above] working as one. (today)
 - [akchro/eyesite](https://github.com/akchro/eyesite) -  (today)
-- [evalstate/mcp-webcam](https://github.com/evalstate/mcp-webcam) - Capture live images from your webcam with a tool or resource request  (3 days ago)
-- [aavetis/ai-pr-watcher](https://github.com/aavetis/ai-pr-watcher) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours. (3 days ago)
-- [pimoroni/inky](https://github.com/pimoroni/inky) - Combined library for V2/V3 Inky pHAT and Inky wHAT. (4 days ago)
