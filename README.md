@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays (today)
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent. (1 day ago)
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers. (1 day ago)
 - [get-convex/better-auth](https://github.com/get-convex/better-auth) - Convex &#43; Better Auth 🔥 (1 day ago)
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (1 day ago)
-- [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing &amp; billing platform (1 day ago)
