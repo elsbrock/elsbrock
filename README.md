@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (today)
 - [Techwolf12/qrkey](https://github.com/Techwolf12/qrkey) - qrkey is a command-line tool for generating and recovering QR codes from files for offline private key backup. (1 day ago)
 - [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays (1 day ago)
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent. (2 days ago)
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers. (2 days ago)
-- [get-convex/better-auth](https://github.com/get-convex/better-auth) - Convex &#43; Better Auth 🔥 (2 days ago)
