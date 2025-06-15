@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [CDFER/Auckland-LED-Train-Map](https://github.com/CDFER/Auckland-LED-Train-Map) -  (today)
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (1 day ago)
 - [Techwolf12/qrkey](https://github.com/Techwolf12/qrkey) - qrkey is a command-line tool for generating and recovering QR codes from files for offline private key backup. (2 days ago)
 - [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays (2 days ago)
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent. (3 days ago)
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers. (3 days ago)
