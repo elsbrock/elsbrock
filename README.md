@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (2 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources (today)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (today)
 - [regolith-lab/regolith-nix](https://github.com/regolith-lab/regolith-nix) - This repository aims to port Regolith-Desktop to Nixos [WIP yet Usable] (today)
 - [regolith-lab/regolith-nix-starter-config](https://github.com/regolith-lab/regolith-nix-starter-config) - This repository is meant to provide starter flake based configs with regolith packages for anyone shifting to NixOS (today)
 - [CDFER/Auckland-LED-Train-Map](https://github.com/CDFER/Auckland-LED-Train-Map) - Curcuit board with RGB leds to show the live position of trains in Auckland (today)
-- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (1 day ago)
