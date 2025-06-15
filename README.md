@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin (today)
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (today)
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations. (today)
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources (today)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (today)
-- [regolith-lab/regolith-nix](https://github.com/regolith-lab/regolith-nix) - This repository aims to port Regolith-Desktop to Nixos [WIP yet Usable] (today)
-- [regolith-lab/regolith-nix-starter-config](https://github.com/regolith-lab/regolith-nix-starter-config) - This repository is meant to provide starter flake based configs with regolith packages for anyone shifting to NixOS (today)
