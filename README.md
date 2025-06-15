@@ -34,5 +34,5 @@
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (today)
 - [regolith-lab/regolith-nix](https://github.com/regolith-lab/regolith-nix) - This repository aims to port Regolith-Desktop to Nixos [WIP yet Usable] (today)
 - [regolith-lab/regolith-nix-starter-config](https://github.com/regolith-lab/regolith-nix-starter-config) - This repository is meant to provide starter flake based configs with regolith packages for anyone shifting to NixOS (today)
-- [CDFER/Auckland-LED-Train-Map](https://github.com/CDFER/Auckland-LED-Train-Map) -  (today)
+- [CDFER/Auckland-LED-Train-Map](https://github.com/CDFER/Auckland-LED-Train-Map) - Curcuit board with RGB leds to show the live position of trains in Auckland (today)
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (1 day ago)
