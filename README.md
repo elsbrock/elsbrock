@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (today)
 - [ConAcademy/buttplug-mcp](https://github.com/ConAcademy/buttplug-mcp) - Buttplug.io Model Context Protocol (MCP) Server (today)
 - [BrokkAi/brokk](https://github.com/BrokkAi/brokk) - Brokk brings code intelligence to AI (today)
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust. (today)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 days ago)
-- [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin (3 days ago)
