@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ConAcademy/buttplug-mcp](https://github.com/ConAcademy/buttplug-mcp) - Buttplug.io Model Context Protocol (MCP) Server (today)
 - [BrokkAi/brokk](https://github.com/BrokkAi/brokk) - Brokk brings code intelligence to AI (today)
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust. (today)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 days ago)
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin (3 days ago)
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (3 days ago)
