@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (1 day ago)
-- [ConAcademy/buttplug-mcp](https://github.com/ConAcademy/buttplug-mcp) - Buttplug.io Model Context Protocol (MCP) Server (1 day ago)
-- [BrokkAi/brokk](https://github.com/BrokkAi/brokk) - Brokk brings code intelligence to AI (1 day ago)
-- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust. (1 day ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (3 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (today)
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (today)
+- [TNG/please-cli](https://github.com/TNG/please-cli) - An AI helper for creating CLI commands (today)
+- [Pyro57000/fyer_deck](https://github.com/Pyro57000/fyer_deck) - The STLs and build/install instrcutions for the Fyerdeck cyberdeck project! (today)
+- [lunchbox-computer/bento](https://github.com/lunchbox-computer/bento) - a computer in a keyboard (today)
