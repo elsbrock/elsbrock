@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ploopyco/trackpad](https://github.com/ploopyco/trackpad) - A high-performance, open-source trackpad, powered by QMK.  (today)
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics. (today)
 - [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (today)
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (today)
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings (today)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (today)
