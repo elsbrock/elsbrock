@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (today)
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings (today)
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (today)
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (today)
 - [TNG/please-cli](https://github.com/TNG/please-cli) - An AI helper for creating CLI commands (today)
-- [Pyro57000/fyer_deck](https://github.com/Pyro57000/fyer_deck) - The STLs and build/install instrcutions for the Fyerdeck cyberdeck project! (today)
-- [lunchbox-computer/bento](https://github.com/lunchbox-computer/bento) - a computer in a keyboard (today)
