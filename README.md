@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (2 months ago)
@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.2](https://github.com/petm5/nixlet/releases/tag/0.3.2), 1 week ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 4 weeks ago) - DuckDB website and documentation
+- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 1 month ago) - DuckDB website and documentation
 
 #### 🔨 My recent Pull Requests
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (today)
-- [ploopyco/trackpad](https://github.com/ploopyco/trackpad) - A high-performance, open-source trackpad, powered by QMK.  (today)
-- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics. (today)
-- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (today)
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (today)
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (1 day ago)
+- [ploopyco/trackpad](https://github.com/ploopyco/trackpad) - A high-performance, open-source trackpad, powered by QMK.  (1 day ago)
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics. (1 day ago)
+- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (1 day ago)
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (1 day ago)
