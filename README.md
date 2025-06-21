@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈 (today)
 - [ebbejan/tux-racer-js](https://github.com/ebbejan/tux-racer-js) - Play Tux Racer in your browser! (today)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (today)
 - [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon. (today)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (today)
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (2 days ago)
