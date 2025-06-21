@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [ebbejan/tux-racer-js](https://github.com/ebbejan/tux-racer-js) - Play Tux Racer in your browser! (today)
+- [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (today)
+- [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon. (today)
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (today)
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (2 days ago)
-- [ploopyco/trackpad](https://github.com/ploopyco/trackpad) - A high-performance, open-source trackpad, powered by QMK.  (2 days ago)
-- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics. (2 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (2 days ago)
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (2 days ago)
