@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (today)
+- [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS (today)
+- [thinkJD/ChoiceCore](https://github.com/thinkJD/ChoiceCore) -  (today)
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support (today)
 - [opensanctions/rigour](https://github.com/opensanctions/rigour) - Data cleaning and validation functions for names, languages, identifiers, etc. (1 day ago)
-- [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈 (1 day ago)
-- [ebbejan/tux-racer-js](https://github.com/ebbejan/tux-racer-js) - Play Tux Racer in your browser! (1 day ago)
-- [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (1 day ago)
