@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) -  (today)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (1 day ago)
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS (1 day ago)
 - [thinkJD/ChoiceCore](https://github.com/thinkJD/ChoiceCore) -  (1 day ago)
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support (1 day ago)
-- [opensanctions/rigour](https://github.com/opensanctions/rigour) - Data cleaning and validation functions for names, languages, identifiers, etc. (2 days ago)
