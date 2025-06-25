@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (today)
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) -  (2 days ago)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (3 days ago)
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS (3 days ago)
 - [thinkJD/ChoiceCore](https://github.com/thinkJD/ChoiceCore) -  (3 days ago)
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support (3 days ago)
