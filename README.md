@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (4 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (5 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 week ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (3 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (4 months ago)
 
@@ -23,16 +23,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 days ago)
-- [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 days ago)
+- [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (5 days ago)
+- [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (5 days ago)
 - [feat: collapsible filter](https://github.com/elsbrock/hetzner-radar/pull/170) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [feat: cloud server availability](https://github.com/elsbrock/hetzner-radar/pull/164) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [feat: min and max price](https://github.com/elsbrock/hetzner-radar/pull/159) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user&#39;s focus across the page (today)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 day ago)
-- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (1 day ago)
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (3 days ago)
-- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (4 days ago)
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user&#39;s focus across the page (1 day ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 days ago)
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (2 days ago)
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (4 days ago)
+- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (5 days ago)
