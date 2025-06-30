@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [grll/claude-code-action](https://github.com/grll/claude-code-action) -  (today)
 - [NixOS/experimental-nix-installer](https://github.com/NixOS/experimental-nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming. (1 day ago)
 - [cpick/nix-rosetta-builder](https://github.com/cpick/nix-rosetta-builder) -  (1 day ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (1 day ago)
 - [Sakura-sx/typr](https://github.com/Sakura-sx/typr) - TUI typing test with a word selection algorithm inspired by keybr (3 days ago)
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user&#39;s focus across the page (4 days ago)
