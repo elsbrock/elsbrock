@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (today)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (today)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (today)
 - [juicebox-systems/ceremony](https://github.com/juicebox-systems/ceremony) - HSM key ceremony (1 day ago)
 - [grll/claude-code-action](https://github.com/grll/claude-code-action) -  (1 day ago)
-- [NixOS/experimental-nix-installer](https://github.com/NixOS/experimental-nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming. (2 days ago)
