@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (today)
 - [juicebox-systems/ceremony](https://github.com/juicebox-systems/ceremony) - HSM key ceremony (1 day ago)
 - [grll/claude-code-action](https://github.com/grll/claude-code-action) -  (1 day ago)
 - [NixOS/experimental-nix-installer](https://github.com/NixOS/experimental-nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming. (2 days ago)
 - [cpick/nix-rosetta-builder](https://github.com/cpick/nix-rosetta-builder) -  (2 days ago)
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (2 days ago)
