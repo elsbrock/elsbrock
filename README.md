@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (4 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (3 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [juicebox-systems/ceremony](https://github.com/juicebox-systems/ceremony) - HSM key ceremony (today)
-- [grll/claude-code-action](https://github.com/grll/claude-code-action) -  (today)
-- [NixOS/experimental-nix-installer](https://github.com/NixOS/experimental-nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming. (1 day ago)
-- [cpick/nix-rosetta-builder](https://github.com/cpick/nix-rosetta-builder) -  (1 day ago)
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (1 day ago)
+- [juicebox-systems/ceremony](https://github.com/juicebox-systems/ceremony) - HSM key ceremony (1 day ago)
+- [grll/claude-code-action](https://github.com/grll/claude-code-action) -  (1 day ago)
+- [NixOS/experimental-nix-installer](https://github.com/NixOS/experimental-nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming. (2 days ago)
+- [cpick/nix-rosetta-builder](https://github.com/cpick/nix-rosetta-builder) -  (2 days ago)
+- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (2 days ago)
