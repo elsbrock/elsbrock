@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite (today)
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (1 day ago)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (1 day ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 day ago)
 - [juicebox-systems/ceremony](https://github.com/juicebox-systems/ceremony) - HSM key ceremony (2 days ago)
-- [grll/claude-code-action](https://github.com/grll/claude-code-action) -  (2 days ago)
