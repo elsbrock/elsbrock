@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (3 months ago)
@@ -23,16 +23,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
-- [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
-- [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
+- [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
+- [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
 - [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. (today)
-- [timpritlove/ranksy](https://github.com/timpritlove/ranksy) -  (today)
-- [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (today)
-- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite (1 day ago)
-- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (2 days ago)
+- [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. (1 day ago)
+- [timpritlove/ranksy](https://github.com/timpritlove/ranksy) -  (1 day ago)
+- [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (1 day ago)
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite (2 days ago)
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (3 days ago)
