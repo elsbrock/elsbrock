@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (today)
 - [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. (1 day ago)
 - [timpritlove/ranksy](https://github.com/timpritlove/ranksy) -  (1 day ago)
 - [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (1 day ago)
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite (2 days ago)
-- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (3 days ago)
