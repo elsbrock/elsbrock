@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [miskcoo/ugreen_leds_controller](https://github.com/miskcoo/ugreen_leds_controller) - An LED Controller for UGREEN&#39;s DX/DXP NAS Series (today)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (1 day ago)
 - [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. (2 days ago)
 - [timpritlove/ranksy](https://github.com/timpritlove/ranksy) -  (2 days ago)
 - [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (2 days ago)
-- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite (3 days ago)
