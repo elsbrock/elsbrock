@@ -33,6 +33,6 @@
 
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4 (today)
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (today)
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) -  (today)
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (today)
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀 (today)
 - [Eyalbenba/claude-code-mcp-init](https://github.com/Eyalbenba/claude-code-mcp-init) - A lightweight CLI tool to easily configure and initialize MCPs for Claude Code. (2 days ago)
