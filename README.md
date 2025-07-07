@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (today)
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) -  (today)
+- [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀 (today)
 - [Eyalbenba/claude-code-mcp-init](https://github.com/Eyalbenba/claude-code-mcp-init) - A lightweight CLI tool to easily configure and initialize MCPs for Claude Code. (2 days ago)
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (2 days ago)
-- [miskcoo/ugreen_leds_controller](https://github.com/miskcoo/ugreen_leds_controller) - An LED Controller for UGREEN&#39;s DX/DXP NAS Series (2 days ago)
-- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (3 days ago)
-- [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. (4 days ago)
