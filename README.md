@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (3 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 5 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 6 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 1 month ago) - DuckDB website and documentation
 
 #### 🔨 My recent Pull Requests
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [stravu/crystal](https://github.com/stravu/crystal) - An IVE: Integrated Vibe Environment (today)
-- [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE (today)
-- [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo) - ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code&#39;s session files to track file operations and allows you to selectively revert changes with full preview and cascading safety. (1 day ago)
-- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (3 days ago)
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4 (3 days ago)
+- [stravu/crystal](https://github.com/stravu/crystal) - An IVE: Integrated Vibe Environment (1 day ago)
+- [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE (1 day ago)
+- [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo) - ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code&#39;s session files to track file operations and allows you to selectively revert changes with full preview and cascading safety. (2 days ago)
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (4 days ago)
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4 (4 days ago)
