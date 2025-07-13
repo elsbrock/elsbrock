@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [dsekz/chrome-x-browser-validation-header](https://github.com/dsekz/chrome-x-browser-validation-header) - Reverse engineering and generation toolkit for Chrome&#39;s private x-browser-validation header, used for integrity. (today)
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits. (1 day ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (1 day ago)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 day ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 days ago)
-- [stravu/crystal](https://github.com/stravu/crystal) - An IVE: Integrated Vibe Environment (3 days ago)
