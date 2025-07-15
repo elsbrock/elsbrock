@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [forwardemail/nodejs-dns-over-https-tangerine](https://github.com/forwardemail/nodejs-dns-over-https-tangerine) - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS (&#34;DoH&#34;) via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail. (today)
 - [dsekz/chrome-x-browser-validation-header](https://github.com/dsekz/chrome-x-browser-validation-header) - Reverse engineering and generation toolkit for Chrome&#39;s private x-browser-validation header, used for integrity. (2 days ago)
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits. (3 days ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (3 days ago)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (3 days ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (4 days ago)
