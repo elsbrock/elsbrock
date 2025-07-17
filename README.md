@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (today)
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language. (2 days ago)
 - [MacroPower/kat](https://github.com/MacroPower/kat) - TUI and rule-based rendering engine for Kubernetes manifests (2 days ago)
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer networks (2 days ago)
 - [forwardemail/nodejs-dns-over-https-tangerine](https://github.com/forwardemail/nodejs-dns-over-https-tangerine) - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS (&#34;DoH&#34;) via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail. (2 days ago)
-- [dsekz/chrome-x-browser-validation-header](https://github.com/dsekz/chrome-x-browser-validation-header) - Reverse engineering and generation toolkit for Chrome&#39;s private x-browser-validation header, used for integrity. (4 days ago)
