@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant (today)
 - [marcelsud/spec-driven-agentic-development](https://github.com/marcelsud/spec-driven-agentic-development) -  (today)
 - [mikeholscher/zmk-config-mikecinq](https://github.com/mikeholscher/zmk-config-mikecinq) - ZMK Config &#43; Files (1 day ago)
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (1 day ago)
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs (1 day ago)
-- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (1 day ago)
