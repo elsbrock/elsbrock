@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing (today)
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (today)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) -  (today)
 - [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time (today)
 - [teufelaudio/mynd-firmware](https://github.com/teufelaudio/mynd-firmware) - Firmware for the Mynd audio speaker, including both the main application and bootloader for the MCU.  (today)
-- [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units (today)
-- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider (1 day ago)
