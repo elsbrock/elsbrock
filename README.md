@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider (today)
-- [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon (1 day ago)
-- [bytevirts/kiroim](https://github.com/bytevirts/kiroim) - Complete System Prompts for Kiro IDE by Amazon (1 day ago)
-- [StratoDem/pandas-js](https://github.com/StratoDem/pandas-js) - Pandas in JavaScript for data analysis and visualization (1 day ago)
-- [Mostafa-Wahied/portracker](https://github.com/Mostafa-Wahied/portracker) -  (1 day ago)
+- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider (1 day ago)
+- [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon (2 days ago)
+- [bytevirts/kiroim](https://github.com/bytevirts/kiroim) - Complete System Prompts for Kiro IDE by Amazon (2 days ago)
+- [StratoDem/pandas-js](https://github.com/StratoDem/pandas-js) - Pandas in JavaScript for data analysis and visualization (2 days ago)
+- [Mostafa-Wahied/portracker](https://github.com/Mostafa-Wahied/portracker) -  (2 days ago)
