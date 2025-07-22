@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq (today)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 day ago)
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider. (1 day ago)
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing (1 day ago)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (1 day ago)
-- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) -  (1 day ago)
