@@ -5,7 +5,7 @@
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 months ago)
-- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (3 months ago)
+- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (4 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (5 months ago)
 
 #### 🌱 My latest projects
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq (today)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 day ago)
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider. (1 day ago)
-- [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing (1 day ago)
-- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (1 day ago)
+- [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq (1 day ago)
+- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 days ago)
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider. (2 days ago)
+- [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing (2 days ago)
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (2 days ago)
