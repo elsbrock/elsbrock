@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [camchaney/handheld-cnc](https://github.com/camchaney/handheld-cnc) - A handheld CNC router project (today)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (today)
+- [atopile/nonos](https://github.com/atopile/nonos) -  (today)
 - [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq (1 day ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 days ago)
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider. (2 days ago)
-- [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing (2 days ago)
-- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (2 days ago)
