@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type. (today)
-- [camchaney/handheld-cnc](https://github.com/camchaney/handheld-cnc) - A handheld CNC router project (1 day ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 day ago)
-- [atopile/nonos](https://github.com/atopile/nonos) -  (1 day ago)
-- [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq (2 days ago)
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type. (1 day ago)
+- [camchaney/handheld-cnc](https://github.com/camchaney/handheld-cnc) - A handheld CNC router project (2 days ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 days ago)
+- [atopile/nonos](https://github.com/atopile/nonos) -  (2 days ago)
+- [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq (3 days ago)
