@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (today)
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android  (2 days ago)
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously. (3 days ago)
 - [universal-tool-calling-protocol/utcp-mcp](https://github.com/universal-tool-calling-protocol/utcp-mcp) - UTCP-MCP Bridge is a universal, all-in-one MCP server that brings the full power of the Universal Tool Calling Protocol (UTCP) to the MCP ecosystem. (4 days ago)
 - [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol (4 days ago)
-- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search. (4 days ago)
