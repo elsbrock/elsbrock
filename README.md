@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 4 weeks ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 1 month ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 - [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 2 months ago) - DuckDB website and documentation
 
 #### 🔨 My recent Pull Requests
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (today)
-- [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android  (2 days ago)
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously. (3 days ago)
-- [universal-tool-calling-protocol/utcp-mcp](https://github.com/universal-tool-calling-protocol/utcp-mcp) - UTCP-MCP Bridge is a universal, all-in-one MCP server that brings the full power of the Universal Tool Calling Protocol (UTCP) to the MCP ecosystem. (4 days ago)
-- [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol (4 days ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 day ago)
+- [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android  (3 days ago)
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously. (4 days ago)
+- [universal-tool-calling-protocol/utcp-mcp](https://github.com/universal-tool-calling-protocol/utcp-mcp) - UTCP-MCP Bridge is a universal, all-in-one MCP server that brings the full power of the Universal Tool Calling Protocol (UTCP) to the MCP ecosystem. (5 days ago)
+- [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol (5 days ago)
