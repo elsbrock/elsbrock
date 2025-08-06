@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs (today)
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better. (1 day ago)
 - [FutureProofHomes/Satellite1-ESPHome](https://github.com/FutureProofHomes/Satellite1-ESPHome) - Open Source ESPHome Firmware for Your Private AI-Powered Satellite1 Voice Assistant &amp; Multisensor (1 day ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (3 days ago)
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android  (5 days ago)
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously. (6 days ago)
