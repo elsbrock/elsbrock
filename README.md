@@ -19,7 +19,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 1 month ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
-- [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web) ([v1.2](https://github.com/duckdb/duckdb-web/releases/tag/v1.2), 2 months ago) - DuckDB website and documentation
 
 #### 🔨 My recent Pull Requests
 
