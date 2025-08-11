@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library (today)
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  (2 days ago)
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient (2 days ago)
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) -  (3 days ago)
 - [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs (5 days ago)
-- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better. (6 days ago)
