@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ArchiveTeam/warrior4-vm](https://github.com/ArchiveTeam/warrior4-vm) - Warrior virtual machine appliance (version 4) (today)
 - [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar (3 days ago)
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (4 days ago)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (4 days ago)
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime (4 days ago)
-- [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library (1 week ago)
