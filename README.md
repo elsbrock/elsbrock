@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [tiny-tpu-v2/tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu) - A minimal tensor processing unit (TPU), inspired by Google&#39;s TPU V2 and V1 (today)
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let&#39;s upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots! (today)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured (1 day ago)
 - [ArchiveTeam/warrior4-vm](https://github.com/ArchiveTeam/warrior4-vm) - Warrior virtual machine appliance (version 4) (1 day ago)
 - [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar (4 days ago)
-- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (5 days ago)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (5 days ago)
