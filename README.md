@@ -25,13 +25,13 @@
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
 - [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 month ago)
-- [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 month ago)
+- [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 months ago)
+- [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (today)
-- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] (today)
-- [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (today)
-- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines. (1 day ago)
-- [tiny-tpu-v2/tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu) - A minimal tensor processing unit (TPU), inspired by Google&#39;s TPU V2 and V1 (1 day ago)
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (1 day ago)
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] (1 day ago)
+- [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (1 day ago)
+- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines. (2 days ago)
+- [tiny-tpu-v2/tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu) - A minimal tensor processing unit (TPU), inspired by Google&#39;s TPU V2 and V1 (2 days ago)
