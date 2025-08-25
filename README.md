@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (today)
 - [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (2 days ago)
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (3 days ago)
 - [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (3 days ago)
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (5 days ago)
-- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] (5 days ago)
