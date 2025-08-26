@@ -4,7 +4,7 @@
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 month ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (4 months ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (5 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (5 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (6 months ago)
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (today)
-- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (2 days ago)
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (3 days ago)
-- [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (3 days ago)
-- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (5 days ago)
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (1 day ago)
+- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (3 days ago)
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (4 days ago)
+- [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (4 days ago)
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (6 days ago)
