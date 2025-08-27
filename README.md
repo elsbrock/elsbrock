@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (1 day ago)
-- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (3 days ago)
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (4 days ago)
-- [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (4 days ago)
-- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (6 days ago)
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (2 days ago)
+- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (4 days ago)
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (5 days ago)
+- [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (5 days ago)
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (1 week ago)
