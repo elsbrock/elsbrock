@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (today)
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (2 days ago)
-- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (4 days ago)
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (5 days ago)
-- [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (5 days ago)
+- [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (1 day ago)
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (3 days ago)
+- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC (5 days ago)
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (6 days ago)
+- [tastyware/tastytrade-cli](https://github.com/tastyware/tastytrade-cli) - Easy to use command line interface for Tastytrade! (6 days ago)
