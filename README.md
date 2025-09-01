@@ -22,16 +22,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
-- [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 month ago)
+- [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
+- [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
+- [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 months ago)
 - [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [NoodlesOfWrath/unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai) - Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS (1 day ago)
-- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (1 day ago)
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (3 days ago)
-- [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (4 days ago)
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (6 days ago)
+- [NoodlesOfWrath/unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai) - Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS (2 days ago)
+- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (2 days ago)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (4 days ago)
+- [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (5 days ago)
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (1 week ago)
