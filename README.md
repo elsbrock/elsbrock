@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 1 month ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 2 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [NoodlesOfWrath/unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai) - Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS (3 days ago)
-- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (3 days ago)
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (5 days ago)
-- [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (6 days ago)
+- [NoodlesOfWrath/unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai) - Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS (4 days ago)
+- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (4 days ago)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (6 days ago)
+- [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (1 week ago)
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (1 week ago)
