@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [dimonb/esp32-box](https://github.com/dimonb/esp32-box) -  (today)
 - [NoodlesOfWrath/unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai) - Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS (5 days ago)
 - [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (5 days ago)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (1 week ago)
 - [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) -  A curated list of radar datasets, detection, tracking and fusion (1 week ago)
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (1 week ago)
