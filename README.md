@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (today)
+- [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (today)
+- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (today)
 - [clowrey/ESPhome-JC3248W535EN](https://github.com/clowrey/ESPhome-JC3248W535EN) - Example config for ESPhome using the Sunton / Guition JC3248W535EN 320x480 LCD dev board from Shenzhen Jingcai Intelligent Co (1 day ago)
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (1 day ago)
-- [dimonb/esp32-box](https://github.com/dimonb/esp32-box) -  (1 day ago)
-- [NoodlesOfWrath/unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai) - Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS (6 days ago)
-- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (6 days ago)
