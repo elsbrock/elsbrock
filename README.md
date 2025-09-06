@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 month ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 months ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (2 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (5 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (5 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (today)
-- [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (today)
-- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (today)
-- [clowrey/ESPhome-JC3248W535EN](https://github.com/clowrey/ESPhome-JC3248W535EN) - Example config for ESPhome using the Sunton / Guition JC3248W535EN 320x480 LCD dev board from Shenzhen Jingcai Intelligent Co (1 day ago)
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (1 day ago)
+- [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (1 day ago)
+- [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (1 day ago)
+- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (1 day ago)
+- [clowrey/ESPhome-JC3248W535EN](https://github.com/clowrey/ESPhome-JC3248W535EN) - Example config for ESPhome using the Sunton / Guition JC3248W535EN 320x480 LCD dev board from Shenzhen Jingcai Intelligent Co (2 days ago)
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (2 days ago)
