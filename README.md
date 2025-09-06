@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Arabic language learning platform (today)
+- [selmetwa/arabic-virtual-keyboard](https://github.com/selmetwa/arabic-virtual-keyboard) - Arabic Virtual Keyboard for English speakers to learn to write Arabic. (today)
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (1 day ago)
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (1 day ago)
 - [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (1 day ago)
-- [clowrey/ESPhome-JC3248W535EN](https://github.com/clowrey/ESPhome-JC3248W535EN) - Example config for ESPhome using the Sunton / Guition JC3248W535EN 320x480 LCD dev board from Shenzhen Jingcai Intelligent Co (2 days ago)
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (2 days ago)
