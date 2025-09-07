@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [connectrpc/connect-python](https://github.com/connectrpc/connect-python) - The Python implementation of Connect: Protobuf RPC that works.  (today)
-- [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Arabic language learning platform (1 day ago)
-- [selmetwa/arabic-virtual-keyboard](https://github.com/selmetwa/arabic-virtual-keyboard) - Arabic Virtual Keyboard for English speakers to learn to write Arabic. (1 day ago)
-- [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (2 days ago)
-- [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (2 days ago)
+- [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (today)
+- [fred-terzi/reqtext](https://github.com/fred-terzi/reqtext) - Reqtext is a Git-native, CLI first requirements and documentation framework meant to bring requirement management directly into your workflow. Human -and AI- readable. (today)
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem (today)
+- [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for better planning and executing software development tasks with your AI agents. (today)
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (today)
