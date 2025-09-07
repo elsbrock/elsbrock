@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [connectrpc/connect-python](https://github.com/connectrpc/connect-python) - The Python implementation of Connect: Protobuf RPC that works.  (today)
 - [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Arabic language learning platform (1 day ago)
 - [selmetwa/arabic-virtual-keyboard](https://github.com/selmetwa/arabic-virtual-keyboard) - Arabic Virtual Keyboard for English speakers to learn to write Arabic. (1 day ago)
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (2 days ago)
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (2 days ago)
-- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (2 days ago)
