@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Arabic language learning platform (today)
-- [selmetwa/arabic-virtual-keyboard](https://github.com/selmetwa/arabic-virtual-keyboard) - Arabic Virtual Keyboard for English speakers to learn to write Arabic. (today)
-- [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (1 day ago)
-- [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (1 day ago)
-- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (1 day ago)
+- [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Arabic language learning platform (1 day ago)
+- [selmetwa/arabic-virtual-keyboard](https://github.com/selmetwa/arabic-virtual-keyboard) - Arabic Virtual Keyboard for English speakers to learn to write Arabic. (1 day ago)
+- [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types. (2 days ago)
+- [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. (2 days ago)
+- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I&#39;m absolutely right! (2 days ago)
