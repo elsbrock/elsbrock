@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (today)
+- [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure) (today)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 day ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (5 days ago)
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (5 days ago)
-- [fred-terzi/reqtext](https://github.com/fred-terzi/reqtext) - Reqtext is a Git-native, CLI first requirements and documentation framework meant to bring requirement management directly into your workflow. Human -and AI- readable. (5 days ago)
-- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem (5 days ago)
