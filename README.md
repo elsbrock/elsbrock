@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [chukfinley/Better-Bahn](https://github.com/chukfinley/Better-Bahn) - Better Bahn (today)
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (today)
 - [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure) (today)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 day ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (5 days ago)
-- [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (5 days ago)
