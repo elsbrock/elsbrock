@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [variegated-coffee/open-lcc-board](https://github.com/variegated-coffee/open-lcc-board) - Schematics and PCB files for the Open LCC hardware (today)
 - [chukfinley/Better-Bahn](https://github.com/chukfinley/Better-Bahn) - Better Bahn (2 days ago)
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (2 days ago)
 - [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure) (2 days ago)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (3 days ago)
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 week ago)
