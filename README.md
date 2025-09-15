@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly (today)
 - [variegated-coffee/open-lcc-board](https://github.com/variegated-coffee/open-lcc-board) - Schematics and PCB files for the Open LCC hardware (1 day ago)
 - [chukfinley/Better-Bahn](https://github.com/chukfinley/Better-Bahn) - Better Bahn (3 days ago)
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (3 days ago)
 - [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure) (3 days ago)
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (4 days ago)
