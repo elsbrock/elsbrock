@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus) - starlinkstatus.space - Starlink Statuspage with Speedtest (1 day ago)
-- [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly (1 day ago)
-- [variegated-coffee/open-lcc-board](https://github.com/variegated-coffee/open-lcc-board) - Schematics and PCB files for the Open LCC hardware (2 days ago)
-- [chukfinley/Better-Bahn](https://github.com/chukfinley/Better-Bahn) - Better Bahn (4 days ago)
-- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (4 days ago)
+- [Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus) - starlinkstatus.space - Starlink Statuspage with Speedtest (2 days ago)
+- [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly (2 days ago)
+- [variegated-coffee/open-lcc-board](https://github.com/variegated-coffee/open-lcc-board) - Schematics and PCB files for the Open LCC hardware (3 days ago)
+- [chukfinley/Better-Bahn](https://github.com/chukfinley/Better-Bahn) - Better Bahn (5 days ago)
+- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (5 days ago)
