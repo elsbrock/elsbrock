@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (today)
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (today)
 - [Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus) - starlinkstatus.space - Starlink Statuspage with Speedtest (2 days ago)
 - [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly (2 days ago)
 - [variegated-coffee/open-lcc-board](https://github.com/variegated-coffee/open-lcc-board) - Schematics and PCB files for the Open LCC hardware (3 days ago)
-- [chukfinley/Better-Bahn](https://github.com/chukfinley/Better-Bahn) - Better Bahn (5 days ago)
