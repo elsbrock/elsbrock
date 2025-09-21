@@ -5,7 +5,7 @@
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 months ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (5 months ago)
-- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (5 months ago)
+- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (7 months ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush) - Unlock custom brushes, natural fill effects and intuitive hatching in p5.js (today)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 day ago)
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (1 day ago)
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (1 day ago)
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (3 days ago)
+- [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush) - Unlock custom brushes, natural fill effects and intuitive hatching in p5.js (1 day ago)
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (2 days ago)
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (2 days ago)
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (2 days ago)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (4 days ago)
