@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system. (today)
+- [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials. (today)
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (1 day ago)
 - [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush) - Unlock custom brushes, natural fill effects and intuitive hatching in p5.js (2 days ago)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (3 days ago)
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (3 days ago)
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (3 days ago)
