@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (today)
-- [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush) - Unlock custom brushes, natural fill effects and intuitive hatching in p5.js (1 day ago)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (2 days ago)
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (2 days ago)
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (2 days ago)
+- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (1 day ago)
+- [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush) - Unlock custom brushes, natural fill effects and intuitive hatching in p5.js (2 days ago)
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (3 days ago)
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (3 days ago)
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (3 days ago)
