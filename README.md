@@ -22,11 +22,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 months ago)
-- [test: add NixOS tests for VPN confinement, permissions](https://github.com/rasmus-kirk/nixarr/pull/71) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 months ago)
 
 #### ⭐ Recent Stars
 
