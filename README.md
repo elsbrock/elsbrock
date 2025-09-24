@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [cspatil8/vs-code-lm-api-cli](https://github.com/cspatil8/vs-code-lm-api-cli) - A fork of the gemini cli. An open-source AI agent that brings the power of Gemini directly into your terminal. This fork aims to let you use models from VS Code LM API (today)
-- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (today)
-- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system. (1 day ago)
-- [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials. (1 day ago)
-- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (2 days ago)
+- [cspatil8/vs-code-lm-api-cli](https://github.com/cspatil8/vs-code-lm-api-cli) - A fork of the gemini cli. An open-source AI agent that brings the power of Gemini directly into your terminal. This fork aims to let you use models from VS Code LM API (1 day ago)
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (1 day ago)
+- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system. (2 days ago)
+- [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials. (2 days ago)
+- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (3 days ago)
