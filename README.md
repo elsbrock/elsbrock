@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [marimo-team/codemirror-ai](https://github.com/marimo-team/codemirror-ai) - A CodeMirror extension for inline completions, next-edit prediction, and prompt history (today)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (today)
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (today)
 - [cspatil8/vs-code-lm-api-cli](https://github.com/cspatil8/vs-code-lm-api-cli) - A fork of the gemini cli. An open-source AI agent that brings the power of Gemini directly into your terminal. This fork aims to let you use models from VS Code LM API (1 day ago)
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (1 day ago)
-- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system. (2 days ago)
