@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [goudvuur/sonshell](https://github.com/goudvuur/sonshell) - An effort to &#34;ssh into my Sony camera&#34; (today)
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (today)
 - [marimo-team/codemirror-ai](https://github.com/marimo-team/codemirror-ai) - A CodeMirror extension for inline completions, next-edit prediction, and prompt history (1 day ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 day ago)
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (1 day ago)
-- [cspatil8/vs-code-lm-api-cli](https://github.com/cspatil8/vs-code-lm-api-cli) - A fork of the gemini cli. An open-source AI agent that brings the power of Gemini directly into your terminal. This fork aims to let you use models from VS Code LM API (2 days ago)
