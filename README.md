@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) -  (today)
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (1 day ago)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (1 day ago)
 - [goudvuur/sonshell](https://github.com/goudvuur/sonshell) - An effort to &#34;ssh into my Sony camera&#34; (1 day ago)
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (1 day ago)
-- [marimo-team/codemirror-ai](https://github.com/marimo-team/codemirror-ai) - A CodeMirror extension for inline completions, next-edit prediction, and prompt history (2 days ago)
