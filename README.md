@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) -  (today)
-- [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (1 day ago)
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (1 day ago)
-- [goudvuur/sonshell](https://github.com/goudvuur/sonshell) - An effort to &#34;ssh into my Sony camera&#34; (1 day ago)
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (1 day ago)
+- [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) -  (1 day ago)
+- [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (2 days ago)
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (2 days ago)
+- [goudvuur/sonshell](https://github.com/goudvuur/sonshell) - An effort to &#34;ssh into my Sony camera&#34; (2 days ago)
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (2 days ago)
