@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (today)
 - [philippgille/go-wasm](https://github.com/philippgille/go-wasm) - Examples of how to work with WebAssembly and WASI in Go (today)
 - [Need-an-AwP/wasm-tailscale-react-vite](https://github.com/Need-an-AwP/wasm-tailscale-react-vite) -  (today)
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) -  (2 days ago)
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (3 days ago)
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (3 days ago)
