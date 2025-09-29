@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [jaxxstorm/tscli](https://github.com/jaxxstorm/tscli) - A CLI tool to interact with the Tailscale API (today)
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface (today)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (today)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 day ago)
 - [philippgille/go-wasm](https://github.com/philippgille/go-wasm) - Examples of how to work with WebAssembly and WASI in Go (1 day ago)
-- [Need-an-AwP/wasm-tailscale-react-vite](https://github.com/Need-an-AwP/wasm-tailscale-react-vite) -  (1 day ago)
