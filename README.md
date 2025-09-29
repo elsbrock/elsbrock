@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [espressif/esp-wasmachine](https://github.com/espressif/esp-wasmachine) - The Machine which can run WASM applications. (today)
 - [sasumaki/express-tailscale-auth](https://github.com/sasumaki/express-tailscale-auth) -  (today)
 - [jaxxstorm/tscli](https://github.com/jaxxstorm/tscli) - A CLI tool to interact with the Tailscale API (today)
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface (today)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (today)
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 day ago)
