@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (4 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 days ago)
+- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (today)
-- [philippgille/go-wasm](https://github.com/philippgille/go-wasm) - Examples of how to work with WebAssembly and WASI in Go (today)
-- [Need-an-AwP/wasm-tailscale-react-vite](https://github.com/Need-an-AwP/wasm-tailscale-react-vite) -  (today)
-- [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) -  (2 days ago)
-- [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (3 days ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 day ago)
+- [philippgille/go-wasm](https://github.com/philippgille/go-wasm) - Examples of how to work with WebAssembly and WASI in Go (1 day ago)
+- [Need-an-AwP/wasm-tailscale-react-vite](https://github.com/Need-an-AwP/wasm-tailscale-react-vite) -  (1 day ago)
+- [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) -  (3 days ago)
+- [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (4 days ago)
