@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
 - [espressif/esp-wasmachine](https://github.com/espressif/esp-wasmachine) - The Machine which can run WASM applications. (1 day ago)
 - [sasumaki/express-tailscale-auth](https://github.com/sasumaki/express-tailscale-auth) -  (1 day ago)
 - [jaxxstorm/tscli](https://github.com/jaxxstorm/tscli) - A CLI tool to interact with the Tailscale API (1 day ago)
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface (1 day ago)
-- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (1 day ago)
