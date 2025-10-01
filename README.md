@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
