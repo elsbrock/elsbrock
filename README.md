@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [espressif/esp-wasmachine](https://github.com/espressif/esp-wasmachine) - The Machine which can run WASM applications. (2 days ago)
 - [sasumaki/express-tailscale-auth](https://github.com/sasumaki/express-tailscale-auth) -  (2 days ago)
 - [jaxxstorm/tscli](https://github.com/jaxxstorm/tscli) - A CLI tool to interact with the Tailscale API (2 days ago)
-- [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface (2 days ago)
