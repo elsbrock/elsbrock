@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 2 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 3 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Jaspersoft/jasperreports](https://github.com/Jaspersoft/jasperreports) - JasperReports® - Free Java Reporting Library (1 day ago)
-- [urob/zmk-unicode](https://github.com/urob/zmk-unicode) - ZMK module for Unicode input (1 day ago)
-- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
-- [espressif/esp-wasmachine](https://github.com/espressif/esp-wasmachine) - The Machine which can run WASM applications. (3 days ago)
+- [Jaspersoft/jasperreports](https://github.com/Jaspersoft/jasperreports) - JasperReports® - Free Java Reporting Library (2 days ago)
+- [urob/zmk-unicode](https://github.com/urob/zmk-unicode) - ZMK module for Unicode input (2 days ago)
+- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
+- [espressif/esp-wasmachine](https://github.com/espressif/esp-wasmachine) - The Machine which can run WASM applications. (4 days ago)
