@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [quickvm/defined-systemd-units](https://github.com/quickvm/defined-systemd-units) - Opinionated defined.net dnclient systemd units to automate host enrollment and unenrollment (today)
+- [avarayr/shamelectron](https://github.com/avarayr/shamelectron) - ⚛️ Tracking Electron apps that haven&#39;t bumped their electron versions to mitigate a GPU load issue on MacOS 26 (today)
 - [Jaspersoft/jasperreports](https://github.com/Jaspersoft/jasperreports) - JasperReports® - Free Java Reporting Library (3 days ago)
 - [urob/zmk-unicode](https://github.com/urob/zmk-unicode) - ZMK module for Unicode input (3 days ago)
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (3 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
-- [espressif/esp-wasmachine](https://github.com/espressif/esp-wasmachine) - The Machine which can run WASM applications. (5 days ago)
