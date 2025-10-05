@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (4 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [sercand/kuberesolver](https://github.com/sercand/kuberesolver) - Grpc Load Balancer with Kubernetes resolver (today)
-- [wongnai/xds](https://github.com/wongnai/xds) - Simple xDS server for Kubernetes (today)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
-- [quickvm/defined-systemd-units](https://github.com/quickvm/defined-systemd-units) - Opinionated defined.net dnclient systemd units to automate host enrollment and unenrollment (today)
-- [avarayr/shamelectron](https://github.com/avarayr/shamelectron) - ⚛️ Tracking Electron apps that haven&#39;t bumped their electron versions to mitigate a GPU load issue on MacOS 26 (today)
+- [sercand/kuberesolver](https://github.com/sercand/kuberesolver) - Grpc Load Balancer with Kubernetes resolver (1 day ago)
+- [wongnai/xds](https://github.com/wongnai/xds) - Simple xDS server for Kubernetes (1 day ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [quickvm/defined-systemd-units](https://github.com/quickvm/defined-systemd-units) - Opinionated defined.net dnclient systemd units to automate host enrollment and unenrollment (1 day ago)
+- [avarayr/shamelectron](https://github.com/avarayr/shamelectron) - ⚛️ Tracking Electron apps that haven&#39;t bumped their electron versions to mitigate a GPU load issue on MacOS 26 (1 day ago)
