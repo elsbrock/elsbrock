@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 week ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [sercand/kuberesolver](https://github.com/sercand/kuberesolver) - Grpc Load Balancer with Kubernetes resolver (3 days ago)
-- [wongnai/xds](https://github.com/wongnai/xds) - Simple xDS server for Kubernetes (3 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
-- [quickvm/defined-systemd-units](https://github.com/quickvm/defined-systemd-units) - Opinionated defined.net dnclient systemd units to automate host enrollment and unenrollment (3 days ago)
-- [avarayr/shamelectron](https://github.com/avarayr/shamelectron) - ⚛️ Tracking Electron apps that haven&#39;t bumped their electron versions to mitigate a GPU load issue on MacOS 26 (3 days ago)
+- [sercand/kuberesolver](https://github.com/sercand/kuberesolver) - Grpc Load Balancer with Kubernetes resolver (4 days ago)
+- [wongnai/xds](https://github.com/wongnai/xds) - Simple xDS server for Kubernetes (4 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 days ago)
+- [quickvm/defined-systemd-units](https://github.com/quickvm/defined-systemd-units) - Opinionated defined.net dnclient systemd units to automate host enrollment and unenrollment (4 days ago)
+- [avarayr/shamelectron](https://github.com/avarayr/shamelectron) - ⚛️ Tracking Electron apps that haven&#39;t bumped their electron versions to mitigate a GPU load issue on MacOS 26 (4 days ago)
