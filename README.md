@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Hugo-Dz/exe](https://github.com/Hugo-Dz/exe) - Pack your web app as a single executable binary with zero runtime dependencies (today)
 - [sercand/kuberesolver](https://github.com/sercand/kuberesolver) - Grpc Load Balancer with Kubernetes resolver (4 days ago)
 - [wongnai/xds](https://github.com/wongnai/xds) - Simple xDS server for Kubernetes (4 days ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 days ago)
 - [quickvm/defined-systemd-units](https://github.com/quickvm/defined-systemd-units) - Opinionated defined.net dnclient systemd units to automate host enrollment and unenrollment (4 days ago)
-- [avarayr/shamelectron](https://github.com/avarayr/shamelectron) - ⚛️ Tracking Electron apps that haven&#39;t bumped their electron versions to mitigate a GPU load issue on MacOS 26 (4 days ago)
