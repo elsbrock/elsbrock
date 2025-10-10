@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (today)
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - High-performance Full Text Search Engine written in Go (today)
-- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (today)
-- [rajsinghtech/tsflow](https://github.com/rajsinghtech/tsflow) -  Network flow visualizer for Tailscale -  Requires Premium TS plans (1 day ago)
-- [Hugo-Dz/exe](https://github.com/Hugo-Dz/exe) - Pack your web app as a single executable binary with zero runtime dependencies (1 day ago)
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (1 day ago)
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - High-performance Full Text Search Engine written in Go (1 day ago)
+- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (1 day ago)
+- [rajsinghtech/tsflow](https://github.com/rajsinghtech/tsflow) -  Network flow visualizer for Tailscale -  Requires Premium TS plans (2 days ago)
+- [Hugo-Dz/exe](https://github.com/Hugo-Dz/exe) - Pack your web app as a single executable binary with zero runtime dependencies (2 days ago)
