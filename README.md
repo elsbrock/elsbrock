@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (today)
-- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (1 day ago)
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - High-performance Full Text Search Engine written in Go (1 day ago)
-- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (1 day ago)
-- [rajsinghtech/tsflow](https://github.com/rajsinghtech/tsflow) -  Network flow visualizer for Tailscale -  Requires Premium TS plans (2 days ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 day ago)
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (2 days ago)
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - High-performance Full Text Search Engine written in Go (2 days ago)
+- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (2 days ago)
+- [rajsinghtech/tsflow](https://github.com/rajsinghtech/tsflow) -  Network flow visualizer for Tailscale -  Requires Premium TS plans (3 days ago)
