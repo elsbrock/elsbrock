@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (today)
 - [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (1 day ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 days ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (3 days ago)
 - [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine built for Hackers not HyperScalers (3 days ago)
-- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (3 days ago)
