@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (today)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 day ago)
-- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (2 days ago)
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine written in Go (2 days ago)
-- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (2 days ago)
+- [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (1 day ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 days ago)
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (3 days ago)
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine written in Go (3 days ago)
+- [wxwern/digital-scale-plus](https://github.com/wxwern/digital-scale-plus) - A working weighing scale web app for iPhone models with 3D Touch. (3 days ago)
