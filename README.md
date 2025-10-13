@@ -34,4 +34,4 @@
 - [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (2 days ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 days ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (4 days ago)
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine built for Hackers not HyperScalers (4 days ago)
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers (4 days ago)
