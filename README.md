@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (today)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (today)
 - [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (1 day ago)
 - [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (2 days ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 days ago)
