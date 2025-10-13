@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 week ago)
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (4 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (7 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (today)
-- [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (1 day ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 days ago)
-- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (3 days ago)
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine built for Hackers not HyperScalers (3 days ago)
+- [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (1 day ago)
+- [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (2 days ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 days ago)
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (4 days ago)
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine built for Hackers not HyperScalers (4 days ago)
