@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (today)
 - [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (1 day ago)
 - [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb) - ThalamusDB: semantic query processing on multimodal data (2 days ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 days ago)
-- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (4 days ago)
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers (4 days ago)
