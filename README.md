@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge) - A lightweight proxy manager built on Tailscale&#39;s tsnet library that enables multiple HTTPS services on a Tailnet (today)
-- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (today)
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (today)
-- [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (1 day ago)
+- [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge) - A lightweight proxy manager built on Tailscale&#39;s tsnet library that enables multiple HTTPS services on a Tailnet (1 day ago)
+- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (1 day ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 day ago)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 day ago)
+- [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (2 days ago)
