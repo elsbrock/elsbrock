@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [t3dotgg/cf-vs-vercel-bench](https://github.com/t3dotgg/cf-vs-vercel-bench) -  (today)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (today)
 - [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge) - A lightweight proxy manager built on Tailscale&#39;s tsnet library that enables multiple HTTPS services on a Tailnet (2 days ago)
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (2 days ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 days ago)
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 days ago)
-- [hacksur/model-one](https://github.com/hacksur/model-one) - Set of utility classes for Cloudflare D1 (3 days ago)
