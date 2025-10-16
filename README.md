@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ZhongxuYang/vite-plugin-version-mark](https://github.com/ZhongxuYang/vite-plugin-version-mark) - A Vite/Nuxt plugin that automatically injects version information (package.json version, git commit SHA, or custom commands) into your application via console, global variables, meta tags, and static files. (today)
 - [t3dotgg/cf-vs-vercel-bench](https://github.com/t3dotgg/cf-vs-vercel-bench) -  (1 day ago)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 day ago)
 - [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge) - A lightweight proxy manager built on Tailscale&#39;s tsnet library that enables multiple HTTPS services on a Tailnet (3 days ago)
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (3 days ago)
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (3 days ago)
