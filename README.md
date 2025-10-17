@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [hyperflask/hyperflask](https://github.com/hyperflask/hyperflask) - Full stack web framework (today)
 - [ZhongxuYang/vite-plugin-version-mark](https://github.com/ZhongxuYang/vite-plugin-version-mark) - A Vite/Nuxt plugin that automatically injects version information (package.json version, git commit SHA, or custom commands) into your application via console, global variables, meta tags, and static files. (1 day ago)
 - [t3dotgg/cf-vs-vercel-bench](https://github.com/t3dotgg/cf-vs-vercel-bench) -  (2 days ago)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (2 days ago)
 - [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge) - A lightweight proxy manager built on Tailscale&#39;s tsnet library that enables multiple HTTPS services on a Tailnet (4 days ago)
-- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (4 days ago)
