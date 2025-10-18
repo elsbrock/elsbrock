@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [MikeBrink/python-picnic-api](https://github.com/MikeBrink/python-picnic-api) - Unofficial Python wrapper for the Picnic API. (today)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (today)
 - [zsteig/.watch](https://github.com/zsteig/.watch) - Source code and hardware design for the STM32-based &#34;./watch&#34; OLED digital watch (today)
 - [hyperflask/hyperflask](https://github.com/hyperflask/hyperflask) - Full stack web framework (1 day ago)
 - [ZhongxuYang/vite-plugin-version-mark](https://github.com/ZhongxuYang/vite-plugin-version-mark) - A Vite/Nuxt plugin that automatically injects version information (package.json version, git commit SHA, or custom commands) into your application via console, global variables, meta tags, and static files. (2 days ago)
-- [t3dotgg/cf-vs-vercel-bench](https://github.com/t3dotgg/cf-vs-vercel-bench) -  (3 days ago)
