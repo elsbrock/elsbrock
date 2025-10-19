@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (today)
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 (1 day ago)
 - [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Protobuf-like i18n from plain code (1 day ago)
 - [MikeBrink/python-picnic-api](https://github.com/MikeBrink/python-picnic-api) - Unofficial Python wrapper for the Picnic API. (1 day ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 day ago)
-- [zsteig/.watch](https://github.com/zsteig/.watch) - Source code and hardware design for the STM32-based &#34;./watch&#34; OLED digital watch (1 day ago)
