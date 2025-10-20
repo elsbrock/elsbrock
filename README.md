@@ -26,12 +26,12 @@
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [fix: only count servers as available if they&#39;ve been seen at least once](https://github.com/elsbrock/hetzner-radar/pull/215) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
-- [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 months ago)
+- [fix: remove hardcoded torrenter user and missing globals reference](https://github.com/rasmus-kirk/nixarr/pull/72) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (today)
-- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 (1 day ago)
-- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Protobuf-like i18n from plain code (1 day ago)
-- [MikeBrink/python-picnic-api](https://github.com/MikeBrink/python-picnic-api) - Unofficial Python wrapper for the Picnic API. (1 day ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 day ago)
+- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (1 day ago)
+- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 (2 days ago)
+- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Protobuf-like i18n from plain code (2 days ago)
+- [MikeBrink/python-picnic-api](https://github.com/MikeBrink/python-picnic-api) - Unofficial Python wrapper for the Picnic API. (2 days ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 days ago)
