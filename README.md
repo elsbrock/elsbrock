@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [delicb/firefox-auto-tab-grouping](https://github.com/delicb/firefox-auto-tab-grouping) - Firefox extension for automatically grouping tabs (today)
 - [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (1 day ago)
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 (2 days ago)
 - [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Protobuf-like i18n from plain code (2 days ago)
 - [MikeBrink/python-picnic-api](https://github.com/MikeBrink/python-picnic-api) - Unofficial Python wrapper for the Picnic API. (2 days ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 days ago)
