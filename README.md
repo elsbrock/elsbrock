@@ -5,7 +5,7 @@
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (4 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 months ago)
-- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (6 months ago)
+- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (7 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (8 months ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [openwrt/toh-openwrt-org](https://github.com/openwrt/toh-openwrt-org) - OpenWrt Table of Hardware (TOH) (today)
-- [delicb/firefox-auto-tab-grouping](https://github.com/delicb/firefox-auto-tab-grouping) - Firefox extension for automatically grouping tabs (today)
-- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (1 day ago)
-- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 (2 days ago)
-- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Protobuf-like i18n from plain code (2 days ago)
+- [openwrt/toh-openwrt-org](https://github.com/openwrt/toh-openwrt-org) - OpenWrt Table of Hardware (TOH) (1 day ago)
+- [delicb/firefox-auto-tab-grouping](https://github.com/delicb/firefox-auto-tab-grouping) - Firefox extension for automatically grouping tabs (1 day ago)
+- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (2 days ago)
+- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 (3 days ago)
+- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Protobuf-like i18n from plain code (3 days ago)
