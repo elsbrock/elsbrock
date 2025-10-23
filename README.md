@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (today)
-- [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP (1 day ago)
-- [openwrt/toh-openwrt-org](https://github.com/openwrt/toh-openwrt-org) - OpenWrt Table of Hardware (TOH) (2 days ago)
-- [delicb/firefox-auto-tab-grouping](https://github.com/delicb/firefox-auto-tab-grouping) - Firefox extension for automatically grouping tabs (2 days ago)
-- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (3 days ago)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 day ago)
+- [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP (2 days ago)
+- [openwrt/toh-openwrt-org](https://github.com/openwrt/toh-openwrt-org) - OpenWrt Table of Hardware (TOH) (3 days ago)
+- [delicb/firefox-auto-tab-grouping](https://github.com/delicb/firefox-auto-tab-grouping) - Firefox extension for automatically grouping tabs (3 days ago)
+- [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, and keyboard shortcuts, all running seamlessly in the browser using DuckDB&#39;s WebAssembly (WASM) capabilities. (4 days ago)
