@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (today)
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail. (today)
 - [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (today)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 day ago)
 - [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP (2 days ago)
-- [openwrt/toh-openwrt-org](https://github.com/openwrt/toh-openwrt-org) - OpenWrt Table of Hardware (TOH) (3 days ago)
