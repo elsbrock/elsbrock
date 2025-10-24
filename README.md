@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (today)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (1 day ago)
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail. (1 day ago)
 - [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (1 day ago)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (2 days ago)
-- [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP (3 days ago)
