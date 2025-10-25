@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (today)
 - [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (1 day ago)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (1 day ago)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (2 days ago)
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail. (2 days ago)
-- [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (2 days ago)
