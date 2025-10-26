@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (today)
-- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (1 day ago)
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (1 day ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (2 days ago)
-- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail. (2 days ago)
+- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (1 day ago)
+- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (2 days ago)
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (2 days ago)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (3 days ago)
+- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail. (3 days ago)
