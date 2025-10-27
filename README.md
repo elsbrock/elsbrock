@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (today)
-- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (1 day ago)
-- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (2 days ago)
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (2 days ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (3 days ago)
+- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (1 day ago)
+- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (2 days ago)
+- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (3 days ago)
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (3 days ago)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (4 days ago)
