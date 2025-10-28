@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (today)
-- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (1 day ago)
-- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (2 days ago)
-- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (3 days ago)
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (3 days ago)
+- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (1 day ago)
+- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (2 days ago)
+- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (3 days ago)
+- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (4 days ago)
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (4 days ago)
