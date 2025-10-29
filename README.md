@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 months ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (4 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (7 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (7 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (8 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (1 day ago)
-- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (2 days ago)
-- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (3 days ago)
-- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (4 days ago)
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (4 days ago)
+- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (2 days ago)
+- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (3 days ago)
+- [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) -  (4 days ago)
+- [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template (5 days ago)
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (5 days ago)
