@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (3 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (4 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (7 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (7 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (1 day ago)
-- [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord (1 day ago)
-- [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph) -  (2 days ago)
-- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (4 days ago)
-- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (5 days ago)
+- [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (2 days ago)
+- [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord (2 days ago)
+- [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph) -  (3 days ago)
+- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (5 days ago)
+- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (6 days ago)
