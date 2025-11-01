@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (today)
 - [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (2 days ago)
 - [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord (2 days ago)
 - [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph) -  (3 days ago)
 - [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (5 days ago)
-- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React (6 days ago)
