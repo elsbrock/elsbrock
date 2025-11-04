@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (today)
 - [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (3 days ago)
 - [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (5 days ago)
 - [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord (5 days ago)
 - [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph) -  (6 days ago)
-- [help-me-mom/cf-workers-turnstile-injection](https://github.com/help-me-mom/cf-workers-turnstile-injection) - A library to inject invisible Cloudflare Turnstile and verify its responses (1 week ago)
