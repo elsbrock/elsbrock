@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (1 day ago)
-- [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (4 days ago)
-- [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (6 days ago)
-- [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord (6 days ago)
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (2 days ago)
+- [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (5 days ago)
+- [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (1 week ago)
+- [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord (1 week ago)
 - [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph) -  (1 week ago)
