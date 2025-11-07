@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [JjyKsi/bmw-cardata-ha](https://github.com/JjyKsi/bmw-cardata-ha) -  (today)
 - [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for provably private AI inference (today)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (today)
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (3 days ago)
 - [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (6 days ago)
-- [M64GitHub/movycat](https://github.com/M64GitHub/movycat) - A terminal movie player written in Zig. Like catimg, but for videos. (1 week ago)
