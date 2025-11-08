@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [henrywhitaker3/adguard-exporter](https://github.com/henrywhitaker3/adguard-exporter) -  (today)
 - [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet. (today)
 - [JjyKsi/bmw-cardata-ha](https://github.com/JjyKsi/bmw-cardata-ha) -  (1 day ago)
 - [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for provably private AI inference (1 day ago)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (1 day ago)
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (4 days ago)
