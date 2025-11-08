@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [JjyKsi/bmw-cardata-ha](https://github.com/JjyKsi/bmw-cardata-ha) -  (today)
-- [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for provably private AI inference (today)
-- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (today)
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (3 days ago)
-- [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (6 days ago)
+- [JjyKsi/bmw-cardata-ha](https://github.com/JjyKsi/bmw-cardata-ha) -  (1 day ago)
+- [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for provably private AI inference (1 day ago)
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (1 day ago)
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (4 days ago)
+- [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge (1 week ago)
