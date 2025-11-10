@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (1 day ago)
-- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB] (1 day ago)
-- [henrywhitaker3/adguard-exporter](https://github.com/henrywhitaker3/adguard-exporter) -  (1 day ago)
-- [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet. (1 day ago)
-- [JjyKsi/bmw-cardata-ha](https://github.com/JjyKsi/bmw-cardata-ha) -  (2 days ago)
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (2 days ago)
+- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB] (2 days ago)
+- [henrywhitaker3/adguard-exporter](https://github.com/henrywhitaker3/adguard-exporter) -  (2 days ago)
+- [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet. (2 days ago)
+- [JjyKsi/bmw-cardata-ha](https://github.com/JjyKsi/bmw-cardata-ha) -  (3 days ago)
