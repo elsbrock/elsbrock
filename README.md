@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern &amp; fast web-based email client (today)
+- [RamboRogers/netventory](https://github.com/RamboRogers/netventory) - Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows. (today)
+- [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (today)
 - [alibahmanyar/simon](https://github.com/alibahmanyar/simon) - Minimal, web-based system monitor with Docker support, live metrics, alerts, and a built-in file browser—all bundled into a single binary (1 day ago)
 - [LenShustek/readtape](https://github.com/LenShustek/readtape) - Decode the analog waveform extracted from old computer mag tapes (1 day ago)
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (3 days ago)
-- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB] (3 days ago)
-- [henrywhitaker3/adguard-exporter](https://github.com/henrywhitaker3/adguard-exporter) -  (3 days ago)
