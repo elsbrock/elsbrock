@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [alibahmanyar/simon](https://github.com/alibahmanyar/simon) - Minimal, web-based system monitor with Docker support, live metrics, alerts, and a built-in file browser—all bundled into a single binary (today)
-- [LenShustek/readtape](https://github.com/LenShustek/readtape) - Decode the analog waveform extracted from old computer mag tapes (today)
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (2 days ago)
-- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB] (2 days ago)
-- [henrywhitaker3/adguard-exporter](https://github.com/henrywhitaker3/adguard-exporter) -  (2 days ago)
+- [alibahmanyar/simon](https://github.com/alibahmanyar/simon) - Minimal, web-based system monitor with Docker support, live metrics, alerts, and a built-in file browser—all bundled into a single binary (1 day ago)
+- [LenShustek/readtape](https://github.com/LenShustek/readtape) - Decode the analog waveform extracted from old computer mag tapes (1 day ago)
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (3 days ago)
+- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB] (3 days ago)
+- [henrywhitaker3/adguard-exporter](https://github.com/henrywhitaker3/adguard-exporter) -  (3 days ago)
