@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (today)
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern &amp; fast web-based email client (1 day ago)
 - [RamboRogers/netventory](https://github.com/RamboRogers/netventory) - Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows. (1 day ago)
 - [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (1 day ago)
 - [alibahmanyar/simon](https://github.com/alibahmanyar/simon) - Minimal, web-based system monitor with Docker support, live metrics, alerts, and a built-in file browser—all bundled into a single binary (2 days ago)
-- [LenShustek/readtape](https://github.com/LenShustek/readtape) - Decode the analog waveform extracted from old computer mag tapes (2 days ago)
