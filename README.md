@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs. (today)
-- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (today)
-- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern &amp; fast web-based email client (1 day ago)
-- [RamboRogers/netventory](https://github.com/RamboRogers/netventory) - Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows. (1 day ago)
-- [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (1 day ago)
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs. (1 day ago)
+- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (1 day ago)
+- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern &amp; fast web-based email client (2 days ago)
+- [RamboRogers/netventory](https://github.com/RamboRogers/netventory) - Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows. (2 days ago)
+- [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (2 days ago)
