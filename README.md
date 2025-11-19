@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks) - Lightweight download manager for Anna&#39;s Archive with fast downloads, web UI, and API support. (today)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100&#43; LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] (today)
 - [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (today)
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal (1 day ago)
 - [BastilleBSD/bastille](https://github.com/BastilleBSD/bastille) - Bastille is an open-source system for automating deployment and management of containerized applications on FreeBSD. (2 days ago)
-- [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust (2 days ago)
