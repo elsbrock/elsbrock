@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [yorkeccak/history](https://github.com/yorkeccak/history) - An interactive 3D globe that lets you explore the history of any location on the planet. Born from a love of &#34;doom-scrolling&#34; Google Maps and learning about random islands, untouched places, and interesting geographical areas - History brings deep historical research to your fingertips. (today)
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (2 days ago)
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren&#39;t answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss (3 days ago)
 - [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks) - Lightweight download manager for Anna&#39;s Archive with fast downloads, web UI, and API support. (4 days ago)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100&#43; LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] (4 days ago)
-- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (4 days ago)
