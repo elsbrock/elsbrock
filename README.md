@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks. (today)
 - [benadida/helios-server](https://github.com/benadida/helios-server) - Helios server (today)
 - [yorkeccak/history](https://github.com/yorkeccak/history) - An interactive 3D globe that lets you explore the history of any location on the planet. Born from a love of &#34;doom-scrolling&#34; Google Maps and learning about random islands, untouched places, and interesting geographical areas - History brings deep historical research to your fingertips. (1 day ago)
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (3 days ago)
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren&#39;t answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss (4 days ago)
-- [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks) - Lightweight download manager for Anna&#39;s Archive with fast downloads, web UI, and API support. (5 days ago)
