@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (4 weeks ago)
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (4 months ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 month ago)
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (5 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (8 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (8 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (9 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (today)
-- [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (today)
-- [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (today)
-- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process. (2 days ago)
-- [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks. (3 days ago)
+- [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (1 day ago)
+- [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (1 day ago)
+- [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (1 day ago)
+- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process. (3 days ago)
+- [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks. (4 days ago)
