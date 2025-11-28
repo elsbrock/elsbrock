@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (today)
 - [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (1 day ago)
 - [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (1 day ago)
 - [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (1 day ago)
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process. (3 days ago)
-- [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks. (4 days ago)
