@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 4 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.3.3](https://github.com/petm5/nixlet/releases/tag/0.3.3), 5 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (3 days ago)
-- [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (4 days ago)
-- [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (4 days ago)
-- [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (4 days ago)
-- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process. (6 days ago)
+- [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (4 days ago)
+- [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (5 days ago)
+- [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (5 days ago)
+- [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (5 days ago)
+- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process. (1 week ago)
