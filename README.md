@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [craigsteyn/vs_code_lm_tools_mcp](https://github.com/craigsteyn/vs_code_lm_tools_mcp) -  (today)
 - [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (6 days ago)
 - [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (1 week ago)
 - [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (1 week ago)
 - [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (1 week ago)
-- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process. (1 week ago)
