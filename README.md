@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (today)
 - [craigsteyn/vs_code_lm_tools_mcp](https://github.com/craigsteyn/vs_code_lm_tools_mcp) -  (1 day ago)
 - [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (1 week ago)
 - [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (1 week ago)
 - [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (1 week ago)
-- [dmkskd/linux-kernel-debugging-on-mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac) - Setup a linux kernel development environment on Mac (1 week ago)
