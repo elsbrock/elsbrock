@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS (today)
 - [cyoung/stratux](https://github.com/cyoung/stratux) - Aviation weather and traffic receiver based on RTL-SDR. (today)
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 day ago)
 - [craigsteyn/vs_code_lm_tools_mcp](https://github.com/craigsteyn/vs_code_lm_tools_mcp) -  (2 days ago)
 - [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (1 week ago)
-- [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (1 week ago)
