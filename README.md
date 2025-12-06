@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 3 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 4 days ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (today)
-- [craigsteyn/vs_code_lm_tools_mcp](https://github.com/craigsteyn/vs_code_lm_tools_mcp) -  (1 day ago)
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 day ago)
+- [craigsteyn/vs_code_lm_tools_mcp](https://github.com/craigsteyn/vs_code_lm_tools_mcp) -  (2 days ago)
 - [NullPxl/banrays](https://github.com/NullPxl/banrays) - Glasses to detect smart-glasses that have cameras. Ray-BANNED (1 week ago)
 - [dmkskd/sql-shader](https://github.com/dmkskd/sql-shader) -  (1 week ago)
 - [dmkskd/linux-kernel-network-stack-visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization) -  (1 week ago)
