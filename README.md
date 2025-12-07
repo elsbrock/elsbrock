@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller (today)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 day ago)
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS (1 day ago)
 - [cyoung/stratux](https://github.com/cyoung/stratux) - Aviation weather and traffic receiver based on RTL-SDR. (1 day ago)
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (2 days ago)
-- [craigsteyn/vs_code_lm_tools_mcp](https://github.com/craigsteyn/vs_code_lm_tools_mcp) -  (3 days ago)
