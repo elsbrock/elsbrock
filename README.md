@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together (today)
+- [Angablade/JellyfinFederationPlugin](https://github.com/Angablade/JellyfinFederationPlugin) - This Jellyfin plugin allows multiple Jellyfin servers to federate, sharing media libraries in real-time without syncing or copying files. Media can be streamed from one server to another with live transcoding if necessary. (today)
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (today)
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows. (today)
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster (1 day ago)
-- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11 (1 day ago)
-- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (1 day ago)
