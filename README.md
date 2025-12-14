@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux. (today)
 - [0xAF/openwebrxplus](https://github.com/0xAF/openwebrxplus) - Open source, multi-user SDR receiver software with a web interface (1 day ago)
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together (2 days ago)
 - [Angablade/JellyfinFederationPlugin](https://github.com/Angablade/JellyfinFederationPlugin) - This Jellyfin plugin allows multiple Jellyfin servers to federate, sharing media libraries in real-time without syncing or copying files. Media can be streamed from one server to another with live transcoding if necessary. (2 days ago)
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (2 days ago)
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows. (2 days ago)
