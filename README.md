@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 1 week ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 2 weeks ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
-- [Add qbittorrent and qui](https://github.com/rasmus-kirk/nixarr/pull/114) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 days ago)
+- [Add qbittorrent and qui](https://github.com/rasmus-kirk/nixarr/pull/114) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 days ago)
 - [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (today)
-- [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux. (1 day ago)
-- [0xAF/openwebrxplus](https://github.com/0xAF/openwebrxplus) - Open source, multi-user SDR receiver software with a web interface (2 days ago)
-- [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together (3 days ago)
-- [Angablade/JellyfinFederationPlugin](https://github.com/Angablade/JellyfinFederationPlugin) - This Jellyfin plugin allows multiple Jellyfin servers to federate, sharing media libraries in real-time without syncing or copying files. Media can be streamed from one server to another with live transcoding if necessary. (3 days ago)
+- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (1 day ago)
+- [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux. (2 days ago)
+- [0xAF/openwebrxplus](https://github.com/0xAF/openwebrxplus) - Open source, multi-user SDR receiver software with a web interface (3 days ago)
+- [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together (4 days ago)
+- [Angablade/JellyfinFederationPlugin](https://github.com/Angablade/JellyfinFederationPlugin) - This Jellyfin plugin allows multiple Jellyfin servers to federate, sharing media libraries in real-time without syncing or copying files. Media can be streamed from one server to another with live transcoding if necessary. (4 days ago)
