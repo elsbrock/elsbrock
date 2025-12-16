@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (today)
 - [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (1 day ago)
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux. (2 days ago)
 - [0xAF/openwebrxplus](https://github.com/0xAF/openwebrxplus) - Open source, multi-user SDR receiver software with a web interface (3 days ago)
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together (4 days ago)
-- [Angablade/JellyfinFederationPlugin](https://github.com/Angablade/JellyfinFederationPlugin) - This Jellyfin plugin allows multiple Jellyfin servers to federate, sharing media libraries in real-time without syncing or copying files. Media can be streamed from one server to another with live transcoding if necessary. (4 days ago)
