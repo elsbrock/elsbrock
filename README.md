@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (today)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (today)
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (3 days ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (3 days ago)
 - [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (4 days ago)
-- [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux. (5 days ago)
-- [0xAF/openwebrxplus](https://github.com/0xAF/openwebrxplus) - Open source, multi-user SDR receiver software with a web interface (6 days ago)
