@@ -5,7 +5,7 @@
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 month ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (5 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (8 months ago)
-- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (8 months ago)
+- [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (9 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (10 months ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add qbittorrent and qui](https://github.com/rasmus-kirk/nixarr/pull/114) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (6 days ago)
+- [Add qbittorrent and qui](https://github.com/rasmus-kirk/nixarr/pull/114) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (1 week ago)
 - [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
 - [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (today)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (today)
-- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (3 days ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (3 days ago)
-- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (4 days ago)
+- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (1 day ago)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (1 day ago)
+- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (4 days ago)
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (4 days ago)
+- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (5 days ago)
