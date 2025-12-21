@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (1 day ago)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (1 day ago)
-- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (4 days ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (4 days ago)
-- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (5 days ago)
+- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (2 days ago)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (2 days ago)
+- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (5 days ago)
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (5 days ago)
+- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (6 days ago)
