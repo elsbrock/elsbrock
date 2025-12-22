@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Tarow/nix-podman-stacks](https://github.com/Tarow/nix-podman-stacks) - Home Manager Modules for integrated Podman Stacks (today)
-- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (2 days ago)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (2 days ago)
-- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (5 days ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (5 days ago)
+- [Tarow/nix-podman-stacks](https://github.com/Tarow/nix-podman-stacks) - Home Manager Modules for integrated Podman Stacks (1 day ago)
+- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (3 days ago)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (3 days ago)
+- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (6 days ago)
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (6 days ago)
