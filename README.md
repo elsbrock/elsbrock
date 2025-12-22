@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). (today)
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library (today)
 - [ryonakae/vscode-lm-proxy](https://github.com/ryonakae/vscode-lm-proxy) - VSCode extension that exposes GitHub Copilot through OpenAI and Anthropic compatible REST APIs, enabling external apps to use Copilot outside VSCode. Built with VSCode Language Model API to access Copilot&#39;s powerful AI capabilities. (today)
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices (today)
 - [NuschtOS/pogo](https://github.com/NuschtOS/pogo) -  (today)
-- [Tarow/nix-podman-stacks](https://github.com/Tarow/nix-podman-stacks) - Home Manager Modules for integrated Podman Stacks (1 day ago)
-- [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (3 days ago)
