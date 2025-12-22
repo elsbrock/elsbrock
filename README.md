@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ryonakae/vscode-lm-proxy](https://github.com/ryonakae/vscode-lm-proxy) - VSCode extension that exposes GitHub Copilot through OpenAI and Anthropic compatible REST APIs, enabling external apps to use Copilot outside VSCode. Built with VSCode Language Model API to access Copilot&#39;s powerful AI capabilities. (today)
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices (today)
+- [NuschtOS/pogo](https://github.com/NuschtOS/pogo) -  (today)
 - [Tarow/nix-podman-stacks](https://github.com/Tarow/nix-podman-stacks) - Home Manager Modules for integrated Podman Stacks (1 day ago)
 - [puzed/wrapguard](https://github.com/puzed/wrapguard) - Userspace WireGuard proxy for transparent network tunneling (3 days ago)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (3 days ago)
-- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow (6 days ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (6 days ago)
