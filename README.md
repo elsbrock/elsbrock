@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Dark-Alex-17/loki](https://github.com/Dark-Alex-17/loki) - An all-in-one, batteries included LLM CLI tool (today)
+- [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients. (today)
 - [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets (today)
 - [galister/wlx-overlay-s](https://github.com/galister/wlx-overlay-s) - Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR. Now with Vulkan! (today)
 - [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems (1 day ago)
-- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix (2 days ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes. (2 days ago)
