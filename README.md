@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant (today)
 - [Dark-Alex-17/loki](https://github.com/Dark-Alex-17/loki) - An all-in-one, batteries included LLM CLI tool (1 day ago)
 - [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients. (1 day ago)
 - [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets (1 day ago)
 - [galister/wlx-overlay-s](https://github.com/galister/wlx-overlay-s) - Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR. Now with Vulkan! (1 day ago)
-- [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems (2 days ago)
