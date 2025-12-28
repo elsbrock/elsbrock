@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Volus208/BioMeta](https://github.com/Volus208/BioMeta) - A split 96% keyboard with fingerprint identification that makes the user look smarter (today)
+- [PhilippDahlinger/byte_factory](https://github.com/PhilippDahlinger/byte_factory) - Repository for my Factorio CPU (today)
 - [ChristianBoehlke/nixos](https://github.com/ChristianBoehlke/nixos) - Christian Böhlke&#39;s NixOS (today)
 - [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS. (today)
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 day ago)
-- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second (1 day ago)
-- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant (1 day ago)
