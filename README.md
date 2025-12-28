@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (5 months ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (6 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (9 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (9 months ago)
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (10 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (today)
-- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second (today)
-- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant (today)
-- [Dark-Alex-17/loki](https://github.com/Dark-Alex-17/loki) - An all-in-one, batteries included LLM CLI tool (1 day ago)
-- [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients. (1 day ago)
+- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 day ago)
+- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second (1 day ago)
+- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant (1 day ago)
+- [Dark-Alex-17/loki](https://github.com/Dark-Alex-17/loki) - An all-in-one, batteries included LLM CLI tool (2 days ago)
+- [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients. (2 days ago)
