@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [nvmd/nixos-raspberrypi](https://github.com/nvmd/nixos-raspberrypi) - Nix flake for a fully declarative NixOS on Raspberry Pi (today)
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library (today)
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. (today)
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents. (today)
 - [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker&#39;s file manager with VIM inspired keybind (today)
-- [TUMFTM/european-bike-sharing-dataset](https://github.com/TUMFTM/european-bike-sharing-dataset) - Data from 267 bike sharing schemes across Europe - 43 million km &amp; 88000 bikes (today)
-- [Volus208/BioMeta](https://github.com/Volus208/BioMeta) - A split 96% keyboard with fingerprint identification that makes the user look smarter (1 day ago)
