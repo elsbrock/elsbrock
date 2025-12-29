@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction (1 day ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (6 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (9 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (9 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Volus208/BioMeta](https://github.com/Volus208/BioMeta) - A split 96% keyboard with fingerprint identification that makes the user look smarter (today)
-- [PhilippDahlinger/byte_factory](https://github.com/PhilippDahlinger/byte_factory) - Repository for my Factorio CPU (today)
-- [ChristianBoehlke/nixos](https://github.com/ChristianBoehlke/nixos) - Christian Böhlke&#39;s NixOS (today)
-- [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS. (today)
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 day ago)
+- [Volus208/BioMeta](https://github.com/Volus208/BioMeta) - A split 96% keyboard with fingerprint identification that makes the user look smarter (1 day ago)
+- [PhilippDahlinger/byte_factory](https://github.com/PhilippDahlinger/byte_factory) - Repository for my Factorio CPU (1 day ago)
+- [ChristianBoehlke/nixos](https://github.com/ChristianBoehlke/nixos) - Christian Böhlke&#39;s NixOS (1 day ago)
+- [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS. (1 day ago)
+- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (2 days ago)
