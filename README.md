@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (today)
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool (1 day ago)
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools  (1 day ago)
 - [nvmd/nixos-raspberrypi](https://github.com/nvmd/nixos-raspberrypi) - Nix flake for a fully declarative NixOS on Raspberry Pi (1 day ago)
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library (1 day ago)
-- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. (1 day ago)
