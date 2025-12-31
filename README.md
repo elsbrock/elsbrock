@@ -22,11 +22,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: only count servers marked as available by API in availability %](https://github.com/elsbrock/hetzner-radar/pull/249) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat: add systemd-machined integration and SSH over VSOCK](https://github.com/microvm-nix/microvm.nix/pull/453) on [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) (2 days ago)
 - [Add qbittorrent and qui](https://github.com/rasmus-kirk/nixarr/pull/114) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (2 weeks ago)
 - [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
 - [fix: exclude never-seen servers from availability percentage calculation](https://github.com/elsbrock/hetzner-radar/pull/217) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 months ago)
-- [feat: add URL query parameter support for cloud-status filters](https://github.com/elsbrock/hetzner-radar/pull/216) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 months ago)
 
 #### ⭐ Recent Stars
 
