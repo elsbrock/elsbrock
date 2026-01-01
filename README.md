@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [mikrotik-user/auto-sys-restore](https://github.com/mikrotik-user/auto-sys-restore) - This script creates restore point (binary backup file) and reverts mikrotik to this restore point in a given pediod of time unless user deactivates this script. (today)
 - [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices (today)
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001] (1 day ago)
 - [bbbradsmith/binxelview](https://github.com/bbbradsmith/binxelview) - Binxelview binary image explorer (1 day ago)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (2 days ago)
-- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool (3 days ago)
