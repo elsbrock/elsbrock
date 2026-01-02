@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) - The Official Model Context Protocol (MCP) server for Kagi search &amp; other tools. (today)
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (today)
 - [mikrotik-user/auto-sys-restore](https://github.com/mikrotik-user/auto-sys-restore) - This script creates restore point (binary backup file) and reverts mikrotik to this restore point in a given pediod of time unless user deactivates this script. (1 day ago)
 - [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices (1 day ago)
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001] (2 days ago)
-- [bbbradsmith/binxelview](https://github.com/bbbradsmith/binxelview) - Binxelview binary image explorer (2 days ago)
-- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (3 days ago)
