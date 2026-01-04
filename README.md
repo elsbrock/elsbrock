@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (today)
+- [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨ (today)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (today)
 - [racksync/hass-addons-prometheus-node-exporter](https://github.com/racksync/hass-addons-prometheus-node-exporter) - Expose Hardware Metrics with Prometheus Node-Exporter (1 day ago)
 - [inaridiy/create-nodejs-fn](https://github.com/inaridiy/create-nodejs-fn) - Vite plugin to enable calling Node.js-dependent functions directly from Cloudflare Workers (2 days ago)
-- [sidequery/hogflare](https://github.com/sidequery/hogflare) - Posthog-compatible API layer for Cloudflare that writes to R2 Data Catalog (Iceberg) (2 days ago)
-- [igoforth/ws-rpc](https://github.com/igoforth/ws-rpc) - Bidirectional RPC over WebSocket with Zod schema validation, TypeScript inference, and Cloudflare Durable Object support (2 days ago)
