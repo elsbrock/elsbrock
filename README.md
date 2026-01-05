@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [czerwonk/atlas_exporter](https://github.com/czerwonk/atlas_exporter) - Metric exporter for RIPE Atlas measurement results (today)
 - [StanislawHorna/Omada_Exporter_GO](https://github.com/StanislawHorna/Omada_Exporter_GO) - Prometheus Exporter written in Go for TP-Link Omada SDN. (today)
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (today)
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager (today)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 day ago)
-- [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨ (1 day ago)
