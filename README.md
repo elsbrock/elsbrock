@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [GetSherlog/Sherlog-prometheus-agent](https://github.com/GetSherlog/Sherlog-prometheus-agent) - An AI agent for interacting with the Prometheus-Loki-Grafana stack (today)
 - [czerwonk/atlas_exporter](https://github.com/czerwonk/atlas_exporter) - Metric exporter for RIPE Atlas measurement results (1 day ago)
 - [StanislawHorna/Omada_Exporter_GO](https://github.com/StanislawHorna/Omada_Exporter_GO) - Prometheus Exporter written in Go for TP-Link Omada SDN. (1 day ago)
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (1 day ago)
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager (1 day ago)
-- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (2 days ago)
