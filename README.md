@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (3 days ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (6 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (9 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (9 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: only count servers marked as available by API in availability %](https://github.com/elsbrock/hetzner-radar/pull/249) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
+- [fix: only count servers marked as available by API in availability %](https://github.com/elsbrock/hetzner-radar/pull/249) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
 - [feat: add systemd-machined integration and SSH over VSOCK](https://github.com/microvm-nix/microvm.nix/pull/453) on [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) (1 week ago)
 - [Add qbittorrent and qui](https://github.com/rasmus-kirk/nixarr/pull/114) on [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) (3 weeks ago)
 - [fix: resolve CI failures in dependency PRs](https://github.com/elsbrock/hetzner-radar/pull/229) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [czerwonk/atlas_exporter](https://github.com/czerwonk/atlas_exporter) - Metric exporter for RIPE Atlas measurement results (today)
-- [StanislawHorna/Omada_Exporter_GO](https://github.com/StanislawHorna/Omada_Exporter_GO) - Prometheus Exporter written in Go for TP-Link Omada SDN. (today)
-- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (today)
-- [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager (today)
-- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 day ago)
+- [czerwonk/atlas_exporter](https://github.com/czerwonk/atlas_exporter) - Metric exporter for RIPE Atlas measurement results (1 day ago)
+- [StanislawHorna/Omada_Exporter_GO](https://github.com/StanislawHorna/Omada_Exporter_GO) - Prometheus Exporter written in Go for TP-Link Omada SDN. (1 day ago)
+- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (1 day ago)
+- [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager (1 day ago)
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (2 days ago)
