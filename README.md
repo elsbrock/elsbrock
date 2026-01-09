@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121] (today)
 - [nix-community/go-nix](https://github.com/nix-community/go-nix) - Elements of Nix re-implemented as Go libraries [maintainer=@flokli] (2 days ago)
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service (3 days ago)
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (3 days ago)
 - [GetSherlog/Sherlog-prometheus-agent](https://github.com/GetSherlog/Sherlog-prometheus-agent) - An AI agent for interacting with the Prometheus-Loki-Grafana stack (3 days ago)
-- [czerwonk/atlas_exporter](https://github.com/czerwonk/atlas_exporter) - Metric exporter for RIPE Atlas measurement results (4 days ago)
