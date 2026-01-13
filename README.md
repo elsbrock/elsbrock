@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (6 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (9 months ago)
@@ -22,16 +22,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (5 days ago)
-- [feat: use ride mode-specific autonomy for range calculation](https://github.com/elsbrock/cowboy-ha/pull/114) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (6 days ago)
-- [Add Claude Code GitHub Workflow](https://github.com/elsbrock/cowboy-ha/pull/113) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (6 days ago)
+- [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (6 days ago)
+- [feat: use ride mode-specific autonomy for range calculation](https://github.com/elsbrock/cowboy-ha/pull/114) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 week ago)
+- [Add Claude Code GitHub Workflow](https://github.com/elsbrock/cowboy-ha/pull/113) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 week ago)
 - [fix: only count servers marked as available by API in availability %](https://github.com/elsbrock/hetzner-radar/pull/249) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 - [feat: add systemd-machined integration and SSH over VSOCK](https://github.com/microvm-nix/microvm.nix/pull/453) on [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [unhaya/vam-seek](https://github.com/unhaya/vam-seek) - 2D Video Seek Marker - Client-side video navigation grid library (1 day ago)
-- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121] (3 days ago)
-- [nix-community/go-nix](https://github.com/nix-community/go-nix) - Elements of Nix re-implemented as Go libraries [maintainer=@flokli] (5 days ago)
-- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service (6 days ago)
-- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (6 days ago)
+- [unhaya/vam-seek](https://github.com/unhaya/vam-seek) - 2D Video Seek Marker - Client-side video navigation grid library (2 days ago)
+- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121] (4 days ago)
+- [nix-community/go-nix](https://github.com/nix-community/go-nix) - Elements of Nix re-implemented as Go libraries [maintainer=@flokli] (6 days ago)
+- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service (1 week ago)
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (1 week ago)
