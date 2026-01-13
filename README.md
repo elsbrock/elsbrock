@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage all your agents (today)
 - [unhaya/vam-seek](https://github.com/unhaya/vam-seek) - 2D Video Seek Marker - Client-side video navigation grid library (2 days ago)
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121] (4 days ago)
 - [nix-community/go-nix](https://github.com/nix-community/go-nix) - Elements of Nix re-implemented as Go libraries [maintainer=@flokli] (6 days ago)
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service (1 week ago)
-- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (1 week ago)
