@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [builtbybel/Winslop](https://github.com/builtbybel/Winslop) - De-slop Windows. (today)
+- [autobrr/mkbrr](https://github.com/autobrr/mkbrr) - ⚡ mkbrr is a tool to create, modify and inspect torrent files. Fast. (today)
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (today)
 - [NishantJoshi00/dith](https://github.com/NishantJoshi00/dith) -  (today)
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. (today)
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage all your agents (2 days ago)
-- [unhaya/vam-seek](https://github.com/unhaya/vam-seek) - 2D Video Seek Marker - Client-side video navigation grid library (4 days ago)
-- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121] (6 days ago)
