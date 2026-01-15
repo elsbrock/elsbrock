@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode (today)
 - [builtbybel/Winslop](https://github.com/builtbybel/Winslop) - De-slop Windows. (today)
 - [autobrr/mkbrr](https://github.com/autobrr/mkbrr) - ⚡ mkbrr is a tool to create, modify and inspect torrent files. Fast. (today)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (today)
 - [NishantJoshi00/dith](https://github.com/NishantJoshi00/dith) -  (today)
-- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. (today)
