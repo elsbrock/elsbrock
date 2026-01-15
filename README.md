@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [NishantJoshi00/dith](https://github.com/NishantJoshi00/dith) -  (today)
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. (today)
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage all your agents (2 days ago)
 - [unhaya/vam-seek](https://github.com/unhaya/vam-seek) - 2D Video Seek Marker - Client-side video navigation grid library (4 days ago)
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121] (6 days ago)
-- [nix-community/go-nix](https://github.com/nix-community/go-nix) - Elements of Nix re-implemented as Go libraries [maintainer=@flokli] (1 week ago)
