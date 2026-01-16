@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [medo64/CyberCard](https://github.com/medo64/CyberCard) - Allows for serial (via USB) communication with CyberPower OR500LCDRM1U. (today)
 - [Marviel/speak_when_done](https://github.com/Marviel/speak_when_done) -  (today)
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode (1 day ago)
 - [builtbybel/Winslop](https://github.com/builtbybel/Winslop) - De-slop Windows. (1 day ago)
 - [autobrr/mkbrr](https://github.com/autobrr/mkbrr) - ⚡ mkbrr is a tool to create, modify and inspect torrent files. Fast. (1 day ago)
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 day ago)
