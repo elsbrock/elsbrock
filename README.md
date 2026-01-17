@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. (today)
 - [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software. (today)
 - [cedececa/Kavita-book-reader](https://github.com/cedececa/Kavita-book-reader) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. (today)
 - [strangeglyph/profilarr](https://github.com/strangeglyph/profilarr) - Configuration Management Platform for Radarr/Sonarr (1 day ago)
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr (1 day ago)
-- [medo64/CyberCard](https://github.com/medo64/CyberCard) - Allows for serial (via USB) communication with CyberPower OR500LCDRM1U. (1 day ago)
