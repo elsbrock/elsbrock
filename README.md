@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module (6 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (9 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (9 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [strangeglyph/profilarr](https://github.com/strangeglyph/profilarr) - Configuration Management Platform for Radarr/Sonarr (today)
-- [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr (today)
-- [medo64/CyberCard](https://github.com/medo64/CyberCard) - Allows for serial (via USB) communication with CyberPower OR500LCDRM1U. (today)
-- [Marviel/speak_when_done](https://github.com/Marviel/speak_when_done) -  (today)
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode (1 day ago)
+- [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software. (today)
+- [cedececa/Kavita-book-reader](https://github.com/cedececa/Kavita-book-reader) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. (today)
+- [strangeglyph/profilarr](https://github.com/strangeglyph/profilarr) - Configuration Management Platform for Radarr/Sonarr (1 day ago)
+- [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr (1 day ago)
+- [medo64/CyberCard](https://github.com/medo64/CyberCard) - Allows for serial (via USB) communication with CyberPower OR500LCDRM1U. (1 day ago)
