@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92] (1 day ago)
-- [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs ) (1 day ago)
-- [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted &#43; Rust (1 day ago)
-- [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!  (1 day ago)
-- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C&#43;&#43; (2 days ago)
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (today)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (today)
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (today)
+- [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API. (today)
+- [bookcard-io/bookcard](https://github.com/bookcard-io/bookcard) - Self-hosted ebook/comics management and reading application (today)
