@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement) (today)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (today)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (today)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (today)
 - [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API. (today)
-- [bookcard-io/bookcard](https://github.com/bookcard-io/bookcard) - Self-hosted ebook/comics management and reading application (today)
