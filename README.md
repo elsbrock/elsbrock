@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [hookenz/caddy-signed-urls](https://github.com/hookenz/caddy-signed-urls) - HMAC Signed URLs for Caddy v2 (today)
 - [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement) (1 day ago)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (1 day ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 day ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (1 day ago)
-- [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API. (1 day ago)
