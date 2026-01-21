@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (today)
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts (1 day ago)
 - [hookenz/caddy-signed-urls](https://github.com/hookenz/caddy-signed-urls) - HMAC Signed URLs for Caddy v2 (1 day ago)
 - [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement) (2 days ago)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (2 days ago)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (2 days ago)
