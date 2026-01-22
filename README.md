@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [AKVorrat/netzbremse-measurement](https://github.com/AKVorrat/netzbremse-measurement) - Headless measurement tool for the netzbremse.de campaign.  (today)
+- [wtznc/not-so-private-relay](https://github.com/wtznc/not-so-private-relay) -  not-so-private-relay (today)
 - [opral/lix](https://github.com/opral/lix) - The version control system for AI agents. (today)
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library (today)
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android (today)
-- [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (1 day ago)
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts (2 days ago)
