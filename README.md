@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (today)
 - [AKVorrat/netzbremse-measurement](https://github.com/AKVorrat/netzbremse-measurement) - Headless measurement tool for the netzbremse.de campaign.  (today)
 - [wtznc/not-so-private-relay](https://github.com/wtznc/not-so-private-relay) -  not-so-private-relay (today)
 - [opral/lix](https://github.com/opral/lix) - The version control system for AI agents. (today)
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library (today)
-- [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android (today)
