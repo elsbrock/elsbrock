@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [opral/lix](https://github.com/opral/lix) - The version control system for AI agents. (today)
+- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library (today)
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android (today)
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (1 day ago)
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts (2 days ago)
-- [hookenz/caddy-signed-urls](https://github.com/hookenz/caddy-signed-urls) - HMAC Signed URLs for Caddy v2 (2 days ago)
-- [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement) (3 days ago)
