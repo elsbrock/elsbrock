@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (today)
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (today)
 - [eakmanrq/sqlframe](https://github.com/eakmanrq/sqlframe) - Turning PySpark Into a Universal DataFrame API (today)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (1 day ago)
 - [AKVorrat/netzbremse-measurement](https://github.com/AKVorrat/netzbremse-measurement) - Headless measurement tool for the netzbremse.de campaign.  (1 day ago)
-- [wtznc/not-so-private-relay](https://github.com/wtznc/not-so-private-relay) -  not-so-private-relay (1 day ago)
-- [opral/lix](https://github.com/opral/lix) - The version control system for AI agents. (1 day ago)
