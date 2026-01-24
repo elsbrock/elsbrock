@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [handokota/trackerpathways](https://github.com/handokota/trackerpathways) - Discover the private tracker network. Find invite routes, view requirements, and visualize paths using an interactive graph. (today)
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (today)
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It&#39;s available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.  (1 day ago)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 day ago)
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX. (1 day ago)
-- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (1 day ago)
