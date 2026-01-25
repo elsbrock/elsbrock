@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (today)
-- [handokota/trackerpathways](https://github.com/handokota/trackerpathways) - Discover the private tracker network. Find invite routes, view requirements, and visualize paths using an interactive graph. (today)
-- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (today)
-- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It&#39;s available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.  (1 day ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 day ago)
+- [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (1 day ago)
+- [handokota/trackerpathways](https://github.com/handokota/trackerpathways) - Discover the private tracker network. Find invite routes, view requirements, and visualize paths using an interactive graph. (1 day ago)
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (1 day ago)
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It&#39;s available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.  (2 days ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (2 days ago)
