@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (today)
 - [joshribakoff/workforest.space](https://github.com/joshribakoff/workforest.space) -  (today)
 - [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (1 day ago)
 - [handokota/trackerpathways](https://github.com/handokota/trackerpathways) - Discover the private tracker network. Find invite routes, view requirements, and visualize paths using an interactive graph. (1 day ago)
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (1 day ago)
-- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It&#39;s available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.  (2 days ago)
