@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [arin-s/DOOMBuds](https://github.com/arin-s/DOOMBuds) - doomgeneric port for the PineBuds Pro (today)
 - [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (1 day ago)
 - [joshribakoff/workforest.space](https://github.com/joshribakoff/workforest.space) -  (1 day ago)
 - [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (2 days ago)
 - [handokota/trackerpathways](https://github.com/handokota/trackerpathways) - Discover the private tracker network. Find invite routes, view requirements, and visualize paths using an interactive graph. (2 days ago)
-- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (2 days ago)
