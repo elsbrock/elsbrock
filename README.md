@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (today)
 - [arin-s/DOOMBuds](https://github.com/arin-s/DOOMBuds) - doomgeneric port for the PineBuds Pro (1 day ago)
 - [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (2 days ago)
 - [joshribakoff/workforest.space](https://github.com/joshribakoff/workforest.space) -  (2 days ago)
 - [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (3 days ago)
-- [handokota/trackerpathways](https://github.com/handokota/trackerpathways) - Discover the private tracker network. Find invite routes, view requirements, and visualize paths using an interactive graph. (3 days ago)
