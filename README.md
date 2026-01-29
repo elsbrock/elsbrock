@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 day ago)
-- [arin-s/DOOMBuds](https://github.com/arin-s/DOOMBuds) - doomgeneric port for the PineBuds Pro (2 days ago)
-- [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (3 days ago)
-- [joshribakoff/workforest.space](https://github.com/joshribakoff/workforest.space) -  (3 days ago)
-- [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (4 days ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 days ago)
+- [arin-s/DOOMBuds](https://github.com/arin-s/DOOMBuds) - doomgeneric port for the PineBuds Pro (3 days ago)
+- [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (4 days ago)
+- [joshribakoff/workforest.space](https://github.com/joshribakoff/workforest.space) -  (4 days ago)
+- [carterjandrew/booklore-nix](https://github.com/carterjandrew/booklore-nix) - Nix pacakges for booklore api and ui services (5 days ago)
