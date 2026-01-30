@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [leoherzog/LinuxExchange](https://github.com/leoherzog/LinuxExchange) - 👥 💿 A peer-to-peer Linux ISO download website, powered by WebTorrent (today)
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages clawdis for nix. (today)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (3 days ago)
 - [arin-s/DOOMBuds](https://github.com/arin-s/DOOMBuds) - doomgeneric port for the PineBuds Pro (4 days ago)
 - [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (5 days ago)
-- [joshribakoff/workforest.space](https://github.com/joshribakoff/workforest.space) -  (5 days ago)
