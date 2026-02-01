@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent. (today)
 - [leoherzog/LinuxExchange](https://github.com/leoherzog/LinuxExchange) - 👥 💿 A peer-to-peer Linux ISO download website, powered by WebTorrent (2 days ago)
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages clawdis for nix. (2 days ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (5 days ago)
 - [arin-s/DOOMBuds](https://github.com/arin-s/DOOMBuds) - doomgeneric port for the PineBuds Pro (6 days ago)
-- [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) - TUI for managing XDG default applications (1 week ago)
