@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [benjaminshoemaker/vibecode_spec_generator](https://github.com/benjaminshoemaker/vibecode_spec_generator) - Wizard-style app to help people generate specs that AI coding agents can execute &amp; keep track of status (today)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (3 days ago)
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent. (3 days ago)
 - [leoherzog/LinuxExchange](https://github.com/leoherzog/LinuxExchange) - 👥 💿 A peer-to-peer Linux ISO download website, powered by WebTorrent (5 days ago)
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages clawdis for nix. (5 days ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
