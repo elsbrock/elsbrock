@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 weeks ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (3 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (7 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (10 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (2 weeks ago)
+- [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (3 weeks ago)
 - [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 month ago)
 - [feat: use ride mode-specific autonomy for range calculation](https://github.com/elsbrock/cowboy-ha/pull/114) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/elsbrock/cowboy-ha/pull/113) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [elsbrock/hn-reader](https://github.com/elsbrock/hn-reader) -  (1 day ago)
-- [benjaminshoemaker/vibecode_spec_generator](https://github.com/benjaminshoemaker/vibecode_spec_generator) - Wizard-style app to help people generate specs that AI coding agents can execute &amp; keep track of status (2 days ago)
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (5 days ago)
-- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent. (5 days ago)
+- [elsbrock/hn-reader](https://github.com/elsbrock/hn-reader) -  (2 days ago)
+- [benjaminshoemaker/vibecode_spec_generator](https://github.com/benjaminshoemaker/vibecode_spec_generator) - Wizard-style app to help people generate specs that AI coding agents can execute &amp; keep track of status (3 days ago)
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (6 days ago)
+- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent. (6 days ago)
 - [leoherzog/LinuxExchange](https://github.com/leoherzog/LinuxExchange) - 👥 💿 A peer-to-peer Linux ISO download website, powered by WebTorrent (1 week ago)
