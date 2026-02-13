@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id) (today)
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (2 days ago)
-- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron &#43; Next.js. (2 days ago)
-- [marcus/nightshift](https://github.com/marcus/nightshift) - Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them. (2 days ago)
+- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id) (1 day ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (3 days ago)
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron &#43; Next.js. (3 days ago)
+- [marcus/nightshift](https://github.com/marcus/nightshift) - Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them. (3 days ago)
 - [elsbrock/hn-reader](https://github.com/elsbrock/hn-reader) -  (1 week ago)
