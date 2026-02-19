@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [d0m1n1kr/pod-insights](https://github.com/d0m1n1kr/pod-insights) -  (today)
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API). (4 days ago)
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale (4 days ago)
-- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id) (6 days ago)
+- [d0m1n1kr/pod-insights](https://github.com/d0m1n1kr/pod-insights) -  (1 day ago)
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API). (5 days ago)
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale (5 days ago)
+- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id) (1 week ago)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 week ago)
