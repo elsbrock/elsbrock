@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster (today)
-- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (1 day ago)
-- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code (1 day ago)
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (1 day ago)
-- [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method (3 days ago)
+- [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster (1 day ago)
+- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (2 days ago)
+- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code (2 days ago)
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (2 days ago)
+- [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method (4 days ago)
