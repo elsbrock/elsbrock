@@ -4,7 +4,7 @@
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
-- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (7 months ago)
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (8 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (11 months ago)
 - [petm5/nixlet](https://github.com/petm5/nixlet) - A minimal, immutable NixOS-based distro with automatic A/B updates (11 months ago)
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (today)
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers (1 day ago)
-- [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster (2 days ago)
-- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (3 days ago)
-- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code (3 days ago)
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (1 day ago)
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers (2 days ago)
+- [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster (3 days ago)
+- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (4 days ago)
+- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code (4 days ago)
