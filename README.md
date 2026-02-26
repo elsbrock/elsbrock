@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
+- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. (today)
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (1 day ago)
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers (2 days ago)
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster (3 days ago)
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (4 days ago)
-- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code (4 days ago)
