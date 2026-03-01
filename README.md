@@ -34,5 +34,5 @@
 - [harperaa/bastionclaw-mission-control](https://github.com/harperaa/bastionclaw-mission-control) -  (1 day ago)
 - [harperaa/bastionclaw](https://github.com/harperaa/bastionclaw) - Personal AI assistant with container isolation and semantic memory (1 day ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (1 day ago)
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀 (1 day ago)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀 (1 day ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 day ago)
