@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 day ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (8 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 1 day ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 2 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 2 days ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
+- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 3 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [harperaa/bastionclaw-mission-control](https://github.com/harperaa/bastionclaw-mission-control) -  (1 day ago)
-- [harperaa/bastionclaw](https://github.com/harperaa/bastionclaw) - Personal AI assistant with container isolation and semantic memory (1 day ago)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (1 day ago)
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (1 day ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 day ago)
+- [harperaa/bastionclaw-mission-control](https://github.com/harperaa/bastionclaw-mission-control) -  (2 days ago)
+- [harperaa/bastionclaw](https://github.com/harperaa/bastionclaw) - Personal AI assistant with container isolation and semantic memory (2 days ago)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (2 days ago)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 days ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (2 days ago)
