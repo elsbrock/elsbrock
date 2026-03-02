@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [apache/flink](https://github.com/apache/flink) - Apache Flink (today)
+- [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. (today)
 - [harperaa/bastionclaw-mission-control](https://github.com/harperaa/bastionclaw-mission-control) -  (2 days ago)
 - [harperaa/bastionclaw](https://github.com/harperaa/bastionclaw) - Personal AI assistant with container isolation and semantic memory (2 days ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (2 days ago)
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 days ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (2 days ago)
