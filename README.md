@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (today)
 - [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 month ago)
 - [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 month ago)
 - [feat: use ride mode-specific autonomy for range calculation](https://github.com/elsbrock/cowboy-ha/pull/114) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/elsbrock/cowboy-ha/pull/113) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (1 month ago)
-- [fix: only count servers marked as available by API in availability %](https://github.com/elsbrock/hetzner-radar/pull/249) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 months ago)
 
 #### ⭐ Recent Stars
 
