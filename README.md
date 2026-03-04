@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 4 days ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), today) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 3 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
