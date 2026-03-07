@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (today)
 - [apache/flink](https://github.com/apache/flink) - Apache Flink (5 days ago)
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. (5 days ago)
 - [harperaa/bastionclaw-mission-control](https://github.com/harperaa/bastionclaw-mission-control) -  (1 week ago)
 - [harperaa/bastionclaw](https://github.com/harperaa/bastionclaw) - Personal AI assistant with container isolation and semantic memory (1 week ago)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (1 week ago)
