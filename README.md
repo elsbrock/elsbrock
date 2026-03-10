@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 day ago)
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (1 day ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 days ago)
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (2 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (8 months ago)
@@ -18,12 +18,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 5 days ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 6 days ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 3 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
-- [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (6 days ago)
+- [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 week ago)
 - [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 month ago)
 - [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
 - [feat: use ride mode-specific autonomy for range calculation](https://github.com/elsbrock/cowboy-ha/pull/114) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (2 days ago)
-- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (2 days ago)
-- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (2 days ago)
+- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (3 days ago)
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (3 days ago)
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (3 days ago)
 - [apache/flink](https://github.com/apache/flink) - Apache Flink (1 week ago)
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. (1 week ago)
