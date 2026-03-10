@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) -  (today)
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (3 days ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (3 days ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (3 days ago)
 - [apache/flink](https://github.com/apache/flink) - Apache Flink (1 week ago)
-- [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. (1 week ago)
