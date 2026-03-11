@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (today)
 - [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) -  (1 day ago)
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (4 days ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (4 days ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (4 days ago)
-- [apache/flink](https://github.com/apache/flink) - Apache Flink (1 week ago)
