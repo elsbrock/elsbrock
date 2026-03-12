@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (today)
 - [eqtylab/cupcake](https://github.com/eqtylab/cupcake) - A native policy enforcement layer for AI coding agents. Built on OPA/Rego. (today)
 - [manuelschipper/nah](https://github.com/manuelschipper/nah) - Context-aware safety guard for Claude Code. A permission system you control. (today)
-- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (1 day ago)
 - [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) -  (2 days ago)
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (5 days ago)
