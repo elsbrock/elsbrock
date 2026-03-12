@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 days ago)
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (3 days ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (4 days ago)
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (4 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (8 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (today)
+- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (1 day ago)
 - [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 week ago)
 - [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 month ago)
 - [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (today)
-- [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) -  (1 day ago)
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (4 days ago)
-- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (4 days ago)
-- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (4 days ago)
+- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (1 day ago)
+- [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) -  (2 days ago)
+- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (5 days ago)
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (5 days ago)
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (5 days ago)
