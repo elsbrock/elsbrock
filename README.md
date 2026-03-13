@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS (today)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (today)
 - [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python&#39;s orjson module for persistence. It can also use SQLite instead of orjson if needed. (today)
 - [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (1 day ago)
 - [eqtylab/cupcake](https://github.com/eqtylab/cupcake) - A native policy enforcement layer for AI coding agents. Built on OPA/Rego. (1 day ago)
-- [manuelschipper/nah](https://github.com/manuelschipper/nah) - Context-aware safety guard for Claude Code. A permission system you control. (1 day ago)
