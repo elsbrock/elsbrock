@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python&#39;s orjson module for persistence. It can also use SQLite instead of orjson if needed. (today)
 - [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (1 day ago)
 - [eqtylab/cupcake](https://github.com/eqtylab/cupcake) - A native policy enforcement layer for AI coding agents. Built on OPA/Rego. (1 day ago)
 - [manuelschipper/nah](https://github.com/manuelschipper/nah) - Context-aware safety guard for Claude Code. A permission system you control. (1 day ago)
 - [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) -  (3 days ago)
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9 (6 days ago)
