@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (5 days ago)
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (5 days ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 days ago)
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (6 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module (8 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (2 days ago)
+- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (3 days ago)
 - [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 week ago)
 - [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 month ago)
 - [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS (today)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (today)
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python&#39;s orjson module for persistence. It can also use SQLite instead of orjson if needed. (today)
-- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (1 day ago)
-- [eqtylab/cupcake](https://github.com/eqtylab/cupcake) - A native policy enforcement layer for AI coding agents. Built on OPA/Rego. (1 day ago)
+- [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS (1 day ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python&#39;s orjson module for persistence. It can also use SQLite instead of orjson if needed. (1 day ago)
+- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (2 days ago)
+- [eqtylab/cupcake](https://github.com/eqtylab/cupcake) - A native policy enforcement layer for AI coding agents. Built on OPA/Rego. (2 days ago)
