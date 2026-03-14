@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (today)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (today)
 - [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS (1 day ago)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
 - [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python&#39;s orjson module for persistence. It can also use SQLite instead of orjson if needed. (1 day ago)
-- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support. (2 days ago)
-- [eqtylab/cupcake](https://github.com/eqtylab/cupcake) - A native policy enforcement layer for AI coding agents. Built on OPA/Rego. (2 days ago)
