@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88&#43; formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server. (today)
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld. (today)
 - [Myriad-Dreamin/shiroa](https://github.com/Myriad-Dreamin/shiroa) - shiroa is a simple tool for creating modern online books in pure typst. (today)
 - [docling-project/docling-ts](https://github.com/docling-project/docling-ts) - Use Docling output in TypeScript and JavaScript (1 day ago)
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (1 day ago)
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (1 day ago)
