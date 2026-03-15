@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld. (today)
+- [Myriad-Dreamin/shiroa](https://github.com/Myriad-Dreamin/shiroa) - shiroa is a simple tool for creating modern online books in pure typst. (today)
 - [docling-project/docling-ts](https://github.com/docling-project/docling-ts) - Use Docling output in TypeScript and JavaScript (1 day ago)
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (1 day ago)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (1 day ago)
-- [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS (2 days ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 days ago)
