@@ -23,16 +23,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (5 days ago)
-- [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 week ago)
+- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (6 days ago)
+- [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (2 weeks ago)
 - [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (1 month ago)
 - [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
 - [feat: use ride mode-specific autonomy for range calculation](https://github.com/elsbrock/cowboy-ha/pull/114) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88&#43; formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server. (1 day ago)
-- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld. (1 day ago)
-- [Myriad-Dreamin/shiroa](https://github.com/Myriad-Dreamin/shiroa) - shiroa is a simple tool for creating modern online books in pure typst. (1 day ago)
-- [docling-project/docling-ts](https://github.com/docling-project/docling-ts) - Use Docling output in TypeScript and JavaScript (2 days ago)
-- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (2 days ago)
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88&#43; formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server. (2 days ago)
+- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld. (2 days ago)
+- [Myriad-Dreamin/shiroa](https://github.com/Myriad-Dreamin/shiroa) - shiroa is a simple tool for creating modern online books in pure typst. (2 days ago)
+- [docling-project/docling-ts](https://github.com/docling-project/docling-ts) - Use Docling output in TypeScript and JavaScript (3 days ago)
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (3 days ago)
