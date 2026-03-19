@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [rjcorwin/cook](https://github.com/rjcorwin/cook) - Template driven cook loop (work-&gt;review-&gt;gate) for claude/etc. in a sandbox (today)
 - [orcahand/orcahand_description](https://github.com/orcahand/orcahand_description) - Contains the description files for the Orcahand model (MJCF, URDF) (1 day ago)
 - [tunis4/Fishix](https://github.com/tunis4/Fishix) - A hobby kernel with Linux binary compatibility. (2 days ago)
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. (2 days ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (2 days ago)
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88&#43; formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server. (4 days ago)
