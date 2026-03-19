@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel (today)
 - [rjcorwin/cook](https://github.com/rjcorwin/cook) - A simple CLI for orchestrating Claude Code, Codex, and OpenCode (today)
 - [orcahand/orcahand_description](https://github.com/orcahand/orcahand_description) - Contains the description files for the Orcahand model (MJCF, URDF) (1 day ago)
 - [tunis4/Fishix](https://github.com/tunis4/Fishix) - A hobby kernel with Linux binary compatibility. (2 days ago)
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. (2 days ago)
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (2 days ago)
