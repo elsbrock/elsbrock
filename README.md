@@ -32,7 +32,7 @@
 
 #### ⭐ Recent Stars
 
-- [rjcorwin/cook](https://github.com/rjcorwin/cook) - CLI/skill for workflow loops with Claude Code, Codex, and OpenCode. (today)
+- [rjcorwin/cook](https://github.com/rjcorwin/cook) - A simple CLI for orchestrating Claude Code, Codex, and OpenCode (today)
 - [orcahand/orcahand_description](https://github.com/orcahand/orcahand_description) - Contains the description files for the Orcahand model (MJCF, URDF) (1 day ago)
 - [tunis4/Fishix](https://github.com/tunis4/Fishix) - A hobby kernel with Linux binary compatibility. (2 days ago)
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. (2 days ago)
