@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale Chrome extension (today)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 day ago)
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (1 day ago)
 - [docling-project/docling-serve](https://github.com/docling-project/docling-serve) - Running Docling as an API service (1 day ago)
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. (2 days ago)
-- [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel (3 days ago)
