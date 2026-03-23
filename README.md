@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (5 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (6 days ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: enrich servers with CPU cores, threads, generation, and benchmark scores](https://github.com/elsbrock/hetzner-radar/pull/256) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [feat: enrich servers with CPU cores, threads, generation, and benchmark scores](https://github.com/elsbrock/hetzner-radar/pull/256) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (1 week ago)
 - [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (2 weeks ago)
 - [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (2 months ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [r59q/geekbench-cpu-specs](https://github.com/r59q/geekbench-cpu-specs) - CPU specs from geekbench in a json file (today)
-- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale Chrome extension (today)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 day ago)
-- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (1 day ago)
-- [docling-project/docling-serve](https://github.com/docling-project/docling-serve) - Running Docling as an API service (1 day ago)
+- [r59q/geekbench-cpu-specs](https://github.com/r59q/geekbench-cpu-specs) - CPU specs from geekbench in a json file (1 day ago)
+- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale Chrome extension (1 day ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 days ago)
+- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (2 days ago)
+- [docling-project/docling-serve](https://github.com/docling-project/docling-serve) - Running Docling as an API service (2 days ago)
