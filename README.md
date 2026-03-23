@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add .claude/ to .gitignore](https://github.com/elsbrock/hetzner-radar/pull/261) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [chore: upgrade Vite v7→v8 and vite-plugin-svelte v6→v7](https://github.com/elsbrock/hetzner-radar/pull/260) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [chore: upgrade ESLint from v9 to v10](https://github.com/elsbrock/hetzner-radar/pull/259) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat: enrich servers with CPU cores, threads, generation, and benchmark scores](https://github.com/elsbrock/hetzner-radar/pull/256) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (1 week ago)
-- [fix(qbittorrent): deep-merge extraConfig with lib.recursiveUpdate](https://github.com/nix-media-server/nixarr/pull/146) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (2 weeks ago)
-- [fix(*arr): add UMask to systemd services for proper group permissions](https://github.com/nix-media-server/nixarr/pull/133) on [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) (2 months ago)
-- [chore: bump version to 1.1.0](https://github.com/elsbrock/cowboy-ha/pull/115) on [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) (2 months ago)
 
 #### ⭐ Recent Stars
 
