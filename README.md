@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (2 weeks ago)
@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [chore: add .claude/ to .gitignore](https://github.com/elsbrock/hetzner-radar/pull/261) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [chore: upgrade Vite v7→v8 and vite-plugin-svelte v6→v7](https://github.com/elsbrock/hetzner-radar/pull/260) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [chore: upgrade ESLint from v9 to v10](https://github.com/elsbrock/hetzner-radar/pull/259) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [feat: enrich servers with CPU cores, threads, generation, and benchmark scores](https://github.com/elsbrock/hetzner-radar/pull/256) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [feat: add DNS-over-QUIC (DoQ) upstream support (RFC 9250)](https://github.com/0xERR0R/blocky/pull/2013) on [0xERR0R/blocky](https://github.com/0xERR0R/blocky) (1 week ago)
 
 #### ⭐ Recent Stars
 
