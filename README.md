@@ -24,16 +24,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [chore: add .claude/ to .gitignore](https://github.com/elsbrock/hetzner-radar/pull/261) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [chore: upgrade Vite v7→v8 and vite-plugin-svelte v6→v7](https://github.com/elsbrock/hetzner-radar/pull/260) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [chore: upgrade ESLint from v9 to v10](https://github.com/elsbrock/hetzner-radar/pull/259) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [feat: enrich servers with CPU cores, threads, generation, and benchmark scores](https://github.com/elsbrock/hetzner-radar/pull/256) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way (today)
+- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (today)
 - [r59q/geekbench-cpu-specs](https://github.com/r59q/geekbench-cpu-specs) - CPU specs from geekbench in a json file (2 days ago)
 - [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale Chrome extension (2 days ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (3 days ago)
-- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (3 days ago)
-- [docling-project/docling-serve](https://github.com/docling-project/docling-serve) - Running Docling as an API service (3 days ago)
