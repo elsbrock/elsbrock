@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
+- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (today)
 - [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
 - [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [chore: add .claude/ to .gitignore](https://github.com/elsbrock/hetzner-radar/pull/261) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [chore: upgrade Vite v7→v8 and vite-plugin-svelte v6→v7](https://github.com/elsbrock/hetzner-radar/pull/260) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [chore: upgrade ESLint from v9 to v10](https://github.com/elsbrock/hetzner-radar/pull/259) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
 
 #### ⭐ Recent Stars
 
