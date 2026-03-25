@@ -20,7 +20,6 @@
 
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 weeks ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.29.0](https://github.com/0xERR0R/blocky/releases/tag/v0.29.0), 3 weeks ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-- [petm5/nixlet](https://github.com/petm5/nixlet) ([0.4.1](https://github.com/petm5/nixlet/releases/tag/0.4.1), 3 months ago) - A minimal, immutable NixOS-based distro with automatic A/B updates
 
 #### 🔨 My recent Pull Requests
 
