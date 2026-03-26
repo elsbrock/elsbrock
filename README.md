@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families &amp; friends  (today)
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer (today)
 - [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way (2 days ago)
 - [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (2 days ago)
 - [r59q/geekbench-cpu-specs](https://github.com/r59q/geekbench-cpu-specs) - CPU specs from geekbench in a json file (4 days ago)
-- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale Chrome extension (4 days ago)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (5 days ago)
