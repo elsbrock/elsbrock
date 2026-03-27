@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 days ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (2 weeks ago)
@@ -19,20 +19,20 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 weeks ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.29.0](https://github.com/0xERR0R/blocky/releases/tag/v0.29.0), 3 weeks ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.29.0](https://github.com/0xERR0R/blocky/releases/tag/v0.29.0), 4 weeks ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 
 #### 🔨 My recent Pull Requests
 
-- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 day ago)
-- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
-- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 days ago)
+- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
+- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families &amp; friends  (today)
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer (today)
-- [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way (2 days ago)
-- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (2 days ago)
-- [r59q/geekbench-cpu-specs](https://github.com/r59q/geekbench-cpu-specs) - CPU specs from geekbench in a json file (4 days ago)
+- [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families &amp; friends  (1 day ago)
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer (1 day ago)
+- [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way (3 days ago)
+- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (3 days ago)
+- [r59q/geekbench-cpu-specs](https://github.com/r59q/geekbench-cpu-specs) - CPU specs from geekbench in a json file (5 days ago)
