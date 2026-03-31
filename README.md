@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [jrswab/lsq](https://github.com/jrswab/lsq) - The command-line tool for Logseq. Quickly create or edit journal entries and pages. (today)
 - [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode) - Get-Shit-Done by TACHES for OpenCode (2 days ago)
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (2 days ago)
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (3 days ago)
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (3 days ago)
-- [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families &amp; friends  (5 days ago)
