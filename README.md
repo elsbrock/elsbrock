@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source. (today)
+- [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates. (today)
+- [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (today)
 - [jrswab/lsq](https://github.com/jrswab/lsq) - The command-line tool for Logseq. Quickly create or edit journal entries and pages. (today)
 - [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode) - Get-Shit-Done by TACHES for OpenCode (2 days ago)
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (2 days ago)
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (3 days ago)
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (3 days ago)
