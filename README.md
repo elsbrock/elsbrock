@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (5 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 weeks ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (3 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
@@ -23,16 +23,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
-- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
-- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 days ago)
-- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
-- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (6 days ago)
+- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
+- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode) - Get-Shit-Done by TACHES for OpenCode (1 day ago)
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (1 day ago)
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (2 days ago)
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (2 days ago)
-- [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families &amp; friends  (4 days ago)
+- [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode) - Get-Shit-Done by TACHES for OpenCode (2 days ago)
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (2 days ago)
+- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (3 days ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (3 days ago)
+- [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families &amp; friends  (5 days ago)
