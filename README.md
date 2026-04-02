@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source. (1 day ago)
-- [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates. (1 day ago)
-- [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (1 day ago)
-- [jrswab/lsq](https://github.com/jrswab/lsq) - The command-line tool for Logseq. Quickly create or edit journal entries and pages. (1 day ago)
-- [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode) - Get-Shit-Done by TACHES for OpenCode (3 days ago)
+- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source. (2 days ago)
+- [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates. (2 days ago)
+- [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (2 days ago)
+- [jrswab/lsq](https://github.com/jrswab/lsq) - The command-line tool for Logseq. Quickly create or edit journal entries and pages. (2 days ago)
+- [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode) - Get-Shit-Done by TACHES for OpenCode (4 days ago)
