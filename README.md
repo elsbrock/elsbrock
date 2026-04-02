@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (today)
 - [1broseidon/cymbal](https://github.com/1broseidon/cymbal) - Language-agnostic code navigation CLI powered by tree-sitter (today)
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source. (2 days ago)
 - [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates. (2 days ago)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (2 days ago)
-- [jrswab/lsq](https://github.com/jrswab/lsq) - The command-line tool for Logseq. Quickly create or edit journal entries and pages. (2 days ago)
