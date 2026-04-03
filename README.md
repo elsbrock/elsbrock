@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework (today)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (today)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (1 day ago)
 - [1broseidon/cymbal](https://github.com/1broseidon/cymbal) - Language-agnostic code navigation CLI powered by tree-sitter (1 day ago)
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source. (3 days ago)
-- [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates. (3 days ago)
-- [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (3 days ago)
