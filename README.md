@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 weeks ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (3 weeks ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code &#43; web UI &#43; 5 AI CLIs &#43; headless browser &#43; 50&#43; tools (today)
-- [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework (today)
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (today)
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (1 day ago)
-- [1broseidon/cymbal](https://github.com/1broseidon/cymbal) - Language-agnostic code navigation CLI powered by tree-sitter (1 day ago)
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code &#43; web UI &#43; 5 AI CLIs &#43; headless browser &#43; 50&#43; tools (1 day ago)
+- [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework (1 day ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 day ago)
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (2 days ago)
+- [1broseidon/cymbal](https://github.com/1broseidon/cymbal) - Language-agnostic code navigation CLI powered by tree-sitter (2 days ago)
