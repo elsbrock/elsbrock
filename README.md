@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code &#43; web UI &#43; 5 AI CLIs &#43; headless browser &#43; 50&#43; tools (1 day ago)
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code &#43; web UI &#43; 7 AI CLIs &#43; headless browser &#43; 50&#43; tools (1 day ago)
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework (1 day ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 day ago)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (2 days ago)
