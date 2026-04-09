@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (3 days ago)
-- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (4 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (4 days ago)
+- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (5 days ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 4 days ago) - Lightweight OTLP metrics client for Cloudflare Workers
+- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 5 days ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 1 month ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.29.0](https://github.com/0xERR0R/blocky/releases/tag/v0.29.0), 1 month ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (today)
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph (2 days ago)
-- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout (2 days ago)
-- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (3 days ago)
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code &#43; web UI &#43; 7 AI CLIs &#43; headless browser &#43; 50&#43; tools (5 days ago)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 day ago)
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph (3 days ago)
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout (3 days ago)
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (4 days ago)
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code &#43; web UI &#43; 7 AI CLIs &#43; headless browser &#43; 50&#43; tools (6 days ago)
