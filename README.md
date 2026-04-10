@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (today)
 - [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 298 bytes of machine code (1 day ago)
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness. (1 day ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (2 days ago)
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph (4 days ago)
-- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout (4 days ago)
