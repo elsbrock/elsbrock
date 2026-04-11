@@ -35,5 +35,5 @@
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (1 day ago)
 - [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (1 day ago)
 - [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (1 day ago)
-- [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 309 bytes of machine code (2 days ago)
+- [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 307 bytes of machine code (2 days ago)
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness. (2 days ago)
