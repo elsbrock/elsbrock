@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (1 week ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (1 day ago)
-- [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (1 day ago)
-- [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (1 day ago)
-- [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 307 bytes of machine code (2 days ago)
-- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness. (2 days ago)
+- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (2 days ago)
+- [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (2 days ago)
+- [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (2 days ago)
+- [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 307 bytes of machine code (3 days ago)
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness. (3 days ago)
