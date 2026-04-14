@@ -4,7 +4,7 @@
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (1 week ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 weeks ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (4 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (1 month ago)
 
@@ -27,13 +27,13 @@
 - [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
 - [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
-- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
-- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (2 weeks ago)
+- [feat: auto-disarm cloud alerts after firing](https://github.com/elsbrock/hetzner-radar/pull/265) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
+- [fix: surface email sending errors during login](https://github.com/elsbrock/hetzner-radar/pull/263) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [paulmooreparks/tela](https://github.com/paulmooreparks/tela) - FOSS remote-access and connectivity fabric — outbound-only tunnels, multiplexed TCP channels, zero-install client access (today)
-- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (3 days ago)
-- [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (3 days ago)
-- [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (3 days ago)
-- [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 307 bytes of machine code (4 days ago)
+- [paulmooreparks/tela](https://github.com/paulmooreparks/tela) - FOSS remote-access and connectivity fabric — outbound-only tunnels, multiplexed TCP channels, zero-install client access (1 day ago)
+- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (4 days ago)
+- [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (4 days ago)
+- [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (4 days ago)
+- [meribold/btry](https://github.com/meribold/btry) - Battery info program for x86-64 Linux laptops in 307 bytes of machine code (5 days ago)
