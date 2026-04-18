@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (today)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
 - [paulmooreparks/tela](https://github.com/paulmooreparks/tela) - FOSS remote-access and connectivity fabric — outbound-only tunnels, multiplexed TCP channels, zero-install client access (5 days ago)
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (1 week ago)
 - [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (1 week ago)
-- [agberohq/keeper](https://github.com/agberohq/keeper) - Simple Secure Keeper for Secrets  (1 week ago)
