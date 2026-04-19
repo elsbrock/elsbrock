@@ -36,4 +36,4 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (3 days ago)
 - [paulmooreparks/tela](https://github.com/paulmooreparks/tela) - FOSS remote-access and connectivity fabric — outbound-only tunnels, multiplexed TCP channels, zero-install client access (6 days ago)
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine (1 week ago)
-- [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Policy-as-code for busy founders and developers (1 week ago)
+- [jamiedavenport/openpolicy](https://github.com/jamiedavenport/openpolicy) - Framework for building privacy-first apps (1 week ago)
