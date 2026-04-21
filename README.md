@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2 (today)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (today)
 - [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb) - WebUSB for fopses (today)
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (1 day ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 day ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 days ago)
