@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 days ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (2 weeks ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 month ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (1 month ago)
 
 #### 🌱 My latest projects
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb) - WebUSB for fopses (today)
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (1 day ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 day ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 days ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (5 days ago)
-- [paulmooreparks/tela](https://github.com/paulmooreparks/tela) - FOSS remote-access and connectivity fabric — outbound-only tunnels, multiplexed TCP channels, zero-install client access (1 week ago)
