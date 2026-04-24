@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [ananthb/starla](https://github.com/ananthb/starla) - Unofficial RIPE Atlas Software Probe in Rust (today)
 - [pinin4fjords/nf-metro](https://github.com/pinin4fjords/nf-metro) - Metro-map-style SVG diagrams from Mermaid graph definitions, designed for visualizing bioinformatics pipeline workflows (1 day ago)
 - [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2 (3 days ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (3 days ago)
 - [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb) - WebUSB for fopses (3 days ago)
-- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (4 days ago)
