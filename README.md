@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [driggsby/driggsby](https://github.com/driggsby/driggsby) - The MCP server for personal finance, written in Rust (today)
+- [machinarii/hypervibe](https://github.com/machinarii/hypervibe) - One-handed vibe coding using Apple TV Remote, customizable buttons and gestures. (today)
 - [Kuberwastaken/DoomMe](https://github.com/Kuberwastaken/DoomMe) - DOOM running inside a README (today)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (today)
 - [ananthb/starla](https://github.com/ananthb/starla) - Unofficial RIPE Atlas Software Probe in Rust (1 day ago)
-- [pinin4fjords/nf-metro](https://github.com/pinin4fjords/nf-metro) - Metro-map-style SVG diagrams from Mermaid graph definitions, designed for visualizing bioinformatics pipeline workflows (2 days ago)
-- [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2 (4 days ago)
