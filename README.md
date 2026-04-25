@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [Kuberwastaken/DoomMe](https://github.com/Kuberwastaken/DoomMe) - DOOM running inside a README (today)
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (today)
 - [ananthb/starla](https://github.com/ananthb/starla) - Unofficial RIPE Atlas Software Probe in Rust (1 day ago)
 - [pinin4fjords/nf-metro](https://github.com/pinin4fjords/nf-metro) - Metro-map-style SVG diagrams from Mermaid graph definitions, designed for visualizing bioinformatics pipeline workflows (2 days ago)
 - [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2 (4 days ago)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (4 days ago)
-- [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb) - WebUSB for fopses (4 days ago)
