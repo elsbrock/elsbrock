@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve (today)
 - [driggsby/driggsby](https://github.com/driggsby/driggsby) - The MCP server for personal finance, written in Rust (1 day ago)
 - [machinarii/hypervibe](https://github.com/machinarii/hypervibe) - One-handed vibe coding using Apple TV Remote, customizable buttons and gestures. (1 day ago)
 - [Kuberwastaken/DoomMe](https://github.com/Kuberwastaken/DoomMe) - DOOM running inside a README (1 day ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (1 day ago)
-- [ananthb/starla](https://github.com/ananthb/starla) - Unofficial RIPE Atlas Software Probe in Rust (2 days ago)
