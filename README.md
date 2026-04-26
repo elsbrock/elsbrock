@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (today)
 - [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve (today)
 - [driggsby/driggsby](https://github.com/driggsby/driggsby) - The MCP server for personal finance, written in Rust (1 day ago)
 - [machinarii/hypervibe](https://github.com/machinarii/hypervibe) - One-handed vibe coding using Apple TV Remote, customizable buttons and gestures. (1 day ago)
 - [Kuberwastaken/DoomMe](https://github.com/Kuberwastaken/DoomMe) - DOOM running inside a README (1 day ago)
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (1 day ago)
