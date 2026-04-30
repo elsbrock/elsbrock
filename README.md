@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [oselvar/sveltekit-add-worker-exports](https://github.com/oselvar/sveltekit-add-worker-exports) - Vite plugin that adds Durable Object and Workflow exports to SvelteKit Cloudflare workers (today)
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering  (1 day ago)
 - [code-rabi/interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) - Interactive Brokers MCP Server (3 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 days ago)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (4 days ago)
-- [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve (4 days ago)
