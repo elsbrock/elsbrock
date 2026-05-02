@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [LarsCowe/bmalph](https://github.com/LarsCowe/bmalph) - Unified AI Development Framework - BMAD phases with Ralph execution loop (today)
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (today)
 - [oselvar/sveltekit-add-worker-exports](https://github.com/oselvar/sveltekit-add-worker-exports) - Vite plugin that adds Durable Object and Workflow exports to SvelteKit Cloudflare workers (2 days ago)
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering  (3 days ago)
 - [code-rabi/interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) - Interactive Brokers MCP Server (5 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (5 days ago)
