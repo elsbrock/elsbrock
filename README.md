@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (5 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
-- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (3 weeks ago)
+- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (4 weeks ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 3 weeks ago) - Lightweight OTLP metrics client for Cloudflare Workers
+- [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 4 weeks ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 1 month ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.29.0](https://github.com/0xERR0R/blocky/releases/tag/v0.29.0), 2 months ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [oselvar/sveltekit-add-worker-exports](https://github.com/oselvar/sveltekit-add-worker-exports) - Vite plugin that adds Durable Object and Workflow exports to SvelteKit Cloudflare workers (1 day ago)
-- [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering  (2 days ago)
-- [code-rabi/interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) - Interactive Brokers MCP Server (4 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (4 days ago)
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (5 days ago)
+- [oselvar/sveltekit-add-worker-exports](https://github.com/oselvar/sveltekit-add-worker-exports) - Vite plugin that adds Durable Object and Workflow exports to SvelteKit Cloudflare workers (2 days ago)
+- [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering  (3 days ago)
+- [code-rabi/interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) - Interactive Brokers MCP Server (5 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (5 days ago)
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (6 days ago)
