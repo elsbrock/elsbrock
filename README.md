@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [BCsabaEngine/svelteesp32](https://github.com/BCsabaEngine/svelteesp32) - Embed Any Web App in Your ESP32 — One Binary, Zero Filesystem Hassle Turn your Svelte, React, Angular, or Vue frontend into a single C&#43;&#43; header file. Serve beautiful web interfaces directly from ESP32/ESP8266 flash memory with automatic gzip compression, ETag caching, and seamless OTA updates. (today)
 - [LarsCowe/bmalph](https://github.com/LarsCowe/bmalph) - Unified AI Development Framework - BMAD phases with Ralph execution loop (1 day ago)
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (1 day ago)
 - [oselvar/sveltekit-add-worker-exports](https://github.com/oselvar/sveltekit-add-worker-exports) - Vite plugin that adds Durable Object and Workflow exports to SvelteKit Cloudflare workers (3 days ago)
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering  (4 days ago)
-- [code-rabi/interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) - Interactive Brokers MCP Server (6 days ago)
