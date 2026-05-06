@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The &#34;Missing GitHub Status Page&#34; -- a Flat Data attempt at historically documenting GitHub statuses (today)
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI (1 day ago)
 - [mitchell-johnson/hxstore-decode](https://github.com/mitchell-johnson/hxstore-decode) -  (1 day ago)
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖 (1 day ago)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 days ago)
-- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (3 days ago)
