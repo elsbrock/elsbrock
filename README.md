@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [chardonnay/AbyssL](https://github.com/chardonnay/AbyssL) -  (today)
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The &#34;Missing GitHub Status Page&#34; -- a Flat Data attempt at historically documenting GitHub statuses (1 day ago)
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI (2 days ago)
 - [mitchell-johnson/hxstore-decode](https://github.com/mitchell-johnson/hxstore-decode) -  (2 days ago)
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖 (2 days ago)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (4 days ago)
