@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
+- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (today)
 - [chardonnay/AbyssL](https://github.com/chardonnay/AbyssL) -  (1 day ago)
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The &#34;Missing GitHub Status Page&#34; -- a Flat Data attempt at historically documenting GitHub statuses (2 days ago)
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI (3 days ago)
 - [mitchell-johnson/hxstore-decode](https://github.com/mitchell-johnson/hxstore-decode) -  (3 days ago)
-- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖 (3 days ago)
