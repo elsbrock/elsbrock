@@ -4,7 +4,7 @@
 
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 weeks ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 weeks ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (1 month ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 month ago)
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (today)
-- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required. (today)
-- [paperlesspaper/paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware) - All hardware parts of the epaper photo frame. (1 day ago)
-- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (3 days ago)
-- [chardonnay/AbyssL](https://github.com/chardonnay/AbyssL) -  (4 days ago)
+- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (1 day ago)
+- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required. (1 day ago)
+- [paperlesspaper/paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware) - All hardware parts of the epaper photo frame. (2 days ago)
+- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (4 days ago)
+- [chardonnay/AbyssL](https://github.com/chardonnay/AbyssL) -  (5 days ago)
