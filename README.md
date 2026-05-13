@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (1 day ago)
-- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required. (1 day ago)
-- [paperlesspaper/paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware) - All hardware parts of the epaper photo frame. (2 days ago)
-- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (4 days ago)
-- [chardonnay/AbyssL](https://github.com/chardonnay/AbyssL) -  (5 days ago)
+- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (2 days ago)
+- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required. (2 days ago)
+- [paperlesspaper/paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware) - All hardware parts of the epaper photo frame. (3 days ago)
+- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (5 days ago)
+- [chardonnay/AbyssL](https://github.com/chardonnay/AbyssL) -  (6 days ago)
