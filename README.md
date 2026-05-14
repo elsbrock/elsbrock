@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (today)
-- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (2 days ago)
-- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required. (2 days ago)
-- [paperlesspaper/paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware) - All hardware parts of the epaper photo frame. (3 days ago)
-- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (5 days ago)
+- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (1 day ago)
+- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (3 days ago)
+- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required. (3 days ago)
+- [paperlesspaper/paperlesspaper-hardware](https://github.com/paperlesspaper/paperlesspaper-hardware) - All hardware parts of the epaper photo frame. (4 days ago)
+- [paperlesspaper/paperlesspaper-firmware](https://github.com/paperlesspaper/paperlesspaper-firmware) - This is the place where the firmware sits (6 days ago)
