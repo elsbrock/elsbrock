@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) - Personal AI, On Personal Devices (today)
+- [JoelShine/JARVIS-AI-ASSISTANT](https://github.com/JoelShine/JARVIS-AI-ASSISTANT) - A true Artificial Intelligent Assistant with ALICE as backend and offline speech recognition with vosk engine and pyttsx3 as text to speech engine (today)
+- [Blazehue/J.A.R.V.I.S](https://github.com/Blazehue/J.A.R.V.I.S) - Jarvis V2 🤖 – A Python-based desktop AI assistant for Windows that manages applications, files, and system settings, responds to voice/text commands, takes screenshots, and provides intelligent, context-aware interactions. (today)
 - [sander110419/lightroom-cc-on-linux](https://github.com/sander110419/lightroom-cc-on-linux) - Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7. (1 day ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 day ago)
-- [NationalGalleryOfArt/opendata](https://github.com/NationalGalleryOfArt/opendata) - The National Gallery of Art Open Data Program (3 days ago)
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow. (3 days ago)
-- [Siigari/claude-heartbeat](https://github.com/Siigari/claude-heartbeat) - Keep Claude Code alive and autonomous without -p. Heartbeat hook &#43; inbox/outbox pattern. (5 days ago)
