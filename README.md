@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to a 40-printer farm.  (today)
 - [memex-lab/memex](https://github.com/memex-lab/memex) - Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice — AI agents organize them into timeline cards and insights. Your data stays on your device. Bring your own LLM (OpenAI, Claude, Gemini, Ollama, and more). (1 day ago)
 - [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) - Personal AI, On Personal Devices (2 days ago)
 - [JoelShine/JARVIS-AI-ASSISTANT](https://github.com/JoelShine/JARVIS-AI-ASSISTANT) - A true Artificial Intelligent Assistant with ALICE as backend and offline speech recognition with vosk engine and pyttsx3 as text to speech engine (2 days ago)
 - [Blazehue/J.A.R.V.I.S](https://github.com/Blazehue/J.A.R.V.I.S) - Jarvis V2 🤖 – A Python-based desktop AI assistant for Windows that manages applications, files, and system settings, responds to voice/text commands, takes screenshots, and provides intelligent, context-aware interactions. (2 days ago)
-- [sander110419/lightroom-cc-on-linux](https://github.com/sander110419/lightroom-cc-on-linux) - Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7. (3 days ago)
