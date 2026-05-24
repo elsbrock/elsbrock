@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills &#43; 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. (today)
+- [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - 20 SEO &amp; GEO skills for Claude Code, Cursor, Codex, and 35&#43; AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT &#43; CITE frameworks. (today)
+- [mawildoer/atopile-agent-skill](https://github.com/mawildoer/atopile-agent-skill) - Teach agents how to use atopile (today)
+- [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc. (today)
 - [circuit-synth/circuit-synth](https://github.com/circuit-synth/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner (today)
-- [thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing) - A full marketing department for Claude Code. Skill packs for Klaviyo, Shopify, GA4, Looker Studio, paid media, and more. Audit, optimize, and report using natural language. (1 day ago)
-- [o2scale/electronics-agent-kit](https://github.com/o2scale/electronics-agent-kit) -  (1 day ago)
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. (1 day ago)
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit (1 day ago)
