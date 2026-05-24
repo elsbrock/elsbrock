@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [circuit-synth/circuit-synth](https://github.com/circuit-synth/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner (today)
 - [thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing) - A full marketing department for Claude Code. Skill packs for Klaviyo, Shopify, GA4, Looker Studio, paid media, and more. Audit, optimize, and report using natural language. (1 day ago)
 - [o2scale/electronics-agent-kit](https://github.com/o2scale/electronics-agent-kit) -  (1 day ago)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. (1 day ago)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit (1 day ago)
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to a 40-printer farm.  (3 days ago)
