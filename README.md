@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. (today)
+- [jp0409hlh/6502_computer](https://github.com/jp0409hlh/6502_computer) - A computer based on Ben Eater&#39;s 6502 series (today)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills &#43; 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. (1 day ago)
 - [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - 20 SEO &amp; GEO skills for Claude Code, Cursor, Codex, and 35&#43; AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT &#43; CITE frameworks. (1 day ago)
 - [mawildoer/atopile-agent-skill](https://github.com/mawildoer/atopile-agent-skill) - Teach agents how to use atopile (1 day ago)
-- [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc. (1 day ago)
-- [circuit-synth/circuit-synth](https://github.com/circuit-synth/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner (1 day ago)
