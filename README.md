@@ -4,7 +4,7 @@
 
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 weeks ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (4 weeks ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (1 month ago)
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. (today)
-- [jp0409hlh/6502_computer](https://github.com/jp0409hlh/6502_computer) - A computer based on Ben Eater&#39;s 6502 series (today)
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills &#43; 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. (1 day ago)
-- [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - 20 SEO &amp; GEO skills for Claude Code, Cursor, Codex, and 35&#43; AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT &#43; CITE frameworks. (1 day ago)
-- [mawildoer/atopile-agent-skill](https://github.com/mawildoer/atopile-agent-skill) - Teach agents how to use atopile (1 day ago)
+- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. (1 day ago)
+- [jp0409hlh/6502_computer](https://github.com/jp0409hlh/6502_computer) - A computer based on Ben Eater&#39;s 6502 series (1 day ago)
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills &#43; 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. (2 days ago)
+- [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - 20 SEO &amp; GEO skills for Claude Code, Cursor, Codex, and 35&#43; AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT &#43; CITE frameworks. (2 days ago)
+- [mawildoer/atopile-agent-skill](https://github.com/mawildoer/atopile-agent-skill) - Teach agents how to use atopile (2 days ago)
