@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 week ago)
+- [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 weeks ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.30.0](https://github.com/0xERR0R/blocky/releases/tag/v0.30.0), 1 week ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-- [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 1 week ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
+- [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 2 weeks ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 1 month ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 2 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (today)
-- [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (today)
-- [openshwprojects/OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601, BL602, LN882H, Realtek chips and more (1 day ago)
-- [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) - Be the most productive engineer on your team 🚀🚀🚀 (1 day ago)
-- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. (2 days ago)
+- [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (1 day ago)
+- [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (1 day ago)
+- [openshwprojects/OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601, BL602, LN882H, Realtek chips and more (2 days ago)
+- [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) - Be the most productive engineer on your team 🚀🚀🚀 (2 days ago)
+- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. (3 days ago)
