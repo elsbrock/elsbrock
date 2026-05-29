@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (today)
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (today)
 - [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (2 days ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (2 days ago)
 - [openshwprojects/OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601, BL602, LN882H, Realtek chips and more (3 days ago)
-- [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) - Be the most productive engineer on your team 🚀🚀🚀 (3 days ago)
