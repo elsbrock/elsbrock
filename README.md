@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more. (today)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (today)
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (1 day ago)
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (1 day ago)
 - [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (3 days ago)
-- [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (3 days ago)
