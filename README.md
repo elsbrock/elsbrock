@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 weeks ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (3 weeks ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 weeks ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (1 month ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more. (today)
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (today)
-- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (1 day ago)
-- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (1 day ago)
-- [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (3 days ago)
+- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more. (1 day ago)
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (1 day ago)
+- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (2 days ago)
+- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (2 days ago)
+- [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (4 days ago)
