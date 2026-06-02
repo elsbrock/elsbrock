@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘 (today)
 - [LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss) - A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms.  (today)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (today)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (today)
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini&#39;s SynthID detection (today)
-- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more. (3 days ago)
