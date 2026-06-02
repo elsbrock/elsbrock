@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 weeks ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (4 weeks ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers (1 month ago)
@@ -21,7 +21,7 @@
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.30.0](https://github.com/0xERR0R/blocky/releases/tag/v0.30.0), 2 weeks ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 2 weeks ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 1 month ago) - Lightweight OTLP metrics client for Cloudflare Workers
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 2 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 
 #### 🔨 My recent Pull Requests
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more. (2 days ago)
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (2 days ago)
-- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (3 days ago)
-- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 days ago)
-- [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (5 days ago)
+- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more. (3 days ago)
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (3 days ago)
+- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (4 days ago)
+- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (4 days ago)
+- [aitjcize/esp32-photoframe](https://github.com/aitjcize/esp32-photoframe) - Feature-rich firmware for ESP32-based e-paper displays with superior image quality. (6 days ago)
