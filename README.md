@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [wonderslug/esphome-ancs](https://github.com/wonderslug/esphome-ancs) -  (today)
 - [svenpanel/the-shrine-ng](https://github.com/svenpanel/the-shrine-ng) - 🔴 A progressive web app of a retro soundboard. The Shrine comes with &#34;Gude Laune!&#34; and many more legendary sounds. 🔊 (1 day ago)
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘 (2 days ago)
 - [LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss) - A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms.  (2 days ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 days ago)
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (2 days ago)
