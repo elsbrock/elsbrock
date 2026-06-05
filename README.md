@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.31.0](https://github.com/0xERR0R/blocky/releases/tag/v0.31.0), today) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.31.0](https://github.com/0xERR0R/blocky/releases/tag/v0.31.0), 1 day ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 3 weeks ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 2 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [wonderslug/esphome-ancs](https://github.com/wonderslug/esphome-ancs) -  (today)
-- [svenpanel/the-shrine-ng](https://github.com/svenpanel/the-shrine-ng) - 🔴 A progressive web app of a retro soundboard. The Shrine comes with &#34;Gude Laune!&#34; and many more legendary sounds. 🔊 (1 day ago)
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘 (2 days ago)
-- [LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss) - A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms.  (2 days ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 days ago)
+- [wonderslug/esphome-ancs](https://github.com/wonderslug/esphome-ancs) -  (1 day ago)
+- [svenpanel/the-shrine-ng](https://github.com/svenpanel/the-shrine-ng) - 🔴 A progressive web app of a retro soundboard. The Shrine comes with &#34;Gude Laune!&#34; and many more legendary sounds. 🔊 (2 days ago)
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘 (3 days ago)
+- [LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss) - A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms.  (3 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (3 days ago)
