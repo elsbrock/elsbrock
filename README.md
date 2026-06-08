@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux (today)
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ (today)
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. (1 day ago)
 - [wonderslug/esphome-ancs](https://github.com/wonderslug/esphome-ancs) -  (4 days ago)
 - [svenpanel/the-shrine-ng](https://github.com/svenpanel/the-shrine-ng) - 🔴 A progressive web app of a retro soundboard. The Shrine comes with &#34;Gude Laune!&#34; and many more legendary sounds. 🔊 (5 days ago)
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘 (6 days ago)
