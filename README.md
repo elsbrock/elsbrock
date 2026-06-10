@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [MatthewCroughan/nrf-nix](https://github.com/MatthewCroughan/nrf-nix) - A Nix flake for developing and working with Nordic Semiconductor hardware (today)
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose tile-based dashboards, render headless, push to Pi and ESP32 panels over MQTT. (today)
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! (today)
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux (2 days ago)
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ (2 days ago)
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. (3 days ago)
