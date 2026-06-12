@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [dj95/zjstatus](https://github.com/dj95/zjstatus) - A configurable statusbar plugin for zellij (today)
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.  (1 day ago)
 - [DocBrown101/org.kde.plasma.nixos.channelstatus](https://github.com/DocBrown101/org.kde.plasma.nixos.channelstatus) - Plasma/Applet for KDE to show the status of NixOS channels (2 days ago)
 - [MatthewCroughan/nrf-nix](https://github.com/MatthewCroughan/nrf-nix) - A Nix flake for developing and working with Nordic Semiconductor hardware (2 days ago)
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose tile-based dashboards, render headless, push to Pi and ESP32 panels over MQTT. (2 days ago)
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! (2 days ago)
