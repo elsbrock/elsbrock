@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. (today)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (today)
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers (today)
 - [bumsrakete/bumsraketev1](https://github.com/bumsrakete/bumsraketev1) -  (today)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100&#43; languages. (today)
-- [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) - A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck. (today)
-- [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (1 day ago)
