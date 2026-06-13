@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) - A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck. (today)
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (1 day ago)
 - [coder/boo](https://github.com/coder/boo) - A GNU screen style terminal multiplexer built on libghostty. (1 day ago)
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) -  (1 day ago)
 - [dj95/zjstatus](https://github.com/dj95/zjstatus) - A configurable statusbar plugin for zellij (1 day ago)
-- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.  (2 days ago)
