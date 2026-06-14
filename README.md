@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (4 days ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. (today)
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (today)
-- [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers (today)
-- [bumsrakete/bumsraketev1](https://github.com/bumsrakete/bumsraketev1) -  (today)
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100&#43; languages. (today)
+- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. (1 day ago)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (1 day ago)
+- [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers (1 day ago)
+- [bumsrakete/bumsraketev1](https://github.com/bumsrakete/bumsraketev1) -  (1 day ago)
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100&#43; languages. (1 day ago)
