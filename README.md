@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [day50-dev/aa-eval-email](https://github.com/day50-dev/aa-eval-email) - Get an email whenever a new model eval hits Artificial Analysis (today)
 - [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) - Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second. (1 day ago)
 - [kouhxp/yapsnap](https://github.com/kouhxp/yapsnap) - Snap any video URL or audio file into plaintext. No GPU. No cloud. One command. (2 days ago)
 - [datenknoten/freundebuch](https://github.com/datenknoten/freundebuch) - A self-hostable relationship management app for individuals and families (2 days ago)
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server. (3 days ago)
-- [gcormier/megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board (3 days ago)
