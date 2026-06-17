@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.32.0](https://github.com/0xERR0R/blocky/releases/tag/v0.32.0), today) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.32.0](https://github.com/0xERR0R/blocky/releases/tag/v0.32.0), 1 day ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 1 month ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 2 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) - Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second. (today)
-- [kouhxp/yapsnap](https://github.com/kouhxp/yapsnap) - Snap any video URL or audio file into plaintext. No GPU. No cloud. One command. (1 day ago)
-- [datenknoten/freundebuch](https://github.com/datenknoten/freundebuch) - A self-hostable relationship management app for individuals and families (1 day ago)
-- [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server. (2 days ago)
-- [gcormier/megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board (2 days ago)
+- [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) - Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second. (1 day ago)
+- [kouhxp/yapsnap](https://github.com/kouhxp/yapsnap) - Snap any video URL or audio file into plaintext. No GPU. No cloud. One command. (2 days ago)
+- [datenknoten/freundebuch](https://github.com/datenknoten/freundebuch) - A self-hostable relationship management app for individuals and families (2 days ago)
+- [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server. (3 days ago)
+- [gcormier/megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board (3 days ago)
