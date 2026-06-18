@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [migadu/alps](https://github.com/migadu/alps) - Simple Webmail (today)
 - [ArcaEge/capacitor-alarm-clock](https://github.com/ArcaEge/capacitor-alarm-clock) - capacitor blow up human wake up (today)
 - [day50-dev/aa-eval-email](https://github.com/day50-dev/aa-eval-email) - Get an email whenever a new model eval hits Artificial Analysis (1 day ago)
 - [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) - Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second. (2 days ago)
 - [kouhxp/yapsnap](https://github.com/kouhxp/yapsnap) - Snap any video URL or audio file into plaintext. No GPU. No cloud. One command. (3 days ago)
-- [datenknoten/freundebuch](https://github.com/datenknoten/freundebuch) - A self-hostable relationship management app for individuals and families (3 days ago)
