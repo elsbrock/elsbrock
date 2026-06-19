@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.32.0](https://github.com/0xERR0R/blocky/releases/tag/v0.32.0), 2 days ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.32.0](https://github.com/0xERR0R/blocky/releases/tag/v0.32.0), 3 days ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 1 month ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 2 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (today)
-- [migadu/alps](https://github.com/migadu/alps) - Simple Webmail (today)
-- [ArcaEge/capacitor-alarm-clock](https://github.com/ArcaEge/capacitor-alarm-clock) - capacitor blow up human wake up (today)
-- [day50-dev/aa-eval-email](https://github.com/day50-dev/aa-eval-email) - Get an email whenever a new model eval hits Artificial Analysis (1 day ago)
-- [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) - Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second. (2 days ago)
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 day ago)
+- [migadu/alps](https://github.com/migadu/alps) - Simple Webmail (1 day ago)
+- [ArcaEge/capacitor-alarm-clock](https://github.com/ArcaEge/capacitor-alarm-clock) - capacitor blow up human wake up (1 day ago)
+- [day50-dev/aa-eval-email](https://github.com/day50-dev/aa-eval-email) - Get an email whenever a new model eval hits Artificial Analysis (2 days ago)
+- [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) - Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second. (3 days ago)
