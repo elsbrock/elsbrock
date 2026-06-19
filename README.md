@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments. (today)
 - [joachimhs/akse3d](https://github.com/joachimhs/akse3d) - Akse3D (today)
 - [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8) - An A12/A13 SecureROM exploit (today)
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 day ago)
 - [migadu/alps](https://github.com/migadu/alps) - Simple Webmail (1 day ago)
-- [ArcaEge/capacitor-alarm-clock](https://github.com/ArcaEge/capacitor-alarm-clock) - capacitor blow up human wake up (1 day ago)
