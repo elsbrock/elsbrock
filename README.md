@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television (today)
 - [neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re) - Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS (today)
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (1 day ago)
 - [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments. (1 day ago)
 - [joachimhs/akse3d](https://github.com/joachimhs/akse3d) - Akse3D (1 day ago)
-- [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8) - An A12/A13 SecureROM exploit (1 day ago)
