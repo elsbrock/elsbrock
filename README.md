@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 month ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.32.1](https://github.com/0xERR0R/blocky/releases/tag/v0.32.1), today) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.32.1](https://github.com/0xERR0R/blocky/releases/tag/v0.32.1), 1 day ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 1 month ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 2 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 3 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television (today)
-- [neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re) - Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS (today)
-- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (1 day ago)
-- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments. (1 day ago)
-- [joachimhs/akse3d](https://github.com/joachimhs/akse3d) - Akse3D (1 day ago)
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television (1 day ago)
+- [neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re) - Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS (1 day ago)
+- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (2 days ago)
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments. (2 days ago)
+- [joachimhs/akse3d](https://github.com/joachimhs/akse3d) - Akse3D (2 days ago)
