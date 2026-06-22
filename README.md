@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [rccyx/thyx](https://github.com/rccyx/thyx) - Exquisite SDDM greeter for Linux (highly customizable theming, already ships with 5 presets &#43; atomic install/uninstall)  (today)
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (today)
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (1 day ago)
 - [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television (2 days ago)
 - [neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re) - Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS (2 days ago)
-- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (3 days ago)
-- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments. (3 days ago)
