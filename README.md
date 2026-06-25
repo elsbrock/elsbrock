@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [uxjulia/CrossInk](https://github.com/uxjulia/CrossInk) - Personal fork of CrossPoint Reader (today)
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit (1 day ago)
 - [Zetaphor/whatcable-linux](https://github.com/Zetaphor/whatcable-linux) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do (1 day ago)
 - [kjuulh/gitnow](https://github.com/kjuulh/gitnow) -  (2 days ago)
 - [rccyx/thyx](https://github.com/rccyx/thyx) - Exquisite SDDM greeter for Linux (highly customizable theming, already ships with 5 presets &#43; atomic install/uninstall)  (3 days ago)
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (3 days ago)
