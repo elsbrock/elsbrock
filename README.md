@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (today)
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet. (today)
 - [uxjulia/CrossInk](https://github.com/uxjulia/CrossInk) - Personal fork of CrossPoint Reader (1 day ago)
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit (2 days ago)
 - [Zetaphor/whatcable-linux](https://github.com/Zetaphor/whatcable-linux) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do (2 days ago)
-- [kjuulh/gitnow](https://github.com/kjuulh/gitnow) -  (3 days ago)
