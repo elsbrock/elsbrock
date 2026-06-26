@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet. (today)
 - [uxjulia/CrossInk](https://github.com/uxjulia/CrossInk) - Personal fork of CrossPoint Reader (1 day ago)
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit (2 days ago)
 - [Zetaphor/whatcable-linux](https://github.com/Zetaphor/whatcable-linux) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do (2 days ago)
 - [kjuulh/gitnow](https://github.com/kjuulh/gitnow) -  (3 days ago)
-- [rccyx/thyx](https://github.com/rccyx/thyx) - Exquisite SDDM greeter for Linux (highly customizable theming, already ships with 5 presets &#43; atomic install/uninstall)  (4 days ago)
