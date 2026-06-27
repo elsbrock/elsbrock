@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. (today)
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I&#39;ve always found this is the most efficient way. (today)
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (1 day ago)
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet. (1 day ago)
 - [uxjulia/CrossInk](https://github.com/uxjulia/CrossInk) - Personal fork of CrossPoint Reader (2 days ago)
-- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit (3 days ago)
-- [Zetaphor/whatcable-linux](https://github.com/Zetaphor/whatcable-linux) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do (3 days ago)
