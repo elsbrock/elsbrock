@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (today)
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (1 day ago)
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) -  (2 days ago)
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (3 days ago)
 - [JustVugg/nanoeuler](https://github.com/JustVugg/nanoeuler) - GPT-2-style LLM built from scratch in C/CUDA with hand-written backprop, BPE tokenizer, FlashAttention, pretraining, and SFT. (4 days ago)
-- [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. (5 days ago)
