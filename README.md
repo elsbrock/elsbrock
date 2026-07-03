@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (1 day ago)
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (2 days ago)
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) -  (3 days ago)
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (4 days ago)
-- [JustVugg/nanoeuler](https://github.com/JustVugg/nanoeuler) - GPT-2-style LLM built from scratch in C/CUDA with hand-written backprop, BPE tokenizer, FlashAttention, pretraining, and SFT. (5 days ago)
