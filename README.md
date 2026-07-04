@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge) - Slam the controller into the magnetic puck until it charges (today)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 day ago)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (2 days ago)
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (3 days ago)
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) -  (4 days ago)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (5 days ago)
