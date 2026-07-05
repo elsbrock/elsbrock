@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (today)
 - [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) - Google Search Console Insights with Claude AI for SEOs (1 day ago)
 - [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge) - Slam the controller into the magnetic puck until it charges (1 day ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 days ago)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (3 days ago)
-- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (4 days ago)
