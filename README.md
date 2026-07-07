@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (1 month ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (today)
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (today)
 - [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) - Extension to bypass age verification on some websites (1 day ago)
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (2 days ago)
 - [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) - Google Search Console Insights with Claude AI for SEOs (3 days ago)
-- [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge) - Slam the controller into the magnetic puck until it charges (3 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (4 days ago)
