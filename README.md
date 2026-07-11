@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [wyattjoh/jmap-mcp](https://github.com/wyattjoh/jmap-mcp) - A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library. (today)
 - [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) - Neovim integration for Herdr pane navigation (2 days ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (4 days ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (4 days ago)
 - [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) - Extension to bypass age verification on some websites (5 days ago)
-- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (6 days ago)
