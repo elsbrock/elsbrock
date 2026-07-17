@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 months ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  (2 days ago)
-- [wyattjoh/jmap-mcp](https://github.com/wyattjoh/jmap-mcp) - A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library. (5 days ago)
+- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  (3 days ago)
+- [wyattjoh/jmap-mcp](https://github.com/wyattjoh/jmap-mcp) - A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library. (6 days ago)
 - [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) - Neovim integration for Herdr pane navigation (1 week ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (1 week ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 week ago)
