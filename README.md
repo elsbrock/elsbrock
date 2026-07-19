@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) -  (1 day ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
+- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud. (1 day ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 months ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 months ago)
 
 #### 🌱 My latest projects
 
-- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - 
+- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud.
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
