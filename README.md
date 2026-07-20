@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - High Performance Open Source Radio Control Link (today)
 - [vacuula/fang](https://github.com/vacuula/fang) - Control your Neato vacuum locally with the fang of vacuula (1 day ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (3 days ago)
 - [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  (6 days ago)
 - [wyattjoh/jmap-mcp](https://github.com/wyattjoh/jmap-mcp) - A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library. (1 week ago)
-- [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) - Neovim integration for Herdr pane navigation (1 week ago)
