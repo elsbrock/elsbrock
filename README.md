@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud. (5 days ago)
+- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud. (6 days ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 months ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 months ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 months ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 days ago)
-- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 days ago)
-- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust. (3 days ago)
-- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - High Performance Open Source Radio Control Link (3 days ago)
-- [vacuula/fang](https://github.com/vacuula/fang) - Control your Neato vacuum locally with the fang of vacuula (4 days ago)
+- [dennisss/acronis-tib](https://github.com/dennisss/acronis-tib) - Parser and file reader for Acronis True Image TIB files (1 day ago)
+- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (3 days ago)
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (3 days ago)
+- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust. (4 days ago)
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - High Performance Open Source Radio Control Link (4 days ago)
