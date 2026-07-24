@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [confirm/tino](https://github.com/confirm/tino) - A collaborative, self-hosted editing platform around Typst. (today)
+- [jambonz/jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) - Core telephony feature server for the jambones platform (today)
+- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology (today)
 - [dennisss/acronis-tib](https://github.com/dennisss/acronis-tib) - Parser and file reader for Acronis True Image TIB files (1 day ago)
 - [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (3 days ago)
-- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (3 days ago)
-- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust. (4 days ago)
-- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - High Performance Open Source Radio Control Link (4 days ago)
