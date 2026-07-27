@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (today)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (today)
 - [confirm/tino](https://github.com/confirm/tino) - A collaborative, self-hosted editing platform around Typst. (3 days ago)
 - [jambonz/jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) - Core telephony feature server for the jambones platform (3 days ago)
 - [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology (3 days ago)
-- [dennisss/acronis-tib](https://github.com/dennisss/acronis-tib) - Parser and file reader for Acronis True Image TIB files (4 days ago)
