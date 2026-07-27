@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.33.0](https://github.com/0xERR0R/blocky/releases/tag/v0.33.0), 3 weeks ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.34.0](https://github.com/0xERR0R/blocky/releases/tag/v0.34.0), today) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 2 months ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 3 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.10.6](https://github.com/elsbrock/plundrio/releases/tag/v0.10.6), 4 months ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (today)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (today)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (today)
 - [confirm/tino](https://github.com/confirm/tino) - A collaborative, self-hosted editing platform around Typst. (3 days ago)
 - [jambonz/jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) - Core telephony feature server for the jambones platform (3 days ago)
-- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology (3 days ago)
