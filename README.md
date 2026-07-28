@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity) - An explorable 3D city that shows how Postgres actually works (today)
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (1 day ago)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (1 day ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
 - [confirm/tino](https://github.com/confirm/tino) - A collaborative, self-hosted editing platform around Typst. (4 days ago)
-- [jambonz/jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) - Core telephony feature server for the jambones platform (4 days ago)
