@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. (today)
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity) - An explorable 3D city that shows how Postgres actually works (1 day ago)
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (2 days ago)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 days ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 days ago)
-- [confirm/tino](https://github.com/confirm/tino) - A collaborative, self-hosted editing platform around Typst. (5 days ago)
