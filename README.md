@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.0](https://github.com/elsbrock/plundrio/releases/tag/v0.11.0), today) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.1](https://github.com/elsbrock/plundrio/releases/tag/v0.11.1), today) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.34.0](https://github.com/0xERR0R/blocky/releases/tag/v0.34.0), 3 days ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 2 months ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 3 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
