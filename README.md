@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [GrieferPig/esp32-s31-linux](https://github.com/GrieferPig/esp32-s31-linux) - Porting MMU Linux to ESP32-S31 (today)
 - [isaqueseneda/shieldfont](https://github.com/isaqueseneda/shieldfont) - A web font that protects written content from AI scraping — humans see the text, scrapers see a plausible decoy. (today)
 - [joelparkerhenderson/pitch-deck](https://github.com/joelparkerhenderson/pitch-deck) - Pitch deck advice for startup founders who want to raise venture capital investment (today)
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. (3 days ago)
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity) - An explorable 3D city that shows how Postgres actually works (4 days ago)
-- [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (5 days ago)
