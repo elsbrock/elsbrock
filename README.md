@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio. (today)
 - [dynaum/kubeside](https://github.com/dynaum/kubeside) - A Kubernetes client scoped to the developer, not the cluster operator. Your app, not your cluster. (today)
 - [GrieferPig/esp32-s31-linux](https://github.com/GrieferPig/esp32-s31-linux) - Porting MMU Linux to ESP32-S31 (1 day ago)
 - [isaqueseneda/shieldfont](https://github.com/isaqueseneda/shieldfont) - A web font that protects written content from AI scraping — humans see the text, scrapers see a plausible decoy. (1 day ago)
 - [joelparkerhenderson/pitch-deck](https://github.com/joelparkerhenderson/pitch-deck) - Pitch deck advice for startup founders who want to raise venture capital investment (1 day ago)
-- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. (4 days ago)
