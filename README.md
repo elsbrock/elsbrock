@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark) - Use Nix and NixOS on your DGX Spark! (today)
+- [sadekxD/cardstock-diorama-myth](https://github.com/sadekxD/cardstock-diorama-myth) - Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style — three-colour cardstock worlds, paper wipes, Unsora MCP &#43; local ffmpeg, one assembled MP4. (today)
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio. (1 day ago)
 - [dynaum/kubeside](https://github.com/dynaum/kubeside) - A Kubernetes client scoped to the developer, not the cluster operator. Your app, not your cluster. (1 day ago)
 - [GrieferPig/esp32-s31-linux](https://github.com/GrieferPig/esp32-s31-linux) - Porting MMU Linux to ESP32-S31 (2 days ago)
-- [isaqueseneda/shieldfont](https://github.com/isaqueseneda/shieldfont) - A typeface that protects written content by poisoning unauthorized AI training datasets. (2 days ago)
-- [joelparkerhenderson/pitch-deck](https://github.com/joelparkerhenderson/pitch-deck) - Pitch deck advice for startup founders who want to raise venture capital investment (2 days ago)
