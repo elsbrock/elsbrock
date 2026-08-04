@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [maximoffua/camoufox-nix](https://github.com/maximoffua/camoufox-nix) - Nix flake for Camoufox browser &amp; tools packaging on NixOS (today)
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (today)
 - [graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark) - Use Nix and NixOS on your DGX Spark! (1 day ago)
 - [sadekxD/cardstock-diorama-myth](https://github.com/sadekxD/cardstock-diorama-myth) - Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style — three-colour cardstock worlds, paper wipes, Unsora MCP &#43; local ffmpeg, one assembled MP4. (1 day ago)
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio. (2 days ago)
-- [dynaum/kubeside](https://github.com/dynaum/kubeside) - A Kubernetes client scoped to the developer, not the cluster operator. Your app, not your cluster. (2 days ago)
-- [GrieferPig/esp32-s31-linux](https://github.com/GrieferPig/esp32-s31-linux) - Porting MMU Linux to ESP32-S31 (3 days ago)
