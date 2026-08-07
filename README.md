@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [matejdro/microPebble](https://github.com/matejdro/microPebble) - An open source Pebble watch companion app (today)
 - [boerge42/GPS-Clock-NTP-Server](https://github.com/boerge42/GPS-Clock-NTP-Server) - Eine Uhr &amp; NTP-Server auf Basis ESP32-P4-ETH und eines GPS-Moduls (mit PPS-Signal).  (today)
 - [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life (today)
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (1 day ago)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (1 day ago)
-- [maximoffua/camoufox-nix](https://github.com/maximoffua/camoufox-nix) - Nix flake for Camoufox browser &amp; tools packaging on NixOS (3 days ago)
