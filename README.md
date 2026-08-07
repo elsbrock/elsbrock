@@ -4,7 +4,7 @@
 
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
-- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (1 week ago)
+- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (2 weeks ago)
 - [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud. (2 weeks ago)
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X (2 months ago)
 
@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) ([v1.3.0](https://github.com/elsbrock/cowboy-ha/releases/tag/v1.3.0), 1 day ago) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.1](https://github.com/elsbrock/plundrio/releases/tag/v0.11.1), 1 week ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.34.0](https://github.com/0xERR0R/blocky/releases/tag/v0.34.0), 1 week ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 2 months ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
@@ -25,16 +26,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (1 week ago)
-- [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (1 week ago)
+- [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (2 weeks ago)
+- [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (2 weeks ago)
 - [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 - [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 - [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [maximoffua/camoufox-nix](https://github.com/maximoffua/camoufox-nix) - Nix flake for Camoufox browser &amp; tools packaging on NixOS (2 days ago)
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (2 days ago)
-- [graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark) - Use Nix and NixOS on your DGX Spark! (3 days ago)
-- [sadekxD/cardstock-diorama-myth](https://github.com/sadekxD/cardstock-diorama-myth) - Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style — three-colour cardstock worlds, paper wipes, Unsora MCP &#43; local ffmpeg, one assembled MP4. (3 days ago)
-- [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio. (4 days ago)
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (1 day ago)
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (1 day ago)
+- [maximoffua/camoufox-nix](https://github.com/maximoffua/camoufox-nix) - Nix flake for Camoufox browser &amp; tools packaging on NixOS (3 days ago)
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (3 days ago)
+- [graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark) - Use Nix and NixOS on your DGX Spark! (4 days ago)
