@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 day ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
 - [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (2 weeks ago)
-- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud. (2 weeks ago)
+- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the device exposes during setup to join Wi-Fi, pair the Core, and connect to the cloud. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [loryanstrant/ESPHome-MCP](https://github.com/loryanstrant/ESPHome-MCP) - A MCP server for ESPHome that supports the new Device Builder functionality released in build 2026.6 (today)
-- [matejdro/microPebble](https://github.com/matejdro/microPebble) - An open source Pebble watch companion app (today)
-- [boerge42/GPS-Clock-NTP-Server](https://github.com/boerge42/GPS-Clock-NTP-Server) - Eine Uhr &amp; NTP-Server auf Basis ESP32-P4-ETH und eines GPS-Moduls (mit PPS-Signal).  (today)
-- [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life (today)
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (1 day ago)
+- [loryanstrant/ESPHome-MCP](https://github.com/loryanstrant/ESPHome-MCP) - A MCP server for ESPHome that supports the new Device Builder functionality released in build 2026.6 (1 day ago)
+- [matejdro/microPebble](https://github.com/matejdro/microPebble) - An open source Pebble watch companion app (1 day ago)
+- [boerge42/GPS-Clock-NTP-Server](https://github.com/boerge42/GPS-Clock-NTP-Server) - Eine Uhr &amp; NTP-Server auf Basis ESP32-P4-ETH und eines GPS-Moduls (mit PPS-Signal).  (1 day ago)
+- [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life (1 day ago)
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (2 days ago)
