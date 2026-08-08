@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (today)
+- [jordanburke/reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server) - ⚙️ A Model Context Protocol (MCP) that provides tools for fetching and creating Reddit content (today)
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM. (today)
 - [loryanstrant/ESPHome-MCP](https://github.com/loryanstrant/ESPHome-MCP) - A MCP server for ESPHome that supports the new Device Builder functionality released in build 2026.6 (1 day ago)
 - [matejdro/microPebble](https://github.com/matejdro/microPebble) - An open source Pebble watch companion app (1 day ago)
-- [boerge42/GPS-Clock-NTP-Server](https://github.com/boerge42/GPS-Clock-NTP-Server) - Eine Uhr &amp; NTP-Server auf Basis ESP32-P4-ETH und eines GPS-Moduls (mit PPS-Signal).  (1 day ago)
-- [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life (1 day ago)
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (2 days ago)
