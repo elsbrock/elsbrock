@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [mbeher2200/DarkHours](https://github.com/mbeher2200/DarkHours) - Landscape Astrophotography and dark-sky planner — predicts weather, lunar cycles, Milky Way visibility, light pollution,  meteor showrs, and Auroras. It finds nearby dark-sky sites, and best nights. (today)
 - [antmicro/thunderbolt-pcie-adapter](https://github.com/antmicro/thunderbolt-pcie-adapter) -  (today)
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (1 day ago)
 - [jordanburke/reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server) - ⚙️ A Model Context Protocol (MCP) that provides tools for fetching and creating Reddit content (1 day ago)
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM. (1 day ago)
-- [loryanstrant/ESPHome-MCP](https://github.com/loryanstrant/ESPHome-MCP) - A MCP server for ESPHome that supports the new Device Builder functionality released in build 2026.6 (2 days ago)
