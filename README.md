@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (today)
+- [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) - One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard). (today)
+- [yzhao062/agent-style](https://github.com/yzhao062/agent-style) - 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro. (today)
 - [varietywalls/variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems (1 day ago)
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely (2 days ago)
-- [mbeher2200/DarkHours](https://github.com/mbeher2200/DarkHours) - Landscape Astrophotography and dark-sky planner — predicts weather, lunar cycles, Milky Way visibility, light pollution,  meteor showrs, and Auroras. It finds nearby dark-sky sites, and best nights. (2 days ago)
-- [antmicro/thunderbolt-pcie-adapter](https://github.com/antmicro/thunderbolt-pcie-adapter) -  (2 days ago)
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (3 days ago)
