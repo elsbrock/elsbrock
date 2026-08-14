@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
-- [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (4 days ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
+- [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (5 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
-- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (2 weeks ago)
+- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,16 +25,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (2 weeks ago)
-- [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (2 weeks ago)
+- [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (3 weeks ago)
+- [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (3 weeks ago)
 - [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 - [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 - [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input (today)
-- [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency. (1 day ago)
-- [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) -  (1 day ago)
-- [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand (2 days ago)
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (2 days ago)
+- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input (1 day ago)
+- [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency. (2 days ago)
+- [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) -  (2 days ago)
+- [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand (3 days ago)
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (3 days ago)
