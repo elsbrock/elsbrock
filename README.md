@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks (today)
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack (1 day ago)
 - [spf13/go-skills](https://github.com/spf13/go-skills) -  (1 day ago)
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects (1 day ago)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (1 day ago)
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (1 day ago)
