@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device. (today)
 - [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks (1 day ago)
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack (2 days ago)
 - [spf13/go-skills](https://github.com/spf13/go-skills) -  (2 days ago)
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects (2 days ago)
-- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (2 days ago)
