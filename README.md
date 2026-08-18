@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (today)
+- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (today)
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that&#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. (today)
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (today)
 - [marktoda/zj-radar](https://github.com/marktoda/zj-radar) - A Zellij sidebar that shows Claude Code, Codex, and other AI-agent status across every tab. (2 days ago)
-- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device. (2 days ago)
-- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks (3 days ago)
-- [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack (4 days ago)
