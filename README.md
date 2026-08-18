@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [marktoda/zj-radar](https://github.com/marktoda/zj-radar) - A Zellij sidebar that shows Claude Code, Codex, and other AI-agent status across every tab. (1 day ago)
-- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device. (1 day ago)
-- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks (2 days ago)
-- [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack (3 days ago)
-- [spf13/go-skills](https://github.com/spf13/go-skills) -  (3 days ago)
+- [marktoda/zj-radar](https://github.com/marktoda/zj-radar) - A Zellij sidebar that shows Claude Code, Codex, and other AI-agent status across every tab. (2 days ago)
+- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device. (2 days ago)
+- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks (3 days ago)
+- [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack (4 days ago)
+- [spf13/go-skills](https://github.com/spf13/go-skills) -  (4 days ago)
