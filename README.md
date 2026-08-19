@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 weeks ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (today)
-- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (today)
-- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that&#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. (today)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (today)
-- [marktoda/zj-radar](https://github.com/marktoda/zj-radar) - A Zellij sidebar that shows Claude Code, Codex, and other AI-agent status across every tab. (2 days ago)
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (1 day ago)
+- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (1 day ago)
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that&#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. (1 day ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (1 day ago)
+- [marktoda/zj-radar](https://github.com/marktoda/zj-radar) - A Zellij sidebar that shows Claude Code, Codex, and other AI-agent status across every tab. (3 days ago)
