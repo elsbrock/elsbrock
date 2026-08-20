@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [erikwb/blueferry](https://github.com/erikwb/blueferry) - iMessage/SMS over Bluetooth to Linux. No proxy or cloud! (today)
+- [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c) - The most atomic way to train and inference a GPT in pure, dependency-free C (today)
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js (today)
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot &amp; Cursor transcripts. Resume sessions. Track tokens. (today)
 - [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions. (today)
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (1 day ago)
-- [Kuberwastaken/hp-laser-1008a-macos](https://github.com/Kuberwastaken/hp-laser-1008a-macos) - Native macOS (Apple Silicon) driver for the HP Laser 1003-1008 — runs HP&#39;s real SPL3 codec in a container &#43; direct-USB delivery (1 day ago)
