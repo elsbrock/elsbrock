@@ -4,9 +4,9 @@
 
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (1 week ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 weeks ago)
-- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (3 weeks ago)
+- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,16 +25,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (3 weeks ago)
-- [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (3 weeks ago)
+- [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (4 weeks ago)
+- [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (4 weeks ago)
 - [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 - [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 - [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [erikwb/blueferry](https://github.com/erikwb/blueferry) - iMessage/SMS over Bluetooth to Linux. No proxy or cloud! (today)
-- [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c) - The most atomic way to train and inference a GPT in pure, dependency-free C (today)
-- [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js (today)
-- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot &amp; Cursor transcripts. Resume sessions. Track tokens. (today)
-- [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions. (today)
+- [erikwb/blueferry](https://github.com/erikwb/blueferry) - iMessage/SMS over Bluetooth to Linux. No proxy or cloud! (1 day ago)
+- [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c) - The most atomic way to train and inference a GPT in pure, dependency-free C (1 day ago)
+- [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js (1 day ago)
+- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot &amp; Cursor transcripts. Resume sessions. Track tokens. (1 day ago)
+- [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions. (1 day ago)
