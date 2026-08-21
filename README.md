@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ifo-institute/sozialleistungen](https://github.com/ifo-institute/sozialleistungen) -  (today)
+- [MoveCall/onepage-reader](https://github.com/MoveCall/onepage-reader) - Firmware and reading interface for the OnePage E-Ink Reader, built with moui. (today)
 - [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5&#39;s token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless (today)
 - [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) -  (today)
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (today)
-- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (today)
-- [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache (today)
