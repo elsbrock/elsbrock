@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5&#39;s token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless (today)
+- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) -  (today)
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (today)
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (today)
 - [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache (today)
-- [erikwb/blueferry](https://github.com/erikwb/blueferry) - iMessage/SMS over Bluetooth to Linux. No proxy or cloud! (1 day ago)
-- [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c) - The most atomic way to train and inference a GPT in pure, dependency-free C (1 day ago)
