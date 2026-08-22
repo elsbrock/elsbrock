@@ -27,14 +27,14 @@
 
 - [perf: cache validated archive indexes](https://github.com/elsbrock/tib-recover/pull/2) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (4 weeks ago)
 - [chore: add MIT license and provenance](https://github.com/elsbrock/tib-recover/pull/1) on [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) (4 weeks ago)
-- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
-- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
-- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (4 months ago)
+- [Remove debug console.log statements from session handling](https://github.com/elsbrock/hetzner-radar/pull/268) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
+- [Enable cloud availability timeline feature](https://github.com/elsbrock/hetzner-radar/pull/267) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
+- [Fix incorrect $derived usage in ServerCard](https://github.com/elsbrock/hetzner-radar/pull/266) on [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [ifo-institute/sozialleistungen](https://github.com/ifo-institute/sozialleistungen) -  (today)
-- [MoveCall/onepage-reader](https://github.com/MoveCall/onepage-reader) - Firmware and reading interface for the OnePage E-Ink Reader, built with moui. (today)
-- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5&#39;s token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless (today)
-- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) -  (today)
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (today)
+- [ifo-institute/sozialleistungen](https://github.com/ifo-institute/sozialleistungen) -  (1 day ago)
+- [MoveCall/onepage-reader](https://github.com/MoveCall/onepage-reader) - Firmware and reading interface for the OnePage E-Ink Reader, built with moui. (1 day ago)
+- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5&#39;s token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless (1 day ago)
+- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) -  (1 day ago)
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (1 day ago)
