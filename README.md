@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance (today)
+- [Pelski/ytzero](https://github.com/Pelski/ytzero) - YT Zero - own rules, own algorithm, no login required. Every video from every channel you follow, and nothing else (today)
 - [schlarpc/shure-mv7-firmware-re](https://github.com/schlarpc/shure-mv7-firmware-re) - Reverse engineering the Shure MV7: vendor HID console, PSoC 4 firmware, ADAU1761 SigmaDSP, and the firmware update protocol (today)
 - [fzakaria/sqlelf](https://github.com/fzakaria/sqlelf) - Explore ELF objects through the power of SQL (today)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
-- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕 (today)
-- [ifo-institute/sozialleistungen](https://github.com/ifo-institute/sozialleistungen) -  (3 days ago)
