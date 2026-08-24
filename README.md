@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [schlarpc/shure-mv7-firmware-re](https://github.com/schlarpc/shure-mv7-firmware-re) - Reverse engineering the Shure MV7: vendor HID console, PSoC 4 firmware, ADAU1761 SigmaDSP, and the firmware update protocol (today)
+- [fzakaria/sqlelf](https://github.com/fzakaria/sqlelf) - Explore ELF objects through the power of SQL (today)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕 (today)
 - [ifo-institute/sozialleistungen](https://github.com/ifo-institute/sozialleistungen) -  (3 days ago)
-- [MoveCall/onepage-reader](https://github.com/MoveCall/onepage-reader) - Firmware and reading interface for the OnePage E-Ink Reader, built with moui. (3 days ago)
-- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5&#39;s token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless (3 days ago)
