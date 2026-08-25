@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [murerkinn/bookshelf](https://github.com/murerkinn/bookshelf) - Self-hosted ebook library that runs on object storage - a Cloudflare Worker over R2, or a Node server over a directory. No database. (today)
+- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - A self-hosted library for your ebooks, comics, and audiobooks (today)
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance (1 day ago)
 - [Pelski/ytzero](https://github.com/Pelski/ytzero) - YT Zero - own rules, own algorithm, no login required. Every video from every channel you follow, and nothing else (1 day ago)
 - [schlarpc/shure-mv7-firmware-re](https://github.com/schlarpc/shure-mv7-firmware-re) - Reverse engineering the Shure MV7: vendor HID console, PSoC 4 firmware, ADAU1761 SigmaDSP, and the firmware update protocol (1 day ago)
-- [fzakaria/sqlelf](https://github.com/fzakaria/sqlelf) - Explore ELF objects through the power of SQL (1 day ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 day ago)
