@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (today)
 - [emanuelbesliu/terraform-provider-tplink-omada](https://github.com/emanuelbesliu/terraform-provider-tplink-omada) -  (1 day ago)
 - [Daily-Nerd/terraform-provider-omada](https://github.com/Daily-Nerd/terraform-provider-omada) - Terraform provider for TP-Link Omada Software Controller — Daily-Nerd fork (1 day ago)
 - [murerkinn/bookshelf](https://github.com/murerkinn/bookshelf) - Self-hosted ebook library that runs on object storage - a Cloudflare Worker over R2, or a Node server over a directory. No database. (1 day ago)
 - [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - A self-hosted library for your ebooks, comics, and audiobooks (1 day ago)
-- [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance (2 days ago)
