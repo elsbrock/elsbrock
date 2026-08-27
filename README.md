@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (today)
 - [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (1 day ago)
 - [emanuelbesliu/terraform-provider-tplink-omada](https://github.com/emanuelbesliu/terraform-provider-tplink-omada) -  (2 days ago)
 - [Daily-Nerd/terraform-provider-omada](https://github.com/Daily-Nerd/terraform-provider-omada) - Terraform provider for TP-Link Omada Software Controller — Daily-Nerd fork (2 days ago)
 - [murerkinn/bookshelf](https://github.com/murerkinn/bookshelf) - Self-hosted ebook library that runs on object storage - a Cloudflare Worker over R2, or a Node server over a directory. No database. (2 days ago)
-- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - A self-hosted library for your ebooks, comics, and audiobooks (2 days ago)
