@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (2 days ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (4 days ago)
+- [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (5 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (4 weeks ago)
 - [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (1 month ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (today)
-- [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (1 day ago)
-- [emanuelbesliu/terraform-provider-tplink-omada](https://github.com/emanuelbesliu/terraform-provider-tplink-omada) -  (2 days ago)
-- [Daily-Nerd/terraform-provider-omada](https://github.com/Daily-Nerd/terraform-provider-omada) - Terraform provider for TP-Link Omada Software Controller — Daily-Nerd fork (2 days ago)
-- [murerkinn/bookshelf](https://github.com/murerkinn/bookshelf) - Self-hosted ebook library that runs on object storage - a Cloudflare Worker over R2, or a Node server over a directory. No database. (2 days ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 day ago)
+- [nanogenomic/ClaudeCodeBrowser](https://github.com/nanogenomic/ClaudeCodeBrowser) - MCP Firefox browser automation extension for Claude Code - screenshots, clicking, typing, page refresh, and AI-powered web interaction (1 day ago)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 day ago)
+- [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (2 days ago)
+- [emanuelbesliu/terraform-provider-tplink-omada](https://github.com/emanuelbesliu/terraform-provider-tplink-omada) -  (3 days ago)
