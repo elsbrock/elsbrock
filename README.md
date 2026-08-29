@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [0xquinto/bcherny-claude](https://github.com/0xquinto/bcherny-claude) - Boris Cherny&#39;s Claude Code configuration - commands, agents, and settings (1 day ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (2 days ago)
-- [nanogenomic/ClaudeCodeBrowser](https://github.com/nanogenomic/ClaudeCodeBrowser) - MCP Firefox browser automation extension for Claude Code - screenshots, clicking, typing, page refresh, and AI-powered web interaction (2 days ago)
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (2 days ago)
-- [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (3 days ago)
+- [ananthb/scurry](https://github.com/ananthb/scurry) -  (today)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (today)
+- [kelviq/tare](https://github.com/kelviq/tare) - Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from the session logs already on your machine, nothing leaves it. (today)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (today)
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (today)
