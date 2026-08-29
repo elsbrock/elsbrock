@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (3 days ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (5 days ago)
+- [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (4 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (6 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 weeks ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (4 weeks ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.1](https://github.com/elsbrock/plundrio/releases/tag/v0.11.1), 4 weeks ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.1](https://github.com/elsbrock/plundrio/releases/tag/v0.11.1), 1 month ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.34.0](https://github.com/0xERR0R/blocky/releases/tag/v0.34.0), 1 month ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 3 months ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 4 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [0xquinto/bcherny-claude](https://github.com/0xquinto/bcherny-claude) - Boris Cherny&#39;s Claude Code configuration - commands, agents, and settings (today)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 day ago)
-- [nanogenomic/ClaudeCodeBrowser](https://github.com/nanogenomic/ClaudeCodeBrowser) - MCP Firefox browser automation extension for Claude Code - screenshots, clicking, typing, page refresh, and AI-powered web interaction (1 day ago)
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 day ago)
-- [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (2 days ago)
+- [0xquinto/bcherny-claude](https://github.com/0xquinto/bcherny-claude) - Boris Cherny&#39;s Claude Code configuration - commands, agents, and settings (1 day ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (2 days ago)
+- [nanogenomic/ClaudeCodeBrowser](https://github.com/nanogenomic/ClaudeCodeBrowser) - MCP Firefox browser automation extension for Claude Code - screenshots, clicking, typing, page refresh, and AI-powered web interaction (2 days ago)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (2 days ago)
+- [kanywst/y509](https://github.com/kanywst/y509) - A terminal user interface (TUI) tool for viewing and analyzing X.509 certificate chains (3 days ago)
