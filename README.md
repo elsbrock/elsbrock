@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go (today)
 - [ananthb/scurry](https://github.com/ananthb/scurry) -  (today)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (today)
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern &amp; Opinionated Linux (today)
 - [kelviq/tare](https://github.com/kelviq/tare) - Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from the session logs already on your machine, nothing leaves it. (today)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (today)
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (today)
