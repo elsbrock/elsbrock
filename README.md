@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [fzakaria/omniflake](https://github.com/fzakaria/omniflake) - Thousands of Nix flakes, from one flake input (today)
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (1 day ago)
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go (1 day ago)
 - [ananthb/scurry](https://github.com/ananthb/scurry) -  (1 day ago)
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 day ago)
-- [kelviq/tare](https://github.com/kelviq/tare) - Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from the session logs already on your machine, nothing leaves it. (1 day ago)
