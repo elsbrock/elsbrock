@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. (today)
+- [pzmarzly/ancs4linux](https://github.com/pzmarzly/ancs4linux) - iOS/iPadOS notification service client for Linux desktop (notifications on your desktop, over Bluetooth Low Energy) (today)
+- [gabrielmeir53/iphonebridge](https://github.com/gabrielmeir53/iphonebridge) - A native Linux desktop bridge for a paired iPhone over Bluetooth. (today)
 - [fzakaria/omniflake](https://github.com/fzakaria/omniflake) - Thousands of Nix flakes, from one flake input (1 day ago)
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (2 days ago)
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go (2 days ago)
-- [ananthb/scurry](https://github.com/ananthb/scurry) -  (2 days ago)
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern &amp; Opinionated Linux (2 days ago)
