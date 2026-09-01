@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (today)
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (today)
 - [consti/laser-graffiti](https://github.com/consti/laser-graffiti) - Draw on a projection with a laser pointer (today)
 - [stein155/cgo600-bridge](https://github.com/stein155/cgo600-bridge) - 🚲 Standalone ESP32 bridge that streams Tenways CGO600 telemetry to Home Assistant over MQTT — built-in web dashboard and ride history (1 day ago)
 - [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. (1 day ago)
-- [pzmarzly/ancs4linux](https://github.com/pzmarzly/ancs4linux) - iOS/iPadOS notification service client for Linux desktop (notifications on your desktop, over Bluetooth Low Energy) (1 day ago)
-- [gabrielmeir53/iphonebridge](https://github.com/gabrielmeir53/iphonebridge) - A native Linux desktop bridge for a paired iPhone over Bluetooth. (1 day ago)
