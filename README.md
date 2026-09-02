@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [andymai/gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool) - Web app for planning drawer organization using the Gridfinity modular storage system (today)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 day ago)
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (1 day ago)
 - [consti/laser-graffiti](https://github.com/consti/laser-graffiti) - Draw on a projection with a laser pointer (1 day ago)
 - [stein155/cgo600-bridge](https://github.com/stein155/cgo600-bridge) - 🚲 Standalone ESP32 bridge that streams Tenways CGO600 telemetry to Home Assistant over MQTT — built-in web dashboard and ride history (2 days ago)
-- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. (2 days ago)
