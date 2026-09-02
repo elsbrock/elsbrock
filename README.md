@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (today)
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (today)
-- [consti/laser-graffiti](https://github.com/consti/laser-graffiti) - Draw on a projection with a laser pointer (today)
-- [stein155/cgo600-bridge](https://github.com/stein155/cgo600-bridge) - 🚲 Standalone ESP32 bridge that streams Tenways CGO600 telemetry to Home Assistant over MQTT — built-in web dashboard and ride history (1 day ago)
-- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. (1 day ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 day ago)
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (1 day ago)
+- [consti/laser-graffiti](https://github.com/consti/laser-graffiti) - Draw on a projection with a laser pointer (1 day ago)
+- [stein155/cgo600-bridge](https://github.com/stein155/cgo600-bridge) - 🚲 Standalone ESP32 bridge that streams Tenways CGO600 telemetry to Home Assistant over MQTT — built-in web dashboard and ride history (2 days ago)
+- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. (2 days ago)
