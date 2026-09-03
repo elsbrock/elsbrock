@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks (today)
+- [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) - worlds via code, from fable 5.1 (today)
 - [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (1 day ago)
 - [andymai/gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool) - Web app for planning drawer organization using the Gridfinity modular storage system (1 day ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (2 days ago)
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (2 days ago)
-- [consti/laser-graffiti](https://github.com/consti/laser-graffiti) - Draw on a projection with a laser pointer (2 days ago)
