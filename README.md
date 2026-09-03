@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools (today)
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper. (today)
+- [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal. (today)
+- [ModelRift/openscad-skill](https://github.com/ModelRift/openscad-skill) - ModelRift OpenSCAD skill for designing, rendering, inspecting, and exporting printable parametric parts. (today)
 - [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks (today)
-- [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) - worlds via code, from fable 5.1 (today)
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (1 day ago)
-- [andymai/gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool) - Web app for planning drawer organization using the Gridfinity modular storage system (1 day ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (2 days ago)
