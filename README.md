@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI &#43; Next.js). (today)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (today)
 - [WiHarper/nfc_card](https://github.com/WiHarper/nfc_card) - Open-Source Active PCB Business Card Powered by NFC (today)
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS (today)
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent) (1 day ago)
-- [vavallee/bindery](https://github.com/vavallee/bindery) - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr. (1 day ago)
-- [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools (1 day ago)
