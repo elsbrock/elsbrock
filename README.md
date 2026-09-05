@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI &#43; Next.js). (1 day ago)
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (1 day ago)
-- [WiHarper/nfc_card](https://github.com/WiHarper/nfc_card) - Open-Source Active PCB Business Card Powered by NFC (1 day ago)
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS (1 day ago)
-- [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent) (2 days ago)
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware (today)
+- [RaemondBW/esp32-ant](https://github.com/RaemondBW/esp32-ant) -  (today)
+- [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper) - Opensource Eink bike computer (today)
+- [csabakecskemeti/amd_bc-250_how-to](https://github.com/csabakecskemeti/amd_bc-250_how-to) -  (today)
+- [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot) -  (today)
