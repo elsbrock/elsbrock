@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (3 days ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (1 week ago)
 - [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (1 month ago)
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [nichtlegacy/letterboxd-graph](https://github.com/nichtlegacy/letterboxd-graph) - Turn your public Letterboxd diary into self-updating GitHub-style contribution graphs, review cards, and profile cards with a reusable GitHub Action. (today)
+- [nichtlegacy/glance-cowboy](https://github.com/nichtlegacy/glance-cowboy) - A Glance custom-api widget for Cowboy bike stats powered by Home Assistant. (today)
+- [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes. (today)
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware (1 day ago)
 - [RaemondBW/esp32-ant](https://github.com/RaemondBW/esp32-ant) -  (1 day ago)
-- [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper) - Opensource Eink bike computer (1 day ago)
-- [csabakecskemeti/amd_bc-250_how-to](https://github.com/csabakecskemeti/amd_bc-250_how-to) -  (1 day ago)
-- [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot) -  (1 day ago)
