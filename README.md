@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 days ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (3 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (4 days ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (1 week ago)
 - [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.35.0](https://github.com/0xERR0R/blocky/releases/tag/v0.35.0), 1 day ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.35.0](https://github.com/0xERR0R/blocky/releases/tag/v0.35.0), 2 days ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.1](https://github.com/elsbrock/plundrio/releases/tag/v0.11.1), 1 month ago) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface
 - [elsbrock/esphome-marax](https://github.com/elsbrock/esphome-marax) ([v0.2.1](https://github.com/elsbrock/esphome-marax/releases/tag/v0.2.1), 3 months ago) - ESPHome-based Monitor and Shot TImer for the Lelit Mara X
 - [elsbrock/cf-worker-otel](https://github.com/elsbrock/cf-worker-otel) ([v0.2.2](https://github.com/elsbrock/cf-worker-otel/releases/tag/v0.2.2), 5 months ago) - Lightweight OTLP metrics client for Cloudflare Workers
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [nichtlegacy/letterboxd-graph](https://github.com/nichtlegacy/letterboxd-graph) - Turn your public Letterboxd diary into self-updating GitHub-style contribution graphs, review cards, and profile cards with a reusable GitHub Action. (today)
-- [nichtlegacy/glance-cowboy](https://github.com/nichtlegacy/glance-cowboy) - A Glance custom-api widget for Cowboy bike stats powered by Home Assistant. (today)
-- [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes. (today)
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware (1 day ago)
-- [RaemondBW/esp32-ant](https://github.com/RaemondBW/esp32-ant) -  (1 day ago)
+- [nichtlegacy/letterboxd-graph](https://github.com/nichtlegacy/letterboxd-graph) - Turn your public Letterboxd diary into self-updating GitHub-style contribution graphs, review cards, and profile cards with a reusable GitHub Action. (1 day ago)
+- [nichtlegacy/glance-cowboy](https://github.com/nichtlegacy/glance-cowboy) - A Glance custom-api widget for Cowboy bike stats powered by Home Assistant. (1 day ago)
+- [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes. (1 day ago)
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware (2 days ago)
+- [RaemondBW/esp32-ant](https://github.com/RaemondBW/esp32-ant) -  (2 days ago)
