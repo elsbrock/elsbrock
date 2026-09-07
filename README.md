@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation (today)
 - [nichtlegacy/letterboxd-graph](https://github.com/nichtlegacy/letterboxd-graph) - Turn your public Letterboxd diary into self-updating GitHub-style contribution graphs, review cards, and profile cards with a reusable GitHub Action. (1 day ago)
 - [nichtlegacy/glance-cowboy](https://github.com/nichtlegacy/glance-cowboy) - A Glance custom-api widget for Cowboy bike stats powered by Home Assistant. (1 day ago)
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes. (1 day ago)
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware (2 days ago)
-- [RaemondBW/esp32-ant](https://github.com/RaemondBW/esp32-ant) -  (2 days ago)
