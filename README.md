@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) - A self-hosted RSS reader and aggregator, also available as a desktop app.  (today)
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader (today)
+- [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) - A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator. (today)
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation (1 day ago)
 - [nichtlegacy/letterboxd-graph](https://github.com/nichtlegacy/letterboxd-graph) - Turn your public Letterboxd diary into self-updating GitHub-style contribution graphs, review cards, and profile cards with a reusable GitHub Action. (2 days ago)
-- [nichtlegacy/glance-cowboy](https://github.com/nichtlegacy/glance-cowboy) - A Glance custom-api widget for Cowboy bike stats powered by Home Assistant. (2 days ago)
-- [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes. (2 days ago)
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware (3 days ago)
