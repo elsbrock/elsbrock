@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [netcrawlerr/CapScroll](https://github.com/netcrawlerr/CapScroll) - CapScroll: An open-source scrolling screenshot and long screenshot capture tool for Linux (x11) built with .NET and Avalonia UI (today)
 - [AlexAntonik/nix-graph](https://github.com/AlexAntonik/nix-graph) - Interactive TUI viewer for Nix dependency graphs (today)
 - [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) - 📼 A declarative AI agent environment manager, written in Rust (today)
 - [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM. (today)
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more. (1 day ago)
-- [matthart1983/syswatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS &#43; Linux. (1 day ago)
