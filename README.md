@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [AlexAntonik/nix-graph](https://github.com/AlexAntonik/nix-graph) - Interactive TUI viewer for Nix dependency graphs (today)
+- [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) - 📼 A declarative AI agent environment manager, written in Rust (today)
+- [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM. (today)
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more. (1 day ago)
 - [matthart1983/syswatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS &#43; Linux. (1 day ago)
-- [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility. (1 day ago)
-- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI. Sibling to netwatch and syswatch. (1 day ago)
-- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software. (2 days ago)
