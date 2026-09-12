@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (today)
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui. (today)
 - [Fenish/decky](https://github.com/Fenish/decky) - Open-source DIY stream deck: touch firmware for the CrowPanel 7-inch ESP32-S3 and a Windows desktop app (today)
 - [netcrawlerr/CapScroll](https://github.com/netcrawlerr/CapScroll) - CapScroll: An open-source scrolling screenshot and long screenshot capture tool for Linux (x11) built with .NET and Avalonia UI (1 day ago)
 - [AlexAntonik/nix-graph](https://github.com/AlexAntonik/nix-graph) - Interactive TUI viewer for Nix dependency graphs (1 day ago)
-- [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) - 📼 A declarative AI agent environment manager, written in Rust (1 day ago)
