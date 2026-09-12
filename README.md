@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (today)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (today)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (1 week ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (2 weeks ago)
 - [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives (1 month ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [ipspace/netlab](https://github.com/ipspace/netlab) - Making virtual networking labs suck less (today)
 - [T00fy/omanix](https://github.com/T00fy/omanix) - Omanix is a NixOS module inspired by Omarchy (today)
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (today)
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui. (today)
 - [Fenish/decky](https://github.com/Fenish/decky) - Open-source DIY stream deck: touch firmware for the CrowPanel 7-inch ESP32-S3 and a Windows desktop app (today)
-- [netcrawlerr/CapScroll](https://github.com/netcrawlerr/CapScroll) - CapScroll: An open-source scrolling screenshot and long screenshot capture tool for Linux (x11) built with .NET and Avalonia UI (1 day ago)
