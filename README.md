@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [franssjz/cpr-vcodex](https://github.com/franssjz/cpr-vcodex) - CPR-VCODEX : Improving the reading experience and consistency for Xteink X4. One-click install or edit stats via the link below: ⬇⬇ (today)
 - [ipspace/netlab](https://github.com/ipspace/netlab) - Making virtual networking labs suck less (3 days ago)
 - [T00fy/omanix](https://github.com/T00fy/omanix) - Omanix is a NixOS module inspired by Omarchy (3 days ago)
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (3 days ago)
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui. (3 days ago)
-- [Fenish/decky](https://github.com/Fenish/decky) - Open-source DIY stream deck: touch firmware for the CrowPanel 7-inch ESP32-S3 and a Windows desktop app (3 days ago)
