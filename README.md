@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL and gRPC. Plain .http files you can diff and version, with workflows, mocks, profiling, tracing, OpenAPI import, SSH tunnels, Kubernetes port-forwards, WebSocket, SSE and a CLI runner. (today)
 - [ssp-data/neomd](https://github.com/ssp-data/neomd) - Keyboard-first TUI email: write in Neovim, render as Markdown, screen senders first, organize emails once. (1 day ago)
 - [fenio/modern-fs-benchmark](https://github.com/fenio/modern-fs-benchmark) - Continuous benchmarks for multi-device CoW filesystems (btrfs, ZFS, bcachefs): snapshots, aging, compression, redundancy layouts (1 day ago)
 - [durandom/token-burn](https://github.com/durandom/token-burn) - Live quota monitor, CLI/TUI daemon, and OpenTelemetry exporter for Codex/OpenAI and Claude Code subscriptions (1 day ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent (2 days ago)
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (2 days ago)
