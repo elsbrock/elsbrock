@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (5 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction (2 weeks ago)
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint, data collection and maintenance, not popularity. (3 weeks ago)
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [durandom/token-burn](https://github.com/durandom/token-burn) - Live quota monitor, CLI/TUI daemon, and OpenTelemetry exporter for Codex/OpenAI and Claude Code subscriptions (today)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent (1 day ago)
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (1 day ago)
-- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (1 day ago)
-- [cytostack/openwolf](https://github.com/cytostack/openwolf) - Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry. (3 days ago)
+- [ssp-data/neomd](https://github.com/ssp-data/neomd) - Keyboard-first TUI email: write in Neovim, render as Markdown, screen senders first, organize emails once. (1 day ago)
+- [fenio/modern-fs-benchmark](https://github.com/fenio/modern-fs-benchmark) - Continuous benchmarks for multi-device CoW filesystems (btrfs, ZFS, bcachefs): snapshots, aging, compression, redundancy layouts (1 day ago)
+- [durandom/token-burn](https://github.com/durandom/token-burn) - Live quota monitor, CLI/TUI daemon, and OpenTelemetry exporter for Codex/OpenAI and Claude Code subscriptions (1 day ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent (2 days ago)
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (2 days ago)
