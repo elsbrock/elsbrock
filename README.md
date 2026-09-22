@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [birneee/nixnet](https://github.com/birneee/nixnet) - Reproducible network experiments with a single command, on a single machine with Nix (today)
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Modern, self-hosted RSS reader with smart folders, powerful search, and a clean three-pane reading experience. Built with Vue and Express. (today)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (2 days ago)
 - [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (2 days ago)
 - [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL and gRPC. Plain .http files you can diff and version, with workflows, mocks, profiling, tracing, OpenAPI import, SSH tunnels, Kubernetes port-forwards, WebSocket, SSE and a CLI runner. (2 days ago)
-- [ssp-data/neomd](https://github.com/ssp-data/neomd) - Keyboard-first TUI email: write in Neovim, render as Markdown, screen senders first, organize emails once. (3 days ago)
-- [fenio/modern-fs-benchmark](https://github.com/fenio/modern-fs-benchmark) - Continuous benchmarks for multi-device CoW filesystems (btrfs, ZFS, bcachefs): snapshots, aging, compression, redundancy layouts (3 days ago)
