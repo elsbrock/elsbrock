@@ -13,11 +13,15 @@ import json
 import os
 import sys
 import urllib.request
+import xml.etree.ElementTree as ElementTree
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 LOGIN = "elsbrock"
 COUNT = 5
 DESCRIPTION_MAX = 110
+BLOG_FEED = "https://blog.iodev.org/rss.xml"
+BLOG_COUNT = 3
 
 QUERY = """
 query($login: String!) {
@@ -43,10 +47,10 @@ query($login: String!) {
         latestRelease { tagName url publishedAt }
       }
     }
-    pullRequests(first: 25, orderBy: {field: CREATED_AT, direction: DESC}) {
+    pullRequests(first: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
       nodes {
-        title url createdAt
-        repository { nameWithOwner url isPrivate }
+        title url createdAt state merged
+        repository { nameWithOwner url isPrivate owner { login } }
       }
     }
     starredRepositories(first: 10, orderBy: {field: STARRED_AT, direction: DESC}) {
@@ -84,7 +88,8 @@ def parse_time(value):
 def ago(value, now=None):
     """Relative time in the same shape markscribe used ("2 weeks ago")."""
     now = now or datetime.now(timezone.utc)
-    days = (now - parse_time(value)).days
+    when = value if isinstance(value, datetime) else parse_time(value)
+    days = (now - when).days
     if days <= 0:
         return "today"
     if days == 1:
@@ -119,7 +124,20 @@ def is_profile_repo(repo):
     return repo["nameWithOwner"].lower() == f"{LOGIN}/{LOGIN}".lower()
 
 
-def working_on(user):
+def blog_posts():
+    """Latest posts from the blog's RSS feed. A fetch error fails the run, so
+    the committed README keeps its blog section instead of losing it for a day."""
+    request = urllib.request.Request(BLOG_FEED, headers={"User-Agent": "profile-readme"})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        channel = ElementTree.parse(response).getroot().find("channel")
+    rows = []
+    for item in channel.findall("item")[:BLOG_COUNT]:
+        published = parsedate_to_datetime(item.findtext("pubDate"))
+        rows.append(f"- [{escape(item.findtext('title').strip())}]({item.findtext('link').strip()}) ({ago(published)})")
+    return rows
+
+
+def working_on_repos(user):
     rows = []
     for entry in user["contributionsCollection"]["commitContributionsByRepository"]:
         repo = entry["repository"]
@@ -128,17 +146,24 @@ def working_on(user):
             continue
         rows.append((nodes[0]["occurredAt"], repo))
     rows.sort(key=lambda row: row[0], reverse=True)
+    return rows[:COUNT]
+
+
+def working_on(rows):
     return [
         f"- {link(repo)}{describe(repo['description'])} ({ago(when)})"
-        for when, repo in rows[:COUNT]
+        for when, repo in rows
     ]
 
 
-def latest_projects(user):
+def latest_projects(user, skip):
+    """Newest own repos, minus the ones already listed under working on."""
     repos = [
         repo
         for repo in user["repositories"]["nodes"]
-        if not repo["isArchived"] and not is_profile_repo(repo)
+        if not repo["isArchived"]
+        and not is_profile_repo(repo)
+        and repo["nameWithOwner"] not in skip
     ]
     return [f"- {link(repo)}{describe(repo['description'])}" for repo in repos[:COUNT]]
 
@@ -161,16 +186,26 @@ def latest_releases(user):
 
 
 def pull_requests(user):
-    prs = [
-        pr
-        for pr in user["pullRequests"]["nodes"]
-        if not pr["repository"]["isPrivate"]
-    ]
-    return [
-        f"- [{escape(pr['title'])}]({pr['url']}) on {link(pr['repository'])}"
-        f" ({ago(pr['createdAt'])})"
-        for pr in prs[:COUNT]
-    ]
+    """Newest open or merged PR per project, own repos excluded: one burst on a
+    single repo should not fill the whole list."""
+    rows, seen = [], set()
+    for pr in user["pullRequests"]["nodes"]:
+        repo = pr["repository"]
+        if repo["isPrivate"] or repo["owner"]["login"].lower() == LOGIN.lower():
+            continue
+        if pr["state"] == "CLOSED" and not pr["merged"]:
+            continue
+        if repo["nameWithOwner"] in seen:
+            continue
+        seen.add(repo["nameWithOwner"])
+        status = "merged" if pr["merged"] else "open"
+        rows.append(
+            f"- [{escape(pr['title'])}]({pr['url']}) on {link(repo)}"
+            f" ({status}, {ago(pr['createdAt'])})"
+        )
+        if len(rows) == COUNT:
+            break
+    return rows
 
 
 def stars(user):
@@ -194,12 +229,15 @@ def section(title, rows):
 
 def main():
     user = graphql(QUERY, login=LOGIN)["user"]
+    current = working_on_repos(user)
+    shown = {repo["nameWithOwner"] for _, repo in current}
     sections = [
         "### Hi there 👋\n",
-        section("👷 Check out what I'm currently working on", working_on(user)),
-        section("🌱 My latest projects", latest_projects(user)),
+        section("✍️ Latest from my blog", blog_posts()),
+        section("👷 Check out what I'm currently working on", working_on(current)),
+        section("🌱 My latest projects", latest_projects(user, shown)),
         section("🔭 Latest releases I've contributed to", latest_releases(user)),
-        section("🔨 My recent Pull Requests", pull_requests(user)),
+        section("🔨 Recent pull requests to other projects", pull_requests(user)),
         section("⭐ Recent Stars", stars(user)),
     ]
     sys.stdout.write("\n".join(part for part in sections if part))
