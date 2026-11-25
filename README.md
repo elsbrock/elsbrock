@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### ✍️ Latest from my blog
+
+- [Pinna: a local voice satellite OS for the Echo and Echo Dot (2nd gen)](https://blog.iodev.org/blog/pinna-voice-satellite-os-echo/) (4 days ago)
+- [End-to-end Assist pipeline streaming TTS on LibreEcho](https://blog.iodev.org/blog/libreecho-home-assistant-voice-latency/) (1 week ago)
+- [Install LibreEcho on an Amazon Echo 2nd Gen](https://blog.iodev.org/blog/install-libreecho-amazon-echo-2nd-gen/) (2 weeks ago)
+
 #### 👷 Check out what I'm currently working on
 
 - [elsbrock/pinna](https://github.com/elsbrock/pinna) - Open, local-first voice satellite OS for the Amazon Echo (2nd gen) family (yesterday)
@@ -10,11 +16,11 @@
 
 #### 🌱 My latest projects
 
-- [elsbrock/pinna](https://github.com/elsbrock/pinna) - Open, local-first voice satellite OS for the Amazon Echo (2nd gen) family
-- [elsbrock/mautrix-chatto](https://github.com/elsbrock/mautrix-chatto) - Chat with Chatto communities via Matrix.
 - [elsbrock/mailreportd](https://github.com/elsbrock/mailreportd) - Prometheus metrics for DMARC reports, SMTP TLS reports, and mail DNS records (SPF, DKIM, DMARC, MTA-STS)
 - [elsbrock/heckle](https://github.com/elsbrock/heckle) - A tiny daemon that watches your screen and your face, then says something about it. Out loud. Think nature do…
 - [elsbrock/ffext](https://github.com/elsbrock/ffext) - A trust-focused directory of open source Firefox extensions — ranked by public source, permission footprint,…
+- [elsbrock/tib-recover](https://github.com/elsbrock/tib-recover) - Read-only recovery tool for legacy Acronis True Image TIB archives
+- [elsbrock/iometer-ble-poc](https://github.com/elsbrock/iometer-ble-poc) - An independent Python client for the iOmeter Bridge BLE onboarding service — the Bluetooth interface the devi…
 
 #### 🔭 Latest releases I've contributed to
 
@@ -24,13 +30,13 @@
 - [MontyTheSoftwareEngineer/fievel](https://github.com/MontyTheSoftwareEngineer/fievel) ([2.1.1](https://github.com/MontyTheSoftwareEngineer/fievel/releases/tag/2.1.1), 1 week ago) - An application that aims to replace mouse movements with keyboard!
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.4](https://github.com/elsbrock/plundrio/releases/tag/v0.11.4), 1 week ago) - 🏴‍☠️ put.io download client for \*arr implementing the transmission RPC interface
 
-#### 🔨 My recent Pull Requests
+#### 🔨 Recent pull requests to other projects
 
-- [tflite: read SQUARED\_DIFFERENCE](https://github.com/sonos/tract/pull/3414) on [sonos/tract](https://github.com/sonos/tract) (1 week ago)
-- [fix: mark the Giza EVT arch timer always-on](https://github.com/aslater3/LibreEcho-Linux/pull/17) on [aslater3/LibreEcho-Linux](https://github.com/aslater3/LibreEcho-Linux) (1 week ago)
-- [fix: restore the amznspi kworker's scheduling policy on exit](https://github.com/aslater3/LibreEcho-Linux/pull/16) on [aslater3/LibreEcho-Linux](https://github.com/aslater3/LibreEcho-Linux) (1 week ago)
-- [fix: pace the amznspi capture loop in TASK\_IDLE](https://github.com/aslater3/LibreEcho-Linux/pull/15) on [aslater3/LibreEcho-Linux](https://github.com/aslater3/LibreEcho-Linux) (1 week ago)
-- [fix: mark the Radar-Puffin arch timer always-on](https://github.com/aslater3/LibreEcho-Linux/pull/14) on [aslater3/LibreEcho-Linux](https://github.com/aslater3/LibreEcho-Linux) (1 week ago)
+- [tflite: read SQUARED\_DIFFERENCE](https://github.com/sonos/tract/pull/3414) on [sonos/tract](https://github.com/sonos/tract) (merged, 1 week ago)
+- [fix: mark the Giza EVT arch timer always-on](https://github.com/aslater3/LibreEcho-Linux/pull/17) on [aslater3/LibreEcho-Linux](https://github.com/aslater3/LibreEcho-Linux) (open, 1 week ago)
+- [fix(esphomed): play the announcement when its preannounce chime fails](https://github.com/aslater3/LibreEcho-UI/pull/535) on [aslater3/LibreEcho-UI](https://github.com/aslater3/LibreEcho-UI) (merged, 1 week ago)
+- [fix(wlan): release every RX reorder hole when the miss timeout expires](https://github.com/aslater3/LibreEcho-mt8163-connectivity/pull/3) on [aslater3/LibreEcho-mt8163-connectivity](https://github.com/aslater3/LibreEcho-mt8163-connectivity) (merged, 1 week ago)
+- [fix: support Radar unlocks with Amonet 1.0.1](https://github.com/aslater3/LibreEcho/pull/354) on [aslater3/LibreEcho](https://github.com/aslater3/LibreEcho) (open, 2 weeks ago)
 
 #### ⭐ Recent Stars
 
