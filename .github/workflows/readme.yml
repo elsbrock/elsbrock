@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  push:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # The built-in token is enough: scripts/readme.py only reads public
+      # data through user(login:), never viewer.
+      - name: Render README
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/readme.py > "$RUNNER_TEMP/README.md"
+          mv "$RUNNER_TEMP/README.md" README.md
+          tee -a "$GITHUB_STEP_SUMMARY" < README.md
+
+      - name: Commit if changed
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git diff --quiet -- README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update generated README" -- README.md
+          git push
