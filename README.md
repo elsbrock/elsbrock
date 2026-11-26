@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.37.0](https://github.com/0xERR0R/blocky/releases/tag/v0.37.0), 3 days ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ([v0.37.0](https://github.com/0xERR0R/blocky/releases/tag/v0.37.0), 4 days ago) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [elsbrock/pinna](https://github.com/elsbrock/pinna) ([v0.5.0](https://github.com/elsbrock/pinna/releases/tag/v0.5.0), 4 days ago) - Open, local-first voice satellite OS for the Amazon Echo (2nd gen) family
 - [aslater3/LibreEcho](https://github.com/aslater3/LibreEcho) ([radar-puffin-v0.14.6](https://github.com/aslater3/LibreEcho/releases/tag/radar-puffin-v0.14.6), 1 week ago)
 - [MontyTheSoftwareEngineer/fievel](https://github.com/MontyTheSoftwareEngineer/fievel) ([2.1.1](https://github.com/MontyTheSoftwareEngineer/fievel/releases/tag/2.1.1), 1 week ago) - An application that aims to replace mouse movements with keyboard!
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.4](https://github.com/elsbrock/plundrio/releases/tag/v0.11.4), 1 week ago) - 🏴‍☠️ put.io download client for \*arr implementing the transmission RPC interface
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) ([v0.11.4](https://github.com/elsbrock/plundrio/releases/tag/v0.11.4), 2 weeks ago) - 🏴‍☠️ put.io download client for \*arr implementing the transmission RPC interface
 
 #### 🔨 Recent pull requests to other projects
 
@@ -40,8 +40,8 @@
 
 #### ⭐ Recent Stars
 
+- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook's trackpad talk using its haptic motor (today)
 - [R0rt1z2/amonet](https://github.com/R0rt1z2/amonet) - BROM/Preloader/LK exploit for (mostly Amazon) MediaTek based devices (yesterday)
 - [SpacehuhnTech/framework](https://github.com/SpacehuhnTech/framework) - ESP32-S3 Framework Expansion Card (3 days ago)
 - [OHF-Voice/integration-voice-incubator](https://github.com/OHF-Voice/integration-voice-incubator) - Voice Labs: the Home Assistant integration and user guide for the experimental Voice Labs app (4 days ago)
-- [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's… (4 days ago)
-- [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home A… (4 days ago)
+- [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's… (5 days ago)
